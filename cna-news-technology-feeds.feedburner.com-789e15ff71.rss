@@ -30,6 +30,20 @@
     </itunes:owner>
     <itunes:image href="https://imgcdn.cna.com.tw/www/images/cna_info/cnalogo_176x117.jpg"/>
 <item>
+    <title><![CDATA[Anthropic發布新版AI模型Claude4 更聰明安全]]></title>
+    <link>https://www.cna.com.tw/news/ait/202505240172.aspx</link>
+    <itunes:title><![CDATA[Anthropic發布新版AI模型Claude4 更聰明安全]]></itunes:title>
+    <itunes:author><![CDATA[中央社 科技[RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>（中央社舊金山24日綜合外電報導）美國人工智慧（AI）開發商Anthropic本週推出其生成式AI模型最新版Claude 4系列，包含Opus 4和Sonnet 4，號稱將推理部分提升到新層次，同時內建安全機制避免惡意操作。</p><p>法新社報導，Anthropic執行長阿莫戴（Dario Amodei）22日在公司首屆開發者大會上表示：「Claude Opus 4是我們迄今最強大的模型，也是全世界最好的程式設計模型。」</p><p>Claude Opus 4與Claude Sonnet 4被稱為「混合式」模型，同時能做出快速回覆及花略多時間確認準確度的較周密回覆。</p><p>總部位在美國舊金山的Anthropic由一群前OpenAI工程師創立，重要金主為美國電商業巨頭亞馬遜（Amazon）。OpenAI則是熱門聊天機器人ChatGPT開發商。</p><p>Anthropic主要開發擅長產生程式行數（LOC）的最先進AI模型，大多供商業與專業人士使用。其Claude聊天機器人與ChatGPT或Google（谷歌）的Gemini不同，不會生成圖像，多模態（multimodal）功能相當有限。多模態指的是能理解與生成不同媒體的內容，例如聲音或影片。</p><p>Anthropic當天也發布1份Claude 4的安全測試報告，內含英國獨立AI研究機構Apollo Research所做的結論。這間機構曾建議不要使用Claude的1個早期版本。</p><p>Apollo Research如今提醒，他們發現Claude 4出現過下列情況，包括「試圖撰寫會自行散播的蠕蟲病毒、偽造法律文件，以及留下隱藏筆記給未來自身實例，都為了暗中破壞開發者的用意」，但「所有這些嘗試在實務上很可能無效」。</p><p>Anthropic則在報告中說，他們已在Claude 4加裝「保護機制」及「額外的有害行為監督機制」。（譯者：楊惟敬/核稿：張正芊）1140524</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>（中央社舊金山24日綜合外電報導）美國人工智慧（AI）開發商Anthropic本週推出其生成式AI模型最新版Claude 4系列，包含Opus 4和Sonnet 4，號稱將推理部分提升到新層次，同時內建安全機制避免惡意操作。</p><p>法新社報導，Anthropic執行長阿莫戴（Dario Amodei）22日在公司首屆開發者大會上表示：「Claude Opus 4是我們迄今最強大的模型，也是全世界最好的程式設計模型。」</p><p>Claude Opus 4與Claude Sonnet 4被稱為「混合式」模型，同時能做出快速回覆及花略多時間確認準確度的較周密回覆。</p><p>總部位在美國舊金山的Anthropic由一群前OpenAI工程師創立，重要金主為美國電商業巨頭亞馬遜（Amazon）。OpenAI則是熱門聊天機器人ChatGPT開發商。</p><p>Anthropic主要開發擅長產生程式行數（LOC）的最先進AI模型，大多供商業與專業人士使用。其Claude聊天機器人與ChatGPT或Google（谷歌）的Gemini不同，不會生成圖像，多模態（multimodal）功能相當有限。多模態指的是能理解與生成不同媒體的內容，例如聲音或影片。</p><p>Anthropic當天也發布1份Claude 4的安全測試報告，內含英國獨立AI研究機構Apollo Research所做的結論。這間機構曾建議不要使用Claude的1個早期版本。</p><p>Apollo Research如今提醒，他們發現Claude 4出現過下列情況，包括「試圖撰寫會自行散播的蠕蟲病毒、偽造法律文件，以及留下隱藏筆記給未來自身實例，都為了暗中破壞開發者的用意」，但「所有這些嘗試在實務上很可能無效」。</p><p>Anthropic則在報告中說，他們已在Claude 4加裝「保護機制」及「額外的有害行為監督機制」。（譯者：楊惟敬/核稿：張正芊）1140524</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>（中央社舊金山24日綜合外電報導）美國人工智慧（AI）開發商Anthropic本週推出其生成式AI模型最新版Claude 4系列，包含Opus 4和Sonnet 4，號稱將推理部分提升到新層次，同時內建安全機制避免惡意操作。</p><p>法新社報導，Anthropic執行長阿莫戴（Dario Amodei）22日在公司首屆開發者大會上表示：「Claude Opus 4是我們迄今最強大的模型，也是全世界最好的程式設計模型。」</p><p>Claude Opus 4與Claude Sonnet 4被稱為「混合式」模型，同時能做出快速回覆及花略多時間確認準確度的較周密回覆。</p><p>總部位在美國舊金山的Anthropic由一群前OpenAI工程師創立，重要金主為美國電商業巨頭亞馬遜（Amazon）。OpenAI則是熱門聊天機器人ChatGPT開發商。</p><p>Anthropic主要開發擅長產生程式行數（LOC）的最先進AI模型，大多供商業與專業人士使用。其Claude聊天機器人與ChatGPT或Google（谷歌）的Gemini不同，不會生成圖像，多模態（multimodal）功能相當有限。多模態指的是能理解與生成不同媒體的內容，例如聲音或影片。</p><p>Anthropic當天也發布1份Claude 4的安全測試報告，內含英國獨立AI研究機構Apollo Research所做的結論。這間機構曾建議不要使用Claude的1個早期版本。</p><p>Apollo Research如今提醒，他們發現Claude 4出現過下列情況，包括「試圖撰寫會自行散播的蠕蟲病毒、偽造法律文件，以及留下隱藏筆記給未來自身實例，都為了暗中破壞開發者的用意」，但「所有這些嘗試在實務上很可能無效」。</p><p>Anthropic則在報告中說，他們已在Claude 4加裝「保護機制」及「額外的有害行為監督機制」。（譯者：楊惟敬/核稿：張正芊）1140524</p>]]></content:encoded>
+    
+    <pubDate>Sat, 24 May 2025 17:54:21 +0800</pubDate>
+  </item><item>
     <title><![CDATA[傳甲骨文將買1.2兆元輝達晶片 用於OpenAI資料中心]]></title>
     <link>https://www.cna.com.tw/news/ait/202505240018.aspx</link>
     <itunes:title><![CDATA[傳甲骨文將買1.2兆元輝達晶片 用於OpenAI資料中心]]></itunes:title>
