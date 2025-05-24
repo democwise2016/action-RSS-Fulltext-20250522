@@ -1,4 +1,5 @@
 const ItemFilters = require('./app/config/ItemFilters.js')
+const CONFIG = require('./config-json.js')
 
 let feedList = [
   {
@@ -95,20 +96,23 @@ let feedList = [
 
 // ----------------------------------------------------------------
 
-// feedList = [
-//   { // <outline type="rss" text="Linuxeden开源社区++$0413-0909$" title="Linuxeden开源社区++$0413-0909$" xmlUrl="http://pulipuli.myqnapcloud.com/304/fc/$0413-0909$,/http%3A%2F%2Fwww.linuxeden.com%2Ffeed" htmlUrl="http://www.linuxeden.com"/>
-//     title: 'Chrome Unboxed',
-//     feedID: 'chromeunboxed',
-//     feedURL: 'https://chromeunboxed.com/feed/',
-//     itemFilters: [
-//       ItemFilters['sites'].ItemFilterBlog,
-//       ItemFilters['common'].ItemFilterImageEmbed,
-//       ItemFilters['common'].ItemFilterThumbnailCache,
-//     ],
-//     options: {
-//       selector: 'article > .entry-content'
-//     }
-//   },
-// ]
+if (CONFIG.debug) { 
+  feedList = [
+    { // <outline type="rss" text="海芋小站++" title="海芋小站++" xmlUrl="http://pulipuli.myqnapcloud.com/304/fc/$1227-1844$/http%3A%2F%2Ffeedproxy.google.com%2Finotetw" htmlUrl="https://www.inote.tw"/>
+      title: '奇客Solidot',
+      feedID: 'Solidot',
+      feedURL: 'https://www.solidot.org/index.rss',
+      thumbnail: 'https://icon.solidot.org/images/m/logo.jpg',
+      itemFilters: [
+        ItemFilters['sites'].ItemFilterBlog,
+        ItemFilters['sites'].ItemFilterSolidot
+        // ItemFilters['common'].ItemFilterImageEmbed,
+      ],
+      options: {
+        selector: '.p_mainnew'
+      }
+    },
+  ] 
+}
 
 module.exports = feedList

@@ -32,7 +32,7 @@ let CONFIG = {
 // CONFIG.publicURL = `https://dangerous-lizard-99.telebit.io/`
 // CONFIG.titleAppend = '[RSS+] 20230827-' + test,
 // CONFIG.idAppend = '20230827-' + test,
-// CONFIG.maxDownloadItemPerFeed = 3
+// // CONFIG.maxDownloadItemPerFeed = 3
 // CONFIG.debug = true
 
 module.exports = CONFIG
