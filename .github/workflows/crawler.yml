@@ -2,9 +2,7 @@ name: Crawler
 on: 
   push:
   schedule:
-    - cron:  "45 22 * * *" # 實際執行時間是這個時間加八小時
-    - cron:  "45 6 * * *" # 實際執行時間是這個時間加八小時
-    - cron:  "45 14 * * *" # 實際執行時間是這個時間加八小時
+    - cron:  "45 7,15,23 * * *" # 實際執行時間是這個時間加八小時
   workflow_dispatch:
 permissions:
   contents: write
@@ -172,7 +170,7 @@ jobs:
       # ----------------------------------------------------------------
 
       - name: Deploy 🚀
-        uses: JamesIves/github-pages-deploy-action@v4.6.5
+        uses: JamesIves/github-pages-deploy-action@v4.7.3
         with:
           folder: output # The folder the action should deploy.
 
