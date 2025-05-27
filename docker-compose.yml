@@ -4,7 +4,7 @@ version: "3"
 services:
   app:
     #build: .
-    image: pudding/docker-image-base:action-RSS-Fulltext-Docker-Image-20250527.204153
+    image: pudding/docker-image-base:action-RSS-Fulltext-Docker-Image-20250527.211437
     tty: true
     volumes: 
       - ./output:/output/
