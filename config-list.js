@@ -112,13 +112,21 @@ if (CONFIG.debug) {
     //     selector: '.p_mainnew'
     //   }
     // },
+    // {
+    //   title: '中央社 生活',
+    //   feedID: 'cna-news-lifehealth',
+    //   feedURL: 'https://feeds.feedburner.com/rsscna/lifehealth',
+    //   itemFilters: [
+    //     ItemFilters['sites'].ItemFilterCNA,
+    //   ],
+    // },
     {
-      title: '中央社 生活',
-      feedID: 'cna-news-lifehealth',
-      feedURL: 'https://feeds.feedburner.com/rsscna/lifehealth',
-      itemFilters: [
-        ItemFilters['sites'].ItemFilterCNA,
-      ],
+        title: 'Dify [GH]',
+        feedID: 'dify-gh',
+        feedURL: 'https://github.com/langgenius/dify/releases.atom',
+        itemFilters: [
+          ItemFilters['common'].ItemFilterTitleExtract,
+        ],
     },
   ] 
 }
