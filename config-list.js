@@ -89,7 +89,31 @@ let feedList = [
     itemFilters: [
       ItemFilters['sites'].ItemFilterCNA,
     ],
+  }, 
+  {
+    title: 'Dify [GH]',
+    feedID: 'github-langgenius-dify',
+    feedURL: 'https://github.com/langgenius/dify/releases.atom',
+    itemFilters: [
+      ItemFilters['common'].ItemFilterTitleExtract,
+    ],
   },  
+  {
+    title: 'RagFlow [GH]',
+    feedID: 'github-infiniflow-ragflow',
+    feedURL: 'https://github.com/infiniflow/ragflow/releases.atom',
+    itemFilters: [
+      ItemFilters['common'].ItemFilterTitleExtract,
+    ],
+  },  
+  {
+    title: 'GraphRAG [GH]',
+    feedID: 'github-microsoft-graphrag',
+    feedURL: 'https://github.com/microsoft/graphrag/releases.atom',
+    itemFilters: [
+      ItemFilters['common'].ItemFilterTitleExtract,
+    ],
+  },
 ]
 
 // 29 / 30
