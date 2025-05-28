@@ -91,7 +91,7 @@ let feedList = [
     ],
   }, 
   {
-    title: 'Dify [GH]',
+    title: 'Dify Release [GH]',
     feedID: 'github-langgenius-dify',
     feedURL: 'https://github.com/langgenius/dify/releases.atom',
     itemFilters: [
@@ -99,7 +99,7 @@ let feedList = [
     ],
   },  
   {
-    title: 'RagFlow [GH]',
+    title: 'RagFlow Release [GH]',
     feedID: 'github-infiniflow-ragflow',
     feedURL: 'https://github.com/infiniflow/ragflow/releases.atom',
     itemFilters: [
@@ -107,9 +107,17 @@ let feedList = [
     ],
   },  
   {
-    title: 'GraphRAG [GH]',
+    title: 'GraphRAG Release [GH]',
     feedID: 'github-microsoft-graphrag',
     feedURL: 'https://github.com/microsoft/graphrag/releases.atom',
+    itemFilters: [
+      ItemFilters['common'].ItemFilterTitleExtract,
+    ],
+  },
+  {
+    title: 'cline Release [GH]',
+    feedID: 'github-cline',
+    feedURL: 'https://github.com/cline/cline/releases.atom',
     itemFilters: [
       ItemFilters['common'].ItemFilterTitleExtract,
     ],
