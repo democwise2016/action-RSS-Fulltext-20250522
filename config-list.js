@@ -122,20 +122,20 @@ let feedList = [
 
 if (CONFIG.debug) { 
   feedList = [
-    // { // <outline type="rss" text="海芋小站++" title="海芋小站++" xmlUrl="http://pulipuli.myqnapcloud.com/304/fc/$1227-1844$/http%3A%2F%2Ffeedproxy.google.com%2Finotetw" htmlUrl="https://www.inote.tw"/>
-    //   title: '奇客Solidot',
-    //   feedID: 'Solidot',
-    //   feedURL: 'https://www.solidot.org/index.rss',
-    //   thumbnail: 'https://icon.solidot.org/images/m/logo.jpg',
-    //   itemFilters: [
-    //     ItemFilters['sites'].ItemFilterBlog,
-    //     ItemFilters['sites'].ItemFilterSolidot
-    //     // ItemFilters['common'].ItemFilterImageEmbed,
-    //   ],
-    //   options: {
-    //     selector: '.p_mainnew'
-    //   }
-    // },
+    { // <outline type="rss" text="海芋小站++" title="海芋小站++" xmlUrl="http://pulipuli.myqnapcloud.com/304/fc/$1227-1844$/http%3A%2F%2Ffeedproxy.google.com%2Finotetw" htmlUrl="https://www.inote.tw"/>
+      title: '奇客Solidot',
+      feedID: 'Solidot',
+      feedURL: 'https://www.solidot.org/index.rss',
+      thumbnail: 'https://icon.solidot.org/images/m/logo.jpg',
+      itemFilters: [
+        ItemFilters['sites'].ItemFilterBlog,
+        ItemFilters['sites'].ItemFilterSolidot
+        // ItemFilters['common'].ItemFilterImageEmbed,
+      ],
+      options: {
+        selector: '.p_mainnew'
+      }
+    },
     // {
     //   title: '中央社 生活',
     //   feedID: 'cna-news-lifehealth',
@@ -144,14 +144,14 @@ if (CONFIG.debug) {
     //     ItemFilters['sites'].ItemFilterCNA,
     //   ],
     // },
-    {
-        title: 'Dify [GH]',
-        feedID: 'dify-gh',
-        feedURL: 'https://github.com/langgenius/dify/releases.atom',
-        itemFilters: [
-          ItemFilters['common'].ItemFilterTitleExtract,
-        ],
-    },
+    // {
+    //     title: 'Dify [GH]',
+    //     feedID: 'dify-gh',
+    //     feedURL: 'https://github.com/langgenius/dify/releases.atom',
+    //     itemFilters: [
+    //       ItemFilters['common'].ItemFilterTitleExtract,
+    //     ],
+    // },
   ] 
 }
 
