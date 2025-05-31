@@ -3,7 +3,7 @@
     <title><![CDATA[cline Release [GH][RSS+]]]></title>
     <link>https://github.com/cline/cline/releases.atom</link>
     <image>
-      <url>https://fastly.picsum.photos/id/987/800/800.jpg?hmac=M777jmvyWJn730Qs7ho41HSlAN0koDz3PIztiFd1VU0</url>
+      <url>https://fastly.picsum.photos/id/1031/800/800.jpg?hmac=cOZeqm6pvLPK1_6_OPWT8NJS-kNT0h_mU82pmEk9BWc</url>
       <title>cline Release [GH][RSS+]</title>
       <link>https://github.com/cline/cline/releases.atom</link>
     </image>
@@ -28,7 +28,7 @@
     <itunes:owner>
       <itunes:name><![CDATA[cline Release [GH][RSS+]]]></itunes:name>
     </itunes:owner>
-    <itunes:image href="https://fastly.picsum.photos/id/987/800/800.jpg?hmac=M777jmvyWJn730Qs7ho41HSlAN0koDz3PIztiFd1VU0"/>
+    <itunes:image href="https://fastly.picsum.photos/id/1031/800/800.jpg?hmac=cOZeqm6pvLPK1_6_OPWT8NJS-kNT0h_mU82pmEk9BWc"/>
 <item>
     <title><![CDATA[v3.17.8 更新：修復終端機卡死及「capture failure」問題]]></title>
     <link>https://github.com/cline/cline/releases/tag/v3.17.8</link>
