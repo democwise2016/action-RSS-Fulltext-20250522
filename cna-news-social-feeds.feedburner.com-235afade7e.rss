@@ -1,0 +1,568 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
+  <channel>
+    <title><![CDATA[中央社 社會[RSS+]]]></title>
+    <link>undefined</link>
+    <image>
+      <url>https://imgcdn.cna.com.tw/www/images/cna_info/cnalogo_176x117.jpg</url>
+      <title>中央社 社會[RSS+]</title>
+      <link>undefined</link>
+    </image>
+    <language>zh-tw</language>
+    <atom:link href="https://feeds.feedburner.com/rsscna/social" rel="self" type="application/rss+xml"/>
+    <copyright><![CDATA[中央社 社會[RSS+]]]></copyright>
+    <itunes:author><![CDATA[中央社 社會[RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[
+      中央社即時新聞 社會新聞<br />
+<br />
+<a href="https://feeds.feedburner.com/rsscna/social" target="_blank">https://feeds.feedburner.com/rsscna/social</a>
+      ]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[
+      中央社即時新聞 社會新聞<br />
+<br />
+<a href="https://feeds.feedburner.com/rsscna/social" target="_blank">https://feeds.feedburner.com/rsscna/social</a>
+      ]]>
+    </description>
+    <itunes:owner>
+      <itunes:name><![CDATA[中央社 社會[RSS+]]]></itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://imgcdn.cna.com.tw/www/images/cna_info/cnalogo_176x117.jpg"/>
+<item>
+    <title><![CDATA[台南後壁2輛自小客車碰撞事故  3人命危送醫]]></title>
+    <link>https://www.cna.com.tw/news/asoc/202506030002.aspx</link>
+    <itunes:title><![CDATA[台南後壁2輛自小客車碰撞事故  3人命危送醫]]></itunes:title>
+    <itunes:author><![CDATA[中央社 社會[RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1152/768;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250603/1152x768_wmkn_0_C20250603000001.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250603/1152x768_wmkn_0_C20250603000001.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250603/1152x768_wmkn_0_C20250603000001.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250603/1152x768_wmkn_0_C20250603000001.jpg" alt="台南市後壁區2日晚間發生2輛自小客車碰撞交通事故，消防人員協助共3人脫困送醫，送醫時均為到院前心肺功能停止（OHCA）狀態。（讀者提供）中央社記者楊思瑞台南傳真  114年6月2日">
+                      </picture><figcaption class="picinfo">台南市後壁區2日晚間發生2輛自小客車碰撞交通事故，消防人員協助共3人脫困送醫，送醫時均為到院前心肺功能停止（OHCA）狀態。（讀者提供）中央社記者楊思瑞台南傳真  114年6月2日</figcaption></figure><p>（中央社記者楊思瑞台南2日電）台南市後壁區今天晚間發生2輛自小客車碰撞交通事故，消防人員抵達後發現共有3人受困，經協助脫困將3人送醫，但均為到院前心肺功能停止（OHCA），事故原因待釐清。</p><p>台南市政府消防局於晚間10時8分獲報，指稱後壁區昭安宮靠近竹圍後橋處發生交通事故，2車上疑似皆有人受困，先後出動5部各式車輛、12名人員前往救援，抵達後發現為2輛自小客車碰撞事故。</p><p>消防人員現場清查共3名傷者受困車內，其中1輛車上有1名男性及1位女性，另外1輛車上有1名女性，經協助3人脫困後，救護車將傷者送往醫院搶救，3人送醫時均為OHCA狀態，事故原因待進一步釐清。（編輯：陳彥鈞）1140603</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1152/768;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250603/1152x768_wmkn_0_C20250603000001.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250603/1152x768_wmkn_0_C20250603000001.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250603/1152x768_wmkn_0_C20250603000001.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250603/1152x768_wmkn_0_C20250603000001.jpg" alt="台南市後壁區2日晚間發生2輛自小客車碰撞交通事故，消防人員協助共3人脫困送醫，送醫時均為到院前心肺功能停止（OHCA）狀態。（讀者提供）中央社記者楊思瑞台南傳真  114年6月2日">
+                      </picture><figcaption class="picinfo">台南市後壁區2日晚間發生2輛自小客車碰撞交通事故，消防人員協助共3人脫困送醫，送醫時均為到院前心肺功能停止（OHCA）狀態。（讀者提供）中央社記者楊思瑞台南傳真  114年6月2日</figcaption></figure><p>（中央社記者楊思瑞台南2日電）台南市後壁區今天晚間發生2輛自小客車碰撞交通事故，消防人員抵達後發現共有3人受困，經協助脫困將3人送醫，但均為到院前心肺功能停止（OHCA），事故原因待釐清。</p><p>台南市政府消防局於晚間10時8分獲報，指稱後壁區昭安宮靠近竹圍後橋處發生交通事故，2車上疑似皆有人受困，先後出動5部各式車輛、12名人員前往救援，抵達後發現為2輛自小客車碰撞事故。</p><p>消防人員現場清查共3名傷者受困車內，其中1輛車上有1名男性及1位女性，另外1輛車上有1名女性，經協助3人脫困後，救護車將傷者送往醫院搶救，3人送醫時均為OHCA狀態，事故原因待進一步釐清。（編輯：陳彥鈞）1140603</p>]]>
+    </description>
+    <content:encoded><![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1152/768;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250603/1152x768_wmkn_0_C20250603000001.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250603/1152x768_wmkn_0_C20250603000001.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250603/1152x768_wmkn_0_C20250603000001.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250603/1152x768_wmkn_0_C20250603000001.jpg" alt="台南市後壁區2日晚間發生2輛自小客車碰撞交通事故，消防人員協助共3人脫困送醫，送醫時均為到院前心肺功能停止（OHCA）狀態。（讀者提供）中央社記者楊思瑞台南傳真  114年6月2日">
+                      </picture><figcaption class="picinfo">台南市後壁區2日晚間發生2輛自小客車碰撞交通事故，消防人員協助共3人脫困送醫，送醫時均為到院前心肺功能停止（OHCA）狀態。（讀者提供）中央社記者楊思瑞台南傳真  114年6月2日</figcaption></figure><p>（中央社記者楊思瑞台南2日電）台南市後壁區今天晚間發生2輛自小客車碰撞交通事故，消防人員抵達後發現共有3人受困，經協助脫困將3人送醫，但均為到院前心肺功能停止（OHCA），事故原因待釐清。</p><p>台南市政府消防局於晚間10時8分獲報，指稱後壁區昭安宮靠近竹圍後橋處發生交通事故，2車上疑似皆有人受困，先後出動5部各式車輛、12名人員前往救援，抵達後發現為2輛自小客車碰撞事故。</p><p>消防人員現場清查共3名傷者受困車內，其中1輛車上有1名男性及1位女性，另外1輛車上有1名女性，經協助3人脫困後，救護車將傷者送往醫院搶救，3人送醫時均為OHCA狀態，事故原因待進一步釐清。（編輯：陳彥鈞）1140603</p>]]></content:encoded>
+    
+    <pubDate>Tue, 03 Jun 2025 00:16:34 +0800</pubDate>
+  </item><item>
+    <title><![CDATA[高雄男騎機車擦撞腳踏車 倒地撞上安全島身亡]]></title>
+    <link>https://www.cna.com.tw/news/asoc/202506020321.aspx</link>
+    <itunes:title><![CDATA[高雄男騎機車擦撞腳踏車 倒地撞上安全島身亡]]></itunes:title>
+    <itunes:author><![CDATA[中央社 社會[RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1024/768;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1024x768_wmkn_0_C20250602000185.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1024x768_wmkn_0_C20250602000185.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1024x768_wmkn_0_C20250602000185.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1024x768_wmkn_0_C20250602000185.jpg" alt="陳姓男子2日騎機車行經高雄市橋頭區成功北路，疑未注意車前狀況，與薛姓腳踏車騎士碰撞後，倒地滑行並撞上安全島，頭部等處嚴重受創身亡；薛姓男子肢體擦挫傷、意識清楚，由救護人員協助送醫治療。（高雄市警察局岡山分局提供）中央社記者張已亷傳真 114年6月2日">
+                      </picture><figcaption class="picinfo">陳姓男子2日騎機車行經高雄市橋頭區成功北路，疑未注意車前狀況，與薛姓腳踏車騎士碰撞後，倒地滑行並撞上安全島，頭部等處嚴重受創身亡；薛姓男子肢體擦挫傷、意識清楚，由救護人員協助送醫治療。（高雄市警察局岡山分局提供）中央社記者張已亷傳真 114年6月2日</figcaption></figure><p>（中央社記者張已亷高雄2日電）陳姓男子今天在高雄市橋頭區騎機車，疑未注意車前狀況，擦撞前方同向直行腳踏車，倒地後撞上安全島，頭部等處受創身亡，騎腳踏車薛姓男子肢體擦挫傷無大礙，事故原因待釐清。</p><p>高雄市政府警察局岡山分局說，晚間8時許獲報，橋頭成功北路車禍，陳姓男子倒地滑行並撞上安全島，頭部等處嚴重受創身亡；薛姓男子肢體擦挫傷、意識清楚，由救護人員協助送醫治療。</p><p>警方表示，初步調查，事故發生時，雙方為同向直行，陳姓男子疑未注意車前狀況，擦撞前方騎腳踏車的薛姓男子，詳細肇事原因及責任歸屬仍由交通警察大隊分析研判。（編輯：李明宗）1140602</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1024/768;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1024x768_wmkn_0_C20250602000185.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1024x768_wmkn_0_C20250602000185.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1024x768_wmkn_0_C20250602000185.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1024x768_wmkn_0_C20250602000185.jpg" alt="陳姓男子2日騎機車行經高雄市橋頭區成功北路，疑未注意車前狀況，與薛姓腳踏車騎士碰撞後，倒地滑行並撞上安全島，頭部等處嚴重受創身亡；薛姓男子肢體擦挫傷、意識清楚，由救護人員協助送醫治療。（高雄市警察局岡山分局提供）中央社記者張已亷傳真 114年6月2日">
+                      </picture><figcaption class="picinfo">陳姓男子2日騎機車行經高雄市橋頭區成功北路，疑未注意車前狀況，與薛姓腳踏車騎士碰撞後，倒地滑行並撞上安全島，頭部等處嚴重受創身亡；薛姓男子肢體擦挫傷、意識清楚，由救護人員協助送醫治療。（高雄市警察局岡山分局提供）中央社記者張已亷傳真 114年6月2日</figcaption></figure><p>（中央社記者張已亷高雄2日電）陳姓男子今天在高雄市橋頭區騎機車，疑未注意車前狀況，擦撞前方同向直行腳踏車，倒地後撞上安全島，頭部等處受創身亡，騎腳踏車薛姓男子肢體擦挫傷無大礙，事故原因待釐清。</p><p>高雄市政府警察局岡山分局說，晚間8時許獲報，橋頭成功北路車禍，陳姓男子倒地滑行並撞上安全島，頭部等處嚴重受創身亡；薛姓男子肢體擦挫傷、意識清楚，由救護人員協助送醫治療。</p><p>警方表示，初步調查，事故發生時，雙方為同向直行，陳姓男子疑未注意車前狀況，擦撞前方騎腳踏車的薛姓男子，詳細肇事原因及責任歸屬仍由交通警察大隊分析研判。（編輯：李明宗）1140602</p>]]>
+    </description>
+    <content:encoded><![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1024/768;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1024x768_wmkn_0_C20250602000185.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1024x768_wmkn_0_C20250602000185.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1024x768_wmkn_0_C20250602000185.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1024x768_wmkn_0_C20250602000185.jpg" alt="陳姓男子2日騎機車行經高雄市橋頭區成功北路，疑未注意車前狀況，與薛姓腳踏車騎士碰撞後，倒地滑行並撞上安全島，頭部等處嚴重受創身亡；薛姓男子肢體擦挫傷、意識清楚，由救護人員協助送醫治療。（高雄市警察局岡山分局提供）中央社記者張已亷傳真 114年6月2日">
+                      </picture><figcaption class="picinfo">陳姓男子2日騎機車行經高雄市橋頭區成功北路，疑未注意車前狀況，與薛姓腳踏車騎士碰撞後，倒地滑行並撞上安全島，頭部等處嚴重受創身亡；薛姓男子肢體擦挫傷、意識清楚，由救護人員協助送醫治療。（高雄市警察局岡山分局提供）中央社記者張已亷傳真 114年6月2日</figcaption></figure><p>（中央社記者張已亷高雄2日電）陳姓男子今天在高雄市橋頭區騎機車，疑未注意車前狀況，擦撞前方同向直行腳踏車，倒地後撞上安全島，頭部等處受創身亡，騎腳踏車薛姓男子肢體擦挫傷無大礙，事故原因待釐清。</p><p>高雄市政府警察局岡山分局說，晚間8時許獲報，橋頭成功北路車禍，陳姓男子倒地滑行並撞上安全島，頭部等處嚴重受創身亡；薛姓男子肢體擦挫傷、意識清楚，由救護人員協助送醫治療。</p><p>警方表示，初步調查，事故發生時，雙方為同向直行，陳姓男子疑未注意車前狀況，擦撞前方騎腳踏車的薛姓男子，詳細肇事原因及責任歸屬仍由交通警察大隊分析研判。（編輯：李明宗）1140602</p>]]></content:encoded>
+    
+    <pubDate>Mon, 02 Jun 2025 23:00:17 +0800</pubDate>
+  </item><item>
+    <title><![CDATA[新北雙溪區公所1樓起火消防破門撲滅 3日仍正常上班]]></title>
+    <link>https://www.cna.com.tw/news/asoc/202506020314.aspx</link>
+    <itunes:title><![CDATA[新北雙溪區公所1樓起火消防破門撲滅 3日仍正常上班]]></itunes:title>
+    <itunes:author><![CDATA[中央社 社會[RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1024/768;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1024x768_wmkn_0_C20250602000183.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1024x768_wmkn_0_C20250602000183.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1024x768_wmkn_0_C20250602000183.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1024x768_wmkn_0_C20250602000183.jpg" alt="位於新北市雙溪區東榮街25號的雙溪區公所1樓辦公室2日晚間起火燃燒，消防員破門入內射水搶救，順利將火勢撲滅，確切起火原因待後續調查。（讀者提供）中央社記者王朝鈺傳真  114年6月2日">
+                      </picture><figcaption class="picinfo">位於新北市雙溪區東榮街25號的雙溪區公所1樓辦公室2日晚間起火燃燒，消防員破門入內射水搶救，順利將火勢撲滅，確切起火原因待後續調查。（讀者提供）中央社記者王朝鈺傳真  114年6月2日</figcaption></figure><p>（中央社記者王朝鈺、王鴻國新北2日電）新北雙溪區公所1樓辦公室今天晚間起火燃燒，消防員破門入內射水搶救，火勢於晚間8時許撲滅，燃燒面積約15平方公尺，幸無人傷，確切起火原因待調查；區長劉盈良表示，目前仍決定明天正常上班，不影響民眾洽公。</p><p>位於雙溪區東榮街25號的雙溪區公所，1樓社會人文課及清潔隊辦公室晚間起火燃燒，消防局晚間8時34分獲報後，出動23車59人前往搶救，消防員抵達後，破門入內布設水線射水搶救，火勢於晚間8時55分撲滅。</p><p>消防局指出，現場燃燒1樓辦公室內辦公桌椅，燃燒面積約15平方公尺，確切起火原因待後續調查。</p><p>雙溪區長劉盈良表示，初步了解，起火地點在社會人文課與清潔隊辦公區，詳細財損仍待進一步清點才能確定；目前仍決定明天正常上班，不會影響民眾洽公。（編輯：陳仁華）1140602</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1024/768;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1024x768_wmkn_0_C20250602000183.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1024x768_wmkn_0_C20250602000183.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1024x768_wmkn_0_C20250602000183.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1024x768_wmkn_0_C20250602000183.jpg" alt="位於新北市雙溪區東榮街25號的雙溪區公所1樓辦公室2日晚間起火燃燒，消防員破門入內射水搶救，順利將火勢撲滅，確切起火原因待後續調查。（讀者提供）中央社記者王朝鈺傳真  114年6月2日">
+                      </picture><figcaption class="picinfo">位於新北市雙溪區東榮街25號的雙溪區公所1樓辦公室2日晚間起火燃燒，消防員破門入內射水搶救，順利將火勢撲滅，確切起火原因待後續調查。（讀者提供）中央社記者王朝鈺傳真  114年6月2日</figcaption></figure><p>（中央社記者王朝鈺、王鴻國新北2日電）新北雙溪區公所1樓辦公室今天晚間起火燃燒，消防員破門入內射水搶救，火勢於晚間8時許撲滅，燃燒面積約15平方公尺，幸無人傷，確切起火原因待調查；區長劉盈良表示，目前仍決定明天正常上班，不影響民眾洽公。</p><p>位於雙溪區東榮街25號的雙溪區公所，1樓社會人文課及清潔隊辦公室晚間起火燃燒，消防局晚間8時34分獲報後，出動23車59人前往搶救，消防員抵達後，破門入內布設水線射水搶救，火勢於晚間8時55分撲滅。</p><p>消防局指出，現場燃燒1樓辦公室內辦公桌椅，燃燒面積約15平方公尺，確切起火原因待後續調查。</p><p>雙溪區長劉盈良表示，初步了解，起火地點在社會人文課與清潔隊辦公區，詳細財損仍待進一步清點才能確定；目前仍決定明天正常上班，不會影響民眾洽公。（編輯：陳仁華）1140602</p>]]>
+    </description>
+    <content:encoded><![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1024/768;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1024x768_wmkn_0_C20250602000183.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1024x768_wmkn_0_C20250602000183.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1024x768_wmkn_0_C20250602000183.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1024x768_wmkn_0_C20250602000183.jpg" alt="位於新北市雙溪區東榮街25號的雙溪區公所1樓辦公室2日晚間起火燃燒，消防員破門入內射水搶救，順利將火勢撲滅，確切起火原因待後續調查。（讀者提供）中央社記者王朝鈺傳真  114年6月2日">
+                      </picture><figcaption class="picinfo">位於新北市雙溪區東榮街25號的雙溪區公所1樓辦公室2日晚間起火燃燒，消防員破門入內射水搶救，順利將火勢撲滅，確切起火原因待後續調查。（讀者提供）中央社記者王朝鈺傳真  114年6月2日</figcaption></figure><p>（中央社記者王朝鈺、王鴻國新北2日電）新北雙溪區公所1樓辦公室今天晚間起火燃燒，消防員破門入內射水搶救，火勢於晚間8時許撲滅，燃燒面積約15平方公尺，幸無人傷，確切起火原因待調查；區長劉盈良表示，目前仍決定明天正常上班，不影響民眾洽公。</p><p>位於雙溪區東榮街25號的雙溪區公所，1樓社會人文課及清潔隊辦公室晚間起火燃燒，消防局晚間8時34分獲報後，出動23車59人前往搶救，消防員抵達後，破門入內布設水線射水搶救，火勢於晚間8時55分撲滅。</p><p>消防局指出，現場燃燒1樓辦公室內辦公桌椅，燃燒面積約15平方公尺，確切起火原因待後續調查。</p><p>雙溪區長劉盈良表示，初步了解，起火地點在社會人文課與清潔隊辦公區，詳細財損仍待進一步清點才能確定；目前仍決定明天正常上班，不會影響民眾洽公。（編輯：陳仁華）1140602</p>]]></content:encoded>
+    
+    <pubDate>Mon, 02 Jun 2025 22:04:59 +0800</pubDate>
+  </item><item>
+    <title><![CDATA[台中清水2歲童玩耍遭窗簾繩勒脖 搶救恢復意識觀察]]></title>
+    <link>https://www.cna.com.tw/news/asoc/202506020299.aspx</link>
+    <itunes:title><![CDATA[台中清水2歲童玩耍遭窗簾繩勒脖 搶救恢復意識觀察]]></itunes:title>
+    <itunes:author><![CDATA[中央社 社會[RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>（中央社記者趙麗妍台中2日電）台中清水區一名2歲男童在家玩耍，不慎被窗簾拉繩勒住脖子，到隔壁房間泡牛奶的奶奶發現男童遭勒脖，趕忙報案送醫，搶救後恢復意識，目前在加護病房觀察。</p><p>這起意外發生在今天下午4時許，中市府社會局說明，2歲男童由奶奶照顧，奶奶到隔壁房間泡牛奶，男童獨自在房間玩耍，奶奶回來後，發現男童站在箱子上，脖子纏繞著窗簾拉繩，當場失去意識，她立即解開拉繩、抱下男童並報案送醫。</p><p>台中市消防局獲報，立刻派員前往救援，男童到院時昏迷指數3，經院方搶救，男童恢復意識，目前生命跡象穩定，仍需在加護病房觀察。</p><p>初步了解，男童無明顯外傷，排除遭受虐待之虞。社會局提醒，家中若有幼童，應避免使用有繩索窗簾，或須裝置拉繩固定器，床、桌椅、櫃子、書架最好遠離窗簾，避免兒童攀爬造成意外。至於男童奶奶有無涉及違反兒少權法，將進一步釐清。（編輯：陳仁華）1140602</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>（中央社記者趙麗妍台中2日電）台中清水區一名2歲男童在家玩耍，不慎被窗簾拉繩勒住脖子，到隔壁房間泡牛奶的奶奶發現男童遭勒脖，趕忙報案送醫，搶救後恢復意識，目前在加護病房觀察。</p><p>這起意外發生在今天下午4時許，中市府社會局說明，2歲男童由奶奶照顧，奶奶到隔壁房間泡牛奶，男童獨自在房間玩耍，奶奶回來後，發現男童站在箱子上，脖子纏繞著窗簾拉繩，當場失去意識，她立即解開拉繩、抱下男童並報案送醫。</p><p>台中市消防局獲報，立刻派員前往救援，男童到院時昏迷指數3，經院方搶救，男童恢復意識，目前生命跡象穩定，仍需在加護病房觀察。</p><p>初步了解，男童無明顯外傷，排除遭受虐待之虞。社會局提醒，家中若有幼童，應避免使用有繩索窗簾，或須裝置拉繩固定器，床、桌椅、櫃子、書架最好遠離窗簾，避免兒童攀爬造成意外。至於男童奶奶有無涉及違反兒少權法，將進一步釐清。（編輯：陳仁華）1140602</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>（中央社記者趙麗妍台中2日電）台中清水區一名2歲男童在家玩耍，不慎被窗簾拉繩勒住脖子，到隔壁房間泡牛奶的奶奶發現男童遭勒脖，趕忙報案送醫，搶救後恢復意識，目前在加護病房觀察。</p><p>這起意外發生在今天下午4時許，中市府社會局說明，2歲男童由奶奶照顧，奶奶到隔壁房間泡牛奶，男童獨自在房間玩耍，奶奶回來後，發現男童站在箱子上，脖子纏繞著窗簾拉繩，當場失去意識，她立即解開拉繩、抱下男童並報案送醫。</p><p>台中市消防局獲報，立刻派員前往救援，男童到院時昏迷指數3，經院方搶救，男童恢復意識，目前生命跡象穩定，仍需在加護病房觀察。</p><p>初步了解，男童無明顯外傷，排除遭受虐待之虞。社會局提醒，家中若有幼童，應避免使用有繩索窗簾，或須裝置拉繩固定器，床、桌椅、櫃子、書架最好遠離窗簾，避免兒童攀爬造成意外。至於男童奶奶有無涉及違反兒少權法，將進一步釐清。（編輯：陳仁華）1140602</p>]]></content:encoded>
+    
+    <pubDate>Mon, 02 Jun 2025 20:56:22 +0800</pubDate>
+  </item><item>
+    <title><![CDATA[台東「天空之鏡」海灘高中生遭浪捲走 海陸空搜救]]></title>
+    <link>https://www.cna.com.tw/news/asoc/202506020290.aspx</link>
+    <itunes:title><![CDATA[台東「天空之鏡」海灘高中生遭浪捲走 海陸空搜救]]></itunes:title>
+    <itunes:author><![CDATA[中央社 社會[RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1024/768;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1024x768_wmkn_0_C20250602000169.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1024x768_wmkn_0_C20250602000169.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1024x768_wmkn_0_C20250602000169.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1024x768_wmkn_0_C20250602000169.jpg" alt="台東知名景點「天空之鏡」都歷海灘2日下午一名高中生疑遭海流帶離岸際，海巡、警消獲報後，出動橡皮艇與空勤直升機進行海陸空搜救。（海巡署東部分署第一三岸巡隊提供）中央社記者李先鳳傳真  114年6月2日">
+                      </picture><figcaption class="picinfo">台東知名景點「天空之鏡」都歷海灘2日下午一名高中生疑遭海流帶離岸際，海巡、警消獲報後，出動橡皮艇與空勤直升機進行海陸空搜救。（海巡署東部分署第一三岸巡隊提供）中央社記者李先鳳傳真  114年6月2日</figcaption></figure><p>（中央社記者李先鳳台東縣2日電）台東知名景點「天空之鏡」都歷海灘今天下午1名高中生被大浪捲入海中，不見蹤影，同行者趕緊報案，海巡、警消獲報後，已出動橡皮艇與空勤直升機進行海陸空搜救。</p><p>海巡署東部分署表示，下午3時56分接獲民眾報案，於都歷土地公廟旁海域疑似有民眾溺水，立即啟動岸海聯合機制，通報第十五海巡隊、第一三岸巡隊及台東縣消防局成功大隊成功消防分隊及空中勤務總隊勤務第三大隊第三隊人員，前往現場救援。</p><p>海巡人員馳赴現場，經與現場報案民眾了解案情，為4名民眾在近岸海域戲水，上岸後發現其中1人不見蹤影，疑似遭海流帶離岸際。</p><p>目前由第十五海巡隊巡防艇及成功消防分隊橡皮艇於海面上搜尋任務，海巡人員攜帶浮水拋繩袋、魚雷浮標等救生裝備實施岸際搜尋；空勤直升機於附近海域展開空域協尋，共動員巡邏車7輛、巡防艇2艇、搜索人員27人、消防橡皮艇1艘及空勤1架次，持續搜索。</p><p>第一三岸巡隊呼籲，夏季戲水活動頻繁，民眾至岸際、港區從事海域活動時，務必提高警覺、注意安全；如發現溺水事件，立即撥打海巡署「118」報案專線，即時派員救援。</p><p>另外，5月30日23歲墨西哥籍男子Diego Dorantes Sanchez在綠島大白沙海灘附近戲水時失聯，至今下落不明，家屬與親友透過社群廣發協尋訊息，懸賞5萬美元（約新台幣150萬元）找人。</p><p>協尋啟事表示，Diego（迪亞哥）身高約172cm，深棕色皮膚，黑色短捲髮、棕色眼睛，背上有仙人掌紋身，失蹤時穿著黑色短褲，佩戴銀色金屬CASIO手錶。推測Diego可能因海流漂往日本沖繩縣的八重山群島，特別是與那國島、石垣島或其他周邊海域。（編輯：李亨山）1140602</p><div class="media"><figure class="floatImg center"><picture style="--aspect-ratio:1023/768;"><source media="(max-width: 800px)" data-srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1023x768_wmkn_0_C20250602000170.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1023x768_wmkn_0_C20250602000170.jpg 2x"><source media="(min-width: 801px)" data-srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1023x768_wmkn_0_C20250602000170.jpg"><img class="lazyload" alt="台東知名景點「天空之鏡」都歷海灘2日下午一名高中生被大浪捲入海中，不見蹤影，海巡、警消獲報後展開搜救。（海巡署東部分署第一三岸巡隊提供）中央社記者李先鳳傳真  114年6月2日" src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1023x768_wmkn_0_C20250602000170.jpg"></picture><figcaption class="picinfo">台東知名景點「天空之鏡」都歷海灘2日下午一名高中生被大浪捲入海中，不見蹤影，海巡、警消獲報後展開搜救。（海巡署東部分署第一三岸巡隊提供）中央社記者李先鳳傳真  114年6月2日</figcaption></figure></div>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1024/768;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1024x768_wmkn_0_C20250602000169.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1024x768_wmkn_0_C20250602000169.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1024x768_wmkn_0_C20250602000169.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1024x768_wmkn_0_C20250602000169.jpg" alt="台東知名景點「天空之鏡」都歷海灘2日下午一名高中生疑遭海流帶離岸際，海巡、警消獲報後，出動橡皮艇與空勤直升機進行海陸空搜救。（海巡署東部分署第一三岸巡隊提供）中央社記者李先鳳傳真  114年6月2日">
+                      </picture><figcaption class="picinfo">台東知名景點「天空之鏡」都歷海灘2日下午一名高中生疑遭海流帶離岸際，海巡、警消獲報後，出動橡皮艇與空勤直升機進行海陸空搜救。（海巡署東部分署第一三岸巡隊提供）中央社記者李先鳳傳真  114年6月2日</figcaption></figure><p>（中央社記者李先鳳台東縣2日電）台東知名景點「天空之鏡」都歷海灘今天下午1名高中生被大浪捲入海中，不見蹤影，同行者趕緊報案，海巡、警消獲報後，已出動橡皮艇與空勤直升機進行海陸空搜救。</p><p>海巡署東部分署表示，下午3時56分接獲民眾報案，於都歷土地公廟旁海域疑似有民眾溺水，立即啟動岸海聯合機制，通報第十五海巡隊、第一三岸巡隊及台東縣消防局成功大隊成功消防分隊及空中勤務總隊勤務第三大隊第三隊人員，前往現場救援。</p><p>海巡人員馳赴現場，經與現場報案民眾了解案情，為4名民眾在近岸海域戲水，上岸後發現其中1人不見蹤影，疑似遭海流帶離岸際。</p><p>目前由第十五海巡隊巡防艇及成功消防分隊橡皮艇於海面上搜尋任務，海巡人員攜帶浮水拋繩袋、魚雷浮標等救生裝備實施岸際搜尋；空勤直升機於附近海域展開空域協尋，共動員巡邏車7輛、巡防艇2艇、搜索人員27人、消防橡皮艇1艘及空勤1架次，持續搜索。</p><p>第一三岸巡隊呼籲，夏季戲水活動頻繁，民眾至岸際、港區從事海域活動時，務必提高警覺、注意安全；如發現溺水事件，立即撥打海巡署「118」報案專線，即時派員救援。</p><p>另外，5月30日23歲墨西哥籍男子Diego Dorantes Sanchez在綠島大白沙海灘附近戲水時失聯，至今下落不明，家屬與親友透過社群廣發協尋訊息，懸賞5萬美元（約新台幣150萬元）找人。</p><p>協尋啟事表示，Diego（迪亞哥）身高約172cm，深棕色皮膚，黑色短捲髮、棕色眼睛，背上有仙人掌紋身，失蹤時穿著黑色短褲，佩戴銀色金屬CASIO手錶。推測Diego可能因海流漂往日本沖繩縣的八重山群島，特別是與那國島、石垣島或其他周邊海域。（編輯：李亨山）1140602</p><div class="media"><figure class="floatImg center"><picture style="--aspect-ratio:1023/768;"><source media="(max-width: 800px)" data-srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1023x768_wmkn_0_C20250602000170.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1023x768_wmkn_0_C20250602000170.jpg 2x"><source media="(min-width: 801px)" data-srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1023x768_wmkn_0_C20250602000170.jpg"><img class="lazyload" alt="台東知名景點「天空之鏡」都歷海灘2日下午一名高中生被大浪捲入海中，不見蹤影，海巡、警消獲報後展開搜救。（海巡署東部分署第一三岸巡隊提供）中央社記者李先鳳傳真  114年6月2日" src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1023x768_wmkn_0_C20250602000170.jpg"></picture><figcaption class="picinfo">台東知名景點「天空之鏡」都歷海灘2日下午一名高中生被大浪捲入海中，不見蹤影，海巡、警消獲報後展開搜救。（海巡署東部分署第一三岸巡隊提供）中央社記者李先鳳傳真  114年6月2日</figcaption></figure></div>]]>
+    </description>
+    <content:encoded><![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1024/768;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1024x768_wmkn_0_C20250602000169.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1024x768_wmkn_0_C20250602000169.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1024x768_wmkn_0_C20250602000169.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1024x768_wmkn_0_C20250602000169.jpg" alt="台東知名景點「天空之鏡」都歷海灘2日下午一名高中生疑遭海流帶離岸際，海巡、警消獲報後，出動橡皮艇與空勤直升機進行海陸空搜救。（海巡署東部分署第一三岸巡隊提供）中央社記者李先鳳傳真  114年6月2日">
+                      </picture><figcaption class="picinfo">台東知名景點「天空之鏡」都歷海灘2日下午一名高中生疑遭海流帶離岸際，海巡、警消獲報後，出動橡皮艇與空勤直升機進行海陸空搜救。（海巡署東部分署第一三岸巡隊提供）中央社記者李先鳳傳真  114年6月2日</figcaption></figure><p>（中央社記者李先鳳台東縣2日電）台東知名景點「天空之鏡」都歷海灘今天下午1名高中生被大浪捲入海中，不見蹤影，同行者趕緊報案，海巡、警消獲報後，已出動橡皮艇與空勤直升機進行海陸空搜救。</p><p>海巡署東部分署表示，下午3時56分接獲民眾報案，於都歷土地公廟旁海域疑似有民眾溺水，立即啟動岸海聯合機制，通報第十五海巡隊、第一三岸巡隊及台東縣消防局成功大隊成功消防分隊及空中勤務總隊勤務第三大隊第三隊人員，前往現場救援。</p><p>海巡人員馳赴現場，經與現場報案民眾了解案情，為4名民眾在近岸海域戲水，上岸後發現其中1人不見蹤影，疑似遭海流帶離岸際。</p><p>目前由第十五海巡隊巡防艇及成功消防分隊橡皮艇於海面上搜尋任務，海巡人員攜帶浮水拋繩袋、魚雷浮標等救生裝備實施岸際搜尋；空勤直升機於附近海域展開空域協尋，共動員巡邏車7輛、巡防艇2艇、搜索人員27人、消防橡皮艇1艘及空勤1架次，持續搜索。</p><p>第一三岸巡隊呼籲，夏季戲水活動頻繁，民眾至岸際、港區從事海域活動時，務必提高警覺、注意安全；如發現溺水事件，立即撥打海巡署「118」報案專線，即時派員救援。</p><p>另外，5月30日23歲墨西哥籍男子Diego Dorantes Sanchez在綠島大白沙海灘附近戲水時失聯，至今下落不明，家屬與親友透過社群廣發協尋訊息，懸賞5萬美元（約新台幣150萬元）找人。</p><p>協尋啟事表示，Diego（迪亞哥）身高約172cm，深棕色皮膚，黑色短捲髮、棕色眼睛，背上有仙人掌紋身，失蹤時穿著黑色短褲，佩戴銀色金屬CASIO手錶。推測Diego可能因海流漂往日本沖繩縣的八重山群島，特別是與那國島、石垣島或其他周邊海域。（編輯：李亨山）1140602</p><div class="media"><figure class="floatImg center"><picture style="--aspect-ratio:1023/768;"><source media="(max-width: 800px)" data-srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1023x768_wmkn_0_C20250602000170.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1023x768_wmkn_0_C20250602000170.jpg 2x"><source media="(min-width: 801px)" data-srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1023x768_wmkn_0_C20250602000170.jpg"><img class="lazyload" alt="台東知名景點「天空之鏡」都歷海灘2日下午一名高中生被大浪捲入海中，不見蹤影，海巡、警消獲報後展開搜救。（海巡署東部分署第一三岸巡隊提供）中央社記者李先鳳傳真  114年6月2日" src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1023x768_wmkn_0_C20250602000170.jpg"></picture><figcaption class="picinfo">台東知名景點「天空之鏡」都歷海灘2日下午一名高中生被大浪捲入海中，不見蹤影，海巡、警消獲報後展開搜救。（海巡署東部分署第一三岸巡隊提供）中央社記者李先鳳傳真  114年6月2日</figcaption></figure></div>]]></content:encoded>
+    
+    <pubDate>Mon, 02 Jun 2025 20:03:02 +0800</pubDate>
+  </item><item>
+    <title><![CDATA[阿里山公路車輛衝落20米深山谷 駕駛不治]]></title>
+    <link>https://www.cna.com.tw/news/asoc/202506020265.aspx</link>
+    <itunes:title><![CDATA[阿里山公路車輛衝落20米深山谷 駕駛不治]]></itunes:title>
+    <itunes:author><![CDATA[中央社 社會[RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1154/768;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1154x768_wmkn_0_C20250602003013.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1154x768_wmkn_0_C20250602003013.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1154x768_wmkn_0_C20250602003013.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1154x768_wmkn_0_C20250602003013.jpg" alt="嘉義縣台18線（阿里山公路）2日發生自小客貨車墜谷事件，搜救人員攀爬到20公尺深山谷救援，但倒臥車旁的陳姓駕駛已死亡。（警方提供）中央社記者黃國芳傳真 114年6月2日">
+                      </picture><figcaption class="picinfo">嘉義縣台18線（阿里山公路）2日發生自小客貨車墜谷事件，搜救人員攀爬到20公尺深山谷救援，但倒臥車旁的陳姓駕駛已死亡。（警方提供）中央社記者黃國芳傳真 114年6月2日</figcaption></figure><p>（中央社記者黃國芳嘉義市2日電）1輛自小客貨車今天在嘉義縣台18線（阿里山公路）36.4公里處墜落山谷，搜救人員架繩索攀爬到20米深山谷救人，但住嘉義太保市的陳姓駕駛倒臥車旁死亡，肇事原因仍待調查釐清。</p><p>嘉義縣消防局下午1時57分據報後，立即前往救援，經攀爬到溪谷，發現駕駛已死亡，約4時7分將駕駛運送到平面道路，後續交由警方、家屬處理。</p><p>警方說，據家屬轉述，陳姓男子上午駕車上山訪友，事故應是發生在下山時，而事故路段沒護欄，地面還留有車輪行駛過痕跡。（編輯：李明宗）1140602</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1154/768;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1154x768_wmkn_0_C20250602003013.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1154x768_wmkn_0_C20250602003013.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1154x768_wmkn_0_C20250602003013.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1154x768_wmkn_0_C20250602003013.jpg" alt="嘉義縣台18線（阿里山公路）2日發生自小客貨車墜谷事件，搜救人員攀爬到20公尺深山谷救援，但倒臥車旁的陳姓駕駛已死亡。（警方提供）中央社記者黃國芳傳真 114年6月2日">
+                      </picture><figcaption class="picinfo">嘉義縣台18線（阿里山公路）2日發生自小客貨車墜谷事件，搜救人員攀爬到20公尺深山谷救援，但倒臥車旁的陳姓駕駛已死亡。（警方提供）中央社記者黃國芳傳真 114年6月2日</figcaption></figure><p>（中央社記者黃國芳嘉義市2日電）1輛自小客貨車今天在嘉義縣台18線（阿里山公路）36.4公里處墜落山谷，搜救人員架繩索攀爬到20米深山谷救人，但住嘉義太保市的陳姓駕駛倒臥車旁死亡，肇事原因仍待調查釐清。</p><p>嘉義縣消防局下午1時57分據報後，立即前往救援，經攀爬到溪谷，發現駕駛已死亡，約4時7分將駕駛運送到平面道路，後續交由警方、家屬處理。</p><p>警方說，據家屬轉述，陳姓男子上午駕車上山訪友，事故應是發生在下山時，而事故路段沒護欄，地面還留有車輪行駛過痕跡。（編輯：李明宗）1140602</p>]]>
+    </description>
+    <content:encoded><![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1154/768;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1154x768_wmkn_0_C20250602003013.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1154x768_wmkn_0_C20250602003013.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1154x768_wmkn_0_C20250602003013.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1154x768_wmkn_0_C20250602003013.jpg" alt="嘉義縣台18線（阿里山公路）2日發生自小客貨車墜谷事件，搜救人員攀爬到20公尺深山谷救援，但倒臥車旁的陳姓駕駛已死亡。（警方提供）中央社記者黃國芳傳真 114年6月2日">
+                      </picture><figcaption class="picinfo">嘉義縣台18線（阿里山公路）2日發生自小客貨車墜谷事件，搜救人員攀爬到20公尺深山谷救援，但倒臥車旁的陳姓駕駛已死亡。（警方提供）中央社記者黃國芳傳真 114年6月2日</figcaption></figure><p>（中央社記者黃國芳嘉義市2日電）1輛自小客貨車今天在嘉義縣台18線（阿里山公路）36.4公里處墜落山谷，搜救人員架繩索攀爬到20米深山谷救人，但住嘉義太保市的陳姓駕駛倒臥車旁死亡，肇事原因仍待調查釐清。</p><p>嘉義縣消防局下午1時57分據報後，立即前往救援，經攀爬到溪谷，發現駕駛已死亡，約4時7分將駕駛運送到平面道路，後續交由警方、家屬處理。</p><p>警方說，據家屬轉述，陳姓男子上午駕車上山訪友，事故應是發生在下山時，而事故路段沒護欄，地面還留有車輪行駛過痕跡。（編輯：李明宗）1140602</p>]]></content:encoded>
+    
+    <pubDate>Mon, 02 Jun 2025 18:46:07 +0800</pubDate>
+  </item><item>
+    <title><![CDATA[北市精舍命案 作家王薀等4被告延長羈押2月]]></title>
+    <link>https://www.cna.com.tw/news/asoc/202506020263.aspx</link>
+    <itunes:title><![CDATA[北市精舍命案 作家王薀等4被告延長羈押2月]]></itunes:title>
+    <itunes:author><![CDATA[中央社 社會[RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1760/1320;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1760x1320_wmky_300213050512_202502063001000000.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1760x1320_wmky_300213050512_202502063001000000.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1760x1320_wmky_300213050512_202502063001000000.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1760x1320_wmky_300213050512_202502063001000000.jpg" alt="北檢偵辦北市精舍命案，起訴作家王薀（後中）等人。（中央社檔案照片）">
+                      </picture><figcaption class="picinfo">北檢偵辦北市精舍命案，起訴作家王薀（後中）等人。（中央社檔案照片）</figcaption></figure><p>（中央社記者劉世怡台北2日電）北檢偵辦北市精舍命案，起訴作家王薀等人。案經移審，北院3月間裁定王薀等4人羈押禁見3月；北院考量押期將屆滿，王薀等4人仍有逃亡、勾串之虞，日前裁定6日起延押2個月。</p><p>根據台灣台北地方檢察署調查，王薀疑不滿蔡姓女信徒，去年糾集藝人李威夫婦等人舉行宗教儀式，導致蔡女傷害致死。檢察官3月間起訴王薀及李威夫婦等13人，李威偵查中轉污點證人，檢方請法院減刑或免刑。</p><p>全案起訴後，台北地方法院3月6日裁定偵查中在押的王薀與幹姓、梁姓、游姓女信徒共4人，審判中羈押禁見3個月。</p><p>北院今天公布的裁定書指出，由於王薀等4人羈押禁見期限即將屆滿，法院訊問後認為，王薀等4人犯嫌重大，所涉傷害致死屬最輕本刑5年以上有期徒刑重罪，若將來判決確定，難謂全無選擇逃亡以免身陷囹圄的可能。</p><p>裁定指出，王薀等4人與共犯及證人供述均有差異，有事實足認有湮滅證據或勾串共犯、證人之虞；此外，本案由國民法官審理，協商會議尚未召開，檢察官起訴事實、兩造爭執與不爭執事項等均尚未確定，案情仍有晦暗不明高度可能。</p><p>北院認為，王薀等4人仍有羈押原因及必要，裁定自6月6日起延長羈押2月，並均禁止接見、通信。可抗告。（編輯：蕭博文）1140602</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1760/1320;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1760x1320_wmky_300213050512_202502063001000000.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1760x1320_wmky_300213050512_202502063001000000.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1760x1320_wmky_300213050512_202502063001000000.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1760x1320_wmky_300213050512_202502063001000000.jpg" alt="北檢偵辦北市精舍命案，起訴作家王薀（後中）等人。（中央社檔案照片）">
+                      </picture><figcaption class="picinfo">北檢偵辦北市精舍命案，起訴作家王薀（後中）等人。（中央社檔案照片）</figcaption></figure><p>（中央社記者劉世怡台北2日電）北檢偵辦北市精舍命案，起訴作家王薀等人。案經移審，北院3月間裁定王薀等4人羈押禁見3月；北院考量押期將屆滿，王薀等4人仍有逃亡、勾串之虞，日前裁定6日起延押2個月。</p><p>根據台灣台北地方檢察署調查，王薀疑不滿蔡姓女信徒，去年糾集藝人李威夫婦等人舉行宗教儀式，導致蔡女傷害致死。檢察官3月間起訴王薀及李威夫婦等13人，李威偵查中轉污點證人，檢方請法院減刑或免刑。</p><p>全案起訴後，台北地方法院3月6日裁定偵查中在押的王薀與幹姓、梁姓、游姓女信徒共4人，審判中羈押禁見3個月。</p><p>北院今天公布的裁定書指出，由於王薀等4人羈押禁見期限即將屆滿，法院訊問後認為，王薀等4人犯嫌重大，所涉傷害致死屬最輕本刑5年以上有期徒刑重罪，若將來判決確定，難謂全無選擇逃亡以免身陷囹圄的可能。</p><p>裁定指出，王薀等4人與共犯及證人供述均有差異，有事實足認有湮滅證據或勾串共犯、證人之虞；此外，本案由國民法官審理，協商會議尚未召開，檢察官起訴事實、兩造爭執與不爭執事項等均尚未確定，案情仍有晦暗不明高度可能。</p><p>北院認為，王薀等4人仍有羈押原因及必要，裁定自6月6日起延長羈押2月，並均禁止接見、通信。可抗告。（編輯：蕭博文）1140602</p>]]>
+    </description>
+    <content:encoded><![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1760/1320;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1760x1320_wmky_300213050512_202502063001000000.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1760x1320_wmky_300213050512_202502063001000000.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1760x1320_wmky_300213050512_202502063001000000.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1760x1320_wmky_300213050512_202502063001000000.jpg" alt="北檢偵辦北市精舍命案，起訴作家王薀（後中）等人。（中央社檔案照片）">
+                      </picture><figcaption class="picinfo">北檢偵辦北市精舍命案，起訴作家王薀（後中）等人。（中央社檔案照片）</figcaption></figure><p>（中央社記者劉世怡台北2日電）北檢偵辦北市精舍命案，起訴作家王薀等人。案經移審，北院3月間裁定王薀等4人羈押禁見3月；北院考量押期將屆滿，王薀等4人仍有逃亡、勾串之虞，日前裁定6日起延押2個月。</p><p>根據台灣台北地方檢察署調查，王薀疑不滿蔡姓女信徒，去年糾集藝人李威夫婦等人舉行宗教儀式，導致蔡女傷害致死。檢察官3月間起訴王薀及李威夫婦等13人，李威偵查中轉污點證人，檢方請法院減刑或免刑。</p><p>全案起訴後，台北地方法院3月6日裁定偵查中在押的王薀與幹姓、梁姓、游姓女信徒共4人，審判中羈押禁見3個月。</p><p>北院今天公布的裁定書指出，由於王薀等4人羈押禁見期限即將屆滿，法院訊問後認為，王薀等4人犯嫌重大，所涉傷害致死屬最輕本刑5年以上有期徒刑重罪，若將來判決確定，難謂全無選擇逃亡以免身陷囹圄的可能。</p><p>裁定指出，王薀等4人與共犯及證人供述均有差異，有事實足認有湮滅證據或勾串共犯、證人之虞；此外，本案由國民法官審理，協商會議尚未召開，檢察官起訴事實、兩造爭執與不爭執事項等均尚未確定，案情仍有晦暗不明高度可能。</p><p>北院認為，王薀等4人仍有羈押原因及必要，裁定自6月6日起延長羈押2月，並均禁止接見、通信。可抗告。（編輯：蕭博文）1140602</p>]]></content:encoded>
+    
+    <pubDate>Mon, 02 Jun 2025 18:40:03 +0800</pubDate>
+  </item><item>
+    <title><![CDATA[被指搭公務車喬好友訴訟 前法務部長蔡清祥否認]]></title>
+    <link>https://www.cna.com.tw/news/asoc/202506020256.aspx</link>
+    <itunes:title><![CDATA[被指搭公務車喬好友訴訟 前法務部長蔡清祥否認]]></itunes:title>
+    <itunes:author><![CDATA[中央社 社會[RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1200/968;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1200x968_wmky_447762249632_202403110051000000.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1200x968_wmky_447762249632_202403110051000000.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1200x968_wmky_447762249632_202403110051000000.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1200x968_wmky_447762249632_202403110051000000.jpg" alt="被指搭公務車喬好友訴訟，前法務部長蔡清祥否認。（中央社檔案照片）">
+                      </picture><figcaption class="picinfo">被指搭公務車喬好友訴訟，前法務部長蔡清祥否認。（中央社檔案照片）</figcaption></figure><p>（中央社記者劉世怡台北2日電）民眾黨立委黃國昌今天指稱，法務部前部長蔡清祥2021年9月17日上班時間搭公務車陪好友喬私人訴訟。蔡清祥回應，不知被指控的地點在哪，他當天整天在立法院備詢，有照片為證。</p><p>民眾黨立法委員黃國昌今天於立法院司法及法制委員會指出，前法務部長蔡清祥於2021年9月17日上班時間，搭乘公務車陪同好朋友喬私人訴訟，他要檢舉此案，要求法務部1週內將蔡清祥當時有無請假、公務車派車單等送交委員會。列席的法務部長鄭銘謙表示，會再瞭解，依法處理。</p><p>對此，蔡清祥下午回覆中央社記者表示，他了解立法委員日理萬機，對很多事情可能不是很清楚，如果能查明實情，再行質詢，更令人折服。</p><p>蔡清祥表示，2021年9月17日星期五當天是立法院院會，已請前秘書確認過，他整天都在立法院備詢，有照片為憑；而且他對這間公司到底位於何處毫無所悉，更不可能利用公務車親赴這間公司，他卸任部長職務前，聽聞有立委詢問此事，但因他即將離開公職，且確無此事，就未加理會，想不到現在又再被提起，無奈必須立即嚴加澄清。</p><p>黃國昌得知蔡清祥回應後表示，本件檢舉人提供資料非常完備，蔡清祥是為其友人華洋投資股份有限公司的「方董」和聯合再生的洪傳獻喬子公司「中陽光電股份有限公司」之間的給付契約價金訴訟紛爭，台北地院2021年5月間判華洋投資股份有限公司應付新台幣6238萬元，而蔡清祥在同年9月赴聯合再生喬事後達成和解，撤回上訴。</p><p>黃國昌建請檢察官儘速依法偵辦，後續將配合偵辦偕同檢舉人作證，以避免不當外力干擾證人的情形發生，完整事證將於偵查中提交，以利保護檢舉人的身分。（編輯：方沛清、蕭博文）1140602</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1200/968;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1200x968_wmky_447762249632_202403110051000000.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1200x968_wmky_447762249632_202403110051000000.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1200x968_wmky_447762249632_202403110051000000.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1200x968_wmky_447762249632_202403110051000000.jpg" alt="被指搭公務車喬好友訴訟，前法務部長蔡清祥否認。（中央社檔案照片）">
+                      </picture><figcaption class="picinfo">被指搭公務車喬好友訴訟，前法務部長蔡清祥否認。（中央社檔案照片）</figcaption></figure><p>（中央社記者劉世怡台北2日電）民眾黨立委黃國昌今天指稱，法務部前部長蔡清祥2021年9月17日上班時間搭公務車陪好友喬私人訴訟。蔡清祥回應，不知被指控的地點在哪，他當天整天在立法院備詢，有照片為證。</p><p>民眾黨立法委員黃國昌今天於立法院司法及法制委員會指出，前法務部長蔡清祥於2021年9月17日上班時間，搭乘公務車陪同好朋友喬私人訴訟，他要檢舉此案，要求法務部1週內將蔡清祥當時有無請假、公務車派車單等送交委員會。列席的法務部長鄭銘謙表示，會再瞭解，依法處理。</p><p>對此，蔡清祥下午回覆中央社記者表示，他了解立法委員日理萬機，對很多事情可能不是很清楚，如果能查明實情，再行質詢，更令人折服。</p><p>蔡清祥表示，2021年9月17日星期五當天是立法院院會，已請前秘書確認過，他整天都在立法院備詢，有照片為憑；而且他對這間公司到底位於何處毫無所悉，更不可能利用公務車親赴這間公司，他卸任部長職務前，聽聞有立委詢問此事，但因他即將離開公職，且確無此事，就未加理會，想不到現在又再被提起，無奈必須立即嚴加澄清。</p><p>黃國昌得知蔡清祥回應後表示，本件檢舉人提供資料非常完備，蔡清祥是為其友人華洋投資股份有限公司的「方董」和聯合再生的洪傳獻喬子公司「中陽光電股份有限公司」之間的給付契約價金訴訟紛爭，台北地院2021年5月間判華洋投資股份有限公司應付新台幣6238萬元，而蔡清祥在同年9月赴聯合再生喬事後達成和解，撤回上訴。</p><p>黃國昌建請檢察官儘速依法偵辦，後續將配合偵辦偕同檢舉人作證，以避免不當外力干擾證人的情形發生，完整事證將於偵查中提交，以利保護檢舉人的身分。（編輯：方沛清、蕭博文）1140602</p>]]>
+    </description>
+    <content:encoded><![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1200/968;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1200x968_wmky_447762249632_202403110051000000.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1200x968_wmky_447762249632_202403110051000000.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1200x968_wmky_447762249632_202403110051000000.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1200x968_wmky_447762249632_202403110051000000.jpg" alt="被指搭公務車喬好友訴訟，前法務部長蔡清祥否認。（中央社檔案照片）">
+                      </picture><figcaption class="picinfo">被指搭公務車喬好友訴訟，前法務部長蔡清祥否認。（中央社檔案照片）</figcaption></figure><p>（中央社記者劉世怡台北2日電）民眾黨立委黃國昌今天指稱，法務部前部長蔡清祥2021年9月17日上班時間搭公務車陪好友喬私人訴訟。蔡清祥回應，不知被指控的地點在哪，他當天整天在立法院備詢，有照片為證。</p><p>民眾黨立法委員黃國昌今天於立法院司法及法制委員會指出，前法務部長蔡清祥於2021年9月17日上班時間，搭乘公務車陪同好朋友喬私人訴訟，他要檢舉此案，要求法務部1週內將蔡清祥當時有無請假、公務車派車單等送交委員會。列席的法務部長鄭銘謙表示，會再瞭解，依法處理。</p><p>對此，蔡清祥下午回覆中央社記者表示，他了解立法委員日理萬機，對很多事情可能不是很清楚，如果能查明實情，再行質詢，更令人折服。</p><p>蔡清祥表示，2021年9月17日星期五當天是立法院院會，已請前秘書確認過，他整天都在立法院備詢，有照片為憑；而且他對這間公司到底位於何處毫無所悉，更不可能利用公務車親赴這間公司，他卸任部長職務前，聽聞有立委詢問此事，但因他即將離開公職，且確無此事，就未加理會，想不到現在又再被提起，無奈必須立即嚴加澄清。</p><p>黃國昌得知蔡清祥回應後表示，本件檢舉人提供資料非常完備，蔡清祥是為其友人華洋投資股份有限公司的「方董」和聯合再生的洪傳獻喬子公司「中陽光電股份有限公司」之間的給付契約價金訴訟紛爭，台北地院2021年5月間判華洋投資股份有限公司應付新台幣6238萬元，而蔡清祥在同年9月赴聯合再生喬事後達成和解，撤回上訴。</p><p>黃國昌建請檢察官儘速依法偵辦，後續將配合偵辦偕同檢舉人作證，以避免不當外力干擾證人的情形發生，完整事證將於偵查中提交，以利保護檢舉人的身分。（編輯：方沛清、蕭博文）1140602</p>]]></content:encoded>
+    
+    <pubDate>Mon, 02 Jun 2025 18:28:48 +0800</pubDate>
+  </item><item>
+    <title><![CDATA[馬英九等人被控三中案  高院抽籤陳文貴陪席法官]]></title>
+    <link>https://www.cna.com.tw/news/asoc/202506020253.aspx</link>
+    <itunes:title><![CDATA[馬英九等人被控三中案  高院抽籤陳文貴陪席法官]]></itunes:title>
+    <itunes:author><![CDATA[中央社 社會[RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>（中央社記者劉世怡台北2日電）前國民黨主席馬英九等人涉低價出脫三中及舊黨部大樓一審獲判無罪，檢方提上訴，二審高院審理中。高院合議庭陪席法官許文章今天退休生效，經抽籤抽中法官陳文貴出任陪席法官。</p><p>台灣高等法院指出，原合議庭陪席法官許文章今天退休生效，高院於下午4時，在司法大廈2樓法官研究室，依法官會議決議，以人工抽籤方式抽選陪席法官，並抽中法官陳文貴擔任陪席法官。本案合議庭配置，審判長為曾淑華，陪席法官為陳文貴、受命法官李殷君。</p><p>全案緣於，台北地檢署起訴指出，馬英九、前中投董事長張哲琛、前總經理汪海清在三中（中視、中影、中廣）交易及舊黨部大樓案中，涉嫌以低價及非常規交易方式出脫具不當取得爭議的黨產，造成國民黨新台幣72億餘元的損害，民國107年7月間依證券交易法的非常規交易、特別背信、刑法背信等罪嫌起訴3人。</p><p>一審台北地方法院認定檢察官舉證不足，且馬英九不具違反證交法身分，110年10月27日判決馬英九無罪；張哲琛、汪海清也獲判無罪。</p><p>檢察官提起上訴，二審由台灣高等法院審理。二審首度開庭時，馬英九、汪海清否認犯罪，張哲琛採無罪答辯。（編輯：方沛清）1140602</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>（中央社記者劉世怡台北2日電）前國民黨主席馬英九等人涉低價出脫三中及舊黨部大樓一審獲判無罪，檢方提上訴，二審高院審理中。高院合議庭陪席法官許文章今天退休生效，經抽籤抽中法官陳文貴出任陪席法官。</p><p>台灣高等法院指出，原合議庭陪席法官許文章今天退休生效，高院於下午4時，在司法大廈2樓法官研究室，依法官會議決議，以人工抽籤方式抽選陪席法官，並抽中法官陳文貴擔任陪席法官。本案合議庭配置，審判長為曾淑華，陪席法官為陳文貴、受命法官李殷君。</p><p>全案緣於，台北地檢署起訴指出，馬英九、前中投董事長張哲琛、前總經理汪海清在三中（中視、中影、中廣）交易及舊黨部大樓案中，涉嫌以低價及非常規交易方式出脫具不當取得爭議的黨產，造成國民黨新台幣72億餘元的損害，民國107年7月間依證券交易法的非常規交易、特別背信、刑法背信等罪嫌起訴3人。</p><p>一審台北地方法院認定檢察官舉證不足，且馬英九不具違反證交法身分，110年10月27日判決馬英九無罪；張哲琛、汪海清也獲判無罪。</p><p>檢察官提起上訴，二審由台灣高等法院審理。二審首度開庭時，馬英九、汪海清否認犯罪，張哲琛採無罪答辯。（編輯：方沛清）1140602</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>（中央社記者劉世怡台北2日電）前國民黨主席馬英九等人涉低價出脫三中及舊黨部大樓一審獲判無罪，檢方提上訴，二審高院審理中。高院合議庭陪席法官許文章今天退休生效，經抽籤抽中法官陳文貴出任陪席法官。</p><p>台灣高等法院指出，原合議庭陪席法官許文章今天退休生效，高院於下午4時，在司法大廈2樓法官研究室，依法官會議決議，以人工抽籤方式抽選陪席法官，並抽中法官陳文貴擔任陪席法官。本案合議庭配置，審判長為曾淑華，陪席法官為陳文貴、受命法官李殷君。</p><p>全案緣於，台北地檢署起訴指出，馬英九、前中投董事長張哲琛、前總經理汪海清在三中（中視、中影、中廣）交易及舊黨部大樓案中，涉嫌以低價及非常規交易方式出脫具不當取得爭議的黨產，造成國民黨新台幣72億餘元的損害，民國107年7月間依證券交易法的非常規交易、特別背信、刑法背信等罪嫌起訴3人。</p><p>一審台北地方法院認定檢察官舉證不足，且馬英九不具違反證交法身分，110年10月27日判決馬英九無罪；張哲琛、汪海清也獲判無罪。</p><p>檢察官提起上訴，二審由台灣高等法院審理。二審首度開庭時，馬英九、汪海清否認犯罪，張哲琛採無罪答辯。（編輯：方沛清）1140602</p>]]></content:encoded>
+    
+    <pubDate>Mon, 02 Jun 2025 18:21:42 +0800</pubDate>
+  </item><item>
+    <title><![CDATA[NOVA董事長酒駕遇警攔查  獲緩起訴、罰9萬元]]></title>
+    <link>https://www.cna.com.tw/news/asoc/202506020237.aspx</link>
+    <itunes:title><![CDATA[NOVA董事長酒駕遇警攔查  獲緩起訴、罰9萬元]]></itunes:title>
+    <itunes:author><![CDATA[中央社 社會[RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1343/768;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1343x768_wmky_0_C20250602003011.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1343x768_wmky_0_C20250602003011.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1343x768_wmky_0_C20250602003011.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1343x768_wmky_0_C20250602003011.jpg" alt="指標性3C龍頭商場NOVA資訊廣場董事長紀男近日餐敘後駕車返家，途中行經中山區龍江路時因停等紅燈時超越停止線，遭警方攔查，發現其酒測值達0.71毫克，依法送辦。（翻攝照片）中央社記者黃麗芸傳真 114年6月2日">
+                      </picture><figcaption class="picinfo">指標性3C龍頭商場NOVA資訊廣場董事長紀男近日餐敘後駕車返家，途中行經中山區龍江路時因停等紅燈時超越停止線，遭警方攔查，發現其酒測值達0.71毫克，依法送辦。（翻攝照片）中央社記者黃麗芸傳真 114年6月2日</figcaption></figure><p>（中央社記者黃麗芸、劉世怡台北2日電）指標性3C龍頭商場NOVA資訊廣場董事長紀男近日餐敘後駕車返家，行經中山區龍江路時因停等紅燈時超越停止線，遭警方攔查，發現其酒測值達0.71毫克，依法送辦。</p><p>全案詢後，警方將紀男依涉犯公共危險罪移送台北地檢署偵辦。北檢今天偵結，處分紀男緩起訴，須支付公庫新台幣9萬元。</p><p>台北市警察局中山分局今天透過新聞稿說明，轄下長安東路派出所員警於5月22日深夜11時執行巡邏勤務時，於轄內龍江路和長安東路口發現有輛汽車停等紅燈時超越停止線，隨即上前攔查。</p><p>員警在攔查過程中，聞到汽車駕駛65歲紀男散發濃厚酒氣，現場實施酒測，結果酒測值為0.71毫克、超標。</p><p>據了解，紀男當晚先和友人在信義區某間餐廳餐敘、飲酒，隨後搭車返回位於中山區八德路的公司，深夜再自行駕車要返回中正區住處，不料就在派出所旁的路口遭警方查獲酒駕。（編輯：方沛清）1140602</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1343/768;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1343x768_wmky_0_C20250602003011.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1343x768_wmky_0_C20250602003011.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1343x768_wmky_0_C20250602003011.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1343x768_wmky_0_C20250602003011.jpg" alt="指標性3C龍頭商場NOVA資訊廣場董事長紀男近日餐敘後駕車返家，途中行經中山區龍江路時因停等紅燈時超越停止線，遭警方攔查，發現其酒測值達0.71毫克，依法送辦。（翻攝照片）中央社記者黃麗芸傳真 114年6月2日">
+                      </picture><figcaption class="picinfo">指標性3C龍頭商場NOVA資訊廣場董事長紀男近日餐敘後駕車返家，途中行經中山區龍江路時因停等紅燈時超越停止線，遭警方攔查，發現其酒測值達0.71毫克，依法送辦。（翻攝照片）中央社記者黃麗芸傳真 114年6月2日</figcaption></figure><p>（中央社記者黃麗芸、劉世怡台北2日電）指標性3C龍頭商場NOVA資訊廣場董事長紀男近日餐敘後駕車返家，行經中山區龍江路時因停等紅燈時超越停止線，遭警方攔查，發現其酒測值達0.71毫克，依法送辦。</p><p>全案詢後，警方將紀男依涉犯公共危險罪移送台北地檢署偵辦。北檢今天偵結，處分紀男緩起訴，須支付公庫新台幣9萬元。</p><p>台北市警察局中山分局今天透過新聞稿說明，轄下長安東路派出所員警於5月22日深夜11時執行巡邏勤務時，於轄內龍江路和長安東路口發現有輛汽車停等紅燈時超越停止線，隨即上前攔查。</p><p>員警在攔查過程中，聞到汽車駕駛65歲紀男散發濃厚酒氣，現場實施酒測，結果酒測值為0.71毫克、超標。</p><p>據了解，紀男當晚先和友人在信義區某間餐廳餐敘、飲酒，隨後搭車返回位於中山區八德路的公司，深夜再自行駕車要返回中正區住處，不料就在派出所旁的路口遭警方查獲酒駕。（編輯：方沛清）1140602</p>]]>
+    </description>
+    <content:encoded><![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1343/768;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1343x768_wmky_0_C20250602003011.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1343x768_wmky_0_C20250602003011.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1343x768_wmky_0_C20250602003011.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1343x768_wmky_0_C20250602003011.jpg" alt="指標性3C龍頭商場NOVA資訊廣場董事長紀男近日餐敘後駕車返家，途中行經中山區龍江路時因停等紅燈時超越停止線，遭警方攔查，發現其酒測值達0.71毫克，依法送辦。（翻攝照片）中央社記者黃麗芸傳真 114年6月2日">
+                      </picture><figcaption class="picinfo">指標性3C龍頭商場NOVA資訊廣場董事長紀男近日餐敘後駕車返家，途中行經中山區龍江路時因停等紅燈時超越停止線，遭警方攔查，發現其酒測值達0.71毫克，依法送辦。（翻攝照片）中央社記者黃麗芸傳真 114年6月2日</figcaption></figure><p>（中央社記者黃麗芸、劉世怡台北2日電）指標性3C龍頭商場NOVA資訊廣場董事長紀男近日餐敘後駕車返家，行經中山區龍江路時因停等紅燈時超越停止線，遭警方攔查，發現其酒測值達0.71毫克，依法送辦。</p><p>全案詢後，警方將紀男依涉犯公共危險罪移送台北地檢署偵辦。北檢今天偵結，處分紀男緩起訴，須支付公庫新台幣9萬元。</p><p>台北市警察局中山分局今天透過新聞稿說明，轄下長安東路派出所員警於5月22日深夜11時執行巡邏勤務時，於轄內龍江路和長安東路口發現有輛汽車停等紅燈時超越停止線，隨即上前攔查。</p><p>員警在攔查過程中，聞到汽車駕駛65歲紀男散發濃厚酒氣，現場實施酒測，結果酒測值為0.71毫克、超標。</p><p>據了解，紀男當晚先和友人在信義區某間餐廳餐敘、飲酒，隨後搭車返回位於中山區八德路的公司，深夜再自行駕車要返回中正區住處，不料就在派出所旁的路口遭警方查獲酒駕。（編輯：方沛清）1140602</p>]]></content:encoded>
+    
+    <pubDate>Mon, 02 Jun 2025 17:51:08 +0800</pubDate>
+  </item><item>
+    <title><![CDATA[招攬村里長中國旅遊受招待判4年 林雪峰：上訴到底]]></title>
+    <link>https://www.cna.com.tw/news/asoc/202506020212.aspx</link>
+    <itunes:title><![CDATA[招攬村里長中國旅遊受招待判4年 林雪峰：上訴到底]]></itunes:title>
+    <itunes:author><![CDATA[中央社 社會[RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1200/856;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1200x856_wmky_856136568869_202501130121000000.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1200x856_wmky_856136568869_202501130121000000.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1200x856_wmky_856136568869_202501130121000000.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1200x856_wmky_856136568869_202501130121000000.jpg" alt="曾參選嘉市議員林雪峰被控接受中國資助，112年8月起招攬嘉義縣村里長赴中國旅遊，向團員宣揚「支持特定人當選」被起訴；嘉院日前依反滲透法等判4年徒刑。林雪峰表示會上訴。圖為嘉義地方法院。（中央社檔案照片）">
+                      </picture><figcaption class="picinfo">曾參選嘉市議員林雪峰被控接受中國資助，112年8月起招攬嘉義縣村里長赴中國旅遊，向團員宣揚「支持特定人當選」被起訴；嘉院日前依反滲透法等判4年徒刑。林雪峰表示會上訴。圖為嘉義地方法院。（中央社檔案照片）</figcaption></figure><p>（中央社記者黃國芳嘉義市2日電）曾代表國民黨參選嘉市議員的林雪峰被控接受中國資助，112年8月起招攬嘉義縣村里長赴中國旅遊，並向團員宣揚「支持特定人當選」被起訴；嘉院日前依反滲透法等判4年徒刑。林雪峰今天表示，一定會上訴到底。</p><p>林雪峰今天告訴中央社記者，早期馬英九、蔡英文當總統時代，兩岸就時常在交流、參訪，並非只有選舉期間才參訪；參與團員須支付新台幣1萬6000元團費，當時是一般行情，並非由他人資助。</p><p>林雪峰表示，帶團至中國浙江省台州市進行6天5夜旅遊，團員非全部認識，也不清楚政治傾向，因當時參選總統的國民黨候選人侯友宜是嘉義鄉親，大家聚餐聊天提到支持是人之常情。</p><p>國民黨嘉義縣黨部今天表示，這起案件判決尚未確定，且當事人對於一審判決，也要上訴以捍衛清白；有關黨紀處分部分，依現行黨紀處分規程相關規定，須待案件判決確定結果，再予處理。</p><p>據嘉義地檢署起訴書指出，55歲林雪峰受中國地區浙江省台州市台辦林姓處長委託、指示及資助，先後於112年8月、10月及11月間，邀約設籍嘉義縣村里長等人前往浙江省台州市進行6天5夜旅遊。</p><p>嘉檢表示，參與團員僅須支付1萬6000元團費，包含機票、交通費及餐費等費用，其餘在中國食、宿、交通等費用，均由台州市台辦資助；在中國旅遊，由林雪峰或台州市台辦官員陪同，並利用餐敘機會，向團員宣揚「希望支持國民黨總統候選人侯友宜當選」、「兩岸一家親」等理念。</p><p>嘉檢指出，林雪峰在旅遊過程，也會利用機會向團員表示，選舉投票要支持侯友宜，藉此方式向參與旅遊團員行求、期約及交付不正利益，暗示其在接受免費招待旅遊後，於總統、副總統選舉投票時，須投票支持特定人當選。全案於去年1月間偵結起訴。</p><p>嘉義地方法院日前依林雪峰涉及反滲透法、總統副總統選舉罷免法的受滲透來源指示、委託、資助，而對有投票權人交付不正利益罪，判處有期徒刑4年，禠奪公權3年。全案可上訴。（編輯：陳仁華）1140602</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1200/856;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1200x856_wmky_856136568869_202501130121000000.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1200x856_wmky_856136568869_202501130121000000.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1200x856_wmky_856136568869_202501130121000000.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1200x856_wmky_856136568869_202501130121000000.jpg" alt="曾參選嘉市議員林雪峰被控接受中國資助，112年8月起招攬嘉義縣村里長赴中國旅遊，向團員宣揚「支持特定人當選」被起訴；嘉院日前依反滲透法等判4年徒刑。林雪峰表示會上訴。圖為嘉義地方法院。（中央社檔案照片）">
+                      </picture><figcaption class="picinfo">曾參選嘉市議員林雪峰被控接受中國資助，112年8月起招攬嘉義縣村里長赴中國旅遊，向團員宣揚「支持特定人當選」被起訴；嘉院日前依反滲透法等判4年徒刑。林雪峰表示會上訴。圖為嘉義地方法院。（中央社檔案照片）</figcaption></figure><p>（中央社記者黃國芳嘉義市2日電）曾代表國民黨參選嘉市議員的林雪峰被控接受中國資助，112年8月起招攬嘉義縣村里長赴中國旅遊，並向團員宣揚「支持特定人當選」被起訴；嘉院日前依反滲透法等判4年徒刑。林雪峰今天表示，一定會上訴到底。</p><p>林雪峰今天告訴中央社記者，早期馬英九、蔡英文當總統時代，兩岸就時常在交流、參訪，並非只有選舉期間才參訪；參與團員須支付新台幣1萬6000元團費，當時是一般行情，並非由他人資助。</p><p>林雪峰表示，帶團至中國浙江省台州市進行6天5夜旅遊，團員非全部認識，也不清楚政治傾向，因當時參選總統的國民黨候選人侯友宜是嘉義鄉親，大家聚餐聊天提到支持是人之常情。</p><p>國民黨嘉義縣黨部今天表示，這起案件判決尚未確定，且當事人對於一審判決，也要上訴以捍衛清白；有關黨紀處分部分，依現行黨紀處分規程相關規定，須待案件判決確定結果，再予處理。</p><p>據嘉義地檢署起訴書指出，55歲林雪峰受中國地區浙江省台州市台辦林姓處長委託、指示及資助，先後於112年8月、10月及11月間，邀約設籍嘉義縣村里長等人前往浙江省台州市進行6天5夜旅遊。</p><p>嘉檢表示，參與團員僅須支付1萬6000元團費，包含機票、交通費及餐費等費用，其餘在中國食、宿、交通等費用，均由台州市台辦資助；在中國旅遊，由林雪峰或台州市台辦官員陪同，並利用餐敘機會，向團員宣揚「希望支持國民黨總統候選人侯友宜當選」、「兩岸一家親」等理念。</p><p>嘉檢指出，林雪峰在旅遊過程，也會利用機會向團員表示，選舉投票要支持侯友宜，藉此方式向參與旅遊團員行求、期約及交付不正利益，暗示其在接受免費招待旅遊後，於總統、副總統選舉投票時，須投票支持特定人當選。全案於去年1月間偵結起訴。</p><p>嘉義地方法院日前依林雪峰涉及反滲透法、總統副總統選舉罷免法的受滲透來源指示、委託、資助，而對有投票權人交付不正利益罪，判處有期徒刑4年，禠奪公權3年。全案可上訴。（編輯：陳仁華）1140602</p>]]>
+    </description>
+    <content:encoded><![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1200/856;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1200x856_wmky_856136568869_202501130121000000.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1200x856_wmky_856136568869_202501130121000000.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1200x856_wmky_856136568869_202501130121000000.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1200x856_wmky_856136568869_202501130121000000.jpg" alt="曾參選嘉市議員林雪峰被控接受中國資助，112年8月起招攬嘉義縣村里長赴中國旅遊，向團員宣揚「支持特定人當選」被起訴；嘉院日前依反滲透法等判4年徒刑。林雪峰表示會上訴。圖為嘉義地方法院。（中央社檔案照片）">
+                      </picture><figcaption class="picinfo">曾參選嘉市議員林雪峰被控接受中國資助，112年8月起招攬嘉義縣村里長赴中國旅遊，向團員宣揚「支持特定人當選」被起訴；嘉院日前依反滲透法等判4年徒刑。林雪峰表示會上訴。圖為嘉義地方法院。（中央社檔案照片）</figcaption></figure><p>（中央社記者黃國芳嘉義市2日電）曾代表國民黨參選嘉市議員的林雪峰被控接受中國資助，112年8月起招攬嘉義縣村里長赴中國旅遊，並向團員宣揚「支持特定人當選」被起訴；嘉院日前依反滲透法等判4年徒刑。林雪峰今天表示，一定會上訴到底。</p><p>林雪峰今天告訴中央社記者，早期馬英九、蔡英文當總統時代，兩岸就時常在交流、參訪，並非只有選舉期間才參訪；參與團員須支付新台幣1萬6000元團費，當時是一般行情，並非由他人資助。</p><p>林雪峰表示，帶團至中國浙江省台州市進行6天5夜旅遊，團員非全部認識，也不清楚政治傾向，因當時參選總統的國民黨候選人侯友宜是嘉義鄉親，大家聚餐聊天提到支持是人之常情。</p><p>國民黨嘉義縣黨部今天表示，這起案件判決尚未確定，且當事人對於一審判決，也要上訴以捍衛清白；有關黨紀處分部分，依現行黨紀處分規程相關規定，須待案件判決確定結果，再予處理。</p><p>據嘉義地檢署起訴書指出，55歲林雪峰受中國地區浙江省台州市台辦林姓處長委託、指示及資助，先後於112年8月、10月及11月間，邀約設籍嘉義縣村里長等人前往浙江省台州市進行6天5夜旅遊。</p><p>嘉檢表示，參與團員僅須支付1萬6000元團費，包含機票、交通費及餐費等費用，其餘在中國食、宿、交通等費用，均由台州市台辦資助；在中國旅遊，由林雪峰或台州市台辦官員陪同，並利用餐敘機會，向團員宣揚「希望支持國民黨總統候選人侯友宜當選」、「兩岸一家親」等理念。</p><p>嘉檢指出，林雪峰在旅遊過程，也會利用機會向團員表示，選舉投票要支持侯友宜，藉此方式向參與旅遊團員行求、期約及交付不正利益，暗示其在接受免費招待旅遊後，於總統、副總統選舉投票時，須投票支持特定人當選。全案於去年1月間偵結起訴。</p><p>嘉義地方法院日前依林雪峰涉及反滲透法、總統副總統選舉罷免法的受滲透來源指示、委託、資助，而對有投票權人交付不正利益罪，判處有期徒刑4年，禠奪公權3年。全案可上訴。（編輯：陳仁華）1140602</p>]]></content:encoded>
+    
+    <pubDate>Mon, 02 Jun 2025 17:12:12 +0800</pubDate>
+  </item><item>
+    <title><![CDATA[幣想科技涉勾結詐團洗錢17億 刑事局查獲12嫌]]></title>
+    <link>https://www.cna.com.tw/news/asoc/202506020207.aspx</link>
+    <itunes:title><![CDATA[幣想科技涉勾結詐團洗錢17億 刑事局查獲12嫌]]></itunes:title>
+    <itunes:author><![CDATA[中央社 社會[RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:768/1024;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/768x1024_wmky_0_C20250602000109.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/768x1024_wmky_0_C20250602000109.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/768x1024_wmky_0_C20250602000109.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/768x1024_wmky_0_C20250602000109.jpg" alt="警政署刑事局2日舉行破案記者會，指出虛擬貨幣交易平台「幣想科技公司」涉嫌與詐團勾結協助洗錢，已知近千人受害、總財損約新台幣17億元，警方共執行2波拘提行動，逮12嫌送辦。中央社記者黃麗芸攝  114年6月2日">
+                      </picture><figcaption class="picinfo">警政署刑事局2日舉行破案記者會，指出虛擬貨幣交易平台「幣想科技公司」涉嫌與詐團勾結協助洗錢，已知近千人受害、總財損約新台幣17億元，警方共執行2波拘提行動，逮12嫌送辦。中央社記者黃麗芸攝  114年6月2日</figcaption></figure><p>（中央社記者黃麗芸台北2日電）虛擬貨幣交易平台幣想科技涉嫌勾結詐團協助洗錢，警方查出幕後主嫌為天道盟正義會軍師施姓男子，已知近千人受害、總財損約17億元。刑事局今天表示，已查獲施男等12嫌送辦。</p><p>警政署刑事局今天舉行破案記者會，偵查第二大隊大隊長李泱輯表示，因應去年11月30日生效的洗錢防制法新制，警方針對未申請虛擬資產業務（VASP）登記的非法個人幣商及幣商工作室加強查緝，發現有非法幣商已轉向加盟合法申請VASP的業者。</p><p>刑事局進一步發現，自去年1月起至今年4月，全國有近千名與幣想公司相關的被害人遭詐欺集團詐騙，總金額高達新台幣17億元，經檢具事證後報請士林地檢署指揮偵辦。</p><p>警方調查，幣想公司表面為虛擬貨幣交易平台，實際已淪為詐欺集團洗錢工具，詐騙集團指示被害人前往幣想門市購買虛擬貨幣，幣想再將收到的詐款洗錢至海外。</p><p>刑事局蒐證完備後，今年4月24日至幣想全國45處門市據點及7處住處同步搜索，拘提負責人施男等7人，並通知共犯羅男等3人到案；警方緊接著於5月14日再度行動，拘提負責幣想資訊業務的蔡男和蘇男2人。</p><p>警方指出，歷次行動總計查扣逾64.7萬顆USDT（泰達幣）、現金6049萬餘元、法拉利跑車、瑪莎拉蒂休旅車等贓證物，並於搜索現場即時攔阻詐欺被害人15人、攔阻金額282萬餘元。</p><p>警方詢後將施男等12嫌依涉犯詐欺罪、洗錢罪、組織犯罪防制條例等罪移送士檢偵辦，其中施男、楊男和王男遭收押，其餘9嫌分別以10萬至50萬元不等金額交保。</p><p>刑事局呼籲，於幣想門市購幣的民眾計有4000餘人，若有民眾遭詐騙而前往幣想公司實體門市購買虛擬貨幣，請儘速前往鄰近派出所報案。（編輯：蕭博文）1140602</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:768/1024;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/768x1024_wmky_0_C20250602000109.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/768x1024_wmky_0_C20250602000109.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/768x1024_wmky_0_C20250602000109.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/768x1024_wmky_0_C20250602000109.jpg" alt="警政署刑事局2日舉行破案記者會，指出虛擬貨幣交易平台「幣想科技公司」涉嫌與詐團勾結協助洗錢，已知近千人受害、總財損約新台幣17億元，警方共執行2波拘提行動，逮12嫌送辦。中央社記者黃麗芸攝  114年6月2日">
+                      </picture><figcaption class="picinfo">警政署刑事局2日舉行破案記者會，指出虛擬貨幣交易平台「幣想科技公司」涉嫌與詐團勾結協助洗錢，已知近千人受害、總財損約新台幣17億元，警方共執行2波拘提行動，逮12嫌送辦。中央社記者黃麗芸攝  114年6月2日</figcaption></figure><p>（中央社記者黃麗芸台北2日電）虛擬貨幣交易平台幣想科技涉嫌勾結詐團協助洗錢，警方查出幕後主嫌為天道盟正義會軍師施姓男子，已知近千人受害、總財損約17億元。刑事局今天表示，已查獲施男等12嫌送辦。</p><p>警政署刑事局今天舉行破案記者會，偵查第二大隊大隊長李泱輯表示，因應去年11月30日生效的洗錢防制法新制，警方針對未申請虛擬資產業務（VASP）登記的非法個人幣商及幣商工作室加強查緝，發現有非法幣商已轉向加盟合法申請VASP的業者。</p><p>刑事局進一步發現，自去年1月起至今年4月，全國有近千名與幣想公司相關的被害人遭詐欺集團詐騙，總金額高達新台幣17億元，經檢具事證後報請士林地檢署指揮偵辦。</p><p>警方調查，幣想公司表面為虛擬貨幣交易平台，實際已淪為詐欺集團洗錢工具，詐騙集團指示被害人前往幣想門市購買虛擬貨幣，幣想再將收到的詐款洗錢至海外。</p><p>刑事局蒐證完備後，今年4月24日至幣想全國45處門市據點及7處住處同步搜索，拘提負責人施男等7人，並通知共犯羅男等3人到案；警方緊接著於5月14日再度行動，拘提負責幣想資訊業務的蔡男和蘇男2人。</p><p>警方指出，歷次行動總計查扣逾64.7萬顆USDT（泰達幣）、現金6049萬餘元、法拉利跑車、瑪莎拉蒂休旅車等贓證物，並於搜索現場即時攔阻詐欺被害人15人、攔阻金額282萬餘元。</p><p>警方詢後將施男等12嫌依涉犯詐欺罪、洗錢罪、組織犯罪防制條例等罪移送士檢偵辦，其中施男、楊男和王男遭收押，其餘9嫌分別以10萬至50萬元不等金額交保。</p><p>刑事局呼籲，於幣想門市購幣的民眾計有4000餘人，若有民眾遭詐騙而前往幣想公司實體門市購買虛擬貨幣，請儘速前往鄰近派出所報案。（編輯：蕭博文）1140602</p>]]>
+    </description>
+    <content:encoded><![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:768/1024;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/768x1024_wmky_0_C20250602000109.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/768x1024_wmky_0_C20250602000109.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/768x1024_wmky_0_C20250602000109.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/768x1024_wmky_0_C20250602000109.jpg" alt="警政署刑事局2日舉行破案記者會，指出虛擬貨幣交易平台「幣想科技公司」涉嫌與詐團勾結協助洗錢，已知近千人受害、總財損約新台幣17億元，警方共執行2波拘提行動，逮12嫌送辦。中央社記者黃麗芸攝  114年6月2日">
+                      </picture><figcaption class="picinfo">警政署刑事局2日舉行破案記者會，指出虛擬貨幣交易平台「幣想科技公司」涉嫌與詐團勾結協助洗錢，已知近千人受害、總財損約新台幣17億元，警方共執行2波拘提行動，逮12嫌送辦。中央社記者黃麗芸攝  114年6月2日</figcaption></figure><p>（中央社記者黃麗芸台北2日電）虛擬貨幣交易平台幣想科技涉嫌勾結詐團協助洗錢，警方查出幕後主嫌為天道盟正義會軍師施姓男子，已知近千人受害、總財損約17億元。刑事局今天表示，已查獲施男等12嫌送辦。</p><p>警政署刑事局今天舉行破案記者會，偵查第二大隊大隊長李泱輯表示，因應去年11月30日生效的洗錢防制法新制，警方針對未申請虛擬資產業務（VASP）登記的非法個人幣商及幣商工作室加強查緝，發現有非法幣商已轉向加盟合法申請VASP的業者。</p><p>刑事局進一步發現，自去年1月起至今年4月，全國有近千名與幣想公司相關的被害人遭詐欺集團詐騙，總金額高達新台幣17億元，經檢具事證後報請士林地檢署指揮偵辦。</p><p>警方調查，幣想公司表面為虛擬貨幣交易平台，實際已淪為詐欺集團洗錢工具，詐騙集團指示被害人前往幣想門市購買虛擬貨幣，幣想再將收到的詐款洗錢至海外。</p><p>刑事局蒐證完備後，今年4月24日至幣想全國45處門市據點及7處住處同步搜索，拘提負責人施男等7人，並通知共犯羅男等3人到案；警方緊接著於5月14日再度行動，拘提負責幣想資訊業務的蔡男和蘇男2人。</p><p>警方指出，歷次行動總計查扣逾64.7萬顆USDT（泰達幣）、現金6049萬餘元、法拉利跑車、瑪莎拉蒂休旅車等贓證物，並於搜索現場即時攔阻詐欺被害人15人、攔阻金額282萬餘元。</p><p>警方詢後將施男等12嫌依涉犯詐欺罪、洗錢罪、組織犯罪防制條例等罪移送士檢偵辦，其中施男、楊男和王男遭收押，其餘9嫌分別以10萬至50萬元不等金額交保。</p><p>刑事局呼籲，於幣想門市購幣的民眾計有4000餘人，若有民眾遭詐騙而前往幣想公司實體門市購買虛擬貨幣，請儘速前往鄰近派出所報案。（編輯：蕭博文）1140602</p>]]></content:encoded>
+    
+    <pubDate>Mon, 02 Jun 2025 17:00:01 +0800</pubDate>
+  </item><item>
+    <title><![CDATA[前SBL球員涉假球案  施顏宗、陳奕綸獲緩刑]]></title>
+    <link>https://www.cna.com.tw/news/asoc/202506020197.aspx</link>
+    <itunes:title><![CDATA[前SBL球員涉假球案  施顏宗、陳奕綸獲緩刑]]></itunes:title>
+    <itunes:author><![CDATA[中央社 社會[RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1200/675;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1200x675_wmkn_7969528196_202409300034000000.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1200x675_wmkn_7969528196_202409300034000000.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1200x675_wmkn_7969528196_202409300034000000.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1200x675_wmkn_7969528196_202409300034000000.jpg" alt="檢警偵辦SBL假球案，刑事局掌握時任彰化柏力力隊球員施顏宗、陳奕綸2人涉案，刑事局中打日前循線逮捕2人到案，並查扣存摺等證物。（翻攝照片）">
+                      </picture><figcaption class="picinfo">檢警偵辦SBL假球案，刑事局掌握時任彰化柏力力隊球員施顏宗、陳奕綸2人涉案，刑事局中打日前循線逮捕2人到案，並查扣存摺等證物。（翻攝照片）</figcaption></figure><p>（中央社記者鄭維真彰化2日電）超級籃球聯賽前彰化柏力力隊球員施顏宗、陳奕綸下注簽賭第20屆SBL賽季期間球賽比分，並配合壓低得分，法院近日依違反運動彩券發行條例各處1年7月、1年6月刑期，均獲緩刑。</p><p>根據彰化地方法院判決書，施顏宗於民國112年間擔任柏力力隊中鋒與小前鋒球員，負責搶奪籃板、防守及得分等，陳奕綸為柏力力隊控球後衛球員，組織進攻、助攻與得分，2人當時皆為柏力力隊固定先發球員。</p><p>施顏宗透過裕隆隊球員柯旻豪結識邱姓組頭下注，陳奕綸得知大小分、讓分等賭博方式後，藉由施顏宗以口頭方式向組頭下注。</p><p>112年4月22日裕隆隊對上柏力力隊，賽前柯旻豪透過邱姓組頭告知當日裕隆隊有球員狀況不佳、戰力不齊全，要施顏宗和陳奕綸「認真打」、「不要輸太多」，並請2人刻意配合裕隆隊比賽節奏壓低得分。</p><p>此場賽事最終分數為柏力力隊73分，裕隆隊71分，由柏力力隊逆轉贏得比賽，雙方總分僅144分，施顏宗與陳奕綸因於賽前押注柏力力隊獲勝而詐得賭金，由邱姓組頭於4月30日匯款給施顏宗新台幣3萬元，施顏宗再交付3000元給陳奕綸。</p><p>法官認為，施顏宗、陳奕綸正值青壯年，卻為貪圖賭金簽賭地下賭盤，並因此未以運動員精神專注於賽事，與組頭等人共同以詐術妨害SBL賽事公正性，詐得賭金，對台灣職籃發展及社會風氣均有重大不良影響。</p><p>彰化地院考量施顏宗、陳奕綸因一時失慮犯案，已坦承犯行，知所悔悟，分別依犯結夥3人以上共同以詐術妨害投注標的運動競技賽事公平罪處1年7月、1年6月刑期，均緩刑3年，沒收犯罪所得。全案可上訴。（編輯：陳仁華）1140602</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1200/675;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1200x675_wmkn_7969528196_202409300034000000.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1200x675_wmkn_7969528196_202409300034000000.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1200x675_wmkn_7969528196_202409300034000000.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1200x675_wmkn_7969528196_202409300034000000.jpg" alt="檢警偵辦SBL假球案，刑事局掌握時任彰化柏力力隊球員施顏宗、陳奕綸2人涉案，刑事局中打日前循線逮捕2人到案，並查扣存摺等證物。（翻攝照片）">
+                      </picture><figcaption class="picinfo">檢警偵辦SBL假球案，刑事局掌握時任彰化柏力力隊球員施顏宗、陳奕綸2人涉案，刑事局中打日前循線逮捕2人到案，並查扣存摺等證物。（翻攝照片）</figcaption></figure><p>（中央社記者鄭維真彰化2日電）超級籃球聯賽前彰化柏力力隊球員施顏宗、陳奕綸下注簽賭第20屆SBL賽季期間球賽比分，並配合壓低得分，法院近日依違反運動彩券發行條例各處1年7月、1年6月刑期，均獲緩刑。</p><p>根據彰化地方法院判決書，施顏宗於民國112年間擔任柏力力隊中鋒與小前鋒球員，負責搶奪籃板、防守及得分等，陳奕綸為柏力力隊控球後衛球員，組織進攻、助攻與得分，2人當時皆為柏力力隊固定先發球員。</p><p>施顏宗透過裕隆隊球員柯旻豪結識邱姓組頭下注，陳奕綸得知大小分、讓分等賭博方式後，藉由施顏宗以口頭方式向組頭下注。</p><p>112年4月22日裕隆隊對上柏力力隊，賽前柯旻豪透過邱姓組頭告知當日裕隆隊有球員狀況不佳、戰力不齊全，要施顏宗和陳奕綸「認真打」、「不要輸太多」，並請2人刻意配合裕隆隊比賽節奏壓低得分。</p><p>此場賽事最終分數為柏力力隊73分，裕隆隊71分，由柏力力隊逆轉贏得比賽，雙方總分僅144分，施顏宗與陳奕綸因於賽前押注柏力力隊獲勝而詐得賭金，由邱姓組頭於4月30日匯款給施顏宗新台幣3萬元，施顏宗再交付3000元給陳奕綸。</p><p>法官認為，施顏宗、陳奕綸正值青壯年，卻為貪圖賭金簽賭地下賭盤，並因此未以運動員精神專注於賽事，與組頭等人共同以詐術妨害SBL賽事公正性，詐得賭金，對台灣職籃發展及社會風氣均有重大不良影響。</p><p>彰化地院考量施顏宗、陳奕綸因一時失慮犯案，已坦承犯行，知所悔悟，分別依犯結夥3人以上共同以詐術妨害投注標的運動競技賽事公平罪處1年7月、1年6月刑期，均緩刑3年，沒收犯罪所得。全案可上訴。（編輯：陳仁華）1140602</p>]]>
+    </description>
+    <content:encoded><![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1200/675;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1200x675_wmkn_7969528196_202409300034000000.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1200x675_wmkn_7969528196_202409300034000000.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1200x675_wmkn_7969528196_202409300034000000.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1200x675_wmkn_7969528196_202409300034000000.jpg" alt="檢警偵辦SBL假球案，刑事局掌握時任彰化柏力力隊球員施顏宗、陳奕綸2人涉案，刑事局中打日前循線逮捕2人到案，並查扣存摺等證物。（翻攝照片）">
+                      </picture><figcaption class="picinfo">檢警偵辦SBL假球案，刑事局掌握時任彰化柏力力隊球員施顏宗、陳奕綸2人涉案，刑事局中打日前循線逮捕2人到案，並查扣存摺等證物。（翻攝照片）</figcaption></figure><p>（中央社記者鄭維真彰化2日電）超級籃球聯賽前彰化柏力力隊球員施顏宗、陳奕綸下注簽賭第20屆SBL賽季期間球賽比分，並配合壓低得分，法院近日依違反運動彩券發行條例各處1年7月、1年6月刑期，均獲緩刑。</p><p>根據彰化地方法院判決書，施顏宗於民國112年間擔任柏力力隊中鋒與小前鋒球員，負責搶奪籃板、防守及得分等，陳奕綸為柏力力隊控球後衛球員，組織進攻、助攻與得分，2人當時皆為柏力力隊固定先發球員。</p><p>施顏宗透過裕隆隊球員柯旻豪結識邱姓組頭下注，陳奕綸得知大小分、讓分等賭博方式後，藉由施顏宗以口頭方式向組頭下注。</p><p>112年4月22日裕隆隊對上柏力力隊，賽前柯旻豪透過邱姓組頭告知當日裕隆隊有球員狀況不佳、戰力不齊全，要施顏宗和陳奕綸「認真打」、「不要輸太多」，並請2人刻意配合裕隆隊比賽節奏壓低得分。</p><p>此場賽事最終分數為柏力力隊73分，裕隆隊71分，由柏力力隊逆轉贏得比賽，雙方總分僅144分，施顏宗與陳奕綸因於賽前押注柏力力隊獲勝而詐得賭金，由邱姓組頭於4月30日匯款給施顏宗新台幣3萬元，施顏宗再交付3000元給陳奕綸。</p><p>法官認為，施顏宗、陳奕綸正值青壯年，卻為貪圖賭金簽賭地下賭盤，並因此未以運動員精神專注於賽事，與組頭等人共同以詐術妨害SBL賽事公正性，詐得賭金，對台灣職籃發展及社會風氣均有重大不良影響。</p><p>彰化地院考量施顏宗、陳奕綸因一時失慮犯案，已坦承犯行，知所悔悟，分別依犯結夥3人以上共同以詐術妨害投注標的運動競技賽事公平罪處1年7月、1年6月刑期，均緩刑3年，沒收犯罪所得。全案可上訴。（編輯：陳仁華）1140602</p>]]></content:encoded>
+    
+    <pubDate>Mon, 02 Jun 2025 16:29:40 +0800</pubDate>
+  </item><item>
+    <title><![CDATA[誤信網路「隔空作法」改運 台中男匯款警銀聯手擋下]]></title>
+    <link>https://www.cna.com.tw/news/asoc/202506020188.aspx</link>
+    <itunes:title><![CDATA[誤信網路「隔空作法」改運 台中男匯款警銀聯手擋下]]></itunes:title>
+    <itunes:author><![CDATA[中央社 社會[RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1105/768;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1105x768_wmky_0_C20250602003010.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1105x768_wmky_0_C20250602003010.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1105x768_wmky_0_C20250602003010.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1105x768_wmky_0_C20250602003010.jpg" alt="台中77歲陳姓男子近日諸事不順，在網路看到一則改運成功廣告，聲稱「隔空作法」即可消災解厄，到銀行要匯相關費用，行員詢問細節他卻無法交代，警方到場識破為詐騙手法，成功阻詐。（翻攝照片）中央社記者蘇木春傳真  114年6月2日">
+                      </picture><figcaption class="picinfo">台中77歲陳姓男子近日諸事不順，在網路看到一則改運成功廣告，聲稱「隔空作法」即可消災解厄，到銀行要匯相關費用，行員詢問細節他卻無法交代，警方到場識破為詐騙手法，成功阻詐。（翻攝照片）中央社記者蘇木春傳真  114年6月2日</figcaption></figure><p>（中央社記者蘇木春台中2日電）台中陳姓男子近日諸事不順，在網路看到改運廣告聲稱可「隔空作法」，到銀行要匯相關費用，行員詢問細節他卻無法交代，警方到場識破為詐騙手法，與行員勸退他匯款避免損失。</p><p>台中市警察局第三分局今天表示，東信派出所於今年5月23日下午2時多，接獲轄內合作金庫通報稱，有男子欲匯款新台幣4000元至私人帳戶，疑似遭遇詐騙，請員警到場協助。</p><p>經警方到場了解，77歲陳男表示近日因諸事不順，心情低落之際，在臉書（Facebook）看到一則改運成功廣告，聲稱無須親自到場，只要「隔空作法」即可消災解厄，他依對方指示，到銀行要匯款作為「辦理法事、改運」之用。</p><p>行員詢問陳男細節，但他無法說出受款人身分、法師名號，甚至連廟宇名稱與地點也都不清楚，經員警查看陳男手機，發現「廟方聯繫人」全程使用簡體字對話，再加上對方提供匯款帳號皆屬私人帳戶，警方確認為詐騙手法，與行員合力勸說下，打消他匯款念頭，避免金錢損失。（編輯：陳仁華）1140602</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1105/768;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1105x768_wmky_0_C20250602003010.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1105x768_wmky_0_C20250602003010.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1105x768_wmky_0_C20250602003010.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1105x768_wmky_0_C20250602003010.jpg" alt="台中77歲陳姓男子近日諸事不順，在網路看到一則改運成功廣告，聲稱「隔空作法」即可消災解厄，到銀行要匯相關費用，行員詢問細節他卻無法交代，警方到場識破為詐騙手法，成功阻詐。（翻攝照片）中央社記者蘇木春傳真  114年6月2日">
+                      </picture><figcaption class="picinfo">台中77歲陳姓男子近日諸事不順，在網路看到一則改運成功廣告，聲稱「隔空作法」即可消災解厄，到銀行要匯相關費用，行員詢問細節他卻無法交代，警方到場識破為詐騙手法，成功阻詐。（翻攝照片）中央社記者蘇木春傳真  114年6月2日</figcaption></figure><p>（中央社記者蘇木春台中2日電）台中陳姓男子近日諸事不順，在網路看到改運廣告聲稱可「隔空作法」，到銀行要匯相關費用，行員詢問細節他卻無法交代，警方到場識破為詐騙手法，與行員勸退他匯款避免損失。</p><p>台中市警察局第三分局今天表示，東信派出所於今年5月23日下午2時多，接獲轄內合作金庫通報稱，有男子欲匯款新台幣4000元至私人帳戶，疑似遭遇詐騙，請員警到場協助。</p><p>經警方到場了解，77歲陳男表示近日因諸事不順，心情低落之際，在臉書（Facebook）看到一則改運成功廣告，聲稱無須親自到場，只要「隔空作法」即可消災解厄，他依對方指示，到銀行要匯款作為「辦理法事、改運」之用。</p><p>行員詢問陳男細節，但他無法說出受款人身分、法師名號，甚至連廟宇名稱與地點也都不清楚，經員警查看陳男手機，發現「廟方聯繫人」全程使用簡體字對話，再加上對方提供匯款帳號皆屬私人帳戶，警方確認為詐騙手法，與行員合力勸說下，打消他匯款念頭，避免金錢損失。（編輯：陳仁華）1140602</p>]]>
+    </description>
+    <content:encoded><![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1105/768;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1105x768_wmky_0_C20250602003010.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1105x768_wmky_0_C20250602003010.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1105x768_wmky_0_C20250602003010.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1105x768_wmky_0_C20250602003010.jpg" alt="台中77歲陳姓男子近日諸事不順，在網路看到一則改運成功廣告，聲稱「隔空作法」即可消災解厄，到銀行要匯相關費用，行員詢問細節他卻無法交代，警方到場識破為詐騙手法，成功阻詐。（翻攝照片）中央社記者蘇木春傳真  114年6月2日">
+                      </picture><figcaption class="picinfo">台中77歲陳姓男子近日諸事不順，在網路看到一則改運成功廣告，聲稱「隔空作法」即可消災解厄，到銀行要匯相關費用，行員詢問細節他卻無法交代，警方到場識破為詐騙手法，成功阻詐。（翻攝照片）中央社記者蘇木春傳真  114年6月2日</figcaption></figure><p>（中央社記者蘇木春台中2日電）台中陳姓男子近日諸事不順，在網路看到改運廣告聲稱可「隔空作法」，到銀行要匯相關費用，行員詢問細節他卻無法交代，警方到場識破為詐騙手法，與行員勸退他匯款避免損失。</p><p>台中市警察局第三分局今天表示，東信派出所於今年5月23日下午2時多，接獲轄內合作金庫通報稱，有男子欲匯款新台幣4000元至私人帳戶，疑似遭遇詐騙，請員警到場協助。</p><p>經警方到場了解，77歲陳男表示近日因諸事不順，心情低落之際，在臉書（Facebook）看到一則改運成功廣告，聲稱無須親自到場，只要「隔空作法」即可消災解厄，他依對方指示，到銀行要匯款作為「辦理法事、改運」之用。</p><p>行員詢問陳男細節，但他無法說出受款人身分、法師名號，甚至連廟宇名稱與地點也都不清楚，經員警查看陳男手機，發現「廟方聯繫人」全程使用簡體字對話，再加上對方提供匯款帳號皆屬私人帳戶，警方確認為詐騙手法，與行員合力勸說下，打消他匯款念頭，避免金錢損失。（編輯：陳仁華）1140602</p>]]></content:encoded>
+    
+    <pubDate>Mon, 02 Jun 2025 16:12:20 +0800</pubDate>
+  </item><item>
+    <title><![CDATA[高雄岡山區污水埋管施工  汽車不慎跌入坑無傷亡]]></title>
+    <link>https://www.cna.com.tw/news/asoc/202506020180.aspx</link>
+    <itunes:title><![CDATA[高雄岡山區污水埋管施工  汽車不慎跌入坑無傷亡]]></itunes:title>
+    <itunes:author><![CDATA[中央社 社會[RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1024/768;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1024x768_wmkn_0_C20250602000097.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1024x768_wmkn_0_C20250602000097.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1024x768_wmkn_0_C20250602000097.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1024x768_wmkn_0_C20250602000097.jpg" alt="高雄市政府水利局在岡山區進行污水下水道埋管工程，62歲蘇姓男子2日欲進入工區旁保養廠保養車子，請義交人員開放封閉道路的臨時交維設施，讓車輛得以駛入，過程中蘇男車輛不慎掉入管溝。（高雄市政府警察局岡山分局提供）中央社記者張已亷傳真  114年6月2日">
+                      </picture><figcaption class="picinfo">高雄市政府水利局在岡山區進行污水下水道埋管工程，62歲蘇姓男子2日欲進入工區旁保養廠保養車子，請義交人員開放封閉道路的臨時交維設施，讓車輛得以駛入，過程中蘇男車輛不慎掉入管溝。（高雄市政府警察局岡山分局提供）中央社記者張已亷傳真  114年6月2日</figcaption></figure><p>（中央社記者張已亷、蔡孟妤高雄2日電）高雄市水利局在岡山區進行污水下水道埋管工程，人員今天因等待灌漿，打開臨時覆蓋管溝鐵板，一名蘇姓汽車駕駛卻連人帶車跌進深約1.5公尺坑洞，幸無傷亡，意外原因待釐清。</p><p>高雄市政府水利局表示，該處為「岡山橋頭污水區（岡山區）第二期第一標工程」，在岡山區竹圍中街66號進行巷道連接管線埋設與開挖工程，因現場已完成埋設連接管，在等待混凝土車進入澆置管溝，人員才打開臨時覆蓋管溝的鐵板。</p><p>水利局指出，上午11時17分許有民眾表示車輛要進入工區旁保養廠保養車子，請義交人員開放封閉道路的臨時交維設施，讓車輛得以駛入，過程中民眾車輛不慎掉入管溝。</p><p>高雄市政府警察局岡山分局說明，中午接獲民眾報案，指一部汽車陷入坑洞意外，經派員到場瞭解，該處工程因道路施工要灌漿，施工單位將鐵板移開，已設置警示封路，但62歲蘇男仍駕車誤闖，不慎陷入約1.5公尺深坑洞。</p><p>警方表示，蘇男經檢測沒有酒駕，現場事故車輛已排除，意外詳細原因仍待相關工程單位進一步調查釐清。（編輯：謝雅竹）1140602</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1024/768;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1024x768_wmkn_0_C20250602000097.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1024x768_wmkn_0_C20250602000097.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1024x768_wmkn_0_C20250602000097.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1024x768_wmkn_0_C20250602000097.jpg" alt="高雄市政府水利局在岡山區進行污水下水道埋管工程，62歲蘇姓男子2日欲進入工區旁保養廠保養車子，請義交人員開放封閉道路的臨時交維設施，讓車輛得以駛入，過程中蘇男車輛不慎掉入管溝。（高雄市政府警察局岡山分局提供）中央社記者張已亷傳真  114年6月2日">
+                      </picture><figcaption class="picinfo">高雄市政府水利局在岡山區進行污水下水道埋管工程，62歲蘇姓男子2日欲進入工區旁保養廠保養車子，請義交人員開放封閉道路的臨時交維設施，讓車輛得以駛入，過程中蘇男車輛不慎掉入管溝。（高雄市政府警察局岡山分局提供）中央社記者張已亷傳真  114年6月2日</figcaption></figure><p>（中央社記者張已亷、蔡孟妤高雄2日電）高雄市水利局在岡山區進行污水下水道埋管工程，人員今天因等待灌漿，打開臨時覆蓋管溝鐵板，一名蘇姓汽車駕駛卻連人帶車跌進深約1.5公尺坑洞，幸無傷亡，意外原因待釐清。</p><p>高雄市政府水利局表示，該處為「岡山橋頭污水區（岡山區）第二期第一標工程」，在岡山區竹圍中街66號進行巷道連接管線埋設與開挖工程，因現場已完成埋設連接管，在等待混凝土車進入澆置管溝，人員才打開臨時覆蓋管溝的鐵板。</p><p>水利局指出，上午11時17分許有民眾表示車輛要進入工區旁保養廠保養車子，請義交人員開放封閉道路的臨時交維設施，讓車輛得以駛入，過程中民眾車輛不慎掉入管溝。</p><p>高雄市政府警察局岡山分局說明，中午接獲民眾報案，指一部汽車陷入坑洞意外，經派員到場瞭解，該處工程因道路施工要灌漿，施工單位將鐵板移開，已設置警示封路，但62歲蘇男仍駕車誤闖，不慎陷入約1.5公尺深坑洞。</p><p>警方表示，蘇男經檢測沒有酒駕，現場事故車輛已排除，意外詳細原因仍待相關工程單位進一步調查釐清。（編輯：謝雅竹）1140602</p>]]>
+    </description>
+    <content:encoded><![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1024/768;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1024x768_wmkn_0_C20250602000097.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1024x768_wmkn_0_C20250602000097.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1024x768_wmkn_0_C20250602000097.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1024x768_wmkn_0_C20250602000097.jpg" alt="高雄市政府水利局在岡山區進行污水下水道埋管工程，62歲蘇姓男子2日欲進入工區旁保養廠保養車子，請義交人員開放封閉道路的臨時交維設施，讓車輛得以駛入，過程中蘇男車輛不慎掉入管溝。（高雄市政府警察局岡山分局提供）中央社記者張已亷傳真  114年6月2日">
+                      </picture><figcaption class="picinfo">高雄市政府水利局在岡山區進行污水下水道埋管工程，62歲蘇姓男子2日欲進入工區旁保養廠保養車子，請義交人員開放封閉道路的臨時交維設施，讓車輛得以駛入，過程中蘇男車輛不慎掉入管溝。（高雄市政府警察局岡山分局提供）中央社記者張已亷傳真  114年6月2日</figcaption></figure><p>（中央社記者張已亷、蔡孟妤高雄2日電）高雄市水利局在岡山區進行污水下水道埋管工程，人員今天因等待灌漿，打開臨時覆蓋管溝鐵板，一名蘇姓汽車駕駛卻連人帶車跌進深約1.5公尺坑洞，幸無傷亡，意外原因待釐清。</p><p>高雄市政府水利局表示，該處為「岡山橋頭污水區（岡山區）第二期第一標工程」，在岡山區竹圍中街66號進行巷道連接管線埋設與開挖工程，因現場已完成埋設連接管，在等待混凝土車進入澆置管溝，人員才打開臨時覆蓋管溝的鐵板。</p><p>水利局指出，上午11時17分許有民眾表示車輛要進入工區旁保養廠保養車子，請義交人員開放封閉道路的臨時交維設施，讓車輛得以駛入，過程中民眾車輛不慎掉入管溝。</p><p>高雄市政府警察局岡山分局說明，中午接獲民眾報案，指一部汽車陷入坑洞意外，經派員到場瞭解，該處工程因道路施工要灌漿，施工單位將鐵板移開，已設置警示封路，但62歲蘇男仍駕車誤闖，不慎陷入約1.5公尺深坑洞。</p><p>警方表示，蘇男經檢測沒有酒駕，現場事故車輛已排除，意外詳細原因仍待相關工程單位進一步調查釐清。（編輯：謝雅竹）1140602</p>]]></content:encoded>
+    
+    <pubDate>Mon, 02 Jun 2025 15:41:01 +0800</pubDate>
+  </item><item>
+    <title><![CDATA[北市士林公車自撞路樹6傷  駕駛疑精神恍惚釀禍]]></title>
+    <link>https://www.cna.com.tw/news/asoc/202506020177.aspx</link>
+    <itunes:title><![CDATA[北市士林公車自撞路樹6傷  駕駛疑精神恍惚釀禍]]></itunes:title>
+    <itunes:author><![CDATA[中央社 社會[RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1365/768;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1365x768_wmky_0_C20250602000101.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1365x768_wmky_0_C20250602000101.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1365x768_wmky_0_C20250602000101.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1365x768_wmky_0_C20250602000101.jpg" alt="台北市士林區2日中午發生一輛260路線公車自撞路樹事故，公車車頭受損、擋風玻璃碎裂，事發時車上有12名乘客，其中6人因此擦挫傷，送醫治療均無礙；肇事駕駛排除酒駕，疑精神恍惚釀禍。（翻攝照片）中央社記者黃麗芸傳真  114年6月2日">
+                      </picture><figcaption class="picinfo">台北市士林區2日中午發生一輛260路線公車自撞路樹事故，公車車頭受損、擋風玻璃碎裂，事發時車上有12名乘客，其中6人因此擦挫傷，送醫治療均無礙；肇事駕駛排除酒駕，疑精神恍惚釀禍。（翻攝照片）中央社記者黃麗芸傳真  114年6月2日</figcaption></figure><p>（中央社記者黃麗芸台北2日電）台北市士林區今天中午發生1輛260路線公車不慎撞上分隔島路樹事故，警消獲報到場處理，車上12名乘客有6人因此擦挫傷送醫治療均無礙，肇事駕駛廖男排除酒駕，疑精神恍惚釀禍。</p><p>北市警消中午12時44分許獲報，指士林區中山北路5段一帶發生公車自撞路樹事故，造成6人輕傷，立即派員到場處理。</p><p>根據警方調查了解，肇事的59歲公車駕駛廖男於案發時正沿中山北路5段向北行駛，不明原因自撞分隔島路樹而釀禍，造成公車車頭受損、擋風玻璃碎裂，事發時車上有12名乘客，其中6人因此擦挫傷，經送醫後無大礙。</p><p>警方初步已排除廖男酒駕。廖男供稱是因精神不濟才釀禍。詳細事故原因仍待調查釐清。（編輯：方沛清）1140602</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1365/768;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1365x768_wmky_0_C20250602000101.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1365x768_wmky_0_C20250602000101.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1365x768_wmky_0_C20250602000101.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1365x768_wmky_0_C20250602000101.jpg" alt="台北市士林區2日中午發生一輛260路線公車自撞路樹事故，公車車頭受損、擋風玻璃碎裂，事發時車上有12名乘客，其中6人因此擦挫傷，送醫治療均無礙；肇事駕駛排除酒駕，疑精神恍惚釀禍。（翻攝照片）中央社記者黃麗芸傳真  114年6月2日">
+                      </picture><figcaption class="picinfo">台北市士林區2日中午發生一輛260路線公車自撞路樹事故，公車車頭受損、擋風玻璃碎裂，事發時車上有12名乘客，其中6人因此擦挫傷，送醫治療均無礙；肇事駕駛排除酒駕，疑精神恍惚釀禍。（翻攝照片）中央社記者黃麗芸傳真  114年6月2日</figcaption></figure><p>（中央社記者黃麗芸台北2日電）台北市士林區今天中午發生1輛260路線公車不慎撞上分隔島路樹事故，警消獲報到場處理，車上12名乘客有6人因此擦挫傷送醫治療均無礙，肇事駕駛廖男排除酒駕，疑精神恍惚釀禍。</p><p>北市警消中午12時44分許獲報，指士林區中山北路5段一帶發生公車自撞路樹事故，造成6人輕傷，立即派員到場處理。</p><p>根據警方調查了解，肇事的59歲公車駕駛廖男於案發時正沿中山北路5段向北行駛，不明原因自撞分隔島路樹而釀禍，造成公車車頭受損、擋風玻璃碎裂，事發時車上有12名乘客，其中6人因此擦挫傷，經送醫後無大礙。</p><p>警方初步已排除廖男酒駕。廖男供稱是因精神不濟才釀禍。詳細事故原因仍待調查釐清。（編輯：方沛清）1140602</p>]]>
+    </description>
+    <content:encoded><![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1365/768;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1365x768_wmky_0_C20250602000101.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1365x768_wmky_0_C20250602000101.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1365x768_wmky_0_C20250602000101.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1365x768_wmky_0_C20250602000101.jpg" alt="台北市士林區2日中午發生一輛260路線公車自撞路樹事故，公車車頭受損、擋風玻璃碎裂，事發時車上有12名乘客，其中6人因此擦挫傷，送醫治療均無礙；肇事駕駛排除酒駕，疑精神恍惚釀禍。（翻攝照片）中央社記者黃麗芸傳真  114年6月2日">
+                      </picture><figcaption class="picinfo">台北市士林區2日中午發生一輛260路線公車自撞路樹事故，公車車頭受損、擋風玻璃碎裂，事發時車上有12名乘客，其中6人因此擦挫傷，送醫治療均無礙；肇事駕駛排除酒駕，疑精神恍惚釀禍。（翻攝照片）中央社記者黃麗芸傳真  114年6月2日</figcaption></figure><p>（中央社記者黃麗芸台北2日電）台北市士林區今天中午發生1輛260路線公車不慎撞上分隔島路樹事故，警消獲報到場處理，車上12名乘客有6人因此擦挫傷送醫治療均無礙，肇事駕駛廖男排除酒駕，疑精神恍惚釀禍。</p><p>北市警消中午12時44分許獲報，指士林區中山北路5段一帶發生公車自撞路樹事故，造成6人輕傷，立即派員到場處理。</p><p>根據警方調查了解，肇事的59歲公車駕駛廖男於案發時正沿中山北路5段向北行駛，不明原因自撞分隔島路樹而釀禍，造成公車車頭受損、擋風玻璃碎裂，事發時車上有12名乘客，其中6人因此擦挫傷，經送醫後無大礙。</p><p>警方初步已排除廖男酒駕。廖男供稱是因精神不濟才釀禍。詳細事故原因仍待調查釐清。（編輯：方沛清）1140602</p>]]></content:encoded>
+    
+    <pubDate>Mon, 02 Jun 2025 15:37:55 +0800</pubDate>
+  </item><item>
+    <title><![CDATA[對罷免攤位志工罵髒話 台中男涉公然侮辱遭訴]]></title>
+    <link>https://www.cna.com.tw/news/asoc/202506020168.aspx</link>
+    <itunes:title><![CDATA[對罷免攤位志工罵髒話 台中男涉公然侮辱遭訴]]></itunes:title>
+    <itunes:author><![CDATA[中央社 社會[RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1200/904;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1200x904_wmky_178749992919_202501100137000000.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1200x904_wmky_178749992919_202501100137000000.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1200x904_wmky_178749992919_202501100137000000.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1200x904_wmky_178749992919_202501100137000000.jpg" alt="對罷免攤位志工罵髒話，台中男涉公然侮辱遭訴。（中央社檔案照片）">
+                      </picture><figcaption class="picinfo">對罷免攤位志工罵髒話，台中男涉公然侮辱遭訴。（中央社檔案照片）</figcaption></figure><p>（中央社記者蘇木春台中2日電）張姓男子今年4月間，騎機車經過西區中美街，見路旁有罷免藍委的攤位，因心生不滿，對攤位的志工辱罵「愚蠢」及多句髒話，案經被害人提告，檢方日前依公然侮辱罪嫌將他起訴。</p><p>依據檢方的起訴書指出，64歲張姓男子於今年4月5日晚間6時多，騎機車行經台中西區中美街，見路旁放置罷免中國國民黨籍台中第六選區立委羅廷瑋的宣傳立牌，與供人簽署罷免書攤位。</p><p>張男因心生不滿，對簽署區的志工怒罵「愚蠢」及多句髒話等語，被害人因此不甘受辱，向台中市警局第一分局提告公然侮辱、恐嚇、妨害他人罷免等罪。</p><p>張男到案後辯稱，他當時騎機車經過等紅燈時，見攤位有罷免牌子，他就靠過去說了一句「愚蠢」，對方人多勢眾，很兇地對他吼，他當下嚇到也被激怒，才回了幾句髒話。</p><p>檢方調查後認定，張男涉犯公然侮辱明確，但他未對被害人通知將對其不利，且也未以強暴、脅迫或其他非法方法，妨害他人競選或罷免等構成要件，因此難認涉及恐嚇、違反選罷法。</p><p>中檢偵辦後，日前依公然侮辱罪嫌，將張男提起公訴。（編輯：陳清芳）1140602</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1200/904;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1200x904_wmky_178749992919_202501100137000000.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1200x904_wmky_178749992919_202501100137000000.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1200x904_wmky_178749992919_202501100137000000.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1200x904_wmky_178749992919_202501100137000000.jpg" alt="對罷免攤位志工罵髒話，台中男涉公然侮辱遭訴。（中央社檔案照片）">
+                      </picture><figcaption class="picinfo">對罷免攤位志工罵髒話，台中男涉公然侮辱遭訴。（中央社檔案照片）</figcaption></figure><p>（中央社記者蘇木春台中2日電）張姓男子今年4月間，騎機車經過西區中美街，見路旁有罷免藍委的攤位，因心生不滿，對攤位的志工辱罵「愚蠢」及多句髒話，案經被害人提告，檢方日前依公然侮辱罪嫌將他起訴。</p><p>依據檢方的起訴書指出，64歲張姓男子於今年4月5日晚間6時多，騎機車行經台中西區中美街，見路旁放置罷免中國國民黨籍台中第六選區立委羅廷瑋的宣傳立牌，與供人簽署罷免書攤位。</p><p>張男因心生不滿，對簽署區的志工怒罵「愚蠢」及多句髒話等語，被害人因此不甘受辱，向台中市警局第一分局提告公然侮辱、恐嚇、妨害他人罷免等罪。</p><p>張男到案後辯稱，他當時騎機車經過等紅燈時，見攤位有罷免牌子，他就靠過去說了一句「愚蠢」，對方人多勢眾，很兇地對他吼，他當下嚇到也被激怒，才回了幾句髒話。</p><p>檢方調查後認定，張男涉犯公然侮辱明確，但他未對被害人通知將對其不利，且也未以強暴、脅迫或其他非法方法，妨害他人競選或罷免等構成要件，因此難認涉及恐嚇、違反選罷法。</p><p>中檢偵辦後，日前依公然侮辱罪嫌，將張男提起公訴。（編輯：陳清芳）1140602</p>]]>
+    </description>
+    <content:encoded><![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1200/904;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1200x904_wmky_178749992919_202501100137000000.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1200x904_wmky_178749992919_202501100137000000.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1200x904_wmky_178749992919_202501100137000000.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1200x904_wmky_178749992919_202501100137000000.jpg" alt="對罷免攤位志工罵髒話，台中男涉公然侮辱遭訴。（中央社檔案照片）">
+                      </picture><figcaption class="picinfo">對罷免攤位志工罵髒話，台中男涉公然侮辱遭訴。（中央社檔案照片）</figcaption></figure><p>（中央社記者蘇木春台中2日電）張姓男子今年4月間，騎機車經過西區中美街，見路旁有罷免藍委的攤位，因心生不滿，對攤位的志工辱罵「愚蠢」及多句髒話，案經被害人提告，檢方日前依公然侮辱罪嫌將他起訴。</p><p>依據檢方的起訴書指出，64歲張姓男子於今年4月5日晚間6時多，騎機車行經台中西區中美街，見路旁放置罷免中國國民黨籍台中第六選區立委羅廷瑋的宣傳立牌，與供人簽署罷免書攤位。</p><p>張男因心生不滿，對簽署區的志工怒罵「愚蠢」及多句髒話等語，被害人因此不甘受辱，向台中市警局第一分局提告公然侮辱、恐嚇、妨害他人罷免等罪。</p><p>張男到案後辯稱，他當時騎機車經過等紅燈時，見攤位有罷免牌子，他就靠過去說了一句「愚蠢」，對方人多勢眾，很兇地對他吼，他當下嚇到也被激怒，才回了幾句髒話。</p><p>檢方調查後認定，張男涉犯公然侮辱明確，但他未對被害人通知將對其不利，且也未以強暴、脅迫或其他非法方法，妨害他人競選或罷免等構成要件，因此難認涉及恐嚇、違反選罷法。</p><p>中檢偵辦後，日前依公然侮辱罪嫌，將張男提起公訴。（編輯：陳清芳）1140602</p>]]></content:encoded>
+    
+    <pubDate>Mon, 02 Jun 2025 15:23:35 +0800</pubDate>
+  </item><item>
+    <title><![CDATA[男私運大麻種子栽植遭警查扣101植株 嘉檢起訴]]></title>
+    <link>https://www.cna.com.tw/news/asoc/202506020152.aspx</link>
+    <itunes:title><![CDATA[男私運大麻種子栽植遭警查扣101植株 嘉檢起訴]]></itunes:title>
+    <itunes:author><![CDATA[中央社 社會[RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1060/768;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1060x768_wmkn_0_C20250602000084.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1060x768_wmkn_0_C20250602000084.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1060x768_wmkn_0_C20250602000084.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1060x768_wmkn_0_C20250602000084.jpg" alt="嘉義縣李姓男子113年間自泰國夾帶大麻種子回國栽植販賣牟利，114年3月間遭臨檢員警識破車上置放的大麻花，進而查獲山區植栽場。（嘉義地檢署提供）中央社記者黃國芳傳真  114年6月2日">
+                      </picture><figcaption class="picinfo">嘉義縣李姓男子113年間自泰國夾帶大麻種子回國栽植販賣牟利，114年3月間遭臨檢員警識破車上置放的大麻花，進而查獲山區植栽場。（嘉義地檢署提供）中央社記者黃國芳傳真  114年6月2日</figcaption></figure><p>（中央社記者黃國芳嘉義市2日電）嘉義縣李姓男子去年間自泰國夾帶大麻種子回國栽植販賣牟利，今年3月間遭臨檢員警識破車上置放的大麻花，進而查獲山區植栽場，查扣大麻植株101株等，嘉檢偵結依法起訴。</p><p>嘉義地檢署發布的起訴書指出，30歲李男與友人翁姓男子合夥，欲販賣毒品大麻牟取暴利，於去年12月間相偕前往泰國，以新台幣5000元購買5包（每包約3顆種子）大麻種子，並將種子混雜在餅乾包裝內夾帶回台。</p><p>檢警表示，因李男家中具務農背景，由李男負責栽種，在上網學習大麻栽種技術後，則在嘉義市西區承租一棟透天厝，作為栽植大麻植株幼苗，生長1個月後，後續移植至嘉義縣中埔鄉一處承租的偏僻農地，直到成株開花，裁剪大麻花風乾，後續則製成大麻販賣。</p><p>檢警指出，李男製成大麻後，除了今年3月間販賣牟利外，部分成品則交由合夥的翁男販賣，但翁男否認犯行，翁男涉嫌販賣毒品案還在偵辦中。</p><p>警方表示，李男於今年3月27日晚上駕車行經民雄鄉時，遭警方執行擴大臨檢攔查，員警發現李男汽車扶手處放置一罐玻璃瓶疑似內裝大麻花，李男則辯稱自己栽種檳榔，玻璃瓶內裝是檳榔花。</p><p>警方指出，當場在場督勤的民雄分局副分局長林乙皓，因曾查獲嘉義大宗的大麻案，熟悉的大麻植株外觀及氣味，除了檳榔花與大麻花外觀明顯不同外，大麻花則有一股濃烈的氣味，當場戳破李男謊言。</p><p>警方陸續查獲大麻植株101株、大麻乾株4株、大麻花、大麻花成品等毒品，嘉檢偵結，依違反毒品危害防制條例等罪嫌起訴。（編輯：李淑華）1140602</p><div class="media"><figure class="floatImg left"><picture style="--aspect-ratio:768/1024;"><source media="(max-width: 800px)" data-srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/768x1024_wmkn_0_C20250602000085.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/768x1024_wmkn_0_C20250602000085.jpg 2x"><source media="(min-width: 801px)" data-srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/768x1024_wmkn_0_C20250602000085.jpg"><img class="lazyload" alt="嘉義縣李姓男子113年間自泰國夾帶大麻種子回國栽植販賣牟利，114年3月間遭臨檢員警識破車上置放的大麻花，進而查獲山區植栽場，查扣大麻植株101株等，嘉檢起訴。（嘉義地檢署提供）中央社記者黃國芳傳真  114年6月2日" src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/768x1024_wmkn_0_C20250602000085.jpg"></picture><figcaption class="picinfo">嘉義縣李姓男子113年間自泰國夾帶大麻種子回國栽植販賣牟利，114年3月間遭臨檢員警識破車上置放的大麻花，進而查獲山區植栽場，查扣大麻植株101株等，嘉檢起訴。（嘉義地檢署提供）中央社記者黃國芳傳真  114年6月2日</figcaption></figure></div>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1060/768;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1060x768_wmkn_0_C20250602000084.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1060x768_wmkn_0_C20250602000084.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1060x768_wmkn_0_C20250602000084.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1060x768_wmkn_0_C20250602000084.jpg" alt="嘉義縣李姓男子113年間自泰國夾帶大麻種子回國栽植販賣牟利，114年3月間遭臨檢員警識破車上置放的大麻花，進而查獲山區植栽場。（嘉義地檢署提供）中央社記者黃國芳傳真  114年6月2日">
+                      </picture><figcaption class="picinfo">嘉義縣李姓男子113年間自泰國夾帶大麻種子回國栽植販賣牟利，114年3月間遭臨檢員警識破車上置放的大麻花，進而查獲山區植栽場。（嘉義地檢署提供）中央社記者黃國芳傳真  114年6月2日</figcaption></figure><p>（中央社記者黃國芳嘉義市2日電）嘉義縣李姓男子去年間自泰國夾帶大麻種子回國栽植販賣牟利，今年3月間遭臨檢員警識破車上置放的大麻花，進而查獲山區植栽場，查扣大麻植株101株等，嘉檢偵結依法起訴。</p><p>嘉義地檢署發布的起訴書指出，30歲李男與友人翁姓男子合夥，欲販賣毒品大麻牟取暴利，於去年12月間相偕前往泰國，以新台幣5000元購買5包（每包約3顆種子）大麻種子，並將種子混雜在餅乾包裝內夾帶回台。</p><p>檢警表示，因李男家中具務農背景，由李男負責栽種，在上網學習大麻栽種技術後，則在嘉義市西區承租一棟透天厝，作為栽植大麻植株幼苗，生長1個月後，後續移植至嘉義縣中埔鄉一處承租的偏僻農地，直到成株開花，裁剪大麻花風乾，後續則製成大麻販賣。</p><p>檢警指出，李男製成大麻後，除了今年3月間販賣牟利外，部分成品則交由合夥的翁男販賣，但翁男否認犯行，翁男涉嫌販賣毒品案還在偵辦中。</p><p>警方表示，李男於今年3月27日晚上駕車行經民雄鄉時，遭警方執行擴大臨檢攔查，員警發現李男汽車扶手處放置一罐玻璃瓶疑似內裝大麻花，李男則辯稱自己栽種檳榔，玻璃瓶內裝是檳榔花。</p><p>警方指出，當場在場督勤的民雄分局副分局長林乙皓，因曾查獲嘉義大宗的大麻案，熟悉的大麻植株外觀及氣味，除了檳榔花與大麻花外觀明顯不同外，大麻花則有一股濃烈的氣味，當場戳破李男謊言。</p><p>警方陸續查獲大麻植株101株、大麻乾株4株、大麻花、大麻花成品等毒品，嘉檢偵結，依違反毒品危害防制條例等罪嫌起訴。（編輯：李淑華）1140602</p><div class="media"><figure class="floatImg left"><picture style="--aspect-ratio:768/1024;"><source media="(max-width: 800px)" data-srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/768x1024_wmkn_0_C20250602000085.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/768x1024_wmkn_0_C20250602000085.jpg 2x"><source media="(min-width: 801px)" data-srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/768x1024_wmkn_0_C20250602000085.jpg"><img class="lazyload" alt="嘉義縣李姓男子113年間自泰國夾帶大麻種子回國栽植販賣牟利，114年3月間遭臨檢員警識破車上置放的大麻花，進而查獲山區植栽場，查扣大麻植株101株等，嘉檢起訴。（嘉義地檢署提供）中央社記者黃國芳傳真  114年6月2日" src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/768x1024_wmkn_0_C20250602000085.jpg"></picture><figcaption class="picinfo">嘉義縣李姓男子113年間自泰國夾帶大麻種子回國栽植販賣牟利，114年3月間遭臨檢員警識破車上置放的大麻花，進而查獲山區植栽場，查扣大麻植株101株等，嘉檢起訴。（嘉義地檢署提供）中央社記者黃國芳傳真  114年6月2日</figcaption></figure></div>]]>
+    </description>
+    <content:encoded><![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1060/768;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1060x768_wmkn_0_C20250602000084.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1060x768_wmkn_0_C20250602000084.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1060x768_wmkn_0_C20250602000084.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1060x768_wmkn_0_C20250602000084.jpg" alt="嘉義縣李姓男子113年間自泰國夾帶大麻種子回國栽植販賣牟利，114年3月間遭臨檢員警識破車上置放的大麻花，進而查獲山區植栽場。（嘉義地檢署提供）中央社記者黃國芳傳真  114年6月2日">
+                      </picture><figcaption class="picinfo">嘉義縣李姓男子113年間自泰國夾帶大麻種子回國栽植販賣牟利，114年3月間遭臨檢員警識破車上置放的大麻花，進而查獲山區植栽場。（嘉義地檢署提供）中央社記者黃國芳傳真  114年6月2日</figcaption></figure><p>（中央社記者黃國芳嘉義市2日電）嘉義縣李姓男子去年間自泰國夾帶大麻種子回國栽植販賣牟利，今年3月間遭臨檢員警識破車上置放的大麻花，進而查獲山區植栽場，查扣大麻植株101株等，嘉檢偵結依法起訴。</p><p>嘉義地檢署發布的起訴書指出，30歲李男與友人翁姓男子合夥，欲販賣毒品大麻牟取暴利，於去年12月間相偕前往泰國，以新台幣5000元購買5包（每包約3顆種子）大麻種子，並將種子混雜在餅乾包裝內夾帶回台。</p><p>檢警表示，因李男家中具務農背景，由李男負責栽種，在上網學習大麻栽種技術後，則在嘉義市西區承租一棟透天厝，作為栽植大麻植株幼苗，生長1個月後，後續移植至嘉義縣中埔鄉一處承租的偏僻農地，直到成株開花，裁剪大麻花風乾，後續則製成大麻販賣。</p><p>檢警指出，李男製成大麻後，除了今年3月間販賣牟利外，部分成品則交由合夥的翁男販賣，但翁男否認犯行，翁男涉嫌販賣毒品案還在偵辦中。</p><p>警方表示，李男於今年3月27日晚上駕車行經民雄鄉時，遭警方執行擴大臨檢攔查，員警發現李男汽車扶手處放置一罐玻璃瓶疑似內裝大麻花，李男則辯稱自己栽種檳榔，玻璃瓶內裝是檳榔花。</p><p>警方指出，當場在場督勤的民雄分局副分局長林乙皓，因曾查獲嘉義大宗的大麻案，熟悉的大麻植株外觀及氣味，除了檳榔花與大麻花外觀明顯不同外，大麻花則有一股濃烈的氣味，當場戳破李男謊言。</p><p>警方陸續查獲大麻植株101株、大麻乾株4株、大麻花、大麻花成品等毒品，嘉檢偵結，依違反毒品危害防制條例等罪嫌起訴。（編輯：李淑華）1140602</p><div class="media"><figure class="floatImg left"><picture style="--aspect-ratio:768/1024;"><source media="(max-width: 800px)" data-srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/768x1024_wmkn_0_C20250602000085.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/768x1024_wmkn_0_C20250602000085.jpg 2x"><source media="(min-width: 801px)" data-srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/768x1024_wmkn_0_C20250602000085.jpg"><img class="lazyload" alt="嘉義縣李姓男子113年間自泰國夾帶大麻種子回國栽植販賣牟利，114年3月間遭臨檢員警識破車上置放的大麻花，進而查獲山區植栽場，查扣大麻植株101株等，嘉檢起訴。（嘉義地檢署提供）中央社記者黃國芳傳真  114年6月2日" src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/768x1024_wmkn_0_C20250602000085.jpg"></picture><figcaption class="picinfo">嘉義縣李姓男子113年間自泰國夾帶大麻種子回國栽植販賣牟利，114年3月間遭臨檢員警識破車上置放的大麻花，進而查獲山區植栽場，查扣大麻植株101株等，嘉檢起訴。（嘉義地檢署提供）中央社記者黃國芳傳真  114年6月2日</figcaption></figure></div>]]></content:encoded>
+    
+    <pubDate>Mon, 02 Jun 2025 15:02:01 +0800</pubDate>
+  </item><item>
+    <title><![CDATA[國3西湖段工程作業車陷火海 駕駛及時逃生]]></title>
+    <link>https://www.cna.com.tw/news/asoc/202506020141.aspx</link>
+    <itunes:title><![CDATA[國3西湖段工程作業車陷火海 駕駛及時逃生]]></itunes:title>
+    <itunes:author><![CDATA[中央社 社會[RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1050/768;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1050x768_wmky_0_C20250602003005.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1050x768_wmky_0_C20250602003005.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1050x768_wmky_0_C20250602003005.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1050x768_wmky_0_C20250602003005.jpg" alt="1輛民間工程作業車2日中午行經國道3號北上138.9公里苗栗西湖路段，發生火燒車事故，烈焰、濃煙竄天，大火瞬間吞噬整輛車，所幸駕駛及時逃生，未造成人員傷亡。（翻攝自國道1968即時影像）中央社記者管瑞平傳真  114年6月2日">
+                      </picture><figcaption class="picinfo">1輛民間工程作業車2日中午行經國道3號北上138.9公里苗栗西湖路段，發生火燒車事故，烈焰、濃煙竄天，大火瞬間吞噬整輛車，所幸駕駛及時逃生，未造成人員傷亡。（翻攝自國道1968即時影像）中央社記者管瑞平傳真  114年6月2日</figcaption></figure><p>（中央社記者管瑞平苗栗縣2日電）1輛民間工程作業車今天中午行經國道3號北上138.9公里苗栗西湖路段，發生火燒車事故，烈焰、濃煙竄天，大火瞬間吞噬整輛車，所幸駕駛及時逃生，未造成人員傷亡。</p><p>苗栗縣消防局指出，中午12時20分許接獲民眾報案稱，國道3號北上138.9公里處路肩有車輛起火燃燒，派遣救災人車前往，到場後發現張姓駕駛（54歲）已下車逃生、未受傷。</p><p>事故車輛為高空作業工程車，張姓駕駛指出，平日多接受台電或公路局委外案件出車，今天從台中出發準備前往苗栗後龍施工，行經該路段發現車輛後方冒煙，趕緊停靠路肩，不久就竄出火舌，接著整輛車陷入火海付之一炬。</p><p>現場火勢猛烈伴隨濃煙竄天，經消防隊員拉出2條水線撲滅火勢。國道公路警察局第2大隊表示，張姓駕駛酒測值為零，現場於下午1時26分排除，全線恢復正常通車。</p><p>警方呼籲，用路人應遵守交通規則，上路前確實檢查車輛，避免因車輛機件損壞，造成行車危險，發現車輛有異狀，立即停靠路肩或避車彎，人員下車面向來車，退到安全處並利用1968App警政報案功能向國道警方報案求援。</p><p>此外，距離事故點不遠國3北上138至133公里處，中午時段車流一度回堵長達約5公里，高速公路局中區養護工程分局表示，因修復橋梁下方基礎掏空吊運現場太空包回填，占用北上外路肩、外線及中線車道，造成車流回堵。該項施工預計至下午3時結束，造成行車不便，請用路人配合見諒。（編輯：李淑華）1140602</p><div class="media"><figure class="floatImg center"><picture style="--aspect-ratio:1024/768;"><source media="(max-width: 800px)" data-srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1024x768_wmkn_0_C20250602000078.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1024x768_wmkn_0_C20250602000078.jpg 2x"><source media="(min-width: 801px)" data-srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1024x768_wmkn_0_C20250602000078.jpg"><img class="lazyload" alt="國道3號北上138.9公里處2日中午發生火燒車事故，1輛民間廠商的高空作業工程車付之一炬，幸未釀成人員傷亡。（警方提供）中央社記者管瑞平傳真  114年6月2日" src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1024x768_wmkn_0_C20250602000078.jpg"></picture><figcaption class="picinfo">國道3號北上138.9公里處2日中午發生火燒車事故，1輛民間廠商的高空作業工程車付之一炬，幸未釀成人員傷亡。（警方提供）中央社記者管瑞平傳真  114年6月2日</figcaption></figure></div>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1050/768;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1050x768_wmky_0_C20250602003005.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1050x768_wmky_0_C20250602003005.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1050x768_wmky_0_C20250602003005.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1050x768_wmky_0_C20250602003005.jpg" alt="1輛民間工程作業車2日中午行經國道3號北上138.9公里苗栗西湖路段，發生火燒車事故，烈焰、濃煙竄天，大火瞬間吞噬整輛車，所幸駕駛及時逃生，未造成人員傷亡。（翻攝自國道1968即時影像）中央社記者管瑞平傳真  114年6月2日">
+                      </picture><figcaption class="picinfo">1輛民間工程作業車2日中午行經國道3號北上138.9公里苗栗西湖路段，發生火燒車事故，烈焰、濃煙竄天，大火瞬間吞噬整輛車，所幸駕駛及時逃生，未造成人員傷亡。（翻攝自國道1968即時影像）中央社記者管瑞平傳真  114年6月2日</figcaption></figure><p>（中央社記者管瑞平苗栗縣2日電）1輛民間工程作業車今天中午行經國道3號北上138.9公里苗栗西湖路段，發生火燒車事故，烈焰、濃煙竄天，大火瞬間吞噬整輛車，所幸駕駛及時逃生，未造成人員傷亡。</p><p>苗栗縣消防局指出，中午12時20分許接獲民眾報案稱，國道3號北上138.9公里處路肩有車輛起火燃燒，派遣救災人車前往，到場後發現張姓駕駛（54歲）已下車逃生、未受傷。</p><p>事故車輛為高空作業工程車，張姓駕駛指出，平日多接受台電或公路局委外案件出車，今天從台中出發準備前往苗栗後龍施工，行經該路段發現車輛後方冒煙，趕緊停靠路肩，不久就竄出火舌，接著整輛車陷入火海付之一炬。</p><p>現場火勢猛烈伴隨濃煙竄天，經消防隊員拉出2條水線撲滅火勢。國道公路警察局第2大隊表示，張姓駕駛酒測值為零，現場於下午1時26分排除，全線恢復正常通車。</p><p>警方呼籲，用路人應遵守交通規則，上路前確實檢查車輛，避免因車輛機件損壞，造成行車危險，發現車輛有異狀，立即停靠路肩或避車彎，人員下車面向來車，退到安全處並利用1968App警政報案功能向國道警方報案求援。</p><p>此外，距離事故點不遠國3北上138至133公里處，中午時段車流一度回堵長達約5公里，高速公路局中區養護工程分局表示，因修復橋梁下方基礎掏空吊運現場太空包回填，占用北上外路肩、外線及中線車道，造成車流回堵。該項施工預計至下午3時結束，造成行車不便，請用路人配合見諒。（編輯：李淑華）1140602</p><div class="media"><figure class="floatImg center"><picture style="--aspect-ratio:1024/768;"><source media="(max-width: 800px)" data-srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1024x768_wmkn_0_C20250602000078.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1024x768_wmkn_0_C20250602000078.jpg 2x"><source media="(min-width: 801px)" data-srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1024x768_wmkn_0_C20250602000078.jpg"><img class="lazyload" alt="國道3號北上138.9公里處2日中午發生火燒車事故，1輛民間廠商的高空作業工程車付之一炬，幸未釀成人員傷亡。（警方提供）中央社記者管瑞平傳真  114年6月2日" src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1024x768_wmkn_0_C20250602000078.jpg"></picture><figcaption class="picinfo">國道3號北上138.9公里處2日中午發生火燒車事故，1輛民間廠商的高空作業工程車付之一炬，幸未釀成人員傷亡。（警方提供）中央社記者管瑞平傳真  114年6月2日</figcaption></figure></div>]]>
+    </description>
+    <content:encoded><![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1050/768;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1050x768_wmky_0_C20250602003005.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1050x768_wmky_0_C20250602003005.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1050x768_wmky_0_C20250602003005.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1050x768_wmky_0_C20250602003005.jpg" alt="1輛民間工程作業車2日中午行經國道3號北上138.9公里苗栗西湖路段，發生火燒車事故，烈焰、濃煙竄天，大火瞬間吞噬整輛車，所幸駕駛及時逃生，未造成人員傷亡。（翻攝自國道1968即時影像）中央社記者管瑞平傳真  114年6月2日">
+                      </picture><figcaption class="picinfo">1輛民間工程作業車2日中午行經國道3號北上138.9公里苗栗西湖路段，發生火燒車事故，烈焰、濃煙竄天，大火瞬間吞噬整輛車，所幸駕駛及時逃生，未造成人員傷亡。（翻攝自國道1968即時影像）中央社記者管瑞平傳真  114年6月2日</figcaption></figure><p>（中央社記者管瑞平苗栗縣2日電）1輛民間工程作業車今天中午行經國道3號北上138.9公里苗栗西湖路段，發生火燒車事故，烈焰、濃煙竄天，大火瞬間吞噬整輛車，所幸駕駛及時逃生，未造成人員傷亡。</p><p>苗栗縣消防局指出，中午12時20分許接獲民眾報案稱，國道3號北上138.9公里處路肩有車輛起火燃燒，派遣救災人車前往，到場後發現張姓駕駛（54歲）已下車逃生、未受傷。</p><p>事故車輛為高空作業工程車，張姓駕駛指出，平日多接受台電或公路局委外案件出車，今天從台中出發準備前往苗栗後龍施工，行經該路段發現車輛後方冒煙，趕緊停靠路肩，不久就竄出火舌，接著整輛車陷入火海付之一炬。</p><p>現場火勢猛烈伴隨濃煙竄天，經消防隊員拉出2條水線撲滅火勢。國道公路警察局第2大隊表示，張姓駕駛酒測值為零，現場於下午1時26分排除，全線恢復正常通車。</p><p>警方呼籲，用路人應遵守交通規則，上路前確實檢查車輛，避免因車輛機件損壞，造成行車危險，發現車輛有異狀，立即停靠路肩或避車彎，人員下車面向來車，退到安全處並利用1968App警政報案功能向國道警方報案求援。</p><p>此外，距離事故點不遠國3北上138至133公里處，中午時段車流一度回堵長達約5公里，高速公路局中區養護工程分局表示，因修復橋梁下方基礎掏空吊運現場太空包回填，占用北上外路肩、外線及中線車道，造成車流回堵。該項施工預計至下午3時結束，造成行車不便，請用路人配合見諒。（編輯：李淑華）1140602</p><div class="media"><figure class="floatImg center"><picture style="--aspect-ratio:1024/768;"><source media="(max-width: 800px)" data-srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1024x768_wmkn_0_C20250602000078.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1024x768_wmkn_0_C20250602000078.jpg 2x"><source media="(min-width: 801px)" data-srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250602/1024x768_wmkn_0_C20250602000078.jpg"><img class="lazyload" alt="國道3號北上138.9公里處2日中午發生火燒車事故，1輛民間廠商的高空作業工程車付之一炬，幸未釀成人員傷亡。（警方提供）中央社記者管瑞平傳真  114年6月2日" src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250602/1024x768_wmkn_0_C20250602000078.jpg"></picture><figcaption class="picinfo">國道3號北上138.9公里處2日中午發生火燒車事故，1輛民間廠商的高空作業工程車付之一炬，幸未釀成人員傷亡。（警方提供）中央社記者管瑞平傳真  114年6月2日</figcaption></figure></div>]]></content:encoded>
+    
+    <pubDate>Mon, 02 Jun 2025 14:29:38 +0800</pubDate>
+  </item><item>
+    <title><![CDATA[美搜夜店逮36台人 刑事局：身分待確認、依法遣返[影]]]></title>
+    <link>https://www.cna.com.tw/news/asoc/202506020138.aspx</link>
+    <itunes:title><![CDATA[美搜夜店逮36台人 刑事局：身分待確認、依法遣返[影]]]></itunes:title>
+    <itunes:author><![CDATA[中央社 社會[RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>（中央社記者黃麗芸台北2日電）美媒報導，美國當局突襲加州南部1家「地下夜店」時，逮捕36名台灣人和中國人。對此，警政署刑事局今天表示，相關身分仍待確認，後續將依美國當地法令辦理驅逐出境及遣返。</p><p>美國移民暨海關執法局（ICE）下的國土安全調查處（HSI）和行動處（ERO）今年5月30日凌晨在洛杉磯逮捕多人，隨後在社群平台X公布相關影片。</p><p>刑事局國際科告訴中央社記者，本案為美國洛杉磯非法移民掃蕩行動，刑事局駐美西聯絡官依HSI請求協助美方執法作為，但因遭逮捕的非法居留人士眾多，相關身分仍待進一步確認。</p><p>刑事局說，後續將依美國當地法令，辦理驅逐出境及遣返等相關事宜。（編輯：方沛清）1140602</p><div class="media"><div class="twitterMedia"><blockquote class="twitter-tweet" data-lang="zh-tw"><a href="https://twitter.com/HSILosAngeles/status/1928613532079157377"></a></blockquote></div></div>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>（中央社記者黃麗芸台北2日電）美媒報導，美國當局突襲加州南部1家「地下夜店」時，逮捕36名台灣人和中國人。對此，警政署刑事局今天表示，相關身分仍待確認，後續將依美國當地法令辦理驅逐出境及遣返。</p><p>美國移民暨海關執法局（ICE）下的國土安全調查處（HSI）和行動處（ERO）今年5月30日凌晨在洛杉磯逮捕多人，隨後在社群平台X公布相關影片。</p><p>刑事局國際科告訴中央社記者，本案為美國洛杉磯非法移民掃蕩行動，刑事局駐美西聯絡官依HSI請求協助美方執法作為，但因遭逮捕的非法居留人士眾多，相關身分仍待進一步確認。</p><p>刑事局說，後續將依美國當地法令，辦理驅逐出境及遣返等相關事宜。（編輯：方沛清）1140602</p><div class="media"><div class="twitterMedia"><blockquote class="twitter-tweet" data-lang="zh-tw"><a href="https://twitter.com/HSILosAngeles/status/1928613532079157377"></a></blockquote></div></div>]]>
+    </description>
+    <content:encoded><![CDATA[<p>（中央社記者黃麗芸台北2日電）美媒報導，美國當局突襲加州南部1家「地下夜店」時，逮捕36名台灣人和中國人。對此，警政署刑事局今天表示，相關身分仍待確認，後續將依美國當地法令辦理驅逐出境及遣返。</p><p>美國移民暨海關執法局（ICE）下的國土安全調查處（HSI）和行動處（ERO）今年5月30日凌晨在洛杉磯逮捕多人，隨後在社群平台X公布相關影片。</p><p>刑事局國際科告訴中央社記者，本案為美國洛杉磯非法移民掃蕩行動，刑事局駐美西聯絡官依HSI請求協助美方執法作為，但因遭逮捕的非法居留人士眾多，相關身分仍待進一步確認。</p><p>刑事局說，後續將依美國當地法令，辦理驅逐出境及遣返等相關事宜。（編輯：方沛清）1140602</p><div class="media"><div class="twitterMedia"><blockquote class="twitter-tweet" data-lang="zh-tw"><a href="https://twitter.com/HSILosAngeles/status/1928613532079157377"></a></blockquote></div></div>]]></content:encoded>
+    
+    <pubDate>Mon, 02 Jun 2025 14:22:31 +0800</pubDate>
+  </item></channel>
+</rss>
