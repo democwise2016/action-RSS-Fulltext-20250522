@@ -3,7 +3,7 @@
     <title><![CDATA[cline Release [GH][RSS+]]]></title>
     <link>https://github.com/cline/cline/releases.atom</link>
     <image>
-      <url>https://fastly.picsum.photos/id/772/800/800.jpg?hmac=5tcfDA4DHDUd0mYZ3twc5NJD3B72ebBGMhmr01LqveQ</url>
+      <url>https://fastly.picsum.photos/id/198/800/800.jpg?hmac=LNMNn3J6Bz2PKtVqpEQcBx9qDcF8_KoFvOOGMDQD3aE</url>
       <title>cline Release [GH][RSS+]</title>
       <link>https://github.com/cline/cline/releases.atom</link>
     </image>
@@ -28,8 +28,103 @@
     <itunes:owner>
       <itunes:name><![CDATA[cline Release [GH][RSS+]]]></itunes:name>
     </itunes:owner>
-    <itunes:image href="https://fastly.picsum.photos/id/772/800/800.jpg?hmac=5tcfDA4DHDUd0mYZ3twc5NJD3B72ebBGMhmr01LqveQ"/>
+    <itunes:image href="https://fastly.picsum.photos/id/198/800/800.jpg?hmac=LNMNn3J6Bz2PKtVqpEQcBx9qDcF8_KoFvOOGMDQD3aE"/>
 <item>
+    <title><![CDATA[v3.17.9 更新：支援 Claude 4/Grok-3、CSV/XLSX 分析及多項修復]]></title>
+    <link>https://github.com/cline/cline/releases/tag/v3.17.9</link>
+    <itunes:title><![CDATA[v3.17.9 更新：支援 Claude 4/Grok-3、CSV/XLSX 分析及多項修復]]></itunes:title>
+    <itunes:author><![CDATA[github-actions[bot]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>Aligning Cline to work with Claude 4 model family (Experimental) (Thanks <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/heguro/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/heguro">@heguro</a> for the inspiration!)</li>
+<li>Add task timeline scrolling feature</li>
+<li>Add support for uploading CSV and XLSX files for data analysis and processing</li>
+<li>Add stable Grok-3 models to xAI provider (grok-3, grok-3-fast, grok-3-mini, grok-3-mini-fast) and update default model from grok-3-beta to grok-3 (Thanks <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/PeterDaveHello/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/PeterDaveHello">@PeterDaveHello</a>!)</li>
+<li>Add new models to Vertex AI provider</li>
+<li>Add new model to Nebius AI Studio</li>
+<li>Remove hard-coded temperature from LM Studio API requests and add support for reasoning_content in LM Studio responses</li>
+<li>Display delay information when retrying API calls for better user feedback</li>
+<li>Fix AWS Bedrock credential caching issue where externally updated credentials (e.g., by AWS Identity Manager) were not detected, requiring extension restart (Thanks <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/DaveFres/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/DaveFres">@DaveFres</a>!)</li>
+<li>Fix search tool overloading conversation with massive outputs by setting maximum byte limit for responses</li>
+<li>Fix checkpoints functionality</li>
+<li>Fix token counting for xAI provider</li>
+<li>Fix Ollama provider issues</li>
+<li>Fix window title display for Windows users</li>
+<li>Improve chat box UI</li>
+</ul>
+<h2>New Contributors</h2>
+<ul>
+<li><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/KevinTurnbull/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/KevinTurnbull">@KevinTurnbull</a> made their first contribution in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3098256258" data-permission-text="Title is private" data-url="https://github.com/cline/cline/issues/3880" data-hovercard-type="pull_request" data-hovercard-url="/cline/cline/pull/3880/hovercard" href="https://github.com/cline/cline/pull/3880">#3880</a></li>
+<li><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dv01d/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dv01d">@dv01d</a> made their first contribution in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3057760424" data-permission-text="Title is private" data-url="https://github.com/cline/cline/issues/3474" data-hovercard-type="pull_request" data-hovercard-url="/cline/cline/pull/3474/hovercard" href="https://github.com/cline/cline/pull/3474">#3474</a></li>
+<li><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/octohedron/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/octohedron">@octohedron</a> made their first contribution in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2811456398" data-permission-text="Title is private" data-url="https://github.com/cline/cline/issues/1464" data-hovercard-type="pull_request" data-hovercard-url="/cline/cline/pull/1464/hovercard" href="https://github.com/cline/cline/pull/1464">#1464</a></li>
+<li><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/elongl/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/elongl">@elongl</a> made their first contribution in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3097470082" data-permission-text="Title is private" data-url="https://github.com/cline/cline/issues/3876" data-hovercard-type="pull_request" data-hovercard-url="/cline/cline/pull/3876/hovercard" href="https://github.com/cline/cline/pull/3876">#3876</a></li>
+<li><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/akhial/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/akhial">@akhial</a> made their first contribution in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3107394505" data-permission-text="Title is private" data-url="https://github.com/cline/cline/issues/3973" data-hovercard-type="pull_request" data-hovercard-url="/cline/cline/pull/3973/hovercard" href="https://github.com/cline/cline/pull/3973">#3973</a></li>
+<li><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/npacker/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/npacker">@npacker</a> made their first contribution in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3106624801" data-permission-text="Title is private" data-url="https://github.com/cline/cline/issues/3971" data-hovercard-type="pull_request" data-hovercard-url="/cline/cline/pull/3971/hovercard" href="https://github.com/cline/cline/pull/3971">#3971</a></li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/v3.17.8...v3.17.9"><tt>v3.17.8...v3.17.9</tt></a></p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>Aligning Cline to work with Claude 4 model family (Experimental) (Thanks <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/heguro/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/heguro">@heguro</a> for the inspiration!)</li>
+<li>Add task timeline scrolling feature</li>
+<li>Add support for uploading CSV and XLSX files for data analysis and processing</li>
+<li>Add stable Grok-3 models to xAI provider (grok-3, grok-3-fast, grok-3-mini, grok-3-mini-fast) and update default model from grok-3-beta to grok-3 (Thanks <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/PeterDaveHello/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/PeterDaveHello">@PeterDaveHello</a>!)</li>
+<li>Add new models to Vertex AI provider</li>
+<li>Add new model to Nebius AI Studio</li>
+<li>Remove hard-coded temperature from LM Studio API requests and add support for reasoning_content in LM Studio responses</li>
+<li>Display delay information when retrying API calls for better user feedback</li>
+<li>Fix AWS Bedrock credential caching issue where externally updated credentials (e.g., by AWS Identity Manager) were not detected, requiring extension restart (Thanks <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/DaveFres/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/DaveFres">@DaveFres</a>!)</li>
+<li>Fix search tool overloading conversation with massive outputs by setting maximum byte limit for responses</li>
+<li>Fix checkpoints functionality</li>
+<li>Fix token counting for xAI provider</li>
+<li>Fix Ollama provider issues</li>
+<li>Fix window title display for Windows users</li>
+<li>Improve chat box UI</li>
+</ul>
+<h2>New Contributors</h2>
+<ul>
+<li><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/KevinTurnbull/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/KevinTurnbull">@KevinTurnbull</a> made their first contribution in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3098256258" data-permission-text="Title is private" data-url="https://github.com/cline/cline/issues/3880" data-hovercard-type="pull_request" data-hovercard-url="/cline/cline/pull/3880/hovercard" href="https://github.com/cline/cline/pull/3880">#3880</a></li>
+<li><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dv01d/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dv01d">@dv01d</a> made their first contribution in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3057760424" data-permission-text="Title is private" data-url="https://github.com/cline/cline/issues/3474" data-hovercard-type="pull_request" data-hovercard-url="/cline/cline/pull/3474/hovercard" href="https://github.com/cline/cline/pull/3474">#3474</a></li>
+<li><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/octohedron/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/octohedron">@octohedron</a> made their first contribution in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2811456398" data-permission-text="Title is private" data-url="https://github.com/cline/cline/issues/1464" data-hovercard-type="pull_request" data-hovercard-url="/cline/cline/pull/1464/hovercard" href="https://github.com/cline/cline/pull/1464">#1464</a></li>
+<li><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/elongl/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/elongl">@elongl</a> made their first contribution in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3097470082" data-permission-text="Title is private" data-url="https://github.com/cline/cline/issues/3876" data-hovercard-type="pull_request" data-hovercard-url="/cline/cline/pull/3876/hovercard" href="https://github.com/cline/cline/pull/3876">#3876</a></li>
+<li><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/akhial/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/akhial">@akhial</a> made their first contribution in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3107394505" data-permission-text="Title is private" data-url="https://github.com/cline/cline/issues/3973" data-hovercard-type="pull_request" data-hovercard-url="/cline/cline/pull/3973/hovercard" href="https://github.com/cline/cline/pull/3973">#3973</a></li>
+<li><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/npacker/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/npacker">@npacker</a> made their first contribution in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3106624801" data-permission-text="Title is private" data-url="https://github.com/cline/cline/issues/3971" data-hovercard-type="pull_request" data-hovercard-url="/cline/cline/pull/3971/hovercard" href="https://github.com/cline/cline/pull/3971">#3971</a></li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/v3.17.8...v3.17.9"><tt>v3.17.8...v3.17.9</tt></a></p>]]>
+    </description>
+    <content:encoded><![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>Aligning Cline to work with Claude 4 model family (Experimental) (Thanks <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/heguro/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/heguro">@heguro</a> for the inspiration!)</li>
+<li>Add task timeline scrolling feature</li>
+<li>Add support for uploading CSV and XLSX files for data analysis and processing</li>
+<li>Add stable Grok-3 models to xAI provider (grok-3, grok-3-fast, grok-3-mini, grok-3-mini-fast) and update default model from grok-3-beta to grok-3 (Thanks <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/PeterDaveHello/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/PeterDaveHello">@PeterDaveHello</a>!)</li>
+<li>Add new models to Vertex AI provider</li>
+<li>Add new model to Nebius AI Studio</li>
+<li>Remove hard-coded temperature from LM Studio API requests and add support for reasoning_content in LM Studio responses</li>
+<li>Display delay information when retrying API calls for better user feedback</li>
+<li>Fix AWS Bedrock credential caching issue where externally updated credentials (e.g., by AWS Identity Manager) were not detected, requiring extension restart (Thanks <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/DaveFres/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/DaveFres">@DaveFres</a>!)</li>
+<li>Fix search tool overloading conversation with massive outputs by setting maximum byte limit for responses</li>
+<li>Fix checkpoints functionality</li>
+<li>Fix token counting for xAI provider</li>
+<li>Fix Ollama provider issues</li>
+<li>Fix window title display for Windows users</li>
+<li>Improve chat box UI</li>
+</ul>
+<h2>New Contributors</h2>
+<ul>
+<li><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/KevinTurnbull/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/KevinTurnbull">@KevinTurnbull</a> made their first contribution in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3098256258" data-permission-text="Title is private" data-url="https://github.com/cline/cline/issues/3880" data-hovercard-type="pull_request" data-hovercard-url="/cline/cline/pull/3880/hovercard" href="https://github.com/cline/cline/pull/3880">#3880</a></li>
+<li><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dv01d/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dv01d">@dv01d</a> made their first contribution in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3057760424" data-permission-text="Title is private" data-url="https://github.com/cline/cline/issues/3474" data-hovercard-type="pull_request" data-hovercard-url="/cline/cline/pull/3474/hovercard" href="https://github.com/cline/cline/pull/3474">#3474</a></li>
+<li><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/octohedron/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/octohedron">@octohedron</a> made their first contribution in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2811456398" data-permission-text="Title is private" data-url="https://github.com/cline/cline/issues/1464" data-hovercard-type="pull_request" data-hovercard-url="/cline/cline/pull/1464/hovercard" href="https://github.com/cline/cline/pull/1464">#1464</a></li>
+<li><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/elongl/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/elongl">@elongl</a> made their first contribution in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3097470082" data-permission-text="Title is private" data-url="https://github.com/cline/cline/issues/3876" data-hovercard-type="pull_request" data-hovercard-url="/cline/cline/pull/3876/hovercard" href="https://github.com/cline/cline/pull/3876">#3876</a></li>
+<li><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/akhial/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/akhial">@akhial</a> made their first contribution in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3107394505" data-permission-text="Title is private" data-url="https://github.com/cline/cline/issues/3973" data-hovercard-type="pull_request" data-hovercard-url="/cline/cline/pull/3973/hovercard" href="https://github.com/cline/cline/pull/3973">#3973</a></li>
+<li><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/npacker/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/npacker">@npacker</a> made their first contribution in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3106624801" data-permission-text="Title is private" data-url="https://github.com/cline/cline/issues/3971" data-hovercard-type="pull_request" data-hovercard-url="/cline/cline/pull/3971/hovercard" href="https://github.com/cline/cline/pull/3971">#3971</a></li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/v3.17.8...v3.17.9"><tt>v3.17.8...v3.17.9</tt></a></p>]]></content:encoded>
+    
+    <pubDate>2025-06-03T03:17:03.000Z</pubDate>
+  </item><item>
     <title><![CDATA[v3.17.8 更新：修復終端機卡死及「capture failure」問題]]></title>
     <link>https://github.com/cline/cline/releases/tag/v3.17.8</link>
     <itunes:title><![CDATA[v3.17.8 更新：修復終端機卡死及「capture failure」問題]]></itunes:title>
@@ -362,52 +457,5 @@
 <p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/v3.16.3...v3.17.0"><tt>v3.16.3...v3.17.0</tt></a></p>]]></content:encoded>
     
     <pubDate>2025-05-22T18:15:33.000Z</pubDate>
-  </item><item>
-    <title><![CDATA[Cline v3.16.3 發布：支援 Gemini 2.5 Flash 1M tokens 及多項優化]]></title>
-    <link>https://github.com/cline/cline/releases/tag/v3.16.3</link>
-    <itunes:title><![CDATA[Cline v3.16.3 發布：支援 Gemini 2.5 Flash 1M tokens 及多項優化]]></itunes:title>
-    <itunes:author><![CDATA[github-actions[bot]]]></itunes:author>
-    <itunes:summary>
-      <![CDATA[<h2>What's Changed</h2>
-<ul>
-<li>Add support for Gemini 2.5 Flash Preview 05-20 model to Vertex AI provider with massive 1M token context window (Thanks <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/omercelik/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/omercelik">@omercelik</a>!)</li>
-<li>Add keyboard shortcut (Cmd+') to quickly focus Cline from anywhere in VS Code</li>
-<li>Add lightbulb actions for selected text with options to "Add to Cline", "Explain with Cline", and "Improve with Cline"</li>
-<li>Automatically focus Cline window after extension updates</li>
-</ul>
-<h2>New Contributors</h2>
-<ul>
-<li><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/alejandropta/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/alejandropta">@alejandropta</a> made their first contribution in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3052096465" data-permission-text="Title is private" data-url="https://github.com/cline/cline/issues/3413" data-hovercard-type="pull_request" data-hovercard-url="/cline/cline/pull/3413/hovercard" href="https://github.com/cline/cline/pull/3413">#3413</a></li>
-</ul>
-<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/v3.16.2...v3.16.3"><tt>v3.16.2...v3.16.3</tt></a></p>]]>
-    </itunes:summary>
-    <description>
-      <![CDATA[<h2>What's Changed</h2>
-<ul>
-<li>Add support for Gemini 2.5 Flash Preview 05-20 model to Vertex AI provider with massive 1M token context window (Thanks <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/omercelik/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/omercelik">@omercelik</a>!)</li>
-<li>Add keyboard shortcut (Cmd+') to quickly focus Cline from anywhere in VS Code</li>
-<li>Add lightbulb actions for selected text with options to "Add to Cline", "Explain with Cline", and "Improve with Cline"</li>
-<li>Automatically focus Cline window after extension updates</li>
-</ul>
-<h2>New Contributors</h2>
-<ul>
-<li><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/alejandropta/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/alejandropta">@alejandropta</a> made their first contribution in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3052096465" data-permission-text="Title is private" data-url="https://github.com/cline/cline/issues/3413" data-hovercard-type="pull_request" data-hovercard-url="/cline/cline/pull/3413/hovercard" href="https://github.com/cline/cline/pull/3413">#3413</a></li>
-</ul>
-<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/v3.16.2...v3.16.3"><tt>v3.16.2...v3.16.3</tt></a></p>]]>
-    </description>
-    <content:encoded><![CDATA[<h2>What's Changed</h2>
-<ul>
-<li>Add support for Gemini 2.5 Flash Preview 05-20 model to Vertex AI provider with massive 1M token context window (Thanks <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/omercelik/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/omercelik">@omercelik</a>!)</li>
-<li>Add keyboard shortcut (Cmd+') to quickly focus Cline from anywhere in VS Code</li>
-<li>Add lightbulb actions for selected text with options to "Add to Cline", "Explain with Cline", and "Improve with Cline"</li>
-<li>Automatically focus Cline window after extension updates</li>
-</ul>
-<h2>New Contributors</h2>
-<ul>
-<li><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/alejandropta/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/alejandropta">@alejandropta</a> made their first contribution in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3052096465" data-permission-text="Title is private" data-url="https://github.com/cline/cline/issues/3413" data-hovercard-type="pull_request" data-hovercard-url="/cline/cline/pull/3413/hovercard" href="https://github.com/cline/cline/pull/3413">#3413</a></li>
-</ul>
-<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/v3.16.2...v3.16.3"><tt>v3.16.2...v3.16.3</tt></a></p>]]></content:encoded>
-    
-    <pubDate>2025-05-22T22:56:17.000Z</pubDate>
   </item></channel>
 </rss>
