@@ -3,7 +3,7 @@
     <title><![CDATA[cline Release [GH][RSS+]]]></title>
     <link>https://github.com/cline/cline/releases.atom</link>
     <image>
-      <url>https://fastly.picsum.photos/id/857/800/800.jpg?hmac=BUGUS_K7Wesbr9xUV5ya8TfYHI04KBg_kWauQkuIgS0</url>
+      <url>https://fastly.picsum.photos/id/562/800/800.jpg?hmac=KCmLof9bjN78BvKZZVZ7jRt3Y1PSbmQuO3U9oUm12jw</url>
       <title>cline Release [GH][RSS+]</title>
       <link>https://github.com/cline/cline/releases.atom</link>
     </image>
@@ -28,8 +28,46 @@
     <itunes:owner>
       <itunes:name><![CDATA[cline Release [GH][RSS+]]]></itunes:name>
     </itunes:owner>
-    <itunes:image href="https://fastly.picsum.photos/id/857/800/800.jpg?hmac=BUGUS_K7Wesbr9xUV5ya8TfYHI04KBg_kWauQkuIgS0"/>
+    <itunes:image href="https://fastly.picsum.photos/id/562/800/800.jpg?hmac=KCmLof9bjN78BvKZZVZ7jRt3Y1PSbmQuO3U9oUm12jw"/>
 <item>
+    <title><![CDATA[v3.17.11 更新重點：元件 protobus 遷徙、Gemini 2.5 Pro 預覽加入]]></title>
+    <link>https://github.com/cline/cline/releases/tag/v3.17.11</link>
+    <itunes:title><![CDATA[v3.17.11 更新重點：元件 protobus 遷徙、Gemini 2.5 Pro 預覽加入]]></itunes:title>
+    <itunes:author><![CDATA[github-actions[bot]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>Migrate settingsButtonClicked protobus by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/celestial-vault/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/celestial-vault">@celestial-vault</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3107626158" data-permission-text="Title is private" data-url="https://github.com/cline/cline/issues/3976" data-hovercard-type="pull_request" data-hovercard-url="/cline/cline/pull/3976/hovercard" href="https://github.com/cline/cline/pull/3976">#3976</a></li>
+<li>migrate partialMessage protobus by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/celestial-vault/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/celestial-vault">@celestial-vault</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3118952904" data-permission-text="Title is private" data-url="https://github.com/cline/cline/issues/4033" data-hovercard-type="pull_request" data-hovercard-url="/cline/cline/pull/4033/hovercard" href="https://github.com/cline/cline/pull/4033">#4033</a></li>
+<li>migrate mcpMarketplaceCatalog by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/celestial-vault/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/celestial-vault">@celestial-vault</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3116676256" data-permission-text="Title is private" data-url="https://github.com/cline/cline/issues/4023" data-hovercard-type="pull_request" data-hovercard-url="/cline/cline/pull/4023/hovercard" href="https://github.com/cline/cline/pull/4023">#4023</a></li>
+<li>Adding Gemini 2.5 pro preview 06-05 by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/arafatkatze/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/arafatkatze">@arafatkatze</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3121833272" data-permission-text="Title is private" data-url="https://github.com/cline/cline/issues/4053" data-hovercard-type="pull_request" data-hovercard-url="/cline/cline/pull/4053/hovercard" href="https://github.com/cline/cline/pull/4053">#4053</a></li>
+<li>Changeset version bump by @github-actions in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3119746008" data-permission-text="Title is private" data-url="https://github.com/cline/cline/issues/4042" data-hovercard-type="pull_request" data-hovercard-url="/cline/cline/pull/4042/hovercard" href="https://github.com/cline/cline/pull/4042">#4042</a></li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/v3.17.10...v3.17.11"><tt>v3.17.10...v3.17.11</tt></a></p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>Migrate settingsButtonClicked protobus by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/celestial-vault/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/celestial-vault">@celestial-vault</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3107626158" data-permission-text="Title is private" data-url="https://github.com/cline/cline/issues/3976" data-hovercard-type="pull_request" data-hovercard-url="/cline/cline/pull/3976/hovercard" href="https://github.com/cline/cline/pull/3976">#3976</a></li>
+<li>migrate partialMessage protobus by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/celestial-vault/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/celestial-vault">@celestial-vault</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3118952904" data-permission-text="Title is private" data-url="https://github.com/cline/cline/issues/4033" data-hovercard-type="pull_request" data-hovercard-url="/cline/cline/pull/4033/hovercard" href="https://github.com/cline/cline/pull/4033">#4033</a></li>
+<li>migrate mcpMarketplaceCatalog by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/celestial-vault/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/celestial-vault">@celestial-vault</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3116676256" data-permission-text="Title is private" data-url="https://github.com/cline/cline/issues/4023" data-hovercard-type="pull_request" data-hovercard-url="/cline/cline/pull/4023/hovercard" href="https://github.com/cline/cline/pull/4023">#4023</a></li>
+<li>Adding Gemini 2.5 pro preview 06-05 by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/arafatkatze/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/arafatkatze">@arafatkatze</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3121833272" data-permission-text="Title is private" data-url="https://github.com/cline/cline/issues/4053" data-hovercard-type="pull_request" data-hovercard-url="/cline/cline/pull/4053/hovercard" href="https://github.com/cline/cline/pull/4053">#4053</a></li>
+<li>Changeset version bump by @github-actions in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3119746008" data-permission-text="Title is private" data-url="https://github.com/cline/cline/issues/4042" data-hovercard-type="pull_request" data-hovercard-url="/cline/cline/pull/4042/hovercard" href="https://github.com/cline/cline/pull/4042">#4042</a></li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/v3.17.10...v3.17.11"><tt>v3.17.10...v3.17.11</tt></a></p>]]>
+    </description>
+    <content:encoded><![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>Migrate settingsButtonClicked protobus by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/celestial-vault/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/celestial-vault">@celestial-vault</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3107626158" data-permission-text="Title is private" data-url="https://github.com/cline/cline/issues/3976" data-hovercard-type="pull_request" data-hovercard-url="/cline/cline/pull/3976/hovercard" href="https://github.com/cline/cline/pull/3976">#3976</a></li>
+<li>migrate partialMessage protobus by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/celestial-vault/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/celestial-vault">@celestial-vault</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3118952904" data-permission-text="Title is private" data-url="https://github.com/cline/cline/issues/4033" data-hovercard-type="pull_request" data-hovercard-url="/cline/cline/pull/4033/hovercard" href="https://github.com/cline/cline/pull/4033">#4033</a></li>
+<li>migrate mcpMarketplaceCatalog by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/celestial-vault/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/celestial-vault">@celestial-vault</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3116676256" data-permission-text="Title is private" data-url="https://github.com/cline/cline/issues/4023" data-hovercard-type="pull_request" data-hovercard-url="/cline/cline/pull/4023/hovercard" href="https://github.com/cline/cline/pull/4023">#4023</a></li>
+<li>Adding Gemini 2.5 pro preview 06-05 by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/arafatkatze/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/arafatkatze">@arafatkatze</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3121833272" data-permission-text="Title is private" data-url="https://github.com/cline/cline/issues/4053" data-hovercard-type="pull_request" data-hovercard-url="/cline/cline/pull/4053/hovercard" href="https://github.com/cline/cline/pull/4053">#4053</a></li>
+<li>Changeset version bump by @github-actions in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3119746008" data-permission-text="Title is private" data-url="https://github.com/cline/cline/issues/4042" data-hovercard-type="pull_request" data-hovercard-url="/cline/cline/pull/4042/hovercard" href="https://github.com/cline/cline/pull/4042">#4042</a></li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/v3.17.10...v3.17.11"><tt>v3.17.10...v3.17.11</tt></a></p>]]></content:encoded>
+    
+    <pubDate>2025-06-05T19:04:55.000Z</pubDate>
+  </item><item>
     <title><![CDATA[v3.17.10 版本更新重點：支援Qwen3/AskSage模型、Ollama篩選器、Cline指引、API重試等]]></title>
     <link>https://github.com/cline/cline/releases/tag/v3.17.10</link>
     <itunes:title><![CDATA[v3.17.10 版本更新重點：支援Qwen3/AskSage模型、Ollama篩選器、Cline指引、API重試等]]></itunes:title>
@@ -464,34 +502,5 @@
 <p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/v3.17.1...v3.17.2"><tt>v3.17.1...v3.17.2</tt></a></p>]]></content:encoded>
     
     <pubDate>2025-05-22T22:55:51.000Z</pubDate>
-  </item><item>
-    <title><![CDATA[v3.17.1 版本更新：Claude 4 新增快取功能，Opus 4 最大 Token 增至 8192]]></title>
-    <link>https://github.com/cline/cline/releases/tag/v3.17.1</link>
-    <itunes:title><![CDATA[v3.17.1 版本更新：Claude 4 新增快取功能，Opus 4 最大 Token 增至 8192]]></itunes:title>
-    <itunes:author><![CDATA[github-actions[bot]]]></itunes:author>
-    <itunes:summary>
-      <![CDATA[<h2>What's Changed</h2>
-<ul>
-<li>Add prompt caching for Claude 4 models on Cline and OpenRouter providers</li>
-<li>Increase max tokens for Claude Opus 4 from 4096 to 8192</li>
-</ul>
-<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/v3.17.0...v3.17.1"><tt>v3.17.0...v3.17.1</tt></a></p>]]>
-    </itunes:summary>
-    <description>
-      <![CDATA[<h2>What's Changed</h2>
-<ul>
-<li>Add prompt caching for Claude 4 models on Cline and OpenRouter providers</li>
-<li>Increase max tokens for Claude Opus 4 from 4096 to 8192</li>
-</ul>
-<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/v3.17.0...v3.17.1"><tt>v3.17.0...v3.17.1</tt></a></p>]]>
-    </description>
-    <content:encoded><![CDATA[<h2>What's Changed</h2>
-<ul>
-<li>Add prompt caching for Claude 4 models on Cline and OpenRouter providers</li>
-<li>Increase max tokens for Claude Opus 4 from 4096 to 8192</li>
-</ul>
-<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/v3.17.0...v3.17.1"><tt>v3.17.0...v3.17.1</tt></a></p>]]></content:encoded>
-    
-    <pubDate>2025-05-22T22:28:47.000Z</pubDate>
   </item></channel>
 </rss>
