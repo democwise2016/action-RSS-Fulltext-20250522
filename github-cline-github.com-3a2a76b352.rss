@@ -3,7 +3,7 @@
     <title><![CDATA[cline Release [GH][RSS+]]]></title>
     <link>https://github.com/cline/cline/releases.atom</link>
     <image>
-      <url>https://fastly.picsum.photos/id/738/800/800.jpg?hmac=SLz5VaRHx5u0zqByAyRZav-a-PsenqMuWL5kCY5plZ0</url>
+      <url>https://fastly.picsum.photos/id/47/800/800.jpg?hmac=BPwGzKOp5w2U1sEX7_g_g7IpU-ZcYStRHJQkZrAMcCw</url>
       <title>cline Release [GH][RSS+]</title>
       <link>https://github.com/cline/cline/releases.atom</link>
     </image>
@@ -28,8 +28,58 @@
     <itunes:owner>
       <itunes:name><![CDATA[cline Release [GH][RSS+]]]></itunes:name>
     </itunes:owner>
-    <itunes:image href="https://fastly.picsum.photos/id/738/800/800.jpg?hmac=SLz5VaRHx5u0zqByAyRZav-a-PsenqMuWL5kCY5plZ0"/>
+    <itunes:image href="https://fastly.picsum.photos/id/47/800/800.jpg?hmac=BPwGzKOp5w2U1sEX7_g_g7IpU-ZcYStRHJQkZrAMcCw"/>
 <item>
+    <title><![CDATA[v3.17.13 版本推出：新增 Gemini 思考 UX，強化 AI 功能及平台體驗]]></title>
+    <link>https://github.com/cline/cline/releases/tag/v3.17.13</link>
+    <itunes:title><![CDATA[v3.17.13 版本推出：新增 Gemini 思考 UX，強化 AI 功能及平台體驗]]></itunes:title>
+    <itunes:author><![CDATA[github-actions[bot]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>Add Thinking UX for Gemini models, providing visual feedback during model reasoning</li>
+<li>Add support for Notifications MCP integration with Cline</li>
+<li>Add prompt caching indicator for Grok 3 models</li>
+<li>Sort MCP marketplace by newest listings by default for easier discovery of recent servers</li>
+<li>Update O3 model family pricing to reflect latest OpenAI rates</li>
+<li>Remove '-beta' suffix from Grok model identifiers</li>
+<li>Fix AWS Bedrock provider by removing deprecated Anthropic-Bedrock SDK (Thanks <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/watany-dev/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/watany-dev">@watany-dev</a>!)</li>
+<li>Fix menu display issue for terminal timeout settings</li>
+<li>Improve chat input field styling and behavior</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/v3.17.12...v3.17.13"><tt>v3.17.12...v3.17.13</tt></a></p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>Add Thinking UX for Gemini models, providing visual feedback during model reasoning</li>
+<li>Add support for Notifications MCP integration with Cline</li>
+<li>Add prompt caching indicator for Grok 3 models</li>
+<li>Sort MCP marketplace by newest listings by default for easier discovery of recent servers</li>
+<li>Update O3 model family pricing to reflect latest OpenAI rates</li>
+<li>Remove '-beta' suffix from Grok model identifiers</li>
+<li>Fix AWS Bedrock provider by removing deprecated Anthropic-Bedrock SDK (Thanks <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/watany-dev/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/watany-dev">@watany-dev</a>!)</li>
+<li>Fix menu display issue for terminal timeout settings</li>
+<li>Improve chat input field styling and behavior</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/v3.17.12...v3.17.13"><tt>v3.17.12...v3.17.13</tt></a></p>]]>
+    </description>
+    <content:encoded><![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>Add Thinking UX for Gemini models, providing visual feedback during model reasoning</li>
+<li>Add support for Notifications MCP integration with Cline</li>
+<li>Add prompt caching indicator for Grok 3 models</li>
+<li>Sort MCP marketplace by newest listings by default for easier discovery of recent servers</li>
+<li>Update O3 model family pricing to reflect latest OpenAI rates</li>
+<li>Remove '-beta' suffix from Grok model identifiers</li>
+<li>Fix AWS Bedrock provider by removing deprecated Anthropic-Bedrock SDK (Thanks <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/watany-dev/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/watany-dev">@watany-dev</a>!)</li>
+<li>Fix menu display issue for terminal timeout settings</li>
+<li>Improve chat input field styling and behavior</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/v3.17.12...v3.17.13"><tt>v3.17.12...v3.17.13</tt></a></p>]]></content:encoded>
+    
+    <pubDate>2025-06-12T06:02:11.000Z</pubDate>
+  </item><item>
     <title><![CDATA[Cline v3.17.12 更新：免費 Grok 3 模型上線，介面與錯誤修復]]></title>
     <link>https://github.com/cline/cline/releases/tag/v3.17.12</link>
     <itunes:title><![CDATA[Cline v3.17.12 更新：免費 Grok 3 模型上線，介面與錯誤修復]]></itunes:title>
@@ -437,43 +487,5 @@
 <p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/v3.17.3...v3.17.4"><tt>v3.17.3...v3.17.4</tt></a></p>]]></content:encoded>
     
     <pubDate>2025-05-29T06:36:11.000Z</pubDate>
-  </item><item>
-    <title><![CDATA[軟體v3.17.3更新：修正Claude 4模型差異編輯錯誤]]></title>
-    <link>https://github.com/cline/cline/releases/tag/v3.17.3</link>
-    <itunes:title><![CDATA[軟體v3.17.3更新：修正Claude 4模型差異編輯錯誤]]></itunes:title>
-    <itunes:author><![CDATA[github-actions[bot]]]></itunes:author>
-    <itunes:summary>
-      <![CDATA[<h2>What's Changed</h2>
-<ul>
-<li>Fix diff edit errors with Claude 4 models</li>
-</ul>
-<h2>New Contributors</h2>
-<ul>
-<li><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/limitx0/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/limitx0">@limitx0</a> made their first contribution in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3082664347" data-permission-text="Title is private" data-url="https://github.com/cline/cline/issues/3724" data-hovercard-type="pull_request" data-hovercard-url="/cline/cline/pull/3724/hovercard" href="https://github.com/cline/cline/pull/3724">#3724</a></li>
-</ul>
-<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/v3.17.2...v3.17.3"><tt>v3.17.2...v3.17.3</tt></a></p>]]>
-    </itunes:summary>
-    <description>
-      <![CDATA[<h2>What's Changed</h2>
-<ul>
-<li>Fix diff edit errors with Claude 4 models</li>
-</ul>
-<h2>New Contributors</h2>
-<ul>
-<li><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/limitx0/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/limitx0">@limitx0</a> made their first contribution in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3082664347" data-permission-text="Title is private" data-url="https://github.com/cline/cline/issues/3724" data-hovercard-type="pull_request" data-hovercard-url="/cline/cline/pull/3724/hovercard" href="https://github.com/cline/cline/pull/3724">#3724</a></li>
-</ul>
-<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/v3.17.2...v3.17.3"><tt>v3.17.2...v3.17.3</tt></a></p>]]>
-    </description>
-    <content:encoded><![CDATA[<h2>What's Changed</h2>
-<ul>
-<li>Fix diff edit errors with Claude 4 models</li>
-</ul>
-<h2>New Contributors</h2>
-<ul>
-<li><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/limitx0/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/limitx0">@limitx0</a> made their first contribution in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3082664347" data-permission-text="Title is private" data-url="https://github.com/cline/cline/issues/3724" data-hovercard-type="pull_request" data-hovercard-url="/cline/cline/pull/3724/hovercard" href="https://github.com/cline/cline/pull/3724">#3724</a></li>
-</ul>
-<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/v3.17.2...v3.17.3"><tt>v3.17.2...v3.17.3</tt></a></p>]]></content:encoded>
-    
-    <pubDate>2025-05-29T06:36:24.000Z</pubDate>
   </item></channel>
 </rss>
