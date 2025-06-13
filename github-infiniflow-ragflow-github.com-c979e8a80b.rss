@@ -3,7 +3,7 @@
     <title><![CDATA[RagFlow Release [GH][RSS+]]]></title>
     <link>https://github.com/infiniflow/ragflow/releases.atom</link>
     <image>
-      <url>https://fastly.picsum.photos/id/862/800/800.jpg?hmac=KUuNJi8k1YTuwiOtY_pgA1azYcedfl1LuOni9zGAues</url>
+      <url>https://fastly.picsum.photos/id/480/800/800.jpg?hmac=zJD5c6m5NKLIqT0G59wMkSbFxbh4AJ2ZIteXMOs2me0</url>
       <title>RagFlow Release [GH][RSS+]</title>
       <link>https://github.com/infiniflow/ragflow/releases.atom</link>
     </image>
@@ -28,21 +28,21 @@
     <itunes:owner>
       <itunes:name><![CDATA[RagFlow Release [GH][RSS+]]]></itunes:name>
     </itunes:owner>
-    <itunes:image href="https://fastly.picsum.photos/id/862/800/800.jpg?hmac=KUuNJi8k1YTuwiOtY_pgA1azYcedfl1LuOni9zGAues"/>
+    <itunes:image href="https://fastly.picsum.photos/id/480/800/800.jpg?hmac=zJD5c6m5NKLIqT0G59wMkSbFxbh4AJ2ZIteXMOs2me0"/>
 <item>
-    <title><![CDATA[nightly 版本 9972544 於 2025-06-12 釋出]]></title>
+    <title><![CDATA[夜間建置版本 f707403 於 2025-06-13 建立]]></title>
     <link>https://github.com/infiniflow/ragflow/releases/tag/nightly</link>
-    <itunes:title><![CDATA[nightly 版本 9972544 於 2025-06-12 釋出]]></itunes:title>
+    <itunes:title><![CDATA[夜間建置版本 f707403 於 2025-06-13 建立]]></itunes:title>
     <itunes:author><![CDATA[yuzhichang]]></itunes:author>
     <itunes:summary>
-      <![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/99725444f1fb940f48dac30535f5b1326498e72e/hovercard" href="https://github.com/infiniflow/ragflow/commit/99725444f1fb940f48dac30535f5b1326498e72e"><tt>9972544</tt></a> at 2025-06-12 21:15:16+08:00</p>]]>
+      <![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/f7074037efe7bee90de7e5a933499a484c92ea99/hovercard" href="https://github.com/infiniflow/ragflow/commit/f7074037efe7bee90de7e5a933499a484c92ea99"><tt>f707403</tt></a> at 2025-06-13 21:14:49+08:00</p>]]>
     </itunes:summary>
     <description>
-      <![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/99725444f1fb940f48dac30535f5b1326498e72e/hovercard" href="https://github.com/infiniflow/ragflow/commit/99725444f1fb940f48dac30535f5b1326498e72e"><tt>9972544</tt></a> at 2025-06-12 21:15:16+08:00</p>]]>
+      <![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/f7074037efe7bee90de7e5a933499a484c92ea99/hovercard" href="https://github.com/infiniflow/ragflow/commit/f7074037efe7bee90de7e5a933499a484c92ea99"><tt>f707403</tt></a> at 2025-06-13 21:14:49+08:00</p>]]>
     </description>
-    <content:encoded><![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/99725444f1fb940f48dac30535f5b1326498e72e/hovercard" href="https://github.com/infiniflow/ragflow/commit/99725444f1fb940f48dac30535f5b1326498e72e"><tt>9972544</tt></a> at 2025-06-12 21:15:16+08:00</p>]]></content:encoded>
+    <content:encoded><![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/f7074037efe7bee90de7e5a933499a484c92ea99/hovercard" href="https://github.com/infiniflow/ragflow/commit/f7074037efe7bee90de7e5a933499a484c92ea99"><tt>f707403</tt></a> at 2025-06-13 21:14:49+08:00</p>]]></content:encoded>
     
-    <pubDate>2025-06-12T13:15:18.000Z</pubDate>
+    <pubDate>2025-06-13T13:14:51.000Z</pubDate>
   </item><item>
     <title><![CDATA[v0.19.0 重磅更新：跨語言搜尋、程式碼元件、圖片顯示大幅提升，支援 Claude 4/ChatGPT o3]]></title>
     <link>https://github.com/infiniflow/ragflow/releases/tag/v0.19.0</link>
@@ -754,7 +754,7 @@
 <p>Catch non-begin component output</p>
 <h3>Type of change</h3>
 <ul class="contains-task-list">
-<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> Bug Fix (non-breaking change which fixes an issue)</li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" aria-label="Completed task" checked=""> Bug Fix (non-breaking change which fixes an issue)</li>
 </ul>]]>
     </itunes:summary>
     <description>
@@ -762,14 +762,14 @@
 <p>Catch non-begin component output</p>
 <h3>Type of change</h3>
 <ul class="contains-task-list">
-<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> Bug Fix (non-breaking change which fixes an issue)</li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" aria-label="Completed task" checked=""> Bug Fix (non-breaking change which fixes an issue)</li>
 </ul>]]>
     </description>
     <content:encoded><![CDATA[<h3>What problem does this PR solve?</h3>
 <p>Catch non-begin component output</p>
 <h3>Type of change</h3>
 <ul class="contains-task-list">
-<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> Bug Fix (non-breaking change which fixes an issue)</li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" aria-label="Completed task" checked=""> Bug Fix (non-breaking change which fixes an issue)</li>
 </ul>]]></content:encoded>
     
     <pubDate>2025-05-23T12:29:23.000Z</pubDate>
