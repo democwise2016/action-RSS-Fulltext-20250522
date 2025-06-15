@@ -3,7 +3,7 @@
     <title><![CDATA[RagFlow Release [GH][RSS+]]]></title>
     <link>https://github.com/infiniflow/ragflow/releases.atom</link>
     <image>
-      <url>https://fastly.picsum.photos/id/511/800/800.jpg?hmac=CJTcQacWVMv2en9Vbro7yBAwnO-umVB_f8k6JaULo4Y</url>
+      <url>https://fastly.picsum.photos/id/807/800/800.jpg?hmac=HBZUgJoOsMoTKDYdCcK94Aw7234HozpdHJ2OLQkv2M4</url>
       <title>RagFlow Release [GH][RSS+]</title>
       <link>https://github.com/infiniflow/ragflow/releases.atom</link>
     </image>
@@ -28,21 +28,21 @@
     <itunes:owner>
       <itunes:name><![CDATA[RagFlow Release [GH][RSS+]]]></itunes:name>
     </itunes:owner>
-    <itunes:image href="https://fastly.picsum.photos/id/511/800/800.jpg?hmac=CJTcQacWVMv2en9Vbro7yBAwnO-umVB_f8k6JaULo4Y"/>
+    <itunes:image href="https://fastly.picsum.photos/id/807/800/800.jpg?hmac=HBZUgJoOsMoTKDYdCcK94Aw7234HozpdHJ2OLQkv2M4"/>
 <item>
-    <title><![CDATA[nightly 版本更新：2025-06-14 從 f707403 建立]]></title>
+    <title><![CDATA[2025-06-15 nightly版本 f707403建構完成]]></title>
     <link>https://github.com/infiniflow/ragflow/releases/tag/nightly</link>
-    <itunes:title><![CDATA[nightly 版本更新：2025-06-14 從 f707403 建立]]></itunes:title>
+    <itunes:title><![CDATA[2025-06-15 nightly版本 f707403建構完成]]></itunes:title>
     <itunes:author><![CDATA[yuzhichang]]></itunes:author>
     <itunes:summary>
-      <![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/f7074037efe7bee90de7e5a933499a484c92ea99/hovercard" href="https://github.com/infiniflow/ragflow/commit/f7074037efe7bee90de7e5a933499a484c92ea99"><tt>f707403</tt></a> at 2025-06-14 21:11:19+08:00</p>]]>
+      <![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/f7074037efe7bee90de7e5a933499a484c92ea99/hovercard" href="https://github.com/infiniflow/ragflow/commit/f7074037efe7bee90de7e5a933499a484c92ea99"><tt>f707403</tt></a> at 2025-06-15 21:11:24+08:00</p>]]>
     </itunes:summary>
     <description>
-      <![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/f7074037efe7bee90de7e5a933499a484c92ea99/hovercard" href="https://github.com/infiniflow/ragflow/commit/f7074037efe7bee90de7e5a933499a484c92ea99"><tt>f707403</tt></a> at 2025-06-14 21:11:19+08:00</p>]]>
+      <![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/f7074037efe7bee90de7e5a933499a484c92ea99/hovercard" href="https://github.com/infiniflow/ragflow/commit/f7074037efe7bee90de7e5a933499a484c92ea99"><tt>f707403</tt></a> at 2025-06-15 21:11:24+08:00</p>]]>
     </description>
-    <content:encoded><![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/f7074037efe7bee90de7e5a933499a484c92ea99/hovercard" href="https://github.com/infiniflow/ragflow/commit/f7074037efe7bee90de7e5a933499a484c92ea99"><tt>f707403</tt></a> at 2025-06-14 21:11:19+08:00</p>]]></content:encoded>
+    <content:encoded><![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/f7074037efe7bee90de7e5a933499a484c92ea99/hovercard" href="https://github.com/infiniflow/ragflow/commit/f7074037efe7bee90de7e5a933499a484c92ea99"><tt>f707403</tt></a> at 2025-06-15 21:11:24+08:00</p>]]></content:encoded>
     
-    <pubDate>2025-06-14T13:11:20.000Z</pubDate>
+    <pubDate>2025-06-15T13:11:25.000Z</pubDate>
   </item><item>
     <title><![CDATA[v0.19.0 重磅更新：跨語言搜尋、程式碼元件、圖片顯示大幅提升，支援 Claude 4/ChatGPT o3]]></title>
     <link>https://github.com/infiniflow/ragflow/releases/tag/v0.19.0</link>
