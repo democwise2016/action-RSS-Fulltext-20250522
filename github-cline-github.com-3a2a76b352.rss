@@ -3,7 +3,7 @@
     <title><![CDATA[cline Release [GH][RSS+]]]></title>
     <link>https://github.com/cline/cline/releases.atom</link>
     <image>
-      <url>https://fastly.picsum.photos/id/18/800/800.jpg?hmac=hFf0_Aq_e0JoX2KEkC8hZabGSQJNQ_kDdYofOVp74j8</url>
+      <url>https://fastly.picsum.photos/id/136/800/800.jpg?hmac=lmfNUz4PiIFlHtNdBpxF4IFhDdxfEVXeas4dOhF2lew</url>
       <title>cline Release [GH][RSS+]</title>
       <link>https://github.com/cline/cline/releases.atom</link>
     </image>
@@ -28,7 +28,7 @@
     <itunes:owner>
       <itunes:name><![CDATA[cline Release [GH][RSS+]]]></itunes:name>
     </itunes:owner>
-    <itunes:image href="https://fastly.picsum.photos/id/18/800/800.jpg?hmac=hFf0_Aq_e0JoX2KEkC8hZabGSQJNQ_kDdYofOVp74j8"/>
+    <itunes:image href="https://fastly.picsum.photos/id/136/800/800.jpg?hmac=lmfNUz4PiIFlHtNdBpxF4IFhDdxfEVXeas4dOhF2lew"/>
 <item>
     <title><![CDATA[v3.17.14-a 更新：整合Claude Code、新增SAP AI等功能，修正多處問題]]></title>
     <link>https://github.com/cline/cline/releases/tag/v3.17.14-a</link>
