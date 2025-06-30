@@ -1,0 +1,533 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
+  <channel>
+    <title><![CDATA[GraphRAG Release [GH][RSS+]]]></title>
+    <link>https://github.com/microsoft/graphrag/releases.atom</link>
+    <image>
+      <url>https://fastly.picsum.photos/id/830/800/800.jpg?hmac=IbSlWBXAopEBKt0trTsz9QEhlUDjrULd4QXrMCk-APY</url>
+      <title>GraphRAG Release [GH][RSS+]</title>
+      <link>https://github.com/microsoft/graphrag/releases.atom</link>
+    </image>
+    <language>en-us</language>
+    <atom:link href="https://github.com/microsoft/graphrag/releases.atom" rel="self" type="application/rss+xml"/>
+    <copyright><![CDATA[GraphRAG Release [GH][RSS+]]]></copyright>
+    <itunes:author><![CDATA[GraphRAG Release [GH][RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[
+      <a href="https://github.com/microsoft/graphrag/releases" target="_blank">https://github.com/microsoft/graphrag/releases</a><br />
+<br />
+<a href="https://github.com/microsoft/graphrag/releases.atom" target="_blank">https://github.com/microsoft/graphrag/releases.atom</a>
+      ]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[
+      <a href="https://github.com/microsoft/graphrag/releases" target="_blank">https://github.com/microsoft/graphrag/releases</a><br />
+<br />
+<a href="https://github.com/microsoft/graphrag/releases.atom" target="_blank">https://github.com/microsoft/graphrag/releases.atom</a>
+      ]]>
+    </description>
+    <itunes:owner>
+      <itunes:name><![CDATA[GraphRAG Release [GH][RSS+]]]></itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://fastly.picsum.photos/id/830/800/800.jpg?hmac=IbSlWBXAopEBKt0trTsz9QEhlUDjrULd4QXrMCk-APY"/>
+<item>
+    <title><![CDATA[v2.3.0 版本發布：功能更新、錯誤修正及依賴升級]]></title>
+    <link>https://github.com/microsoft/graphrag/releases/tag/v2.3.0</link>
+    <itunes:title><![CDATA[v2.3.0 版本發布：功能更新、錯誤修正及依賴升級]]></itunes:title>
+    <itunes:author><![CDATA[AlonsoGuevara]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>minor: Remove Dynamic Max Retries support. Refactor typer typing in cli interface</li>
+<li>minor: Update fnllm to latest. Update default graphrag configuration</li>
+<li>patch: A few fixes and enhancements for better reuse and flow.</li>
+<li>patch: Add full llm response to LLM PRovider output</li>
+<li>patch: Fix Drift Reduce Response for non streaming calls</li>
+<li>patch: Fix global search prompt to include missing formatting key</li>
+<li>patch: Upgrade pyarrow dependency to &gt;=17.0.0 to fix <a title="CVE-2024-52338" data-hovercard-type="advisory" data-hovercard-url="/advisories/GHSA-m5xw-hwxw-fq3j/hovercard" href="https://github.com/advisories/GHSA-m5xw-hwxw-fq3j">CVE-2024-52338</a></li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/microsoft/graphrag/compare/v2.2.1...v2.3.0"><tt>v2.2.1...v2.3.0</tt></a></p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>minor: Remove Dynamic Max Retries support. Refactor typer typing in cli interface</li>
+<li>minor: Update fnllm to latest. Update default graphrag configuration</li>
+<li>patch: A few fixes and enhancements for better reuse and flow.</li>
+<li>patch: Add full llm response to LLM PRovider output</li>
+<li>patch: Fix Drift Reduce Response for non streaming calls</li>
+<li>patch: Fix global search prompt to include missing formatting key</li>
+<li>patch: Upgrade pyarrow dependency to &gt;=17.0.0 to fix <a title="CVE-2024-52338" data-hovercard-type="advisory" data-hovercard-url="/advisories/GHSA-m5xw-hwxw-fq3j/hovercard" href="https://github.com/advisories/GHSA-m5xw-hwxw-fq3j">CVE-2024-52338</a></li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/microsoft/graphrag/compare/v2.2.1...v2.3.0"><tt>v2.2.1...v2.3.0</tt></a></p>]]>
+    </description>
+    <content:encoded><![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>minor: Remove Dynamic Max Retries support. Refactor typer typing in cli interface</li>
+<li>minor: Update fnllm to latest. Update default graphrag configuration</li>
+<li>patch: A few fixes and enhancements for better reuse and flow.</li>
+<li>patch: Add full llm response to LLM PRovider output</li>
+<li>patch: Fix Drift Reduce Response for non streaming calls</li>
+<li>patch: Fix global search prompt to include missing formatting key</li>
+<li>patch: Upgrade pyarrow dependency to &gt;=17.0.0 to fix <a title="CVE-2024-52338" data-hovercard-type="advisory" data-hovercard-url="/advisories/GHSA-m5xw-hwxw-fq3j/hovercard" href="https://github.com/advisories/GHSA-m5xw-hwxw-fq3j">CVE-2024-52338</a></li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/microsoft/graphrag/compare/v2.2.1...v2.3.0"><tt>v2.2.1...v2.3.0</tt></a></p>]]></content:encoded>
+    
+    <pubDate>2025-05-23T21:43:32.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[最新版本 v2.2.1 發布：修復報告及圖形創建問題]]></title>
+    <link>https://github.com/microsoft/graphrag/releases/tag/v2.2.1</link>
+    <itunes:title><![CDATA[最新版本 v2.2.1 發布：修復報告及圖形創建問題]]></itunes:title>
+    <itunes:author><![CDATA[AlonsoGuevara]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>patch: Fix Community Report prompt tuning response</li>
+<li>patch: Fix graph creation missing edge weights.</li>
+<li>patch: Update as workflows</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/microsoft/graphrag/compare/v2.2.0...v2.2.1"><tt>v2.2.0...v2.2.1</tt></a></p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>patch: Fix Community Report prompt tuning response</li>
+<li>patch: Fix graph creation missing edge weights.</li>
+<li>patch: Update as workflows</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/microsoft/graphrag/compare/v2.2.0...v2.2.1"><tt>v2.2.0...v2.2.1</tt></a></p>]]>
+    </description>
+    <content:encoded><![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>patch: Fix Community Report prompt tuning response</li>
+<li>patch: Fix graph creation missing edge weights.</li>
+<li>patch: Update as workflows</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/microsoft/graphrag/compare/v2.2.0...v2.2.1"><tt>v2.2.0...v2.2.1</tt></a></p>]]></content:encoded>
+    
+    <pubDate>2025-05-01T00:18:20.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[v2.2.0 更新：支援 OpenAI 模型，強化 LLM 與嵌入功能]]></title>
+    <link>https://github.com/microsoft/graphrag/releases/tag/v2.2.0</link>
+    <itunes:title><![CDATA[v2.2.0 更新：支援 OpenAI 模型，強化 LLM 與嵌入功能]]></itunes:title>
+    <itunes:author><![CDATA[AlonsoGuevara]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>minor: Support OpenAI reasoning models.</li>
+<li>patch: Add option to snapshot raw extracted graph tables.</li>
+<li>patch: Added batching logic to the prompt tuning autoselection embeddings workflow</li>
+<li>patch: Align config classes and docs better.</li>
+<li>patch: Align embeddings table loading with configured fields.</li>
+<li>patch: Brings parity with our latest NLP extraction approaches.</li>
+<li>patch: Fix fnllm to 0.2.3</li>
+<li>patch: Fixes to basic search.</li>
+<li>patch: Update llm args for consistency.</li>
+<li>patch: add vector store integration tests</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/microsoft/graphrag/compare/v2.1.0...v2.2.0"><tt>v2.1.0...v2.2.0</tt></a></p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>minor: Support OpenAI reasoning models.</li>
+<li>patch: Add option to snapshot raw extracted graph tables.</li>
+<li>patch: Added batching logic to the prompt tuning autoselection embeddings workflow</li>
+<li>patch: Align config classes and docs better.</li>
+<li>patch: Align embeddings table loading with configured fields.</li>
+<li>patch: Brings parity with our latest NLP extraction approaches.</li>
+<li>patch: Fix fnllm to 0.2.3</li>
+<li>patch: Fixes to basic search.</li>
+<li>patch: Update llm args for consistency.</li>
+<li>patch: add vector store integration tests</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/microsoft/graphrag/compare/v2.1.0...v2.2.0"><tt>v2.1.0...v2.2.0</tt></a></p>]]>
+    </description>
+    <content:encoded><![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>minor: Support OpenAI reasoning models.</li>
+<li>patch: Add option to snapshot raw extracted graph tables.</li>
+<li>patch: Added batching logic to the prompt tuning autoselection embeddings workflow</li>
+<li>patch: Align config classes and docs better.</li>
+<li>patch: Align embeddings table loading with configured fields.</li>
+<li>patch: Brings parity with our latest NLP extraction approaches.</li>
+<li>patch: Fix fnllm to 0.2.3</li>
+<li>patch: Fixes to basic search.</li>
+<li>patch: Update llm args for consistency.</li>
+<li>patch: add vector store integration tests</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/microsoft/graphrag/compare/v2.1.0...v2.2.0"><tt>v2.1.0...v2.2.0</tt></a></p>]]></content:encoded>
+    
+    <pubDate>2025-04-26T00:21:17.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[v2.1.0 版本更新：新增 JSON 支援、優化 Prompt Tuner、加入狀態物件與問題修復。]]></title>
+    <link>https://github.com/microsoft/graphrag/releases/tag/v2.1.0</link>
+    <itunes:title><![CDATA[v2.1.0 版本更新：新增 JSON 支援、優化 Prompt Tuner、加入狀態物件與問題修復。]]></itunes:title>
+    <itunes:author><![CDATA[AlonsoGuevara]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>minor: Add support for JSON input files.</li>
+<li>minor: Updated the prompt tunning client to support csv-metadata injection and updated output file types to match the new naming convention.</li>
+<li>patch: Add check for custom model types while config loading</li>
+<li>patch: Adds general-purpose pipeline run state object.</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/microsoft/graphrag/compare/v2.0.0...v2.1.0"><tt>v2.0.0...v2.1.0</tt></a></p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>minor: Add support for JSON input files.</li>
+<li>minor: Updated the prompt tunning client to support csv-metadata injection and updated output file types to match the new naming convention.</li>
+<li>patch: Add check for custom model types while config loading</li>
+<li>patch: Adds general-purpose pipeline run state object.</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/microsoft/graphrag/compare/v2.0.0...v2.1.0"><tt>v2.0.0...v2.1.0</tt></a></p>]]>
+    </description>
+    <content:encoded><![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>minor: Add support for JSON input files.</li>
+<li>minor: Updated the prompt tunning client to support csv-metadata injection and updated output file types to match the new naming convention.</li>
+<li>patch: Add check for custom model types while config loading</li>
+<li>patch: Adds general-purpose pipeline run state object.</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/microsoft/graphrag/compare/v2.0.0...v2.1.0"><tt>v2.0.0...v2.1.0</tt></a></p>]]></content:encoded>
+    
+    <pubDate>2025-03-12T00:20:14.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[v2.0.0 更新：重大架構與API變革，新增LLM/NLP功能]]></title>
+    <link>https://github.com/microsoft/graphrag/releases/tag/v2.0.0</link>
+    <itunes:title><![CDATA[v2.0.0 更新：重大架構與API變革，新增LLM/NLP功能]]></itunes:title>
+    <itunes:author><![CDATA[AlonsoGuevara]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>major: Add children to communities to avoid re-compute.</li>
+<li>major: Reorganize and rename workflows and their outputs.</li>
+<li>major: Rework API to accept callbacks.</li>
+<li>minor: Add LLM Manager and Factory, to support provider registration</li>
+<li>minor: Add NLP graph extraction.</li>
+<li>minor: Add pipeline_start and pipeline_end callbacks.</li>
+<li>minor: Move embeddings snapshots to the workflow runner.</li>
+<li>minor: Remove config inheritance, hydration, and automatic env var overlays.</li>
+<li>minor: Rework the update output storage structure.</li>
+<li>patch: Add caching to NLP extractor.</li>
+<li>patch: Add vector store id reference to embeddings config.</li>
+<li>patch: Export NLP community reports prompt.</li>
+<li>patch: Fix DRIFT search on Azure AI Search.</li>
+<li>patch: Fix StopAsyncIteration catch.</li>
+<li>patch: Fix missing embeddings workflow in FastGraphRAG.</li>
+<li>patch: Fix proper use of n_depth for drift search</li>
+<li>patch: Fix report generation recursion.</li>
+<li>patch: Fix summarization over large datasets for inc indexing. Fix relationship summarization</li>
+<li>patch: Optimize data iteration by removing some iterrows from code</li>
+<li>patch: Patch json mode for community reports</li>
+<li>patch: Properly increment text unit IDs during updates.</li>
+<li>patch: Refactor config defaults from constants to type-safe, hierarchical dataclass.</li>
+<li>patch: Require explicit azure auth settings when using AOI.</li>
+<li>patch: Separates graph pruning for differential usage.</li>
+<li>patch: Tuck flow functions under their workflow modules.</li>
+<li>patch: Update fnllm. Remove unused libs.</li>
+<li>patch: Use ModelProvider for query module</li>
+<li>patch: Use shared schema for final outputs.</li>
+<li>patch: add dynamic retry logic.</li>
+<li>patch: add option to prepend metadata into chunks</li>
+<li>patch: cleanup query code duplication.</li>
+<li>patch: implemented multi-index querying for api layer</li>
+<li>patch: multi index query cli support</li>
+<li>patch: remove unused columns and change property document_attribute_columns to metadata</li>
+<li>patch: update multi-index query to support new workflows</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/microsoft/graphrag/compare/v1.2.0...v2.0.0"><tt>v1.2.0...v2.0.0</tt></a></p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>major: Add children to communities to avoid re-compute.</li>
+<li>major: Reorganize and rename workflows and their outputs.</li>
+<li>major: Rework API to accept callbacks.</li>
+<li>minor: Add LLM Manager and Factory, to support provider registration</li>
+<li>minor: Add NLP graph extraction.</li>
+<li>minor: Add pipeline_start and pipeline_end callbacks.</li>
+<li>minor: Move embeddings snapshots to the workflow runner.</li>
+<li>minor: Remove config inheritance, hydration, and automatic env var overlays.</li>
+<li>minor: Rework the update output storage structure.</li>
+<li>patch: Add caching to NLP extractor.</li>
+<li>patch: Add vector store id reference to embeddings config.</li>
+<li>patch: Export NLP community reports prompt.</li>
+<li>patch: Fix DRIFT search on Azure AI Search.</li>
+<li>patch: Fix StopAsyncIteration catch.</li>
+<li>patch: Fix missing embeddings workflow in FastGraphRAG.</li>
+<li>patch: Fix proper use of n_depth for drift search</li>
+<li>patch: Fix report generation recursion.</li>
+<li>patch: Fix summarization over large datasets for inc indexing. Fix relationship summarization</li>
+<li>patch: Optimize data iteration by removing some iterrows from code</li>
+<li>patch: Patch json mode for community reports</li>
+<li>patch: Properly increment text unit IDs during updates.</li>
+<li>patch: Refactor config defaults from constants to type-safe, hierarchical dataclass.</li>
+<li>patch: Require explicit azure auth settings when using AOI.</li>
+<li>patch: Separates graph pruning for differential usage.</li>
+<li>patch: Tuck flow functions under their workflow modules.</li>
+<li>patch: Update fnllm. Remove unused libs.</li>
+<li>patch: Use ModelProvider for query module</li>
+<li>patch: Use shared schema for final outputs.</li>
+<li>patch: add dynamic retry logic.</li>
+<li>patch: add option to prepend metadata into chunks</li>
+<li>patch: cleanup query code duplication.</li>
+<li>patch: implemented multi-index querying for api layer</li>
+<li>patch: multi index query cli support</li>
+<li>patch: remove unused columns and change property document_attribute_columns to metadata</li>
+<li>patch: update multi-index query to support new workflows</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/microsoft/graphrag/compare/v1.2.0...v2.0.0"><tt>v1.2.0...v2.0.0</tt></a></p>]]>
+    </description>
+    <content:encoded><![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>major: Add children to communities to avoid re-compute.</li>
+<li>major: Reorganize and rename workflows and their outputs.</li>
+<li>major: Rework API to accept callbacks.</li>
+<li>minor: Add LLM Manager and Factory, to support provider registration</li>
+<li>minor: Add NLP graph extraction.</li>
+<li>minor: Add pipeline_start and pipeline_end callbacks.</li>
+<li>minor: Move embeddings snapshots to the workflow runner.</li>
+<li>minor: Remove config inheritance, hydration, and automatic env var overlays.</li>
+<li>minor: Rework the update output storage structure.</li>
+<li>patch: Add caching to NLP extractor.</li>
+<li>patch: Add vector store id reference to embeddings config.</li>
+<li>patch: Export NLP community reports prompt.</li>
+<li>patch: Fix DRIFT search on Azure AI Search.</li>
+<li>patch: Fix StopAsyncIteration catch.</li>
+<li>patch: Fix missing embeddings workflow in FastGraphRAG.</li>
+<li>patch: Fix proper use of n_depth for drift search</li>
+<li>patch: Fix report generation recursion.</li>
+<li>patch: Fix summarization over large datasets for inc indexing. Fix relationship summarization</li>
+<li>patch: Optimize data iteration by removing some iterrows from code</li>
+<li>patch: Patch json mode for community reports</li>
+<li>patch: Properly increment text unit IDs during updates.</li>
+<li>patch: Refactor config defaults from constants to type-safe, hierarchical dataclass.</li>
+<li>patch: Require explicit azure auth settings when using AOI.</li>
+<li>patch: Separates graph pruning for differential usage.</li>
+<li>patch: Tuck flow functions under their workflow modules.</li>
+<li>patch: Update fnllm. Remove unused libs.</li>
+<li>patch: Use ModelProvider for query module</li>
+<li>patch: Use shared schema for final outputs.</li>
+<li>patch: add dynamic retry logic.</li>
+<li>patch: add option to prepend metadata into chunks</li>
+<li>patch: cleanup query code duplication.</li>
+<li>patch: implemented multi-index querying for api layer</li>
+<li>patch: multi index query cli support</li>
+<li>patch: remove unused columns and change property document_attribute_columns to metadata</li>
+<li>patch: update multi-index query to support new workflows</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/microsoft/graphrag/compare/v1.2.0...v2.0.0"><tt>v1.2.0...v2.0.0</tt></a></p>]]></content:encoded>
+    
+    <pubDate>2025-02-26T00:03:53.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[v1.2.0 更新日誌：新增 Drift Reduce、cosmosdb 等功能並修復問題]]></title>
+    <link>https://github.com/microsoft/graphrag/releases/tag/v1.2.0</link>
+    <itunes:title><![CDATA[v1.2.0 更新日誌：新增 Drift Reduce、cosmosdb 等功能並修復問題]]></itunes:title>
+    <itunes:author><![CDATA[AlonsoGuevara]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>minor: Add Drift Reduce response and streaming endpoint</li>
+<li>minor: add cosmosdb vector store</li>
+<li>patch: Fix example notebooks</li>
+<li>patch: Set default rate limits.</li>
+<li>patch: unit tests for text_splitting</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/microsoft/graphrag/compare/v1.1.2...v1.2.0"><tt>v1.1.2...v1.2.0</tt></a></p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>minor: Add Drift Reduce response and streaming endpoint</li>
+<li>minor: add cosmosdb vector store</li>
+<li>patch: Fix example notebooks</li>
+<li>patch: Set default rate limits.</li>
+<li>patch: unit tests for text_splitting</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/microsoft/graphrag/compare/v1.1.2...v1.2.0"><tt>v1.1.2...v1.2.0</tt></a></p>]]>
+    </description>
+    <content:encoded><![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>minor: Add Drift Reduce response and streaming endpoint</li>
+<li>minor: add cosmosdb vector store</li>
+<li>patch: Fix example notebooks</li>
+<li>patch: Set default rate limits.</li>
+<li>patch: unit tests for text_splitting</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/microsoft/graphrag/compare/v1.1.2...v1.2.0"><tt>v1.1.2...v1.2.0</tt></a></p>]]></content:encoded>
+    
+    <pubDate>2025-01-15T21:58:15.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[v1.1.2 更新：Basic Rag 小修復]]></title>
+    <link>https://github.com/microsoft/graphrag/releases/tag/v1.1.2</link>
+    <itunes:title><![CDATA[v1.1.2 更新：Basic Rag 小修復]]></itunes:title>
+    <itunes:author><![CDATA[AlonsoGuevara]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>patch: Basic Rag minor fix</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/microsoft/graphrag/compare/v1.1.1...v1.1.2"><tt>v1.1.1...v1.1.2</tt></a></p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>patch: Basic Rag minor fix</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/microsoft/graphrag/compare/v1.1.1...v1.1.2"><tt>v1.1.1...v1.1.2</tt></a></p>]]>
+    </description>
+    <content:encoded><![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>patch: Basic Rag minor fix</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/microsoft/graphrag/compare/v1.1.1...v1.1.2"><tt>v1.1.1...v1.1.2</tt></a></p>]]></content:encoded>
+    
+    <pubDate>2025-01-09T22:51:17.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[v1.1.1 更新：修復動態搜尋社群錯誤，增加屬性比例]]></title>
+    <link>https://github.com/microsoft/graphrag/releases/tag/v1.1.1</link>
+    <itunes:title><![CDATA[v1.1.1 更新：修復動態搜尋社群錯誤，增加屬性比例]]></itunes:title>
+    <itunes:author><![CDATA[AlonsoGuevara]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>patch: Fix a bug on creating community hierarchy for dynamic search</li>
+<li>patch: Increase LOCAL_SEARCH_COMMUNITY_PROP to 15%</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/microsoft/graphrag/compare/v1.1.0...v1.1.1"><tt>v1.1.0...v1.1.1</tt></a></p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>patch: Fix a bug on creating community hierarchy for dynamic search</li>
+<li>patch: Increase LOCAL_SEARCH_COMMUNITY_PROP to 15%</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/microsoft/graphrag/compare/v1.1.0...v1.1.1"><tt>v1.1.0...v1.1.1</tt></a></p>]]>
+    </description>
+    <content:encoded><![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>patch: Fix a bug on creating community hierarchy for dynamic search</li>
+<li>patch: Increase LOCAL_SEARCH_COMMUNITY_PROP to 15%</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/microsoft/graphrag/compare/v1.1.0...v1.1.1"><tt>v1.1.0...v1.1.1</tt></a></p>]]></content:encoded>
+    
+    <pubDate>2025-01-08T22:19:16.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[專案更新至 v1.1.0，移除 DataShaper 舊組件，新增搜尋與 CosmosDB 儲存]]></title>
+    <link>https://github.com/microsoft/graphrag/releases/tag/v1.1.0</link>
+    <itunes:title><![CDATA[專案更新至 v1.1.0，移除 DataShaper 舊組件，新增搜尋與 CosmosDB 儲存]]></itunes:title>
+    <itunes:author><![CDATA[AlonsoGuevara]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>minor: Make gleanings independent of encoding</li>
+<li>minor: Remove DataShaper (first steps).</li>
+<li>minor: Remove old pipeline runner.</li>
+<li>minor: new search implemented as a new option for the api</li>
+<li>patch: Fix gleanings loop check</li>
+<li>patch: Implement cosmosdb storage option for cache and output</li>
+<li>patch: Move extractor code to co-locate with operations.</li>
+<li>patch: Remove config input models.</li>
+<li>patch: Ruff update</li>
+<li>patch: Simplify and streamline internal config.</li>
+<li>patch: Simplify callbacks model.</li>
+<li>patch: Streamline flows.</li>
+<li>patch: fix instantiation of storage classes.</li>
+</ul>
+<h2>New Contributors</h2>
+<ul>
+<li><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/ex0ns/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/ex0ns">@ex0ns</a> made their first contribution in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2744154266" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/1529" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/1529/hovercard" href="https://github.com/microsoft/graphrag/pull/1529">#1529</a></li>
+<li><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/joeyhacker/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/joeyhacker">@joeyhacker</a> made their first contribution in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2736042183" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/1507" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/1507/hovercard" href="https://github.com/microsoft/graphrag/pull/1507">#1507</a></li>
+<li><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/theobgbd/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/theobgbd">@theobgbd</a> made their first contribution in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2736222499" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/1508" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/1508/hovercard" href="https://github.com/microsoft/graphrag/pull/1508">#1508</a></li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/microsoft/graphrag/compare/v1.0.1...v1.1.0"><tt>v1.0.1...v1.1.0</tt></a></p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>minor: Make gleanings independent of encoding</li>
+<li>minor: Remove DataShaper (first steps).</li>
+<li>minor: Remove old pipeline runner.</li>
+<li>minor: new search implemented as a new option for the api</li>
+<li>patch: Fix gleanings loop check</li>
+<li>patch: Implement cosmosdb storage option for cache and output</li>
+<li>patch: Move extractor code to co-locate with operations.</li>
+<li>patch: Remove config input models.</li>
+<li>patch: Ruff update</li>
+<li>patch: Simplify and streamline internal config.</li>
+<li>patch: Simplify callbacks model.</li>
+<li>patch: Streamline flows.</li>
+<li>patch: fix instantiation of storage classes.</li>
+</ul>
+<h2>New Contributors</h2>
+<ul>
+<li><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/ex0ns/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/ex0ns">@ex0ns</a> made their first contribution in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2744154266" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/1529" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/1529/hovercard" href="https://github.com/microsoft/graphrag/pull/1529">#1529</a></li>
+<li><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/joeyhacker/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/joeyhacker">@joeyhacker</a> made their first contribution in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2736042183" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/1507" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/1507/hovercard" href="https://github.com/microsoft/graphrag/pull/1507">#1507</a></li>
+<li><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/theobgbd/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/theobgbd">@theobgbd</a> made their first contribution in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2736222499" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/1508" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/1508/hovercard" href="https://github.com/microsoft/graphrag/pull/1508">#1508</a></li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/microsoft/graphrag/compare/v1.0.1...v1.1.0"><tt>v1.0.1...v1.1.0</tt></a></p>]]>
+    </description>
+    <content:encoded><![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>minor: Make gleanings independent of encoding</li>
+<li>minor: Remove DataShaper (first steps).</li>
+<li>minor: Remove old pipeline runner.</li>
+<li>minor: new search implemented as a new option for the api</li>
+<li>patch: Fix gleanings loop check</li>
+<li>patch: Implement cosmosdb storage option for cache and output</li>
+<li>patch: Move extractor code to co-locate with operations.</li>
+<li>patch: Remove config input models.</li>
+<li>patch: Ruff update</li>
+<li>patch: Simplify and streamline internal config.</li>
+<li>patch: Simplify callbacks model.</li>
+<li>patch: Streamline flows.</li>
+<li>patch: fix instantiation of storage classes.</li>
+</ul>
+<h2>New Contributors</h2>
+<ul>
+<li><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/ex0ns/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/ex0ns">@ex0ns</a> made their first contribution in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2744154266" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/1529" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/1529/hovercard" href="https://github.com/microsoft/graphrag/pull/1529">#1529</a></li>
+<li><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/joeyhacker/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/joeyhacker">@joeyhacker</a> made their first contribution in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2736042183" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/1507" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/1507/hovercard" href="https://github.com/microsoft/graphrag/pull/1507">#1507</a></li>
+<li><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/theobgbd/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/theobgbd">@theobgbd</a> made their first contribution in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2736222499" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/1508" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/1508/hovercard" href="https://github.com/microsoft/graphrag/pull/1508">#1508</a></li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/microsoft/graphrag/compare/v1.0.1...v1.1.0"><tt>v1.0.1...v1.1.0</tt></a></p>]]></content:encoded>
+    
+    <pubDate>2025-01-07T22:20:21.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[v1.0.1 版本發布：修正編碼、錯誤處理、LLM 管理等]]></title>
+    <link>https://github.com/microsoft/graphrag/releases/tag/v1.0.1</link>
+    <itunes:title><![CDATA[v1.0.1 版本發布：修正編碼、錯誤處理、LLM 管理等]]></itunes:title>
+    <itunes:author><![CDATA[AlonsoGuevara]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>patch: Fix encoding model config parsing</li>
+<li>patch: Fix exception on error callbacks</li>
+<li>patch: Manage llm instances inside a cached singleton. Check for empty dataframes after entity/relationship extraction</li>
+<li>patch: Respect encoding_model option</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/microsoft/graphrag/compare/v1.0.0...v1.0.1"><tt>v1.0.0...v1.0.1</tt></a></p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>patch: Fix encoding model config parsing</li>
+<li>patch: Fix exception on error callbacks</li>
+<li>patch: Manage llm instances inside a cached singleton. Check for empty dataframes after entity/relationship extraction</li>
+<li>patch: Respect encoding_model option</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/microsoft/graphrag/compare/v1.0.0...v1.0.1"><tt>v1.0.0...v1.0.1</tt></a></p>]]>
+    </description>
+    <content:encoded><![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>patch: Fix encoding model config parsing</li>
+<li>patch: Fix exception on error callbacks</li>
+<li>patch: Manage llm instances inside a cached singleton. Check for empty dataframes after entity/relationship extraction</li>
+<li>patch: Respect encoding_model option</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/microsoft/graphrag/compare/v1.0.0...v1.0.1"><tt>v1.0.0...v1.0.1</tt></a></p>]]></content:encoded>
+    
+    <pubDate>2024-12-18T23:28:49.000Z</pubDate>
+  </item></channel>
+</rss>
