@@ -30,6 +30,49 @@
     </itunes:owner>
     <itunes:image href="https://imgcdn.cna.com.tw/www/images/cna_info/cnalogo_176x117.jpg"/>
 <item>
+    <title><![CDATA[OpenAI：未計劃用Google自製AI晶片TPU]]></title>
+    <link>https://www.cna.com.tw/news/ait/202507010373.aspx</link>
+    <itunes:title><![CDATA[OpenAI：未計劃用Google自製AI晶片TPU]]></itunes:title>
+    <itunes:author><![CDATA[中央社 科技[RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1200/900;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250701/1200x900_wmky_7112731053_202410100143000000.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250701/1200x900_wmky_7112731053_202410100143000000.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250701/1200x900_wmky_7112731053_202410100143000000.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250701/1200x900_wmky_7112731053_202410100143000000.jpg" alt="圖為OpenAI logo。（中央社檔案照片）">
+                      </picture><figcaption class="picinfo">圖為OpenAI logo。（中央社檔案照片）</figcaption></figure><p>（中央社舊金山1日綜合外電報導）開發熱門聊天機器人ChatGPT的美國人工智慧（AI）公司OpenAI表示，他們目前並無計畫採用對手Google的自製AI晶片張量處理器（TPU）來驅動其產品，反駁了媒體報導。</p><p>OpenAI目前是使用輝達（Nvidia）的繪圖處理器（GPU）和超微（AMD）的AI晶片來驅動其產品。而路透社和一些其他新聞媒體先前報導，OpenAI為了滿足正在成長的需求，打算求助Google的TPU。</p><p>路透社報導，OpenAI的1名發言人6月29日表示，他們雖然正在對一些Google的TPU進行初步測試，但目前並無計畫大規模採用這些晶片。Google則婉拒置評。</p><p>AI公司常會嘗試不同晶片的可行性，但若要大規模改用硬體，恐得花費許多時間且須有另外的架構和軟體支援。</p><p>OpenAI也正在開發自家晶片，目前正按進度可望在今年達成「下線」里程碑，也就是晶片完成設計並交付生產線。</p><p>路透社6月稍早獨家報導，OpenAI已訂購Google的雲端服務，以滿足其持續成長的運算能力需求，意味這兩家AI產業主要對手公司意外有了合作。未來OpenAI的算力大多將仰賴所謂新一代雲端運算公司CoreWeave驅動的GPU伺服器。</p><p>Google的TPU原本僅供自家使用，但後來開始不斷向外推銷，並已爭取到包括美國科技業巨擘蘋果（Apple）和AI新創公司Anthropic與Safe Superintelligence等客戶。後兩家公司是OpenAI前領導人創立的對手公司。（譯者：張正芊/核稿：楊昭彥）1140701</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1200/900;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250701/1200x900_wmky_7112731053_202410100143000000.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250701/1200x900_wmky_7112731053_202410100143000000.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250701/1200x900_wmky_7112731053_202410100143000000.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250701/1200x900_wmky_7112731053_202410100143000000.jpg" alt="圖為OpenAI logo。（中央社檔案照片）">
+                      </picture><figcaption class="picinfo">圖為OpenAI logo。（中央社檔案照片）</figcaption></figure><p>（中央社舊金山1日綜合外電報導）開發熱門聊天機器人ChatGPT的美國人工智慧（AI）公司OpenAI表示，他們目前並無計畫採用對手Google的自製AI晶片張量處理器（TPU）來驅動其產品，反駁了媒體報導。</p><p>OpenAI目前是使用輝達（Nvidia）的繪圖處理器（GPU）和超微（AMD）的AI晶片來驅動其產品。而路透社和一些其他新聞媒體先前報導，OpenAI為了滿足正在成長的需求，打算求助Google的TPU。</p><p>路透社報導，OpenAI的1名發言人6月29日表示，他們雖然正在對一些Google的TPU進行初步測試，但目前並無計畫大規模採用這些晶片。Google則婉拒置評。</p><p>AI公司常會嘗試不同晶片的可行性，但若要大規模改用硬體，恐得花費許多時間且須有另外的架構和軟體支援。</p><p>OpenAI也正在開發自家晶片，目前正按進度可望在今年達成「下線」里程碑，也就是晶片完成設計並交付生產線。</p><p>路透社6月稍早獨家報導，OpenAI已訂購Google的雲端服務，以滿足其持續成長的運算能力需求，意味這兩家AI產業主要對手公司意外有了合作。未來OpenAI的算力大多將仰賴所謂新一代雲端運算公司CoreWeave驅動的GPU伺服器。</p><p>Google的TPU原本僅供自家使用，但後來開始不斷向外推銷，並已爭取到包括美國科技業巨擘蘋果（Apple）和AI新創公司Anthropic與Safe Superintelligence等客戶。後兩家公司是OpenAI前領導人創立的對手公司。（譯者：張正芊/核稿：楊昭彥）1140701</p>]]>
+    </description>
+    <content:encoded><![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1200/900;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250701/1200x900_wmky_7112731053_202410100143000000.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250701/1200x900_wmky_7112731053_202410100143000000.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20250701/1200x900_wmky_7112731053_202410100143000000.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20250701/1200x900_wmky_7112731053_202410100143000000.jpg" alt="圖為OpenAI logo。（中央社檔案照片）">
+                      </picture><figcaption class="picinfo">圖為OpenAI logo。（中央社檔案照片）</figcaption></figure><p>（中央社舊金山1日綜合外電報導）開發熱門聊天機器人ChatGPT的美國人工智慧（AI）公司OpenAI表示，他們目前並無計畫採用對手Google的自製AI晶片張量處理器（TPU）來驅動其產品，反駁了媒體報導。</p><p>OpenAI目前是使用輝達（Nvidia）的繪圖處理器（GPU）和超微（AMD）的AI晶片來驅動其產品。而路透社和一些其他新聞媒體先前報導，OpenAI為了滿足正在成長的需求，打算求助Google的TPU。</p><p>路透社報導，OpenAI的1名發言人6月29日表示，他們雖然正在對一些Google的TPU進行初步測試，但目前並無計畫大規模採用這些晶片。Google則婉拒置評。</p><p>AI公司常會嘗試不同晶片的可行性，但若要大規模改用硬體，恐得花費許多時間且須有另外的架構和軟體支援。</p><p>OpenAI也正在開發自家晶片，目前正按進度可望在今年達成「下線」里程碑，也就是晶片完成設計並交付生產線。</p><p>路透社6月稍早獨家報導，OpenAI已訂購Google的雲端服務，以滿足其持續成長的運算能力需求，意味這兩家AI產業主要對手公司意外有了合作。未來OpenAI的算力大多將仰賴所謂新一代雲端運算公司CoreWeave驅動的GPU伺服器。</p><p>Google的TPU原本僅供自家使用，但後來開始不斷向外推銷，並已爭取到包括美國科技業巨擘蘋果（Apple）和AI新創公司Anthropic與Safe Superintelligence等客戶。後兩家公司是OpenAI前領導人創立的對手公司。（譯者：張正芊/核稿：楊昭彥）1140701</p>]]></content:encoded>
+    
+    <pubDate>Tue, 01 Jul 2025 22:11:46 +0800</pubDate>
+  </item><item>
+    <title><![CDATA[Netflix攜手NASA 火箭升空太空任務盡情看]]></title>
+    <link>https://www.cna.com.tw/news/ait/202507010239.aspx</link>
+    <itunes:title><![CDATA[Netflix攜手NASA 火箭升空太空任務盡情看]]></itunes:title>
+    <itunes:author><![CDATA[中央社 科技[RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>（中央社華盛頓30日綜合外電報導）全球串流影視平台Netflix今天宣布將與美國國家航空暨太空總署（NASA）合作，觀眾未來可透過Netflix，盡情觀賞火箭升空、太空人艙外漫步等畫面。</p><p>法新社報導，Netflix稍早在官方部落格宣布NASA+頻道時說：「不論你是死忠太空迷，或只是單純喜歡從約400公里高空俯瞰地球的美景，倒數計時正式開始。」</p><p>Netflix表示，NASA+頻道將提供「來自國際太空站（ISS）令人嘆為觀止的地球景色、令人手心冒汗的太空人艙外活動」以及火箭升空直播等內容。</p><p>NASA表示，此次與去年12月用戶數突破3億的Netflix合作「是為讓太空離我們的生活更近一些」。</p><p>NASA+總經理瑟蒙斯（Rebecca Sirmons）說：「1958年通過『國家航空暨太空法』後，我們就有責任將太空探索的歷程分享給最廣大觀眾。」</p><p>她還說，這項串流服務致力於「啟發下一代，無論是在沙發上，還是從掌上的手機觀看」。</p><p>儘管與Netflix合作，NASA+的節目內容將持續透過NASA官網NASA.gov及其官方應用程式免費提供觀眾收看。（實習編譯：吳秉勵/核稿：陳亦偉）1140701</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>（中央社華盛頓30日綜合外電報導）全球串流影視平台Netflix今天宣布將與美國國家航空暨太空總署（NASA）合作，觀眾未來可透過Netflix，盡情觀賞火箭升空、太空人艙外漫步等畫面。</p><p>法新社報導，Netflix稍早在官方部落格宣布NASA+頻道時說：「不論你是死忠太空迷，或只是單純喜歡從約400公里高空俯瞰地球的美景，倒數計時正式開始。」</p><p>Netflix表示，NASA+頻道將提供「來自國際太空站（ISS）令人嘆為觀止的地球景色、令人手心冒汗的太空人艙外活動」以及火箭升空直播等內容。</p><p>NASA表示，此次與去年12月用戶數突破3億的Netflix合作「是為讓太空離我們的生活更近一些」。</p><p>NASA+總經理瑟蒙斯（Rebecca Sirmons）說：「1958年通過『國家航空暨太空法』後，我們就有責任將太空探索的歷程分享給最廣大觀眾。」</p><p>她還說，這項串流服務致力於「啟發下一代，無論是在沙發上，還是從掌上的手機觀看」。</p><p>儘管與Netflix合作，NASA+的節目內容將持續透過NASA官網NASA.gov及其官方應用程式免費提供觀眾收看。（實習編譯：吳秉勵/核稿：陳亦偉）1140701</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>（中央社華盛頓30日綜合外電報導）全球串流影視平台Netflix今天宣布將與美國國家航空暨太空總署（NASA）合作，觀眾未來可透過Netflix，盡情觀賞火箭升空、太空人艙外漫步等畫面。</p><p>法新社報導，Netflix稍早在官方部落格宣布NASA+頻道時說：「不論你是死忠太空迷，或只是單純喜歡從約400公里高空俯瞰地球的美景，倒數計時正式開始。」</p><p>Netflix表示，NASA+頻道將提供「來自國際太空站（ISS）令人嘆為觀止的地球景色、令人手心冒汗的太空人艙外活動」以及火箭升空直播等內容。</p><p>NASA表示，此次與去年12月用戶數突破3億的Netflix合作「是為讓太空離我們的生活更近一些」。</p><p>NASA+總經理瑟蒙斯（Rebecca Sirmons）說：「1958年通過『國家航空暨太空法』後，我們就有責任將太空探索的歷程分享給最廣大觀眾。」</p><p>她還說，這項串流服務致力於「啟發下一代，無論是在沙發上，還是從掌上的手機觀看」。</p><p>儘管與Netflix合作，NASA+的節目內容將持續透過NASA官網NASA.gov及其官方應用程式免費提供觀眾收看。（實習編譯：吳秉勵/核稿：陳亦偉）1140701</p>]]></content:encoded>
+    
+    <pubDate>Tue, 01 Jul 2025 16:49:53 +0800</pubDate>
+  </item><item>
     <title><![CDATA[都市也能種菜 新加坡室內農場翻轉糧食安全想像]]></title>
     <link>https://www.cna.com.tw/news/ait/202507010156.aspx</link>
     <itunes:title><![CDATA[都市也能種菜 新加坡室內農場翻轉糧食安全想像]]></itunes:title>
@@ -402,19 +445,5 @@
                       </picture><figcaption class="picinfo">圖為晶圓代工廠聯電在新加坡設22奈米新廠。 （中央社檔案照片）</figcaption></figure><p>（中央社記者張建中新竹24日電）特殊應用晶片（ASIC）廠智原今天宣布，10G SerDes高速傳輸矽智財（IP）導入聯電22奈米製程，主打工業自動化、智慧物聯網（AIoT）、5G數據機、光纖到家及先進網通等應用。</p><p>智原發布新聞稿指出，自2013年以來持續提供穩健且高效能的SerDes解決方案，此次推出的10G SerDes矽智財相容於多項關鍵協定，包括PCIe Gen1、2、3、USB 3.2 Gen1、2，並支援多種被動光纖網路（PON）技術，適用於光網路單元（ONU）設計整合。</p><p>智原表示，為協助客戶加速產品開發並降低整合風險，智原提供完整的IP客製化與設計服務，涵蓋子系統整合、硬核實現，以及從晶片內部、輸入輸出（IO）到封裝與電路板層級的整合訊號、電源完整性分析，有助於客戶簡化開發流程，縮短產品上市時程。</p><p>智原營運長林世欽說，IP管理系統涵蓋從電路開發驗證、資料庫打包、版本控管到品質監控等完整流程，並提供早期風險警示機制，確保矽智財品質與穩定性，有信心能滿足市場在效能、成本效益與時效方面需求。（編輯：張良知）1140624</p>]]></content:encoded>
     
     <pubDate>Tue, 24 Jun 2025 19:09:59 +0800</pubDate>
-  </item><item>
-    <title><![CDATA[研究：小行星2032年若撞月球 人造衛星將陷風險]]></title>
-    <link>https://www.cna.com.tw/news/ait/202506240151.aspx</link>
-    <itunes:title><![CDATA[研究：小行星2032年若撞月球 人造衛星將陷風險]]></itunes:title>
-    <itunes:author><![CDATA[中央社 科技[RSS+]]]></itunes:author>
-    <itunes:summary>
-      <![CDATA[<p>（中央社巴黎23日綜合外電報導）研究員說，若一顆大型小行星於2032年撞上月球，巨大爆炸會把碎片噴向地球，將威脅到衛星，同時製造壯觀的流星雨。</p><p>法新社報導，科學家今年稍早一度擔心直徑60公尺的小行星2024 YR4將於2032年12月22日撞上地球，這個尺寸的天體足以夷平一座城市。</p><p>科學家當時估計這顆小行星撞上地球機率為3.1%，為歷來對這類巨型太空岩石所測得的最高數值，後續透過望遠鏡觀察，最終排除它直接撞上地球的可能性。</p><p>然而，根據韋伯太空望遠鏡（James Webb Space Telescope）5月取得的數據，這顆小行星撞上月球的機率升高到4.3%。</p><p>一項尚未經過同儕審查的新預印研究首次評估這類撞擊可能對地球造成的影響。</p><p>加拿大西安大略大學（University of Western Ontario）研究主要作者維格特（Paul Wiegert）說，這會是約5000年來撞擊月球的最大型小行星，以釋出能量來說，撞擊力道將「相當於大型核爆」。</p><p>根據研究員的一系列模擬，月球表面將噴射多達1億公斤物質。</p><p>他們說，若這顆小行星撞上月球面對地球一側，這種可能性約達50%，屆時最多有10%的碎片可能在接下來數天被地球重力吸引。</p><p>維格特說，地球大氣將保護地面不受數公釐到數公分大小的月球岩石碎片影響。但這些流星可能摧毀一些衛星，而且到了2032年，預計會有更多衛星繞著地球轉。</p><p>維格特說：「一顆一公分大小的岩石以每秒數萬公尺的速度飛來，幾乎就像一顆子彈。」</p><p>撞擊後的數天內，威脅地球衛星的流星數量可能是平常的1000倍以上。</p><p>研究提到，地表上的人屆時將欣賞到一場點亮夜空的「壯觀」流星雨。</p><p>但維格特強調，目前估算小行星直接撞擊月球面對地球一側的機率仍只有2%。（譯者：曾依璇/核稿：盧映孜）1140624</p>]]>
-    </itunes:summary>
-    <description>
-      <![CDATA[<p>（中央社巴黎23日綜合外電報導）研究員說，若一顆大型小行星於2032年撞上月球，巨大爆炸會把碎片噴向地球，將威脅到衛星，同時製造壯觀的流星雨。</p><p>法新社報導，科學家今年稍早一度擔心直徑60公尺的小行星2024 YR4將於2032年12月22日撞上地球，這個尺寸的天體足以夷平一座城市。</p><p>科學家當時估計這顆小行星撞上地球機率為3.1%，為歷來對這類巨型太空岩石所測得的最高數值，後續透過望遠鏡觀察，最終排除它直接撞上地球的可能性。</p><p>然而，根據韋伯太空望遠鏡（James Webb Space Telescope）5月取得的數據，這顆小行星撞上月球的機率升高到4.3%。</p><p>一項尚未經過同儕審查的新預印研究首次評估這類撞擊可能對地球造成的影響。</p><p>加拿大西安大略大學（University of Western Ontario）研究主要作者維格特（Paul Wiegert）說，這會是約5000年來撞擊月球的最大型小行星，以釋出能量來說，撞擊力道將「相當於大型核爆」。</p><p>根據研究員的一系列模擬，月球表面將噴射多達1億公斤物質。</p><p>他們說，若這顆小行星撞上月球面對地球一側，這種可能性約達50%，屆時最多有10%的碎片可能在接下來數天被地球重力吸引。</p><p>維格特說，地球大氣將保護地面不受數公釐到數公分大小的月球岩石碎片影響。但這些流星可能摧毀一些衛星，而且到了2032年，預計會有更多衛星繞著地球轉。</p><p>維格特說：「一顆一公分大小的岩石以每秒數萬公尺的速度飛來，幾乎就像一顆子彈。」</p><p>撞擊後的數天內，威脅地球衛星的流星數量可能是平常的1000倍以上。</p><p>研究提到，地表上的人屆時將欣賞到一場點亮夜空的「壯觀」流星雨。</p><p>但維格特強調，目前估算小行星直接撞擊月球面對地球一側的機率仍只有2%。（譯者：曾依璇/核稿：盧映孜）1140624</p>]]>
-    </description>
-    <content:encoded><![CDATA[<p>（中央社巴黎23日綜合外電報導）研究員說，若一顆大型小行星於2032年撞上月球，巨大爆炸會把碎片噴向地球，將威脅到衛星，同時製造壯觀的流星雨。</p><p>法新社報導，科學家今年稍早一度擔心直徑60公尺的小行星2024 YR4將於2032年12月22日撞上地球，這個尺寸的天體足以夷平一座城市。</p><p>科學家當時估計這顆小行星撞上地球機率為3.1%，為歷來對這類巨型太空岩石所測得的最高數值，後續透過望遠鏡觀察，最終排除它直接撞上地球的可能性。</p><p>然而，根據韋伯太空望遠鏡（James Webb Space Telescope）5月取得的數據，這顆小行星撞上月球的機率升高到4.3%。</p><p>一項尚未經過同儕審查的新預印研究首次評估這類撞擊可能對地球造成的影響。</p><p>加拿大西安大略大學（University of Western Ontario）研究主要作者維格特（Paul Wiegert）說，這會是約5000年來撞擊月球的最大型小行星，以釋出能量來說，撞擊力道將「相當於大型核爆」。</p><p>根據研究員的一系列模擬，月球表面將噴射多達1億公斤物質。</p><p>他們說，若這顆小行星撞上月球面對地球一側，這種可能性約達50%，屆時最多有10%的碎片可能在接下來數天被地球重力吸引。</p><p>維格特說，地球大氣將保護地面不受數公釐到數公分大小的月球岩石碎片影響。但這些流星可能摧毀一些衛星，而且到了2032年，預計會有更多衛星繞著地球轉。</p><p>維格特說：「一顆一公分大小的岩石以每秒數萬公尺的速度飛來，幾乎就像一顆子彈。」</p><p>撞擊後的數天內，威脅地球衛星的流星數量可能是平常的1000倍以上。</p><p>研究提到，地表上的人屆時將欣賞到一場點亮夜空的「壯觀」流星雨。</p><p>但維格特強調，目前估算小行星直接撞擊月球面對地球一側的機率仍只有2%。（譯者：曾依璇/核稿：盧映孜）1140624</p>]]></content:encoded>
-    
-    <pubDate>Tue, 24 Jun 2025 14:21:28 +0800</pubDate>
   </item></channel>
 </rss>
