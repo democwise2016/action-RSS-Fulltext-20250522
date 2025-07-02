@@ -3,7 +3,7 @@
     <title><![CDATA[cline Release [GH][RSS+]]]></title>
     <link>https://github.com/cline/cline/releases.atom</link>
     <image>
-      <url>https://fastly.picsum.photos/id/367/800/800.jpg?hmac=CVHuZJTYh0tN-ZacllW1Yk6DQ0IweAs4agbaGOc_tCc</url>
+      <url>https://fastly.picsum.photos/id/614/800/800.jpg?hmac=L5lP_rTXi3ZgMofzvqo8dB-rp6B9al0riKUHs3WNheE</url>
       <title>cline Release [GH][RSS+]</title>
       <link>https://github.com/cline/cline/releases.atom</link>
     </image>
@@ -28,7 +28,7 @@
     <itunes:owner>
       <itunes:name><![CDATA[cline Release [GH][RSS+]]]></itunes:name>
     </itunes:owner>
-    <itunes:image href="https://fastly.picsum.photos/id/367/800/800.jpg?hmac=CVHuZJTYh0tN-ZacllW1Yk6DQ0IweAs4agbaGOc_tCc"/>
+    <itunes:image href="https://fastly.picsum.photos/id/614/800/800.jpg?hmac=L5lP_rTXi3ZgMofzvqo8dB-rp6B9al0riKUHs3WNheE"/>
 <item>
     <title><![CDATA[v3.18.1版本更新：新增Claude 4 Sonnet、移除Gemini並修復錯誤]]></title>
     <link>https://github.com/cline/cline/releases/tag/v3.18.1</link>
