@@ -3,7 +3,7 @@
     <title><![CDATA[cline Release [GH][RSS+]]]></title>
     <link>https://github.com/cline/cline/releases.atom</link>
     <image>
-      <url>https://fastly.picsum.photos/id/92/800/800.jpg?hmac=YCSDSJNBvuaENYk6378_AIOC1khxdCxB7WWGHHmP3yE</url>
+      <url>https://fastly.picsum.photos/id/94/800/800.jpg?hmac=8IWXXpQ8NEeXymO3-SMumNDmeMlzvJTaPFK1ITkm8Fk</url>
       <title>cline Release [GH][RSS+]</title>
       <link>https://github.com/cline/cline/releases.atom</link>
     </image>
@@ -28,8 +28,46 @@
     <itunes:owner>
       <itunes:name><![CDATA[cline Release [GH][RSS+]]]></itunes:name>
     </itunes:owner>
-    <itunes:image href="https://fastly.picsum.photos/id/92/800/800.jpg?hmac=YCSDSJNBvuaENYk6378_AIOC1khxdCxB7WWGHHmP3yE"/>
+    <itunes:image href="https://fastly.picsum.photos/id/94/800/800.jpg?hmac=8IWXXpQ8NEeXymO3-SMumNDmeMlzvJTaPFK1ITkm8Fk"/>
 <item>
+    <title><![CDATA[v3.18.3更新日誌：調整儲存、模型優化、新增功能]]></title>
+    <link>https://github.com/cline/cline/releases/tag/v3.18.3</link>
+    <itunes:title><![CDATA[v3.18.3更新日誌：調整儲存、模型優化、新增功能]]></itunes:title>
+    <itunes:author><![CDATA[github-actions[bot]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>Move plan/act model settings to global storage by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/celestial-vault/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/celestial-vault">@celestial-vault</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3197879903" data-permission-text="Title is private" data-url="https://github.com/cline/cline/issues/4636" data-hovercard-type="pull_request" data-hovercard-url="/cline/cline/pull/4636/hovercard" href="https://github.com/cline/cline/pull/4636">#4636</a></li>
+<li>Strip thinking tokens from Cerebras reasoning model inputs by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/kevint-cerebras/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/kevint-cerebras">@kevint-cerebras</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3197773010" data-permission-text="Title is private" data-url="https://github.com/cline/cline/issues/4635" data-hovercard-type="pull_request" data-hovercard-url="/cline/cline/pull/4635/hovercard" href="https://github.com/cline/cline/pull/4635">#4635</a></li>
+<li>Improve Claude Code handling by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/BarreiroT/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/BarreiroT">@BarreiroT</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3193677368" data-permission-text="Title is private" data-url="https://github.com/cline/cline/issues/4619" data-hovercard-type="pull_request" data-hovercard-url="/cline/cline/pull/4619/hovercard" href="https://github.com/cline/cline/pull/4619">#4619</a></li>
+<li>add log + run options by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/0xToshii/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/0xToshii">@0xToshii</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3194844751" data-permission-text="Title is private" data-url="https://github.com/cline/cline/issues/4630" data-hovercard-type="pull_request" data-hovercard-url="/cline/cline/pull/4630/hovercard" href="https://github.com/cline/cline/pull/4630">#4630</a></li>
+<li>v3.18.3 Release Notes by @github-actions in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3200742516" data-permission-text="Title is private" data-url="https://github.com/cline/cline/issues/4644" data-hovercard-type="pull_request" data-hovercard-url="/cline/cline/pull/4644/hovercard" href="https://github.com/cline/cline/pull/4644">#4644</a></li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/v3.18.2...v3.18.3"><tt>v3.18.2...v3.18.3</tt></a></p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>Move plan/act model settings to global storage by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/celestial-vault/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/celestial-vault">@celestial-vault</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3197879903" data-permission-text="Title is private" data-url="https://github.com/cline/cline/issues/4636" data-hovercard-type="pull_request" data-hovercard-url="/cline/cline/pull/4636/hovercard" href="https://github.com/cline/cline/pull/4636">#4636</a></li>
+<li>Strip thinking tokens from Cerebras reasoning model inputs by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/kevint-cerebras/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/kevint-cerebras">@kevint-cerebras</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3197773010" data-permission-text="Title is private" data-url="https://github.com/cline/cline/issues/4635" data-hovercard-type="pull_request" data-hovercard-url="/cline/cline/pull/4635/hovercard" href="https://github.com/cline/cline/pull/4635">#4635</a></li>
+<li>Improve Claude Code handling by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/BarreiroT/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/BarreiroT">@BarreiroT</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3193677368" data-permission-text="Title is private" data-url="https://github.com/cline/cline/issues/4619" data-hovercard-type="pull_request" data-hovercard-url="/cline/cline/pull/4619/hovercard" href="https://github.com/cline/cline/pull/4619">#4619</a></li>
+<li>add log + run options by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/0xToshii/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/0xToshii">@0xToshii</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3194844751" data-permission-text="Title is private" data-url="https://github.com/cline/cline/issues/4630" data-hovercard-type="pull_request" data-hovercard-url="/cline/cline/pull/4630/hovercard" href="https://github.com/cline/cline/pull/4630">#4630</a></li>
+<li>v3.18.3 Release Notes by @github-actions in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3200742516" data-permission-text="Title is private" data-url="https://github.com/cline/cline/issues/4644" data-hovercard-type="pull_request" data-hovercard-url="/cline/cline/pull/4644/hovercard" href="https://github.com/cline/cline/pull/4644">#4644</a></li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/v3.18.2...v3.18.3"><tt>v3.18.2...v3.18.3</tt></a></p>]]>
+    </description>
+    <content:encoded><![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>Move plan/act model settings to global storage by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/celestial-vault/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/celestial-vault">@celestial-vault</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3197879903" data-permission-text="Title is private" data-url="https://github.com/cline/cline/issues/4636" data-hovercard-type="pull_request" data-hovercard-url="/cline/cline/pull/4636/hovercard" href="https://github.com/cline/cline/pull/4636">#4636</a></li>
+<li>Strip thinking tokens from Cerebras reasoning model inputs by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/kevint-cerebras/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/kevint-cerebras">@kevint-cerebras</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3197773010" data-permission-text="Title is private" data-url="https://github.com/cline/cline/issues/4635" data-hovercard-type="pull_request" data-hovercard-url="/cline/cline/pull/4635/hovercard" href="https://github.com/cline/cline/pull/4635">#4635</a></li>
+<li>Improve Claude Code handling by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/BarreiroT/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/BarreiroT">@BarreiroT</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3193677368" data-permission-text="Title is private" data-url="https://github.com/cline/cline/issues/4619" data-hovercard-type="pull_request" data-hovercard-url="/cline/cline/pull/4619/hovercard" href="https://github.com/cline/cline/pull/4619">#4619</a></li>
+<li>add log + run options by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/0xToshii/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/0xToshii">@0xToshii</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3194844751" data-permission-text="Title is private" data-url="https://github.com/cline/cline/issues/4630" data-hovercard-type="pull_request" data-hovercard-url="/cline/cline/pull/4630/hovercard" href="https://github.com/cline/cline/pull/4630">#4630</a></li>
+<li>v3.18.3 Release Notes by @github-actions in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3200742516" data-permission-text="Title is private" data-url="https://github.com/cline/cline/issues/4644" data-hovercard-type="pull_request" data-hovercard-url="/cline/cline/pull/4644/hovercard" href="https://github.com/cline/cline/pull/4644">#4644</a></li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/v3.18.2...v3.18.3"><tt>v3.18.2...v3.18.3</tt></a></p>]]></content:encoded>
+    
+    <pubDate>2025-07-03T22:18:03.000Z</pubDate>
+  </item><item>
     <title><![CDATA[v3.18.2 更新：Claude 4 登場、多項功能修復與優化]]></title>
     <link>https://github.com/cline/cline/releases/tag/v3.18.2</link>
     <itunes:title><![CDATA[v3.18.2 更新：Claude 4 登場、多項功能修復與優化]]></itunes:title>
@@ -569,31 +607,5 @@
 <p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/v3.17.11...v3.17.12"><tt>v3.17.11...v3.17.12</tt></a></p>]]></content:encoded>
     
     <pubDate>2025-06-10T17:27:10.000Z</pubDate>
-  </item><item>
-    <title><![CDATA[軟體更新v3.17.11：為Vertex AI和Google Gemini加入Gemini 2.5 Pro Preview支援]]></title>
-    <link>https://github.com/cline/cline/releases/tag/v3.17.11</link>
-    <itunes:title><![CDATA[軟體更新v3.17.11：為Vertex AI和Google Gemini加入Gemini 2.5 Pro Preview支援]]></itunes:title>
-    <itunes:author><![CDATA[github-actions[bot]]]></itunes:author>
-    <itunes:summary>
-      <![CDATA[<h2>What's Changed</h2>
-<ul>
-<li>Add support for Gemini 2.5 Pro Preview 06-05 model to Vertex AI and Google Gemini providers</li>
-</ul>
-<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/v3.17.10...v3.17.11"><tt>v3.17.10...v3.17.11</tt></a></p>]]>
-    </itunes:summary>
-    <description>
-      <![CDATA[<h2>What's Changed</h2>
-<ul>
-<li>Add support for Gemini 2.5 Pro Preview 06-05 model to Vertex AI and Google Gemini providers</li>
-</ul>
-<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/v3.17.10...v3.17.11"><tt>v3.17.10...v3.17.11</tt></a></p>]]>
-    </description>
-    <content:encoded><![CDATA[<h2>What's Changed</h2>
-<ul>
-<li>Add support for Gemini 2.5 Pro Preview 06-05 model to Vertex AI and Google Gemini providers</li>
-</ul>
-<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/v3.17.10...v3.17.11"><tt>v3.17.10...v3.17.11</tt></a></p>]]></content:encoded>
-    
-    <pubDate>2025-06-10T00:42:45.000Z</pubDate>
   </item></channel>
 </rss>
