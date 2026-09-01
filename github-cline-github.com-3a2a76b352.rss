@@ -1,0 +1,56 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
+  <channel>
+    <title><![CDATA[cline Release [GH][RSS+]]]></title>
+    <link>https://github.com/cline/cline/releases.atom</link>
+    <image>
+      <url>https://picsum.photos/800/800?random</url>
+      <title>cline Release [GH][RSS+]</title>
+      <link>https://github.com/cline/cline/releases.atom</link>
+    </image>
+    <language>en-us</language>
+    <atom:link href="https://github.com/cline/cline/releases.atom" rel="self" type="application/rss+xml"/>
+    <copyright><![CDATA[cline Release [GH][RSS+]]]></copyright>
+    <itunes:author><![CDATA[cline Release [GH][RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[
+      <a href="https://github.com/cline/cline/releases" target="_blank">https://github.com/cline/cline/releases</a><br />
+<br />
+<a href="https://github.com/cline/cline/releases.atom" target="_blank">https://github.com/cline/cline/releases.atom</a>
+      ]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[
+      <a href="https://github.com/cline/cline/releases" target="_blank">https://github.com/cline/cline/releases</a><br />
+<br />
+<a href="https://github.com/cline/cline/releases.atom" target="_blank">https://github.com/cline/cline/releases.atom</a>
+      ]]>
+    </description>
+    <itunes:owner>
+      <itunes:name><![CDATA[cline Release [GH][RSS+]]]></itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://picsum.photos/800/800?random"/>
+<item>
+    <title><![CDATA[/tmp/files 臨時檔案託管頁面：提供 title.txt 下載並倒數 59 分鐘過期]]></title>
+    <link>https://github.com/cline/cline/releases/tag/sdk%2Fsdk%2Fv0.0.81</link>
+    <itunes:title><![CDATA[/tmp/files 臨時檔案託管頁面：提供 title.txt 下載並倒數 59 分鐘過期]]></itunes:title>
+    <itunes:author><![CDATA[github-actions[bot]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<ul>
+<li>Session snapshot events no longer carry the full conversation transcript. Every <code>session.updated</code> (and <code>session.created</code> / <code>session.detached</code> / <code>run.started</code>) event embedded the session's entire message history, so on a multi-megabyte task each status flip shipped megabytes to every subscriber, flooded the durable event log, and could grow the hub process by one transcript copy per event — reported as a 25 GB <code>cline</code> process on a 16 GB machine. Snapshots are now state-only (status, usage, model, workspace, checkpoint); transcripts are fetched with the <code>session.messages</code> command. Checkpoint-restore replies, which carry messages in their own field, are unaffected</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/sdk/sdk/v0.0.80...sdk/sdk/v0.0.81"><tt>sdk/sdk/v0.0.80...sdk/sdk/v0.0.81</tt></a></p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<ul>
+<li>Session snapshot events no longer carry the full conversation transcript. Every <code>session.updated</code> (and <code>session.created</code> / <code>session.detached</code> / <code>run.started</code>) event embedded the session's entire message history, so on a multi-megabyte task each status flip shipped megabytes to every subscriber, flooded the durable event log, and could grow the hub process by one transcript copy per event — reported as a 25 GB <code>cline</code> process on a 16 GB machine. Snapshots are now state-only (status, usage, model, workspace, checkpoint); transcripts are fetched with the <code>session.messages</code> command. Checkpoint-restore replies, which carry messages in their own field, are unaffected</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/sdk/sdk/v0.0.80...sdk/sdk/v0.0.81"><tt>sdk/sdk/v0.0.80...sdk/sdk/v0.0.81</tt></a></p>]]>
+    </description>
+    <content:encoded><![CDATA[<ul>
+<li>Session snapshot events no longer carry the full conversation transcript. Every <code>session.updated</code> (and <code>session.created</code> / <code>session.detached</code> / <code>run.started</code>) event embedded the session's entire message history, so on a multi-megabyte task each status flip shipped megabytes to every subscriber, flooded the durable event log, and could grow the hub process by one transcript copy per event — reported as a 25 GB <code>cline</code> process on a 16 GB machine. Snapshots are now state-only (status, usage, model, workspace, checkpoint); transcripts are fetched with the <code>session.messages</code> command. Checkpoint-restore replies, which carry messages in their own field, are unaffected</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/sdk/sdk/v0.0.80...sdk/sdk/v0.0.81"><tt>sdk/sdk/v0.0.80...sdk/sdk/v0.0.81</tt></a></p>]]></content:encoded>
+    
+    <pubDate>2026-08-26T09:38:01.000Z</pubDate>
+  </item></channel>
+</rss>

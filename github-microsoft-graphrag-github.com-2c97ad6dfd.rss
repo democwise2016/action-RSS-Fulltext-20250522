@@ -1,0 +1,398 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
+  <channel>
+    <title><![CDATA[GraphRAG Release [GH][RSS+]]]></title>
+    <link>https://github.com/microsoft/graphrag/releases.atom</link>
+    <image>
+      <url>https://picsum.photos/800/800?random</url>
+      <title>GraphRAG Release [GH][RSS+]</title>
+      <link>https://github.com/microsoft/graphrag/releases.atom</link>
+    </image>
+    <language>en-us</language>
+    <atom:link href="https://github.com/microsoft/graphrag/releases.atom" rel="self" type="application/rss+xml"/>
+    <copyright><![CDATA[GraphRAG Release [GH][RSS+]]]></copyright>
+    <itunes:author><![CDATA[GraphRAG Release [GH][RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[
+      <a href="https://github.com/microsoft/graphrag/releases" target="_blank">https://github.com/microsoft/graphrag/releases</a><br />
+<br />
+<a href="https://github.com/microsoft/graphrag/releases.atom" target="_blank">https://github.com/microsoft/graphrag/releases.atom</a>
+      ]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[
+      <a href="https://github.com/microsoft/graphrag/releases" target="_blank">https://github.com/microsoft/graphrag/releases</a><br />
+<br />
+<a href="https://github.com/microsoft/graphrag/releases.atom" target="_blank">https://github.com/microsoft/graphrag/releases.atom</a>
+      ]]>
+    </description>
+    <itunes:owner>
+      <itunes:name><![CDATA[GraphRAG Release [GH][RSS+]]]></itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://picsum.photos/800/800?random"/>
+<item>
+    <title><![CDATA[/tmp/files 臨時檔案分享平台：title.txt 下載頁面與 59 分鐘過期提示]]></title>
+    <link>https://github.com/microsoft/graphrag/releases/tag/v3.1.2</link>
+    <itunes:title><![CDATA[/tmp/files 臨時檔案分享平台：title.txt 下載頁面與 59 分鐘過期提示]]></itunes:title>
+    <itunes:author><![CDATA[dworthen]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>patch: Change default package feed index.</li>
+<li>patch: Fix doc string parameters.</li>
+<li>patch: Preserve caller event loops in synchronous LLM cache middleware.</li>
+<li>patch: Update dependencies to latest versions (dependency sweep).</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/microsoft/graphrag/compare/3.1.1...v3.1.2"><tt>3.1.1...v3.1.2</tt></a></p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>patch: Change default package feed index.</li>
+<li>patch: Fix doc string parameters.</li>
+<li>patch: Preserve caller event loops in synchronous LLM cache middleware.</li>
+<li>patch: Update dependencies to latest versions (dependency sweep).</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/microsoft/graphrag/compare/3.1.1...v3.1.2"><tt>3.1.1...v3.1.2</tt></a></p>]]>
+    </description>
+    <content:encoded><![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>patch: Change default package feed index.</li>
+<li>patch: Fix doc string parameters.</li>
+<li>patch: Preserve caller event loops in synchronous LLM cache middleware.</li>
+<li>patch: Update dependencies to latest versions (dependency sweep).</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/microsoft/graphrag/compare/3.1.1...v3.1.2"><tt>3.1.1...v3.1.2</tt></a></p>]]></content:encoded>
+    
+    <pubDate>2026-08-21T15:24:30.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[/tmp/files 臨時檔案託管服務：提供 title.txt 下載，將於 59 分鐘後過期]]></title>
+    <link>https://github.com/microsoft/graphrag/releases/tag/v3.1.1</link>
+    <itunes:title><![CDATA[/tmp/files 臨時檔案託管服務：提供 title.txt 下載，將於 59 分鐘後過期]]></itunes:title>
+    <itunes:author><![CDATA[gaudyb]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>feat: native CosmosTableProvider with namespace partitioning by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/disamhembere/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/disamhembere">disamhembere</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4424652249" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2354" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2354/hovercard" href="https://github.com/microsoft/graphrag/pull/2354">#2354</a></li>
+<li>Update litellm dependency. by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dworthen/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dworthen">Derek Worthen (@dworthen)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4541247181" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2365" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2365/hovercard" href="https://github.com/microsoft/graphrag/pull/2365">#2365</a></li>
+<li>Release v3.1.0 by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dworthen/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dworthen">Derek Worthen (@dworthen)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4541599404" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2366" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2366/hovercard" href="https://github.com/microsoft/graphrag/pull/2366">#2366</a></li>
+<li>Update getting started docs. by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dworthen/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dworthen">Derek Worthen (@dworthen)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4542190219" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2367" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2367/hovercard" href="https://github.com/microsoft/graphrag/pull/2367">#2367</a></li>
+<li>Fix logging bug. by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dworthen/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dworthen">Derek Worthen (@dworthen)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4856344944" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2429" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2429/hovercard" href="https://github.com/microsoft/graphrag/pull/2429">#2429</a></li>
+<li>Loosen service_tier type to str | None to allow for more flexibility … by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dworthen/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dworthen">Derek Worthen (@dworthen)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4857667915" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2430" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2430/hovercard" href="https://github.com/microsoft/graphrag/pull/2430">#2430</a></li>
+<li>Fix .strip call by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dworthen/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dworthen">Derek Worthen (@dworthen)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4857733540" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2431" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2431/hovercard" href="https://github.com/microsoft/graphrag/pull/2431">#2431</a></li>
+<li>Dep sweep by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dworthen/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dworthen">Derek Worthen (@dworthen)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4894590276" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2441" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2441/hovercard" href="https://github.com/microsoft/graphrag/pull/2441">#2441</a></li>
+<li>Missing return type hints on generator functions in query/llm/text_utils.py by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/gaudyb/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/gaudyb">gaudyb</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4905706943" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2443" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2443/hovercard" href="https://github.com/microsoft/graphrag/pull/2443">#2443</a></li>
+<li>Issue 2265: Column length mismatch by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/gaudyb/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/gaudyb">gaudyb</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4897792272" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2442" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2442/hovercard" href="https://github.com/microsoft/graphrag/pull/2442">#2442</a></li>
+<li>Fix cannot release un-acquired lock in Blob logger by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/gaudyb/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/gaudyb">gaudyb</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4913286523" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2457" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2457/hovercard" href="https://github.com/microsoft/graphrag/pull/2457">#2457</a></li>
+<li>Sync docs for schema and metadata fields by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/natoverse/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/natoverse">Nathan Evans (@natoverse)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4859231249" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2435" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2435/hovercard" href="https://github.com/microsoft/graphrag/pull/2435">#2435</a></li>
+<li>Fix JSONL loader handling of blank/invalid lines by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/natoverse/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/natoverse">Nathan Evans (@natoverse)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4859045543" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2434" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2434/hovercard" href="https://github.com/microsoft/graphrag/pull/2434">#2434</a></li>
+<li>Release v3.1.1 by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/gaudyb/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/gaudyb">gaudyb</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4915926468" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2458" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2458/hovercard" href="https://github.com/microsoft/graphrag/pull/2458">#2458</a></li>
+</ul>
+<h2>New Contributors</h2>
+<ul>
+<li><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/disamhembere/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/disamhembere">disamhembere</a> made their first contribution in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4424652249" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2354" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2354/hovercard" href="https://github.com/microsoft/graphrag/pull/2354">#2354</a></li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/microsoft/graphrag/compare/3.0.9...v3.1.1"><tt>3.0.9...v3.1.1</tt></a></p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>feat: native CosmosTableProvider with namespace partitioning by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/disamhembere/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/disamhembere">disamhembere</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4424652249" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2354" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2354/hovercard" href="https://github.com/microsoft/graphrag/pull/2354">#2354</a></li>
+<li>Update litellm dependency. by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dworthen/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dworthen">Derek Worthen (@dworthen)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4541247181" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2365" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2365/hovercard" href="https://github.com/microsoft/graphrag/pull/2365">#2365</a></li>
+<li>Release v3.1.0 by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dworthen/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dworthen">Derek Worthen (@dworthen)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4541599404" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2366" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2366/hovercard" href="https://github.com/microsoft/graphrag/pull/2366">#2366</a></li>
+<li>Update getting started docs. by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dworthen/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dworthen">Derek Worthen (@dworthen)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4542190219" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2367" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2367/hovercard" href="https://github.com/microsoft/graphrag/pull/2367">#2367</a></li>
+<li>Fix logging bug. by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dworthen/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dworthen">Derek Worthen (@dworthen)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4856344944" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2429" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2429/hovercard" href="https://github.com/microsoft/graphrag/pull/2429">#2429</a></li>
+<li>Loosen service_tier type to str | None to allow for more flexibility … by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dworthen/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dworthen">Derek Worthen (@dworthen)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4857667915" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2430" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2430/hovercard" href="https://github.com/microsoft/graphrag/pull/2430">#2430</a></li>
+<li>Fix .strip call by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dworthen/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dworthen">Derek Worthen (@dworthen)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4857733540" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2431" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2431/hovercard" href="https://github.com/microsoft/graphrag/pull/2431">#2431</a></li>
+<li>Dep sweep by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dworthen/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dworthen">Derek Worthen (@dworthen)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4894590276" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2441" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2441/hovercard" href="https://github.com/microsoft/graphrag/pull/2441">#2441</a></li>
+<li>Missing return type hints on generator functions in query/llm/text_utils.py by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/gaudyb/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/gaudyb">gaudyb</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4905706943" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2443" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2443/hovercard" href="https://github.com/microsoft/graphrag/pull/2443">#2443</a></li>
+<li>Issue 2265: Column length mismatch by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/gaudyb/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/gaudyb">gaudyb</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4897792272" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2442" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2442/hovercard" href="https://github.com/microsoft/graphrag/pull/2442">#2442</a></li>
+<li>Fix cannot release un-acquired lock in Blob logger by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/gaudyb/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/gaudyb">gaudyb</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4913286523" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2457" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2457/hovercard" href="https://github.com/microsoft/graphrag/pull/2457">#2457</a></li>
+<li>Sync docs for schema and metadata fields by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/natoverse/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/natoverse">Nathan Evans (@natoverse)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4859231249" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2435" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2435/hovercard" href="https://github.com/microsoft/graphrag/pull/2435">#2435</a></li>
+<li>Fix JSONL loader handling of blank/invalid lines by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/natoverse/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/natoverse">Nathan Evans (@natoverse)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4859045543" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2434" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2434/hovercard" href="https://github.com/microsoft/graphrag/pull/2434">#2434</a></li>
+<li>Release v3.1.1 by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/gaudyb/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/gaudyb">gaudyb</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4915926468" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2458" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2458/hovercard" href="https://github.com/microsoft/graphrag/pull/2458">#2458</a></li>
+</ul>
+<h2>New Contributors</h2>
+<ul>
+<li><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/disamhembere/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/disamhembere">disamhembere</a> made their first contribution in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4424652249" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2354" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2354/hovercard" href="https://github.com/microsoft/graphrag/pull/2354">#2354</a></li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/microsoft/graphrag/compare/3.0.9...v3.1.1"><tt>3.0.9...v3.1.1</tt></a></p>]]>
+    </description>
+    <content:encoded><![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>feat: native CosmosTableProvider with namespace partitioning by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/disamhembere/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/disamhembere">disamhembere</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4424652249" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2354" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2354/hovercard" href="https://github.com/microsoft/graphrag/pull/2354">#2354</a></li>
+<li>Update litellm dependency. by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dworthen/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dworthen">Derek Worthen (@dworthen)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4541247181" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2365" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2365/hovercard" href="https://github.com/microsoft/graphrag/pull/2365">#2365</a></li>
+<li>Release v3.1.0 by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dworthen/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dworthen">Derek Worthen (@dworthen)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4541599404" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2366" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2366/hovercard" href="https://github.com/microsoft/graphrag/pull/2366">#2366</a></li>
+<li>Update getting started docs. by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dworthen/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dworthen">Derek Worthen (@dworthen)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4542190219" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2367" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2367/hovercard" href="https://github.com/microsoft/graphrag/pull/2367">#2367</a></li>
+<li>Fix logging bug. by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dworthen/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dworthen">Derek Worthen (@dworthen)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4856344944" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2429" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2429/hovercard" href="https://github.com/microsoft/graphrag/pull/2429">#2429</a></li>
+<li>Loosen service_tier type to str | None to allow for more flexibility … by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dworthen/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dworthen">Derek Worthen (@dworthen)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4857667915" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2430" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2430/hovercard" href="https://github.com/microsoft/graphrag/pull/2430">#2430</a></li>
+<li>Fix .strip call by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dworthen/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dworthen">Derek Worthen (@dworthen)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4857733540" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2431" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2431/hovercard" href="https://github.com/microsoft/graphrag/pull/2431">#2431</a></li>
+<li>Dep sweep by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dworthen/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dworthen">Derek Worthen (@dworthen)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4894590276" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2441" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2441/hovercard" href="https://github.com/microsoft/graphrag/pull/2441">#2441</a></li>
+<li>Missing return type hints on generator functions in query/llm/text_utils.py by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/gaudyb/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/gaudyb">gaudyb</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4905706943" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2443" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2443/hovercard" href="https://github.com/microsoft/graphrag/pull/2443">#2443</a></li>
+<li>Issue 2265: Column length mismatch by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/gaudyb/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/gaudyb">gaudyb</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4897792272" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2442" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2442/hovercard" href="https://github.com/microsoft/graphrag/pull/2442">#2442</a></li>
+<li>Fix cannot release un-acquired lock in Blob logger by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/gaudyb/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/gaudyb">gaudyb</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4913286523" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2457" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2457/hovercard" href="https://github.com/microsoft/graphrag/pull/2457">#2457</a></li>
+<li>Sync docs for schema and metadata fields by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/natoverse/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/natoverse">Nathan Evans (@natoverse)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4859231249" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2435" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2435/hovercard" href="https://github.com/microsoft/graphrag/pull/2435">#2435</a></li>
+<li>Fix JSONL loader handling of blank/invalid lines by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/natoverse/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/natoverse">Nathan Evans (@natoverse)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4859045543" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2434" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2434/hovercard" href="https://github.com/microsoft/graphrag/pull/2434">#2434</a></li>
+<li>Release v3.1.1 by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/gaudyb/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/gaudyb">gaudyb</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4915926468" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2458" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2458/hovercard" href="https://github.com/microsoft/graphrag/pull/2458">#2458</a></li>
+</ul>
+<h2>New Contributors</h2>
+<ul>
+<li><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/disamhembere/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/disamhembere">disamhembere</a> made their first contribution in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4424652249" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2354" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2354/hovercard" href="https://github.com/microsoft/graphrag/pull/2354">#2354</a></li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/microsoft/graphrag/compare/3.0.9...v3.1.1"><tt>3.0.9...v3.1.1</tt></a></p>]]></content:encoded>
+    
+    <pubDate>2026-07-18T01:23:18.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[# title
+v1.2.2
+
+# content
+
+v1.2.2]]></title>
+    <link>https://github.com/microsoft/graphrag/releases/tag/v1.2.2</link>
+    <itunes:title><![CDATA[# title
+v1.2.2
+
+# content
+
+v1.2.2]]></itunes:title>
+    <itunes:author><![CDATA[dworthen]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>v1.2.2</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>v1.2.2</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>v1.2.2</p>]]></content:encoded>
+    
+    <pubDate>2026-06-18T13:56:11.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[v3.1.0發佈：新增原生CosmosTableProvider與更新litellm]]></title>
+    <link>https://github.com/microsoft/graphrag/releases/tag/v3.1.0</link>
+    <itunes:title><![CDATA[v3.1.0發佈：新增原生CosmosTableProvider與更新litellm]]></itunes:title>
+    <itunes:author><![CDATA[dworthen]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>minor: Native CosmosTableProvider with namespace partitioning, transactional batch writes, and simplified AzureCosmosStorage.</li>
+<li>patch: Update litellm dependency.</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/microsoft/graphrag/compare/v3.0.9...3.1.0"><tt>v3.0.9...3.1.0</tt></a></p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>minor: Native CosmosTableProvider with namespace partitioning, transactional batch writes, and simplified AzureCosmosStorage.</li>
+<li>patch: Update litellm dependency.</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/microsoft/graphrag/compare/v3.0.9...3.1.0"><tt>v3.0.9...3.1.0</tt></a></p>]]>
+    </description>
+    <content:encoded><![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>minor: Native CosmosTableProvider with namespace partitioning, transactional batch writes, and simplified AzureCosmosStorage.</li>
+<li>patch: Update litellm dependency.</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/microsoft/graphrag/compare/v3.0.9...3.1.0"><tt>v3.0.9...3.1.0</tt></a></p>]]></content:encoded>
+    
+    <pubDate>2026-05-28T15:55:40.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[/tmp/files 臨時檔案託管：檔案 title.txt 開放下載（59分鐘後過期）]]></title>
+    <link>https://github.com/microsoft/graphrag/releases/tag/3.0.9</link>
+    <itunes:title><![CDATA[/tmp/files 臨時檔案託管：檔案 title.txt 開放下載（59分鐘後過期）]]></itunes:title>
+    <itunes:author><![CDATA[gaudyb]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>remove relationships with phantom entities by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dayesouza/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dayesouza">Dayenne Souza (@dayesouza)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4013873778" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2261" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2261/hovercard" href="https://github.com/microsoft/graphrag/pull/2261">#2261</a></li>
+<li>nlp streaming by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dayesouza/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dayesouza">Dayenne Souza (@dayesouza)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4016880143" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2264" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2264/hovercard" href="https://github.com/microsoft/graphrag/pull/2264">#2264</a></li>
+<li>Release v3.0.6 by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dayesouza/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dayesouza">Dayenne Souza (@dayesouza)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4029637589" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2267" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2267/hovercard" href="https://github.com/microsoft/graphrag/pull/2267">#2267</a></li>
+<li>reconfigure vector store size by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dayesouza/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dayesouza">Dayenne Souza (@dayesouza)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4077421149" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2281" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2281/hovercard" href="https://github.com/microsoft/graphrag/pull/2281">#2281</a></li>
+<li>Pin litellm dependency by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dworthen/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dworthen">Derek Worthen (@dworthen)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4129005918" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2290" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2290/hovercard" href="https://github.com/microsoft/graphrag/pull/2290">#2290</a></li>
+<li>Release v3.0.7 by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dworthen/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dworthen">Derek Worthen (@dworthen)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4129243023" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2291" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2291/hovercard" href="https://github.com/microsoft/graphrag/pull/2291">#2291</a></li>
+<li>bump nltk to resolve <a href="https://github.com/advisories/GHSA-7p94-766c-hgjp">CVE-2025-14009</a> by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dworthen/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dworthen">Derek Worthen (@dworthen)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4153294626" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2298" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2298/hovercard" href="https://github.com/microsoft/graphrag/pull/2298">#2298</a></li>
+<li>Release v3.0.8 by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dworthen/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dworthen">Derek Worthen (@dworthen)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4153924958" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2299" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2299/hovercard" href="https://github.com/microsoft/graphrag/pull/2299">#2299</a></li>
+<li>Fix broken documentation links. by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dworthen/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dworthen">Derek Worthen (@dworthen)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4170512226" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2305" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2305/hovercard" href="https://github.com/microsoft/graphrag/pull/2305">#2305</a></li>
+<li>Support client side json validation. by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dworthen/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dworthen">Derek Worthen (@dworthen)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4170819617" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2306" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2306/hovercard" href="https://github.com/microsoft/graphrag/pull/2306">#2306</a></li>
+<li>parquet reader implementation as a new input type by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/gaudyb/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/gaudyb">gaudyb</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4228925518" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2320" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2320/hovercard" href="https://github.com/microsoft/graphrag/pull/2320">#2320</a></li>
+<li>Release v3.0.9 by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/gaudyb/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/gaudyb">gaudyb</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4242516017" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2321" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2321/hovercard" href="https://github.com/microsoft/graphrag/pull/2321">#2321</a></li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/microsoft/graphrag/compare/v3.0.5...3.0.9"><tt>v3.0.5...3.0.9</tt></a></p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>remove relationships with phantom entities by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dayesouza/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dayesouza">Dayenne Souza (@dayesouza)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4013873778" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2261" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2261/hovercard" href="https://github.com/microsoft/graphrag/pull/2261">#2261</a></li>
+<li>nlp streaming by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dayesouza/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dayesouza">Dayenne Souza (@dayesouza)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4016880143" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2264" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2264/hovercard" href="https://github.com/microsoft/graphrag/pull/2264">#2264</a></li>
+<li>Release v3.0.6 by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dayesouza/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dayesouza">Dayenne Souza (@dayesouza)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4029637589" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2267" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2267/hovercard" href="https://github.com/microsoft/graphrag/pull/2267">#2267</a></li>
+<li>reconfigure vector store size by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dayesouza/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dayesouza">Dayenne Souza (@dayesouza)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4077421149" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2281" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2281/hovercard" href="https://github.com/microsoft/graphrag/pull/2281">#2281</a></li>
+<li>Pin litellm dependency by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dworthen/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dworthen">Derek Worthen (@dworthen)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4129005918" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2290" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2290/hovercard" href="https://github.com/microsoft/graphrag/pull/2290">#2290</a></li>
+<li>Release v3.0.7 by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dworthen/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dworthen">Derek Worthen (@dworthen)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4129243023" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2291" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2291/hovercard" href="https://github.com/microsoft/graphrag/pull/2291">#2291</a></li>
+<li>bump nltk to resolve <a href="https://github.com/advisories/GHSA-7p94-766c-hgjp">CVE-2025-14009</a> by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dworthen/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dworthen">Derek Worthen (@dworthen)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4153294626" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2298" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2298/hovercard" href="https://github.com/microsoft/graphrag/pull/2298">#2298</a></li>
+<li>Release v3.0.8 by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dworthen/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dworthen">Derek Worthen (@dworthen)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4153924958" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2299" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2299/hovercard" href="https://github.com/microsoft/graphrag/pull/2299">#2299</a></li>
+<li>Fix broken documentation links. by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dworthen/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dworthen">Derek Worthen (@dworthen)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4170512226" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2305" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2305/hovercard" href="https://github.com/microsoft/graphrag/pull/2305">#2305</a></li>
+<li>Support client side json validation. by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dworthen/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dworthen">Derek Worthen (@dworthen)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4170819617" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2306" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2306/hovercard" href="https://github.com/microsoft/graphrag/pull/2306">#2306</a></li>
+<li>parquet reader implementation as a new input type by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/gaudyb/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/gaudyb">gaudyb</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4228925518" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2320" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2320/hovercard" href="https://github.com/microsoft/graphrag/pull/2320">#2320</a></li>
+<li>Release v3.0.9 by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/gaudyb/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/gaudyb">gaudyb</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4242516017" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2321" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2321/hovercard" href="https://github.com/microsoft/graphrag/pull/2321">#2321</a></li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/microsoft/graphrag/compare/v3.0.5...3.0.9"><tt>v3.0.5...3.0.9</tt></a></p>]]>
+    </description>
+    <content:encoded><![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>remove relationships with phantom entities by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dayesouza/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dayesouza">Dayenne Souza (@dayesouza)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4013873778" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2261" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2261/hovercard" href="https://github.com/microsoft/graphrag/pull/2261">#2261</a></li>
+<li>nlp streaming by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dayesouza/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dayesouza">Dayenne Souza (@dayesouza)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4016880143" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2264" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2264/hovercard" href="https://github.com/microsoft/graphrag/pull/2264">#2264</a></li>
+<li>Release v3.0.6 by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dayesouza/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dayesouza">Dayenne Souza (@dayesouza)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4029637589" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2267" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2267/hovercard" href="https://github.com/microsoft/graphrag/pull/2267">#2267</a></li>
+<li>reconfigure vector store size by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dayesouza/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dayesouza">Dayenne Souza (@dayesouza)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4077421149" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2281" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2281/hovercard" href="https://github.com/microsoft/graphrag/pull/2281">#2281</a></li>
+<li>Pin litellm dependency by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dworthen/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dworthen">Derek Worthen (@dworthen)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4129005918" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2290" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2290/hovercard" href="https://github.com/microsoft/graphrag/pull/2290">#2290</a></li>
+<li>Release v3.0.7 by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dworthen/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dworthen">Derek Worthen (@dworthen)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4129243023" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2291" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2291/hovercard" href="https://github.com/microsoft/graphrag/pull/2291">#2291</a></li>
+<li>bump nltk to resolve <a href="https://github.com/advisories/GHSA-7p94-766c-hgjp">CVE-2025-14009</a> by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dworthen/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dworthen">Derek Worthen (@dworthen)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4153294626" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2298" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2298/hovercard" href="https://github.com/microsoft/graphrag/pull/2298">#2298</a></li>
+<li>Release v3.0.8 by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dworthen/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dworthen">Derek Worthen (@dworthen)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4153924958" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2299" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2299/hovercard" href="https://github.com/microsoft/graphrag/pull/2299">#2299</a></li>
+<li>Fix broken documentation links. by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dworthen/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dworthen">Derek Worthen (@dworthen)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4170512226" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2305" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2305/hovercard" href="https://github.com/microsoft/graphrag/pull/2305">#2305</a></li>
+<li>Support client side json validation. by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dworthen/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dworthen">Derek Worthen (@dworthen)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4170819617" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2306" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2306/hovercard" href="https://github.com/microsoft/graphrag/pull/2306">#2306</a></li>
+<li>parquet reader implementation as a new input type by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/gaudyb/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/gaudyb">gaudyb</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4228925518" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2320" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2320/hovercard" href="https://github.com/microsoft/graphrag/pull/2320">#2320</a></li>
+<li>Release v3.0.9 by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/gaudyb/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/gaudyb">gaudyb</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4242516017" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2321" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2321/hovercard" href="https://github.com/microsoft/graphrag/pull/2321">#2321</a></li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/microsoft/graphrag/compare/v3.0.5...3.0.9"><tt>v3.0.5...3.0.9</tt></a></p>]]></content:encoded>
+    
+    <pubDate>2026-04-13T19:29:27.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[v3.0.8 更新：升級 nltk 以修復 CVE-2025-14009 安全漏洞]]></title>
+    <link>https://github.com/microsoft/graphrag/releases/tag/v3.0.8</link>
+    <itunes:title><![CDATA[v3.0.8 更新：升級 nltk 以修復 CVE-2025-14009 安全漏洞]]></itunes:title>
+    <itunes:author><![CDATA[dworthen]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>patch: bump nltk to resolve <a href="https://github.com/advisories/GHSA-7p94-766c-hgjp">CVE-2025-14009</a></li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/microsoft/graphrag/compare/v3.0.7...v3.0.8"><tt>v3.0.7...v3.0.8</tt></a></p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>patch: bump nltk to resolve <a href="https://github.com/advisories/GHSA-7p94-766c-hgjp">CVE-2025-14009</a></li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/microsoft/graphrag/compare/v3.0.7...v3.0.8"><tt>v3.0.7...v3.0.8</tt></a></p>]]>
+    </description>
+    <content:encoded><![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>patch: bump nltk to resolve <a href="https://github.com/advisories/GHSA-7p94-766c-hgjp">CVE-2025-14009</a></li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/microsoft/graphrag/compare/v3.0.7...v3.0.8"><tt>v3.0.7...v3.0.8</tt></a></p>]]></content:encoded>
+    
+    <pubDate>2026-03-27T20:52:00.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[# title
+v2.7.2
+
+# content
+
+v2.7.2]]></title>
+    <link>https://github.com/microsoft/graphrag/releases/tag/v2.7.2</link>
+    <itunes:title><![CDATA[# title
+v2.7.2
+
+# content
+
+v2.7.2]]></itunes:title>
+    <itunes:author><![CDATA[dworthen]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>v2.7.2</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>v2.7.2</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>v2.7.2</p>]]></content:encoded>
+    
+    <pubDate>2026-03-27T14:22:09.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[# title
+v1.2.1
+
+# content
+
+v1.2.1]]></title>
+    <link>https://github.com/microsoft/graphrag/releases/tag/v1.2.1</link>
+    <itunes:title><![CDATA[# title
+v1.2.1
+
+# content
+
+v1.2.1]]></itunes:title>
+    <itunes:author><![CDATA[dworthen]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>v1.2.1</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>v1.2.1</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>v1.2.1</p>]]></content:encoded>
+    
+    <pubDate>2026-03-27T14:06:36.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[v3.0.7 更新：依嵌入模型重配向量儲存大小，並因安全性問題鎖定 litellm 版本。]]></title>
+    <link>https://github.com/microsoft/graphrag/releases/tag/v3.0.7</link>
+    <itunes:title><![CDATA[v3.0.7 更新：依嵌入模型重配向量儲存大小，並因安全性問題鎖定 litellm 版本。]]></itunes:title>
+    <itunes:author><![CDATA[dworthen]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>patch: reconfigure vector store size by embedding model</li>
+</ul>
+<h3>Security</h3>
+<ul>
+<li>patch: Pin litellm dependency due to litellm compromise: <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4127260614" data-permission-text="Title is private" data-url="https://github.com/BerriAI/litellm/issues/24512" data-hovercard-type="issue" data-hovercard-url="/BerriAI/litellm/issues/24512/hovercard" href="https://github.com/BerriAI/litellm/issues/24512">BerriAI/litellm#24512</a></li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/microsoft/graphrag/compare/v3.0.6...v3.0.7"><tt>v3.0.6...v3.0.7</tt></a></p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>patch: reconfigure vector store size by embedding model</li>
+</ul>
+<h3>Security</h3>
+<ul>
+<li>patch: Pin litellm dependency due to litellm compromise: <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4127260614" data-permission-text="Title is private" data-url="https://github.com/BerriAI/litellm/issues/24512" data-hovercard-type="issue" data-hovercard-url="/BerriAI/litellm/issues/24512/hovercard" href="https://github.com/BerriAI/litellm/issues/24512">BerriAI/litellm#24512</a></li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/microsoft/graphrag/compare/v3.0.6...v3.0.7"><tt>v3.0.6...v3.0.7</tt></a></p>]]>
+    </description>
+    <content:encoded><![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>patch: reconfigure vector store size by embedding model</li>
+</ul>
+<h3>Security</h3>
+<ul>
+<li>patch: Pin litellm dependency due to litellm compromise: <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4127260614" data-permission-text="Title is private" data-url="https://github.com/BerriAI/litellm/issues/24512" data-hovercard-type="issue" data-hovercard-url="/BerriAI/litellm/issues/24512/hovercard" href="https://github.com/BerriAI/litellm/issues/24512">BerriAI/litellm#24512</a></li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/microsoft/graphrag/compare/v3.0.6...v3.0.7"><tt>v3.0.6...v3.0.7</tt></a></p>]]></content:encoded>
+    
+    <pubDate>2026-03-26T13:48:27.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[/tmp/files 臨時檔案託管服務：檔案 title.txt 開放下載，將於 59 分鐘後過期]]></title>
+    <link>https://github.com/microsoft/graphrag/releases/tag/v3.0.6</link>
+    <itunes:title><![CDATA[/tmp/files 臨時檔案託管服務：檔案 title.txt 開放下載，將於 59 分鐘後過期]]></itunes:title>
+    <itunes:author><![CDATA[dayesouza]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>remove relationships with phantom entities by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dayesouza/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dayesouza">Dayenne Souza (@dayesouza)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4013873778" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2261" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2261/hovercard" href="https://github.com/microsoft/graphrag/pull/2261">#2261</a></li>
+<li>nlp streaming by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dayesouza/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dayesouza">Dayenne Souza (@dayesouza)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4016880143" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2264" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2264/hovercard" href="https://github.com/microsoft/graphrag/pull/2264">#2264</a></li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/microsoft/graphrag/compare/v3.0.5...v3.0.6"><tt>v3.0.5...v3.0.6</tt></a></p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>remove relationships with phantom entities by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dayesouza/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dayesouza">Dayenne Souza (@dayesouza)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4013873778" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2261" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2261/hovercard" href="https://github.com/microsoft/graphrag/pull/2261">#2261</a></li>
+<li>nlp streaming by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dayesouza/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dayesouza">Dayenne Souza (@dayesouza)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4016880143" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2264" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2264/hovercard" href="https://github.com/microsoft/graphrag/pull/2264">#2264</a></li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/microsoft/graphrag/compare/v3.0.5...v3.0.6"><tt>v3.0.5...v3.0.6</tt></a></p>]]>
+    </description>
+    <content:encoded><![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>remove relationships with phantom entities by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dayesouza/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dayesouza">Dayenne Souza (@dayesouza)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4013873778" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2261" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2261/hovercard" href="https://github.com/microsoft/graphrag/pull/2261">#2261</a></li>
+<li>nlp streaming by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dayesouza/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dayesouza">Dayenne Souza (@dayesouza)</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4016880143" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2264" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2264/hovercard" href="https://github.com/microsoft/graphrag/pull/2264">#2264</a></li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/microsoft/graphrag/compare/v3.0.5...v3.0.6"><tt>v3.0.5...v3.0.6</tt></a></p>]]></content:encoded>
+    
+    <pubDate>2026-03-06T20:07:19.000Z</pubDate>
+  </item></channel>
+</rss>

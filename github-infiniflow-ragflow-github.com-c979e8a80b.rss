@@ -1,0 +1,89 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
+  <channel>
+    <title><![CDATA[RagFlow Release [GH][RSS+]]]></title>
+    <link>https://github.com/infiniflow/ragflow/releases.atom</link>
+    <image>
+      <url>https://picsum.photos/800/800?random</url>
+      <title>RagFlow Release [GH][RSS+]</title>
+      <link>https://github.com/infiniflow/ragflow/releases.atom</link>
+    </image>
+    <language>en-us</language>
+    <atom:link href="https://github.com/infiniflow/ragflow/releases.atom" rel="self" type="application/rss+xml"/>
+    <copyright><![CDATA[RagFlow Release [GH][RSS+]]]></copyright>
+    <itunes:author><![CDATA[RagFlow Release [GH][RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[
+      <a href="https://github.com/infiniflow/ragflow/releases" target="_blank">https://github.com/infiniflow/ragflow/releases</a><br />
+<br />
+<a href="https://github.com/infiniflow/ragflow/releases.atom" target="_blank">https://github.com/infiniflow/ragflow/releases.atom</a>
+      ]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[
+      <a href="https://github.com/infiniflow/ragflow/releases" target="_blank">https://github.com/infiniflow/ragflow/releases</a><br />
+<br />
+<a href="https://github.com/infiniflow/ragflow/releases.atom" target="_blank">https://github.com/infiniflow/ragflow/releases.atom</a>
+      ]]>
+    </description>
+    <itunes:owner>
+      <itunes:name><![CDATA[RagFlow Release [GH][RSS+]]]></itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://picsum.photos/800/800?random"/>
+<item>
+    <title><![CDATA[tmpfiles暫存檔案託管平台：提供「title.txt」下載並於59分鐘後過期]]></title>
+    <link>https://github.com/infiniflow/ragflow/releases/tag/dev-20260825</link>
+    <itunes:title><![CDATA[tmpfiles暫存檔案託管平台：提供「title.txt」下載並於59分鐘後過期]]></itunes:title>
+    <itunes:author><![CDATA[cike8899]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>Feat: The extractor operator can handle multiple extraction tasks sim…</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>Feat: The extractor operator can handle multiple extraction tasks sim…</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>Feat: The extractor operator can handle multiple extraction tasks sim…</p>]]></content:encoded>
+    
+    <pubDate>2026-08-25T02:24:58.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[/tmp/files 臨時檔案託管服務：title.txt 下載頁面與 59 分鐘過期通知]]></title>
+    <link>https://github.com/infiniflow/ragflow/releases/tag/dev-20260824</link>
+    <itunes:title><![CDATA[/tmp/files 臨時檔案託管服務：title.txt 下載頁面與 59 分鐘過期通知]]></itunes:title>
+    <itunes:author><![CDATA[yuzhichang]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>Ports the smart-reasoning (agentic RAG) conversation mode to the eino ADK, with Go retrieval tools (grep_chunks, search_chunks, list_chunks), deep-read XML output, and frontend agent-mode wiring.</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>Ports the smart-reasoning (agentic RAG) conversation mode to the eino ADK, with Go retrieval tools (grep_chunks, search_chunks, list_chunks), deep-read XML output, and frontend agent-mode wiring.</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>Ports the smart-reasoning (agentic RAG) conversation mode to the eino ADK, with Go retrieval tools (grep_chunks, search_chunks, list_chunks), deep-read XML output, and frontend agent-mode wiring.</p>]]></content:encoded>
+    
+    <pubDate>2026-08-23T12:54:40.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[/tmp/files 臨時檔案託管頁面：提供 title.txt 下載且將於 59 分鐘後失效]]></title>
+    <link>https://github.com/infiniflow/ragflow/releases/tag/dev-20260821</link>
+    <itunes:title><![CDATA[/tmp/files 臨時檔案託管頁面：提供 title.txt 下載且將於 59 分鐘後失效]]></itunes:title>
+    <itunes:author><![CDATA[dcc123456]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>fix(web): keep chat auto-scroll following streamed answers (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="5202702972" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/18570" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/18570/hovercard" href="https://github.com/infiniflow/ragflow/pull/18570">#18570</a>)</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>fix(web): keep chat auto-scroll following streamed answers (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="5202702972" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/18570" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/18570/hovercard" href="https://github.com/infiniflow/ragflow/pull/18570">#18570</a>)</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>fix(web): keep chat auto-scroll following streamed answers (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="5202702972" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/18570" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/18570/hovercard" href="https://github.com/infiniflow/ragflow/pull/18570">#18570</a>)</p>]]></content:encoded>
+    
+    <pubDate>2026-08-21T01:42:31.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[tmpfiles臨時檔案託管：title.txt檔案下載頁面（59分鐘後過期）]]></title>
+    <link>https://github.com/infiniflow/ragflow/releases/tag/dev-20260820</link>
+    <itunes:title><![CDATA[tmpfiles臨時檔案託管：title.txt檔案下載頁面（59分鐘後過期）]]></itunes:title>
+    <itunes:author><![CDATA[xugangqiang]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>feat(deepdoc): Python-intermediate replay parity harness + table cell…</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>feat(deepdoc): Python-intermediate replay parity harness + table cell…</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>feat(deepdoc): Python-intermediate replay parity harness + table cell…</p>]]></content:encoded>
+    
+    <pubDate>2026-08-19T13:45:45.000Z</pubDate>
+  </item></channel>
+</rss>
