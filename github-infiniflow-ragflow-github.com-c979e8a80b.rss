@@ -3,7 +3,7 @@
     <title><![CDATA[RagFlow Release [GH][RSS+]]]></title>
     <link>https://github.com/infiniflow/ragflow/releases.atom</link>
     <image>
-      <url>https://fastly.picsum.photos/id/1001/800/800.jpg?hmac=G6D9Dz4jmy0PieCLv528a-yNYJP6oubEVdYTPuFvu0s</url>
+      <url>https://fastly.picsum.photos/id/1057/800/800.jpg?hmac=aH1_BQREWF3B5_HePAuU7nUrpx4k7vXxR9jn82OXV2M</url>
       <title>RagFlow Release [GH][RSS+]</title>
       <link>https://github.com/infiniflow/ragflow/releases.atom</link>
     </image>
@@ -28,8 +28,22 @@
     <itunes:owner>
       <itunes:name><![CDATA[RagFlow Release [GH][RSS+]]]></itunes:name>
     </itunes:owner>
-    <itunes:image href="https://fastly.picsum.photos/id/1001/800/800.jpg?hmac=G6D9Dz4jmy0PieCLv528a-yNYJP6oubEVdYTPuFvu0s"/>
+    <itunes:image href="https://fastly.picsum.photos/id/1057/800/800.jpg?hmac=aH1_BQREWF3B5_HePAuU7nUrpx4k7vXxR9jn82OXV2M"/>
 <item>
+    <title><![CDATA[/tmp/files暫存檔案分享：title.txt開放下載並於59分鐘後失效]]></title>
+    <link>https://github.com/infiniflow/ragflow/releases/tag/dev-20260902</link>
+    <itunes:title><![CDATA[/tmp/files暫存檔案分享：title.txt開放下載並於59分鐘後失效]]></itunes:title>
+    <itunes:author><![CDATA[Lynn-Inf]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>Fix: hide forgotten message by default. (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="5320579491" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/19144" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/19144/hovercard" href="https://github.com/infiniflow/ragflow/pull/19144">#19144</a>)</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>Fix: hide forgotten message by default. (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="5320579491" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/19144" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/19144/hovercard" href="https://github.com/infiniflow/ragflow/pull/19144">#19144</a>)</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>Fix: hide forgotten message by default. (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="5320579491" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/19144" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/19144/hovercard" href="https://github.com/infiniflow/ragflow/pull/19144">#19144</a>)</p>]]></content:encoded>
+    
+    <pubDate>2026-09-02T08:04:20.000Z</pubDate>
+  </item><item>
     <title><![CDATA[tmpfiles暫存檔案託管平台：提供「title.txt」下載並於59分鐘後過期]]></title>
     <link>https://github.com/infiniflow/ragflow/releases/tag/dev-20260825</link>
     <itunes:title><![CDATA[tmpfiles暫存檔案託管平台：提供「title.txt」下載並於59分鐘後過期]]></itunes:title>

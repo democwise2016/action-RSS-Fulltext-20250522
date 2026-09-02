@@ -3,7 +3,7 @@
     <title><![CDATA[cline Release [GH][RSS+]]]></title>
     <link>https://github.com/cline/cline/releases.atom</link>
     <image>
-      <url>https://fastly.picsum.photos/id/49/800/800.jpg?hmac=rAzFhjqrfdnRPLR5_nFV49tMbvavk1xvsaEngwbDUfc</url>
+      <url>https://fastly.picsum.photos/id/60/800/800.jpg?hmac=yeKvacJQPOmsHKpT--PgKv-oa_h3V9N5IiU-huV4aog</url>
       <title>cline Release [GH][RSS+]</title>
       <link>https://github.com/cline/cline/releases.atom</link>
     </image>
@@ -28,8 +28,387 @@
     <itunes:owner>
       <itunes:name><![CDATA[cline Release [GH][RSS+]]]></itunes:name>
     </itunes:owner>
-    <itunes:image href="https://fastly.picsum.photos/id/49/800/800.jpg?hmac=rAzFhjqrfdnRPLR5_nFV49tMbvavk1xvsaEngwbDUfc"/>
+    <itunes:image href="https://fastly.picsum.photos/id/60/800/800.jpg?hmac=yeKvacJQPOmsHKpT--PgKv-oa_h3V9N5IiU-huV4aog"/>
 <item>
+    <title><![CDATA[tmpfiles暫存檔案分享：title.txt（4.21 KB）開放下載 59分鐘後過期]]></title>
+    <link>https://github.com/cline/cline/releases/tag/v4.1.17</link>
+    <itunes:title><![CDATA[tmpfiles暫存檔案分享：title.txt（4.21 KB）開放下載 59分鐘後過期]]></itunes:title>
+    <itunes:author><![CDATA[github-actions[bot]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>Everything here lands through the SDK bundle, so it applies to windows running that bundle.</p>
+<h3>Added</h3>
+<ul>
+<li>ClinePass is now surfaced across the app: a card on the account page describing what the plan covers, a hint in provider settings, and a banner on the home screen. Dismissed banners stay dismissed.</li>
+</ul>
+<h3>Fixed</h3>
+<ul>
+<li>Fixed the background Hub process ballooning in memory during long sessions. Session status updates broadcast a full copy of the conversation transcript to every connected client, so on a large task each status change shipped megabytes and could grow the process to tens of gigabytes. Snapshots now carry state only.</li>
+<li>Hook scripts that fail to spawn no longer crash the extension's core process and take the running task down with them.</li>
+<li>Fixed a chat render crash on malformed <code>api_req</code> payloads.</li>
+<li>Cost estimates no longer appear in task history for subscription-billed tasks (ClinePass, ChatGPT via Codex, and Claude Code), matching the task header.</li>
+<li>Pasted provider API keys are now stripped of the invisible characters clipboards smuggle in (newlines, zero-width spaces, BOM). A key corrupted that way was hidden by the masked field and rejected by the provider with a 401 indistinguishable from a genuinely wrong key. Credential rejections now say that the API key is the problem and point at its configuration, keeping the provider's raw response as a diagnostic tail.</li>
+<li>Signing in to OpenAI Codex (ChatGPT subscription) now fails with a clear "port in use" error when callback port 1455 is occupied. Previously the button opened a browser to a flow whose callback could never arrive, and nothing else happened. OAuth redirect errors such as <code>access_denied</code> are surfaced instead of being reported as a missing authorization code.</li>
+<li>A transient network failure while refreshing OpenAI Codex or OpenAI-compatible-account tokens no longer signs you out. Only a genuinely rejected refresh token now requires re-authentication.</li>
+<li>Fixed tool calling being silently disabled for Dify, SAP AI Core, opencode, and Codex CLI models. Their catalog entries declare no capabilities, and the empty list was read as an authoritative denial that stripped every tool from the request.</li>
+<li>Fixed images being dropped from file reads on models whose capability list is empty.</li>
+<li>Restoring a checkpoint now refuses to run when commits were made after it, instead of silently knocking them off the branch where only the reflog could recover them. Chat-only restore is unaffected.</li>
+<li><code>apply_patch</code> now preserves a file's existing CRLF line endings.</li>
+<li>Global rules are now also read from <code>~/Cline/Rules</code>, which is where the Rules tab writes them on WSL and headless installs whose Documents folder resolves to the home directory.</li>
+<li>An enabled but unreachable remote (SSE or streamable HTTP) MCP server no longer stalls session startup; remote connects now have a 10 second budget.</li>
+<li>Aborting a task now also cancels the delegated subagents and teammates it spawned, instead of leaving their work running.</li>
+<li>Langfuse tracing now works in released builds. Detection identified the OpenTelemetry provider by class name, which minification renames, so tracing silently initialized as not ready in every published build while working in development.</li>
+<li>Cline provider models are now read from the live catalog, so newly published models appear without an extension update.</li>
+<li>Hook execution telemetry now fires; the task id was not threaded into hook runner creation, so those events were dropped.</li>
+</ul>
+<h3>Changed</h3>
+<ul>
+<li>Refreshed the built-in model catalog. Adds ten providers (Bothub, OpenReason, SenseNova (China), TokenGo, TokenRouter, Vancine, Volcengine Ark, Volcengine Ark Coding Plan, above.dev, and klokintegration.se) and updates model lists and pricing throughout. This is an unusually wide refresh: the resolved default model changes for 57 providers, most consequentially Anthropic, which now resolves to Claude Fable 5.1 instead of Claude Opus 5, with Amazon Bedrock, Vertex, OpenRouter, Vercel AI Gateway, Kilo Gateway, LLM Gateway, DevPass, DigitalOcean, CrossModel, Eden AI, and NanoGPT following. If you use a provider without pinning a model, expect a different default.</li>
+<li>The message the model receives when you reject a tool call now names the rejected tool and reads as your decision rather than an error.</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/v4.1.16...v4.1.17"><tt>v4.1.16...v4.1.17</tt></a></p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>Everything here lands through the SDK bundle, so it applies to windows running that bundle.</p>
+<h3>Added</h3>
+<ul>
+<li>ClinePass is now surfaced across the app: a card on the account page describing what the plan covers, a hint in provider settings, and a banner on the home screen. Dismissed banners stay dismissed.</li>
+</ul>
+<h3>Fixed</h3>
+<ul>
+<li>Fixed the background Hub process ballooning in memory during long sessions. Session status updates broadcast a full copy of the conversation transcript to every connected client, so on a large task each status change shipped megabytes and could grow the process to tens of gigabytes. Snapshots now carry state only.</li>
+<li>Hook scripts that fail to spawn no longer crash the extension's core process and take the running task down with them.</li>
+<li>Fixed a chat render crash on malformed <code>api_req</code> payloads.</li>
+<li>Cost estimates no longer appear in task history for subscription-billed tasks (ClinePass, ChatGPT via Codex, and Claude Code), matching the task header.</li>
+<li>Pasted provider API keys are now stripped of the invisible characters clipboards smuggle in (newlines, zero-width spaces, BOM). A key corrupted that way was hidden by the masked field and rejected by the provider with a 401 indistinguishable from a genuinely wrong key. Credential rejections now say that the API key is the problem and point at its configuration, keeping the provider's raw response as a diagnostic tail.</li>
+<li>Signing in to OpenAI Codex (ChatGPT subscription) now fails with a clear "port in use" error when callback port 1455 is occupied. Previously the button opened a browser to a flow whose callback could never arrive, and nothing else happened. OAuth redirect errors such as <code>access_denied</code> are surfaced instead of being reported as a missing authorization code.</li>
+<li>A transient network failure while refreshing OpenAI Codex or OpenAI-compatible-account tokens no longer signs you out. Only a genuinely rejected refresh token now requires re-authentication.</li>
+<li>Fixed tool calling being silently disabled for Dify, SAP AI Core, opencode, and Codex CLI models. Their catalog entries declare no capabilities, and the empty list was read as an authoritative denial that stripped every tool from the request.</li>
+<li>Fixed images being dropped from file reads on models whose capability list is empty.</li>
+<li>Restoring a checkpoint now refuses to run when commits were made after it, instead of silently knocking them off the branch where only the reflog could recover them. Chat-only restore is unaffected.</li>
+<li><code>apply_patch</code> now preserves a file's existing CRLF line endings.</li>
+<li>Global rules are now also read from <code>~/Cline/Rules</code>, which is where the Rules tab writes them on WSL and headless installs whose Documents folder resolves to the home directory.</li>
+<li>An enabled but unreachable remote (SSE or streamable HTTP) MCP server no longer stalls session startup; remote connects now have a 10 second budget.</li>
+<li>Aborting a task now also cancels the delegated subagents and teammates it spawned, instead of leaving their work running.</li>
+<li>Langfuse tracing now works in released builds. Detection identified the OpenTelemetry provider by class name, which minification renames, so tracing silently initialized as not ready in every published build while working in development.</li>
+<li>Cline provider models are now read from the live catalog, so newly published models appear without an extension update.</li>
+<li>Hook execution telemetry now fires; the task id was not threaded into hook runner creation, so those events were dropped.</li>
+</ul>
+<h3>Changed</h3>
+<ul>
+<li>Refreshed the built-in model catalog. Adds ten providers (Bothub, OpenReason, SenseNova (China), TokenGo, TokenRouter, Vancine, Volcengine Ark, Volcengine Ark Coding Plan, above.dev, and klokintegration.se) and updates model lists and pricing throughout. This is an unusually wide refresh: the resolved default model changes for 57 providers, most consequentially Anthropic, which now resolves to Claude Fable 5.1 instead of Claude Opus 5, with Amazon Bedrock, Vertex, OpenRouter, Vercel AI Gateway, Kilo Gateway, LLM Gateway, DevPass, DigitalOcean, CrossModel, Eden AI, and NanoGPT following. If you use a provider without pinning a model, expect a different default.</li>
+<li>The message the model receives when you reject a tool call now names the rejected tool and reads as your decision rather than an error.</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/v4.1.16...v4.1.17"><tt>v4.1.16...v4.1.17</tt></a></p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>Everything here lands through the SDK bundle, so it applies to windows running that bundle.</p>
+<h3>Added</h3>
+<ul>
+<li>ClinePass is now surfaced across the app: a card on the account page describing what the plan covers, a hint in provider settings, and a banner on the home screen. Dismissed banners stay dismissed.</li>
+</ul>
+<h3>Fixed</h3>
+<ul>
+<li>Fixed the background Hub process ballooning in memory during long sessions. Session status updates broadcast a full copy of the conversation transcript to every connected client, so on a large task each status change shipped megabytes and could grow the process to tens of gigabytes. Snapshots now carry state only.</li>
+<li>Hook scripts that fail to spawn no longer crash the extension's core process and take the running task down with them.</li>
+<li>Fixed a chat render crash on malformed <code>api_req</code> payloads.</li>
+<li>Cost estimates no longer appear in task history for subscription-billed tasks (ClinePass, ChatGPT via Codex, and Claude Code), matching the task header.</li>
+<li>Pasted provider API keys are now stripped of the invisible characters clipboards smuggle in (newlines, zero-width spaces, BOM). A key corrupted that way was hidden by the masked field and rejected by the provider with a 401 indistinguishable from a genuinely wrong key. Credential rejections now say that the API key is the problem and point at its configuration, keeping the provider's raw response as a diagnostic tail.</li>
+<li>Signing in to OpenAI Codex (ChatGPT subscription) now fails with a clear "port in use" error when callback port 1455 is occupied. Previously the button opened a browser to a flow whose callback could never arrive, and nothing else happened. OAuth redirect errors such as <code>access_denied</code> are surfaced instead of being reported as a missing authorization code.</li>
+<li>A transient network failure while refreshing OpenAI Codex or OpenAI-compatible-account tokens no longer signs you out. Only a genuinely rejected refresh token now requires re-authentication.</li>
+<li>Fixed tool calling being silently disabled for Dify, SAP AI Core, opencode, and Codex CLI models. Their catalog entries declare no capabilities, and the empty list was read as an authoritative denial that stripped every tool from the request.</li>
+<li>Fixed images being dropped from file reads on models whose capability list is empty.</li>
+<li>Restoring a checkpoint now refuses to run when commits were made after it, instead of silently knocking them off the branch where only the reflog could recover them. Chat-only restore is unaffected.</li>
+<li><code>apply_patch</code> now preserves a file's existing CRLF line endings.</li>
+<li>Global rules are now also read from <code>~/Cline/Rules</code>, which is where the Rules tab writes them on WSL and headless installs whose Documents folder resolves to the home directory.</li>
+<li>An enabled but unreachable remote (SSE or streamable HTTP) MCP server no longer stalls session startup; remote connects now have a 10 second budget.</li>
+<li>Aborting a task now also cancels the delegated subagents and teammates it spawned, instead of leaving their work running.</li>
+<li>Langfuse tracing now works in released builds. Detection identified the OpenTelemetry provider by class name, which minification renames, so tracing silently initialized as not ready in every published build while working in development.</li>
+<li>Cline provider models are now read from the live catalog, so newly published models appear without an extension update.</li>
+<li>Hook execution telemetry now fires; the task id was not threaded into hook runner creation, so those events were dropped.</li>
+</ul>
+<h3>Changed</h3>
+<ul>
+<li>Refreshed the built-in model catalog. Adds ten providers (Bothub, OpenReason, SenseNova (China), TokenGo, TokenRouter, Vancine, Volcengine Ark, Volcengine Ark Coding Plan, above.dev, and klokintegration.se) and updates model lists and pricing throughout. This is an unusually wide refresh: the resolved default model changes for 57 providers, most consequentially Anthropic, which now resolves to Claude Fable 5.1 instead of Claude Opus 5, with Amazon Bedrock, Vertex, OpenRouter, Vercel AI Gateway, Kilo Gateway, LLM Gateway, DevPass, DigitalOcean, CrossModel, Eden AI, and NanoGPT following. If you use a provider without pinning a model, expect a different default.</li>
+<li>The message the model receives when you reject a tool call now names the rejected tool and reads as your decision rather than an error.</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/v4.1.16...v4.1.17"><tt>v4.1.16...v4.1.17</tt></a></p>]]></content:encoded>
+    
+    <pubDate>2026-09-02T05:40:07.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[tmpfiles 暫存檔案「title.txt」下載頁：剩餘 59 分鐘有效期限]]></title>
+    <link>https://github.com/cline/cline/releases/tag/sdk%2Fshared%2Fv0.0.82</link>
+    <itunes:title><![CDATA[tmpfiles 暫存檔案「title.txt」下載頁：剩餘 59 分鐘有效期限]]></itunes:title>
+    <itunes:author><![CDATA[github-actions[bot]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>@cline/shared@0.0.82</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>@cline/shared@0.0.82</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>@cline/shared@0.0.82</p>]]></content:encoded>
+    
+    <pubDate>2026-09-02T04:39:57.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[tmpfiles暫存檔案title.txt提供下載　大小6.35KB且將於59分鐘後失效]]></title>
+    <link>https://github.com/cline/cline/releases/tag/sdk%2Fsdk%2Fv0.0.82</link>
+    <itunes:title><![CDATA[tmpfiles暫存檔案title.txt提供下載　大小6.35KB且將於59分鐘後失效]]></itunes:title>
+    <itunes:author><![CDATA[github-actions[bot]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<ul>
+<li>Fixed tool calling being silently disabled for gateway models whose catalog entry declares no capabilities. Three separate producers built gateway model definitions with their own hand-written capability translations and had drifted; the builtin-provider path emitted <code>["text"]</code> where the others emitted <code>undefined</code>, and that list read as an authoritative denial that stripped every tool definition from requests to Dify, SAP AI Core, opencode, and the Codex CLI. One shared translator now serves every producer</li>
+<li>Fixed an empty capability list stripping image input. Two readers bypassed <code>modelHasCapability</code> and tested <code>capabilities</code> directly, where an empty list is not nullish but matches nothing: the file-read tool silently dropped every image from the request, and model pickers reported models as definitively lacking vision, attachments, and reasoning when nothing had been declared</li>
+<li>Langfuse tracing now works in minified release builds. <code>initializeLangfuseTelemetry</code> identified the OpenTelemetry provider by constructor name, which minification renames, so every production build silently initialized with <code>readiness=false</code> while unminified dev runs worked. Detection is now structural, and a foreign provider already holding the global slot gets the Langfuse span processor attached rather than being silently bailed on. Langfuse also moved to AI SDK 7 telemetry</li>
+<li>New <code>SessionImportService</code> discovers and imports conversation history from Claude Code (<code>~/.claude/projects</code>), Codex (<code>~/.codex/sessions</code>), and opencode (<code>opencode.db</code>), translating each into Cline's native message format and persisting it as a completed, listable, resumable session. Imports are transactional, idempotent per source, and sanitized so the transcript is valid to resume against any provider</li>
+<li>The hub is never retired out from under running work. <code>upgradeManagedHub</code> and <code>retireIncompatibleHub</code> now establish the drain barrier before any activity check, and refuse to replace a hub that does not accept the drain — previously an idle snapshot could authorize a shutdown that killed a session admitted moments later</li>
+<li>Restoring a checkpoint now refuses to run when HEAD has moved past the commit the checkpoint was taken on. The restore's <code>git reset --hard</code> silently knocked any later commits off the branch, leaving them reachable only through the reflog; the branch move is now a compare-and-swap so a commit landing mid-restore cannot be lost either</li>
+<li>Remote (SSE/streamable HTTP) MCP servers now get a 10s connect budget. An unreachable but enabled server previously spent the full 60s request timeout inside <code>session.create</code>, blowing past the hub's 30s cap and tearing down the whole session</li>
+<li><code>apply_patch</code> now preserves a file's own CRLF line endings across updates</li>
+<li>Global rules are now also discovered at <code>~/Cline/Rules</code>. The VS Code Rules tab resolves the Documents folder with <code>xdg-user-dir DOCUMENTS</code>, which prints bare <code>$HOME</code> on WSL and headless installs, so rules written there never reached the system prompt</li>
+<li>OpenAI Codex (ChatGPT subscription) sign-in now fails fast with an actionable error when callback port 1455 is already in use, instead of opening a browser to a flow whose callback can never arrive. OAuth redirect errors such as <code>access_denied</code> are surfaced rather than collapsed into "Missing authorization code"</li>
+<li>A transient token-refresh failure no longer logs out Codex and OpenAI-compatible-account users. Only a rejected refresh token now forces re-authentication; network errors, timeouts, and server 5xx rethrow instead</li>
+<li>Aborting a session now propagates to the work it spawned — delegated subagents and teammates are cancelled with it, and aborted teammate tasks persist as cancelled instead of staying open</li>
+<li>Agent-created schedules are now anchored in <code>~/.cline/schedules</code> rather than inheriting whichever chat workspace they happened to be created in, where they were invisible to workspace-scoped listings and tied to folders that may be cleaned up. Schedules created with an explicit workspace are unchanged</li>
+<li>Fixed hub-managed schedules being wiped by cron reconciliation on hub restart</li>
+<li>Scheduled sessions now carry their schedule's identity — id, name, cron run id, and a stable 1-based run number that a later cancellation never shifts — so clients can group runs under the schedule that produced them</li>
+<li>Token-authenticated hub connections can now request cross-workspace schedule access, so a host can list schedules that live outside the workspace it registered. Workspace-bound clients stay scoped</li>
+<li>Session history is now searchable through a server-side full-text index, exposed as a hub command, instead of clients loading every session to filter locally</li>
+<li>Cline provider models now load from the live catalog rather than only the bundled one, so newly published models appear without a package update. Explicit runtime and <code>models.json</code> overrides still take precedence</li>
+<li>The message the model receives when a user rejects a tool call now names the rejected tool and reads as a user decision rather than an error</li>
+<li>Provider 401/403 responses are now classified as an <code>auth</code> error class on the existing <code>errorClass</code> plumbing, so hosts can render credential rejections as actionable guidance instead of a raw provider body</li>
+<li>The provider catalog now exposes a computed <code>configured</code> flag, so a settings entry seeded with only a default model and no credentials no longer reads as a connected provider</li>
+<li>Tool results can now carry media: images returned by a tool are extracted and exposed as attachments instead of raw base64 text</li>
+<li>The hub no longer creates filesystem watchers on agenda spec directories while the todo tool is disabled, and <code>updateTask</code> reconciles external spec edits itself, so a spec edited on disk no longer fails every subsequent update with a signature mismatch</li>
+<li>Refreshed the model catalog. Adds ten providers (Bothub, OpenReason, SenseNova (China), TokenGo, TokenRouter, Vancine, Volcengine Ark, Volcengine Ark Coding Plan, above.dev, and klokintegration.se) and updates model lists and pricing across providers. This is an unusually wide refresh: the resolved default model changes for 57 providers. Most consequentially, Anthropic now resolves to Claude Fable 5.1 instead of Claude Opus 5, and Amazon Bedrock, Vertex, OpenRouter, Vercel AI Gateway, Kilo Gateway, LLM Gateway, DevPass, DigitalOcean, CrossModel, Eden AI, and NanoGPT follow it to Fable 5.1. If you use any provider without pinning a model, expect a different default</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/sdk/sdk/v0.0.81...sdk/sdk/v0.0.82"><tt>sdk/sdk/v0.0.81...sdk/sdk/v0.0.82</tt></a></p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<ul>
+<li>Fixed tool calling being silently disabled for gateway models whose catalog entry declares no capabilities. Three separate producers built gateway model definitions with their own hand-written capability translations and had drifted; the builtin-provider path emitted <code>["text"]</code> where the others emitted <code>undefined</code>, and that list read as an authoritative denial that stripped every tool definition from requests to Dify, SAP AI Core, opencode, and the Codex CLI. One shared translator now serves every producer</li>
+<li>Fixed an empty capability list stripping image input. Two readers bypassed <code>modelHasCapability</code> and tested <code>capabilities</code> directly, where an empty list is not nullish but matches nothing: the file-read tool silently dropped every image from the request, and model pickers reported models as definitively lacking vision, attachments, and reasoning when nothing had been declared</li>
+<li>Langfuse tracing now works in minified release builds. <code>initializeLangfuseTelemetry</code> identified the OpenTelemetry provider by constructor name, which minification renames, so every production build silently initialized with <code>readiness=false</code> while unminified dev runs worked. Detection is now structural, and a foreign provider already holding the global slot gets the Langfuse span processor attached rather than being silently bailed on. Langfuse also moved to AI SDK 7 telemetry</li>
+<li>New <code>SessionImportService</code> discovers and imports conversation history from Claude Code (<code>~/.claude/projects</code>), Codex (<code>~/.codex/sessions</code>), and opencode (<code>opencode.db</code>), translating each into Cline's native message format and persisting it as a completed, listable, resumable session. Imports are transactional, idempotent per source, and sanitized so the transcript is valid to resume against any provider</li>
+<li>The hub is never retired out from under running work. <code>upgradeManagedHub</code> and <code>retireIncompatibleHub</code> now establish the drain barrier before any activity check, and refuse to replace a hub that does not accept the drain — previously an idle snapshot could authorize a shutdown that killed a session admitted moments later</li>
+<li>Restoring a checkpoint now refuses to run when HEAD has moved past the commit the checkpoint was taken on. The restore's <code>git reset --hard</code> silently knocked any later commits off the branch, leaving them reachable only through the reflog; the branch move is now a compare-and-swap so a commit landing mid-restore cannot be lost either</li>
+<li>Remote (SSE/streamable HTTP) MCP servers now get a 10s connect budget. An unreachable but enabled server previously spent the full 60s request timeout inside <code>session.create</code>, blowing past the hub's 30s cap and tearing down the whole session</li>
+<li><code>apply_patch</code> now preserves a file's own CRLF line endings across updates</li>
+<li>Global rules are now also discovered at <code>~/Cline/Rules</code>. The VS Code Rules tab resolves the Documents folder with <code>xdg-user-dir DOCUMENTS</code>, which prints bare <code>$HOME</code> on WSL and headless installs, so rules written there never reached the system prompt</li>
+<li>OpenAI Codex (ChatGPT subscription) sign-in now fails fast with an actionable error when callback port 1455 is already in use, instead of opening a browser to a flow whose callback can never arrive. OAuth redirect errors such as <code>access_denied</code> are surfaced rather than collapsed into "Missing authorization code"</li>
+<li>A transient token-refresh failure no longer logs out Codex and OpenAI-compatible-account users. Only a rejected refresh token now forces re-authentication; network errors, timeouts, and server 5xx rethrow instead</li>
+<li>Aborting a session now propagates to the work it spawned — delegated subagents and teammates are cancelled with it, and aborted teammate tasks persist as cancelled instead of staying open</li>
+<li>Agent-created schedules are now anchored in <code>~/.cline/schedules</code> rather than inheriting whichever chat workspace they happened to be created in, where they were invisible to workspace-scoped listings and tied to folders that may be cleaned up. Schedules created with an explicit workspace are unchanged</li>
+<li>Fixed hub-managed schedules being wiped by cron reconciliation on hub restart</li>
+<li>Scheduled sessions now carry their schedule's identity — id, name, cron run id, and a stable 1-based run number that a later cancellation never shifts — so clients can group runs under the schedule that produced them</li>
+<li>Token-authenticated hub connections can now request cross-workspace schedule access, so a host can list schedules that live outside the workspace it registered. Workspace-bound clients stay scoped</li>
+<li>Session history is now searchable through a server-side full-text index, exposed as a hub command, instead of clients loading every session to filter locally</li>
+<li>Cline provider models now load from the live catalog rather than only the bundled one, so newly published models appear without a package update. Explicit runtime and <code>models.json</code> overrides still take precedence</li>
+<li>The message the model receives when a user rejects a tool call now names the rejected tool and reads as a user decision rather than an error</li>
+<li>Provider 401/403 responses are now classified as an <code>auth</code> error class on the existing <code>errorClass</code> plumbing, so hosts can render credential rejections as actionable guidance instead of a raw provider body</li>
+<li>The provider catalog now exposes a computed <code>configured</code> flag, so a settings entry seeded with only a default model and no credentials no longer reads as a connected provider</li>
+<li>Tool results can now carry media: images returned by a tool are extracted and exposed as attachments instead of raw base64 text</li>
+<li>The hub no longer creates filesystem watchers on agenda spec directories while the todo tool is disabled, and <code>updateTask</code> reconciles external spec edits itself, so a spec edited on disk no longer fails every subsequent update with a signature mismatch</li>
+<li>Refreshed the model catalog. Adds ten providers (Bothub, OpenReason, SenseNova (China), TokenGo, TokenRouter, Vancine, Volcengine Ark, Volcengine Ark Coding Plan, above.dev, and klokintegration.se) and updates model lists and pricing across providers. This is an unusually wide refresh: the resolved default model changes for 57 providers. Most consequentially, Anthropic now resolves to Claude Fable 5.1 instead of Claude Opus 5, and Amazon Bedrock, Vertex, OpenRouter, Vercel AI Gateway, Kilo Gateway, LLM Gateway, DevPass, DigitalOcean, CrossModel, Eden AI, and NanoGPT follow it to Fable 5.1. If you use any provider without pinning a model, expect a different default</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/sdk/sdk/v0.0.81...sdk/sdk/v0.0.82"><tt>sdk/sdk/v0.0.81...sdk/sdk/v0.0.82</tt></a></p>]]>
+    </description>
+    <content:encoded><![CDATA[<ul>
+<li>Fixed tool calling being silently disabled for gateway models whose catalog entry declares no capabilities. Three separate producers built gateway model definitions with their own hand-written capability translations and had drifted; the builtin-provider path emitted <code>["text"]</code> where the others emitted <code>undefined</code>, and that list read as an authoritative denial that stripped every tool definition from requests to Dify, SAP AI Core, opencode, and the Codex CLI. One shared translator now serves every producer</li>
+<li>Fixed an empty capability list stripping image input. Two readers bypassed <code>modelHasCapability</code> and tested <code>capabilities</code> directly, where an empty list is not nullish but matches nothing: the file-read tool silently dropped every image from the request, and model pickers reported models as definitively lacking vision, attachments, and reasoning when nothing had been declared</li>
+<li>Langfuse tracing now works in minified release builds. <code>initializeLangfuseTelemetry</code> identified the OpenTelemetry provider by constructor name, which minification renames, so every production build silently initialized with <code>readiness=false</code> while unminified dev runs worked. Detection is now structural, and a foreign provider already holding the global slot gets the Langfuse span processor attached rather than being silently bailed on. Langfuse also moved to AI SDK 7 telemetry</li>
+<li>New <code>SessionImportService</code> discovers and imports conversation history from Claude Code (<code>~/.claude/projects</code>), Codex (<code>~/.codex/sessions</code>), and opencode (<code>opencode.db</code>), translating each into Cline's native message format and persisting it as a completed, listable, resumable session. Imports are transactional, idempotent per source, and sanitized so the transcript is valid to resume against any provider</li>
+<li>The hub is never retired out from under running work. <code>upgradeManagedHub</code> and <code>retireIncompatibleHub</code> now establish the drain barrier before any activity check, and refuse to replace a hub that does not accept the drain — previously an idle snapshot could authorize a shutdown that killed a session admitted moments later</li>
+<li>Restoring a checkpoint now refuses to run when HEAD has moved past the commit the checkpoint was taken on. The restore's <code>git reset --hard</code> silently knocked any later commits off the branch, leaving them reachable only through the reflog; the branch move is now a compare-and-swap so a commit landing mid-restore cannot be lost either</li>
+<li>Remote (SSE/streamable HTTP) MCP servers now get a 10s connect budget. An unreachable but enabled server previously spent the full 60s request timeout inside <code>session.create</code>, blowing past the hub's 30s cap and tearing down the whole session</li>
+<li><code>apply_patch</code> now preserves a file's own CRLF line endings across updates</li>
+<li>Global rules are now also discovered at <code>~/Cline/Rules</code>. The VS Code Rules tab resolves the Documents folder with <code>xdg-user-dir DOCUMENTS</code>, which prints bare <code>$HOME</code> on WSL and headless installs, so rules written there never reached the system prompt</li>
+<li>OpenAI Codex (ChatGPT subscription) sign-in now fails fast with an actionable error when callback port 1455 is already in use, instead of opening a browser to a flow whose callback can never arrive. OAuth redirect errors such as <code>access_denied</code> are surfaced rather than collapsed into "Missing authorization code"</li>
+<li>A transient token-refresh failure no longer logs out Codex and OpenAI-compatible-account users. Only a rejected refresh token now forces re-authentication; network errors, timeouts, and server 5xx rethrow instead</li>
+<li>Aborting a session now propagates to the work it spawned — delegated subagents and teammates are cancelled with it, and aborted teammate tasks persist as cancelled instead of staying open</li>
+<li>Agent-created schedules are now anchored in <code>~/.cline/schedules</code> rather than inheriting whichever chat workspace they happened to be created in, where they were invisible to workspace-scoped listings and tied to folders that may be cleaned up. Schedules created with an explicit workspace are unchanged</li>
+<li>Fixed hub-managed schedules being wiped by cron reconciliation on hub restart</li>
+<li>Scheduled sessions now carry their schedule's identity — id, name, cron run id, and a stable 1-based run number that a later cancellation never shifts — so clients can group runs under the schedule that produced them</li>
+<li>Token-authenticated hub connections can now request cross-workspace schedule access, so a host can list schedules that live outside the workspace it registered. Workspace-bound clients stay scoped</li>
+<li>Session history is now searchable through a server-side full-text index, exposed as a hub command, instead of clients loading every session to filter locally</li>
+<li>Cline provider models now load from the live catalog rather than only the bundled one, so newly published models appear without a package update. Explicit runtime and <code>models.json</code> overrides still take precedence</li>
+<li>The message the model receives when a user rejects a tool call now names the rejected tool and reads as a user decision rather than an error</li>
+<li>Provider 401/403 responses are now classified as an <code>auth</code> error class on the existing <code>errorClass</code> plumbing, so hosts can render credential rejections as actionable guidance instead of a raw provider body</li>
+<li>The provider catalog now exposes a computed <code>configured</code> flag, so a settings entry seeded with only a default model and no credentials no longer reads as a connected provider</li>
+<li>Tool results can now carry media: images returned by a tool are extracted and exposed as attachments instead of raw base64 text</li>
+<li>The hub no longer creates filesystem watchers on agenda spec directories while the todo tool is disabled, and <code>updateTask</code> reconciles external spec edits itself, so a spec edited on disk no longer fails every subsequent update with a signature mismatch</li>
+<li>Refreshed the model catalog. Adds ten providers (Bothub, OpenReason, SenseNova (China), TokenGo, TokenRouter, Vancine, Volcengine Ark, Volcengine Ark Coding Plan, above.dev, and klokintegration.se) and updates model lists and pricing across providers. This is an unusually wide refresh: the resolved default model changes for 57 providers. Most consequentially, Anthropic now resolves to Claude Fable 5.1 instead of Claude Opus 5, and Amazon Bedrock, Vertex, OpenRouter, Vercel AI Gateway, Kilo Gateway, LLM Gateway, DevPass, DigitalOcean, CrossModel, Eden AI, and NanoGPT follow it to Fable 5.1. If you use any provider without pinning a model, expect a different default</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/sdk/sdk/v0.0.81...sdk/sdk/v0.0.82"><tt>sdk/sdk/v0.0.81...sdk/sdk/v0.0.82</tt></a></p>]]></content:encoded>
+    
+    <pubDate>2026-09-02T04:40:16.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[臨時檔案託管網站 /tmp/files 之「title.txt」下載頁面，檔案將於 59 分鐘後過期]]></title>
+    <link>https://github.com/cline/cline/releases/tag/sdk%2Fllms%2Fv0.0.82</link>
+    <itunes:title><![CDATA[臨時檔案託管網站 /tmp/files 之「title.txt」下載頁面，檔案將於 59 分鐘後過期]]></itunes:title>
+    <itunes:author><![CDATA[github-actions[bot]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>@cline/llms@0.0.82</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>@cline/llms@0.0.82</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>@cline/llms@0.0.82</p>]]></content:encoded>
+    
+    <pubDate>2026-09-02T04:39:58.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[tmpfiles暫存檔案託管平台：title.txt開放下載 59分鐘後失效]]></title>
+    <link>https://github.com/cline/cline/releases/tag/sdk%2Fcore%2Fv0.0.82</link>
+    <itunes:title><![CDATA[tmpfiles暫存檔案託管平台：title.txt開放下載 59分鐘後失效]]></itunes:title>
+    <itunes:author><![CDATA[github-actions[bot]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>@cline/core@0.0.82</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>@cline/core@0.0.82</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>@cline/core@0.0.82</p>]]></content:encoded>
+    
+    <pubDate>2026-09-02T04:40:02.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[tmpfiles暫存檔案分享頁面：title.txt提供下載，59分鐘後失效過期]]></title>
+    <link>https://github.com/cline/cline/releases/tag/sdk%2Fagents%2Fv0.0.82</link>
+    <itunes:title><![CDATA[tmpfiles暫存檔案分享頁面：title.txt提供下載，59分鐘後失效過期]]></itunes:title>
+    <itunes:author><![CDATA[github-actions[bot]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>@cline/agents@0.0.82</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>@cline/agents@0.0.82</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>@cline/agents@0.0.82</p>]]></content:encoded>
+    
+    <pubDate>2026-09-02T04:40:00.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[tmpfiles臨時檔案託管：title.txt開放下載且將於59分鐘後過期]]></title>
+    <link>https://github.com/cline/cline/releases/tag/desktop-v0.0.22</link>
+    <itunes:title><![CDATA[tmpfiles臨時檔案託管：title.txt開放下載且將於59分鐘後過期]]></itunes:title>
+    <itunes:author><![CDATA[github-actions[bot]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<ul>
+<li>Import your history from Claude Code, Codex, and opencode. An Import button in the Sessions header (and a row in Settings → General) scans your local stores from all three tools and turns the conversations you pick into fully resumable Cline sessions. Sessions are grouped per tool with select-all and a search across title, folder, and first prompt; already-imported ones are shown as such so re-opening the dialog is safe. Imported sessions resume on your configured provider and model, not the source tool's. If you have history from any of these tools, onboarding now offers the import as a step</li>
+<li>Runs of a schedule now fold into a single collapsible sidebar row named after the schedule, with its run count, instead of one row per run all carrying the same prompt title. Expanding lists them newest-first as "Run N" with the usual status dot, time, hover card, context menu, and delete; the group holding the active session opens on its own</li>
+<li>Voice input now works on macOS. The app shipped without a microphone usage description or entitlement, so dictation failed silently</li>
+<li>Web search is now on by default</li>
+<li>The marketplace detail panel now opens on click rather than hover, with left-aligned content, a single "Learn more" link, and the selected entry staying open while you filter the list</li>
+<li>When the Hub is older than the app, you are now offered a choice — replace it, with a count of the sessions that would be interrupted, or keep it running — instead of the app quietly working against stale code. Replacing drains the Hub first so in-flight turns finish</li>
+<li>Editing and resending a message now works on sessions with no checkpoint history, such as imported ones, instead of failing with "No checkpoint found at or before run N"</li>
+<li>Fixed tool calling being silently disabled for Dify, SAP AI Core, opencode, and Codex CLI models. Their catalog entries declare no capabilities, and the empty list was read as an authoritative denial that stripped every tool from the request</li>
+<li>Fixed images being dropped from file reads on models whose capability list is empty</li>
+<li>The message the model receives when you reject a tool call now names the tool and reads as your decision rather than an error</li>
+<li>Refreshed the model catalog. Adds eight providers (Bothub, OpenReason, SenseNova (China), TokenRouter, Vancine, Volcengine Ark Coding Plan, above.dev, and klokintegration.se) and changes the resolved default model for 36 providers — most consequentially Anthropic, which now resolves to Claude Fable 5.1 instead of Claude Opus 5, with Amazon Bedrock, Vertex, OpenRouter, Kilo Gateway, DevPass, DigitalOcean, CrossModel, and Eden AI following. If you use a provider without pinning a model, expect a different default</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/desktop-v0.0.21...desktop-v0.0.22"><tt>desktop-v0.0.21...desktop-v0.0.22</tt></a></p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<ul>
+<li>Import your history from Claude Code, Codex, and opencode. An Import button in the Sessions header (and a row in Settings → General) scans your local stores from all three tools and turns the conversations you pick into fully resumable Cline sessions. Sessions are grouped per tool with select-all and a search across title, folder, and first prompt; already-imported ones are shown as such so re-opening the dialog is safe. Imported sessions resume on your configured provider and model, not the source tool's. If you have history from any of these tools, onboarding now offers the import as a step</li>
+<li>Runs of a schedule now fold into a single collapsible sidebar row named after the schedule, with its run count, instead of one row per run all carrying the same prompt title. Expanding lists them newest-first as "Run N" with the usual status dot, time, hover card, context menu, and delete; the group holding the active session opens on its own</li>
+<li>Voice input now works on macOS. The app shipped without a microphone usage description or entitlement, so dictation failed silently</li>
+<li>Web search is now on by default</li>
+<li>The marketplace detail panel now opens on click rather than hover, with left-aligned content, a single "Learn more" link, and the selected entry staying open while you filter the list</li>
+<li>When the Hub is older than the app, you are now offered a choice — replace it, with a count of the sessions that would be interrupted, or keep it running — instead of the app quietly working against stale code. Replacing drains the Hub first so in-flight turns finish</li>
+<li>Editing and resending a message now works on sessions with no checkpoint history, such as imported ones, instead of failing with "No checkpoint found at or before run N"</li>
+<li>Fixed tool calling being silently disabled for Dify, SAP AI Core, opencode, and Codex CLI models. Their catalog entries declare no capabilities, and the empty list was read as an authoritative denial that stripped every tool from the request</li>
+<li>Fixed images being dropped from file reads on models whose capability list is empty</li>
+<li>The message the model receives when you reject a tool call now names the tool and reads as your decision rather than an error</li>
+<li>Refreshed the model catalog. Adds eight providers (Bothub, OpenReason, SenseNova (China), TokenRouter, Vancine, Volcengine Ark Coding Plan, above.dev, and klokintegration.se) and changes the resolved default model for 36 providers — most consequentially Anthropic, which now resolves to Claude Fable 5.1 instead of Claude Opus 5, with Amazon Bedrock, Vertex, OpenRouter, Kilo Gateway, DevPass, DigitalOcean, CrossModel, and Eden AI following. If you use a provider without pinning a model, expect a different default</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/desktop-v0.0.21...desktop-v0.0.22"><tt>desktop-v0.0.21...desktop-v0.0.22</tt></a></p>]]>
+    </description>
+    <content:encoded><![CDATA[<ul>
+<li>Import your history from Claude Code, Codex, and opencode. An Import button in the Sessions header (and a row in Settings → General) scans your local stores from all three tools and turns the conversations you pick into fully resumable Cline sessions. Sessions are grouped per tool with select-all and a search across title, folder, and first prompt; already-imported ones are shown as such so re-opening the dialog is safe. Imported sessions resume on your configured provider and model, not the source tool's. If you have history from any of these tools, onboarding now offers the import as a step</li>
+<li>Runs of a schedule now fold into a single collapsible sidebar row named after the schedule, with its run count, instead of one row per run all carrying the same prompt title. Expanding lists them newest-first as "Run N" with the usual status dot, time, hover card, context menu, and delete; the group holding the active session opens on its own</li>
+<li>Voice input now works on macOS. The app shipped without a microphone usage description or entitlement, so dictation failed silently</li>
+<li>Web search is now on by default</li>
+<li>The marketplace detail panel now opens on click rather than hover, with left-aligned content, a single "Learn more" link, and the selected entry staying open while you filter the list</li>
+<li>When the Hub is older than the app, you are now offered a choice — replace it, with a count of the sessions that would be interrupted, or keep it running — instead of the app quietly working against stale code. Replacing drains the Hub first so in-flight turns finish</li>
+<li>Editing and resending a message now works on sessions with no checkpoint history, such as imported ones, instead of failing with "No checkpoint found at or before run N"</li>
+<li>Fixed tool calling being silently disabled for Dify, SAP AI Core, opencode, and Codex CLI models. Their catalog entries declare no capabilities, and the empty list was read as an authoritative denial that stripped every tool from the request</li>
+<li>Fixed images being dropped from file reads on models whose capability list is empty</li>
+<li>The message the model receives when you reject a tool call now names the tool and reads as your decision rather than an error</li>
+<li>Refreshed the model catalog. Adds eight providers (Bothub, OpenReason, SenseNova (China), TokenRouter, Vancine, Volcengine Ark Coding Plan, above.dev, and klokintegration.se) and changes the resolved default model for 36 providers — most consequentially Anthropic, which now resolves to Claude Fable 5.1 instead of Claude Opus 5, with Amazon Bedrock, Vertex, OpenRouter, Kilo Gateway, DevPass, DigitalOcean, CrossModel, and Eden AI following. If you use a provider without pinning a model, expect a different default</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/desktop-v0.0.21...desktop-v0.0.22"><tt>desktop-v0.0.21...desktop-v0.0.22</tt></a></p>]]></content:encoded>
+    
+    <pubDate>2026-09-02T05:20:48.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[tmpfiles臨時檔案空間：title.txt提供下載並將於59分鐘後失效]]></title>
+    <link>https://github.com/cline/cline/releases/tag/cli-v3.0.61</link>
+    <itunes:title><![CDATA[tmpfiles臨時檔案空間：title.txt提供下載並將於59分鐘後失效]]></itunes:title>
+    <itunes:author><![CDATA[github-actions[bot]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<ul>
+<li>Cline now handles a running Hub that is older than your CLI. Instead of quietly talking to a hub executing stale code, you get a prompt showing how many active sessions a replacement would interrupt, with enter-to-replace or escape-to-keep. The replacement drains the Hub first so in-flight turns finish, and a hub too old or wedged to accept the drain is left alone rather than killed</li>
+<li>Windows binaries are now Authenticode-signed via Azure Trusted Signing, and a launch blocked by application-control policy now prints an actionable error instead of failing bare</li>
+<li>Fixed the CLI dying when an enabled remote (SSE/streamable HTTP) MCP server is unreachable. The connect now has a 10s budget, so an offline server no longer stalls session startup past the Hub's deadline and tears the session down — previously the interactive TUI exited and one-shot runs failed</li>
+<li>Fixed tool calling being silently disabled for Dify, SAP AI Core, opencode, and Codex CLI models. Their catalog entries declare no capabilities, and the empty list was read as an authoritative denial that stripped every tool from the request</li>
+<li>Fixed images being dropped from file reads on models whose capability list is empty</li>
+<li>Langfuse tracing now works in released builds. Detection identified the OpenTelemetry provider by class name, which minification renames, so tracing silently initialized as not-ready in every published binary while working in dev</li>
+<li>Restoring a checkpoint now refuses to run when you have made commits after it, instead of silently knocking them off the branch where only the reflog could recover them. Chat-only restore is unaffected</li>
+<li><code>apply_patch</code> now preserves a file's existing CRLF line endings</li>
+<li>Global rules are now also read from <code>~/Cline/Rules</code>, which is where the VS Code Rules tab writes them on WSL and headless installs</li>
+<li>Signing in to OpenAI Codex (ChatGPT subscription) now fails with a clear "port in use" error when 1455 is occupied, instead of opening a browser to a flow that can never complete</li>
+<li>A transient network failure while refreshing Codex or OpenAI-compatible-account tokens no longer logs you out</li>
+<li>Aborting a session now also cancels the delegated subagents and teammates it spawned, instead of leaving their work running</li>
+<li>Agent-created schedules now live in <code>~/.cline/schedules</code> instead of inheriting whichever chat folder they were created in. Schedules you create with <code>--workspace</code> are unchanged</li>
+<li>Fixed scheduled tasks disappearing after a hub restart</li>
+<li>Fixed markdown flashing as it settled at the end of a streamed response</li>
+<li>The message the model sees when you reject a tool call now names the tool and reads as your decision rather than an error</li>
+<li>Cline provider models now come from the live catalog, so newly published models show up without a CLI update</li>
+<li>Refreshed the model catalog. Adds ten providers (Bothub, OpenReason, SenseNova (China), TokenGo, TokenRouter, Vancine, Volcengine Ark, Volcengine Ark Coding Plan, above.dev, and klokintegration.se) and updates model lists and pricing across providers. This is an unusually wide refresh: the resolved default model changes for 57 providers. Most consequentially, Anthropic now resolves to Claude Fable 5.1 instead of Claude Opus 5, and Amazon Bedrock, Vertex, OpenRouter, Vercel AI Gateway, Kilo Gateway, LLM Gateway, DevPass, DigitalOcean, CrossModel, Eden AI, and NanoGPT follow it to Fable 5.1. If you use any provider without pinning a model, expect a different default</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/cli-v3.0.60...cli-v3.0.61"><tt>cli-v3.0.60...cli-v3.0.61</tt></a></p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<ul>
+<li>Cline now handles a running Hub that is older than your CLI. Instead of quietly talking to a hub executing stale code, you get a prompt showing how many active sessions a replacement would interrupt, with enter-to-replace or escape-to-keep. The replacement drains the Hub first so in-flight turns finish, and a hub too old or wedged to accept the drain is left alone rather than killed</li>
+<li>Windows binaries are now Authenticode-signed via Azure Trusted Signing, and a launch blocked by application-control policy now prints an actionable error instead of failing bare</li>
+<li>Fixed the CLI dying when an enabled remote (SSE/streamable HTTP) MCP server is unreachable. The connect now has a 10s budget, so an offline server no longer stalls session startup past the Hub's deadline and tears the session down — previously the interactive TUI exited and one-shot runs failed</li>
+<li>Fixed tool calling being silently disabled for Dify, SAP AI Core, opencode, and Codex CLI models. Their catalog entries declare no capabilities, and the empty list was read as an authoritative denial that stripped every tool from the request</li>
+<li>Fixed images being dropped from file reads on models whose capability list is empty</li>
+<li>Langfuse tracing now works in released builds. Detection identified the OpenTelemetry provider by class name, which minification renames, so tracing silently initialized as not-ready in every published binary while working in dev</li>
+<li>Restoring a checkpoint now refuses to run when you have made commits after it, instead of silently knocking them off the branch where only the reflog could recover them. Chat-only restore is unaffected</li>
+<li><code>apply_patch</code> now preserves a file's existing CRLF line endings</li>
+<li>Global rules are now also read from <code>~/Cline/Rules</code>, which is where the VS Code Rules tab writes them on WSL and headless installs</li>
+<li>Signing in to OpenAI Codex (ChatGPT subscription) now fails with a clear "port in use" error when 1455 is occupied, instead of opening a browser to a flow that can never complete</li>
+<li>A transient network failure while refreshing Codex or OpenAI-compatible-account tokens no longer logs you out</li>
+<li>Aborting a session now also cancels the delegated subagents and teammates it spawned, instead of leaving their work running</li>
+<li>Agent-created schedules now live in <code>~/.cline/schedules</code> instead of inheriting whichever chat folder they were created in. Schedules you create with <code>--workspace</code> are unchanged</li>
+<li>Fixed scheduled tasks disappearing after a hub restart</li>
+<li>Fixed markdown flashing as it settled at the end of a streamed response</li>
+<li>The message the model sees when you reject a tool call now names the tool and reads as your decision rather than an error</li>
+<li>Cline provider models now come from the live catalog, so newly published models show up without a CLI update</li>
+<li>Refreshed the model catalog. Adds ten providers (Bothub, OpenReason, SenseNova (China), TokenGo, TokenRouter, Vancine, Volcengine Ark, Volcengine Ark Coding Plan, above.dev, and klokintegration.se) and updates model lists and pricing across providers. This is an unusually wide refresh: the resolved default model changes for 57 providers. Most consequentially, Anthropic now resolves to Claude Fable 5.1 instead of Claude Opus 5, and Amazon Bedrock, Vertex, OpenRouter, Vercel AI Gateway, Kilo Gateway, LLM Gateway, DevPass, DigitalOcean, CrossModel, Eden AI, and NanoGPT follow it to Fable 5.1. If you use any provider without pinning a model, expect a different default</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/cli-v3.0.60...cli-v3.0.61"><tt>cli-v3.0.60...cli-v3.0.61</tt></a></p>]]>
+    </description>
+    <content:encoded><![CDATA[<ul>
+<li>Cline now handles a running Hub that is older than your CLI. Instead of quietly talking to a hub executing stale code, you get a prompt showing how many active sessions a replacement would interrupt, with enter-to-replace or escape-to-keep. The replacement drains the Hub first so in-flight turns finish, and a hub too old or wedged to accept the drain is left alone rather than killed</li>
+<li>Windows binaries are now Authenticode-signed via Azure Trusted Signing, and a launch blocked by application-control policy now prints an actionable error instead of failing bare</li>
+<li>Fixed the CLI dying when an enabled remote (SSE/streamable HTTP) MCP server is unreachable. The connect now has a 10s budget, so an offline server no longer stalls session startup past the Hub's deadline and tears the session down — previously the interactive TUI exited and one-shot runs failed</li>
+<li>Fixed tool calling being silently disabled for Dify, SAP AI Core, opencode, and Codex CLI models. Their catalog entries declare no capabilities, and the empty list was read as an authoritative denial that stripped every tool from the request</li>
+<li>Fixed images being dropped from file reads on models whose capability list is empty</li>
+<li>Langfuse tracing now works in released builds. Detection identified the OpenTelemetry provider by class name, which minification renames, so tracing silently initialized as not-ready in every published binary while working in dev</li>
+<li>Restoring a checkpoint now refuses to run when you have made commits after it, instead of silently knocking them off the branch where only the reflog could recover them. Chat-only restore is unaffected</li>
+<li><code>apply_patch</code> now preserves a file's existing CRLF line endings</li>
+<li>Global rules are now also read from <code>~/Cline/Rules</code>, which is where the VS Code Rules tab writes them on WSL and headless installs</li>
+<li>Signing in to OpenAI Codex (ChatGPT subscription) now fails with a clear "port in use" error when 1455 is occupied, instead of opening a browser to a flow that can never complete</li>
+<li>A transient network failure while refreshing Codex or OpenAI-compatible-account tokens no longer logs you out</li>
+<li>Aborting a session now also cancels the delegated subagents and teammates it spawned, instead of leaving their work running</li>
+<li>Agent-created schedules now live in <code>~/.cline/schedules</code> instead of inheriting whichever chat folder they were created in. Schedules you create with <code>--workspace</code> are unchanged</li>
+<li>Fixed scheduled tasks disappearing after a hub restart</li>
+<li>Fixed markdown flashing as it settled at the end of a streamed response</li>
+<li>The message the model sees when you reject a tool call now names the tool and reads as your decision rather than an error</li>
+<li>Cline provider models now come from the live catalog, so newly published models show up without a CLI update</li>
+<li>Refreshed the model catalog. Adds ten providers (Bothub, OpenReason, SenseNova (China), TokenGo, TokenRouter, Vancine, Volcengine Ark, Volcengine Ark Coding Plan, above.dev, and klokintegration.se) and updates model lists and pricing across providers. This is an unusually wide refresh: the resolved default model changes for 57 providers. Most consequentially, Anthropic now resolves to Claude Fable 5.1 instead of Claude Opus 5, and Amazon Bedrock, Vertex, OpenRouter, Vercel AI Gateway, Kilo Gateway, LLM Gateway, DevPass, DigitalOcean, CrossModel, Eden AI, and NanoGPT follow it to Fable 5.1. If you use any provider without pinning a model, expect a different default</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/cli-v3.0.60...cli-v3.0.61"><tt>cli-v3.0.60...cli-v3.0.61</tt></a></p>]]></content:encoded>
+    
+    <pubDate>2026-09-02T04:49:47.000Z</pubDate>
+  </item><item>
     <title><![CDATA[暫存檔案空間tmpfiles提供「title.txt」下載 檔案將於59分鐘後失效]]></title>
     <link>https://github.com/cline/cline/releases/tag/desktop-v0.0.22-beta.1</link>
     <itunes:title><![CDATA[暫存檔案空間tmpfiles提供「title.txt」下載 檔案將於59分鐘後失效]]></itunes:title>
@@ -58,28 +437,5 @@
 <p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/desktop-v0.0.21-beta.2...desktop-v0.0.22-beta.1"><tt>desktop-v0.0.21-beta.2...desktop-v0.0.22-beta.1</tt></a></p>]]></content:encoded>
     
     <pubDate>2026-09-01T22:39:07.000Z</pubDate>
-  </item><item>
-    <title><![CDATA[/tmp/files 臨時檔案託管頁面：提供 title.txt 下載並倒數 59 分鐘過期]]></title>
-    <link>https://github.com/cline/cline/releases/tag/sdk%2Fsdk%2Fv0.0.81</link>
-    <itunes:title><![CDATA[/tmp/files 臨時檔案託管頁面：提供 title.txt 下載並倒數 59 分鐘過期]]></itunes:title>
-    <itunes:author><![CDATA[github-actions[bot]]]></itunes:author>
-    <itunes:summary>
-      <![CDATA[<ul>
-<li>Session snapshot events no longer carry the full conversation transcript. Every <code>session.updated</code> (and <code>session.created</code> / <code>session.detached</code> / <code>run.started</code>) event embedded the session's entire message history, so on a multi-megabyte task each status flip shipped megabytes to every subscriber, flooded the durable event log, and could grow the hub process by one transcript copy per event — reported as a 25 GB <code>cline</code> process on a 16 GB machine. Snapshots are now state-only (status, usage, model, workspace, checkpoint); transcripts are fetched with the <code>session.messages</code> command. Checkpoint-restore replies, which carry messages in their own field, are unaffected</li>
-</ul>
-<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/sdk/sdk/v0.0.80...sdk/sdk/v0.0.81"><tt>sdk/sdk/v0.0.80...sdk/sdk/v0.0.81</tt></a></p>]]>
-    </itunes:summary>
-    <description>
-      <![CDATA[<ul>
-<li>Session snapshot events no longer carry the full conversation transcript. Every <code>session.updated</code> (and <code>session.created</code> / <code>session.detached</code> / <code>run.started</code>) event embedded the session's entire message history, so on a multi-megabyte task each status flip shipped megabytes to every subscriber, flooded the durable event log, and could grow the hub process by one transcript copy per event — reported as a 25 GB <code>cline</code> process on a 16 GB machine. Snapshots are now state-only (status, usage, model, workspace, checkpoint); transcripts are fetched with the <code>session.messages</code> command. Checkpoint-restore replies, which carry messages in their own field, are unaffected</li>
-</ul>
-<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/sdk/sdk/v0.0.80...sdk/sdk/v0.0.81"><tt>sdk/sdk/v0.0.80...sdk/sdk/v0.0.81</tt></a></p>]]>
-    </description>
-    <content:encoded><![CDATA[<ul>
-<li>Session snapshot events no longer carry the full conversation transcript. Every <code>session.updated</code> (and <code>session.created</code> / <code>session.detached</code> / <code>run.started</code>) event embedded the session's entire message history, so on a multi-megabyte task each status flip shipped megabytes to every subscriber, flooded the durable event log, and could grow the hub process by one transcript copy per event — reported as a 25 GB <code>cline</code> process on a 16 GB machine. Snapshots are now state-only (status, usage, model, workspace, checkpoint); transcripts are fetched with the <code>session.messages</code> command. Checkpoint-restore replies, which carry messages in their own field, are unaffected</li>
-</ul>
-<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/sdk/sdk/v0.0.80...sdk/sdk/v0.0.81"><tt>sdk/sdk/v0.0.80...sdk/sdk/v0.0.81</tt></a></p>]]></content:encoded>
-    
-    <pubDate>2026-08-26T09:38:01.000Z</pubDate>
   </item></channel>
 </rss>
