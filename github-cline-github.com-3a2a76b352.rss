@@ -3,7 +3,7 @@
     <title><![CDATA[cline Release [GH][RSS+]]]></title>
     <link>https://github.com/cline/cline/releases.atom</link>
     <image>
-      <url>https://fastly.picsum.photos/id/74/800/800.jpg?hmac=Yutsm46dgDawaiRdN9msXB--hf1oPGE3wr96b_aSdY0</url>
+      <url>https://fastly.picsum.photos/id/49/800/800.jpg?hmac=rAzFhjqrfdnRPLR5_nFV49tMbvavk1xvsaEngwbDUfc</url>
       <title>cline Release [GH][RSS+]</title>
       <link>https://github.com/cline/cline/releases.atom</link>
     </image>
@@ -28,8 +28,37 @@
     <itunes:owner>
       <itunes:name><![CDATA[cline Release [GH][RSS+]]]></itunes:name>
     </itunes:owner>
-    <itunes:image href="https://fastly.picsum.photos/id/74/800/800.jpg?hmac=Yutsm46dgDawaiRdN9msXB--hf1oPGE3wr96b_aSdY0"/>
+    <itunes:image href="https://fastly.picsum.photos/id/49/800/800.jpg?hmac=rAzFhjqrfdnRPLR5_nFV49tMbvavk1xvsaEngwbDUfc"/>
 <item>
+    <title><![CDATA[暫存檔案空間tmpfiles提供「title.txt」下載 檔案將於59分鐘後失效]]></title>
+    <link>https://github.com/cline/cline/releases/tag/desktop-v0.0.22-beta.1</link>
+    <itunes:title><![CDATA[暫存檔案空間tmpfiles提供「title.txt」下載 檔案將於59分鐘後失效]]></itunes:title>
+    <itunes:author><![CDATA[github-actions[bot]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<ul>
+<li>Beta: Composio connectors now register tools directly in the packaged desktop runtime for eligible internal accounts, with safer OAuth revocation and more resilient connect, disconnect, and reconciliation behavior.</li>
+<li>Web search is enabled by default for new desktop sessions.</li>
+<li>Includes all stable desktop improvements through 0.0.21, including the two-pane Marketplace explorer, reliable cancellation of child agents and teammates, full-composer attachment drops, live Cline model catalog refreshes, and clearer provider authentication errors.</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/desktop-v0.0.21-beta.2...desktop-v0.0.22-beta.1"><tt>desktop-v0.0.21-beta.2...desktop-v0.0.22-beta.1</tt></a></p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<ul>
+<li>Beta: Composio connectors now register tools directly in the packaged desktop runtime for eligible internal accounts, with safer OAuth revocation and more resilient connect, disconnect, and reconciliation behavior.</li>
+<li>Web search is enabled by default for new desktop sessions.</li>
+<li>Includes all stable desktop improvements through 0.0.21, including the two-pane Marketplace explorer, reliable cancellation of child agents and teammates, full-composer attachment drops, live Cline model catalog refreshes, and clearer provider authentication errors.</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/desktop-v0.0.21-beta.2...desktop-v0.0.22-beta.1"><tt>desktop-v0.0.21-beta.2...desktop-v0.0.22-beta.1</tt></a></p>]]>
+    </description>
+    <content:encoded><![CDATA[<ul>
+<li>Beta: Composio connectors now register tools directly in the packaged desktop runtime for eligible internal accounts, with safer OAuth revocation and more resilient connect, disconnect, and reconciliation behavior.</li>
+<li>Web search is enabled by default for new desktop sessions.</li>
+<li>Includes all stable desktop improvements through 0.0.21, including the two-pane Marketplace explorer, reliable cancellation of child agents and teammates, full-composer attachment drops, live Cline model catalog refreshes, and clearer provider authentication errors.</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/desktop-v0.0.21-beta.2...desktop-v0.0.22-beta.1"><tt>desktop-v0.0.21-beta.2...desktop-v0.0.22-beta.1</tt></a></p>]]></content:encoded>
+    
+    <pubDate>2026-09-01T22:39:07.000Z</pubDate>
+  </item><item>
     <title><![CDATA[/tmp/files 臨時檔案託管頁面：提供 title.txt 下載並倒數 59 分鐘過期]]></title>
     <link>https://github.com/cline/cline/releases/tag/sdk%2Fsdk%2Fv0.0.81</link>
     <itunes:title><![CDATA[/tmp/files 臨時檔案託管頁面：提供 title.txt 下載並倒數 59 分鐘過期]]></itunes:title>
