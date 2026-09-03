@@ -3,7 +3,7 @@
     <title><![CDATA[cline Release [GH][RSS+]]]></title>
     <link>https://github.com/cline/cline/releases.atom</link>
     <image>
-      <url>https://fastly.picsum.photos/id/629/800/800.jpg?hmac=ZafDt5K02lbSxzCFZRGB7D-ZhIVjlDNU6yp9s2JX43g</url>
+      <url>https://fastly.picsum.photos/id/454/800/800.jpg?hmac=kJqkKBZ_Wivpv5y1uRYrjrQxtzgsH9eVuKtHFkfpgTg</url>
       <title>cline Release [GH][RSS+]</title>
       <link>https://github.com/cline/cline/releases.atom</link>
     </image>
@@ -28,8 +28,46 @@
     <itunes:owner>
       <itunes:name><![CDATA[cline Release [GH][RSS+]]]></itunes:name>
     </itunes:owner>
-    <itunes:image href="https://fastly.picsum.photos/id/629/800/800.jpg?hmac=ZafDt5K02lbSxzCFZRGB7D-ZhIVjlDNU6yp9s2JX43g"/>
+    <itunes:image href="https://fastly.picsum.photos/id/454/800/800.jpg?hmac=kJqkKBZ_Wivpv5y1uRYrjrQxtzgsH9eVuKtHFkfpgTg"/>
 <item>
+    <title><![CDATA[tmpfiles臨時託管平臺提供title.txt下載　檔案將在59分鐘後失效過期]]></title>
+    <link>https://github.com/cline/cline/releases/tag/desktop-v0.0.23</link>
+    <itunes:title><![CDATA[tmpfiles臨時託管平臺提供title.txt下載　檔案將在59分鐘後失效過期]]></itunes:title>
+    <itunes:author><![CDATA[github-actions[bot]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<ul>
+<li>Agent Plugins are now discovered and run by the shared Hub. Packages under <code>~/.agents/plugins</code> are validated from their <code>plugin.json</code>, their valid Agent Skills become available to the agent, and their stdio / Streamable HTTP / SSE MCP servers start automatically. Settings → Customize lists Agent Plugins separately from Cline Plugins, with each plugin's description, badge, and contributed tools, and enable/disable is Hub-managed per plugin. Workspace <code>.agents/plugins</code> directories are intentionally ignored</li>
+<li>The "Cline Hub was updated" dialog no longer appears on every launch and reconnect. The app no longer prompts about a Hub running the same core version it does — a desktop and CLI release cut from different commits bundle the same core but never share a build fingerprint, so anyone with both installed got a dialog whose "Update and restart" looped on "no app update available". The build-mismatch dialog now also waits until an app update is actually staged, and "Later" sticks across session switches, reloads, and relaunches instead of resurfacing every time. A Hub the app genuinely cannot talk to still warns every time</li>
+<li>Signing in now shows the device confirmation code in the app while you wait on the browser, so you can match it against the code the browser asks you to confirm — in onboarding, Account settings, and the provider list</li>
+<li>Voice input failures caused by provider setup — missing credentials, transcription config — now take you straight to voice settings instead of a toast you cannot act on. Genuine microphone permission failures still toast, with a clearer message</li>
+<li>Fixed the scheduled-task report vanishing when a finished run's step collapsed</li>
+<li>Fixed one wedged MCP server blocking the rest from shutting down, leaking their processes</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/desktop-v0.0.22...desktop-v0.0.23"><tt>desktop-v0.0.22...desktop-v0.0.23</tt></a></p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<ul>
+<li>Agent Plugins are now discovered and run by the shared Hub. Packages under <code>~/.agents/plugins</code> are validated from their <code>plugin.json</code>, their valid Agent Skills become available to the agent, and their stdio / Streamable HTTP / SSE MCP servers start automatically. Settings → Customize lists Agent Plugins separately from Cline Plugins, with each plugin's description, badge, and contributed tools, and enable/disable is Hub-managed per plugin. Workspace <code>.agents/plugins</code> directories are intentionally ignored</li>
+<li>The "Cline Hub was updated" dialog no longer appears on every launch and reconnect. The app no longer prompts about a Hub running the same core version it does — a desktop and CLI release cut from different commits bundle the same core but never share a build fingerprint, so anyone with both installed got a dialog whose "Update and restart" looped on "no app update available". The build-mismatch dialog now also waits until an app update is actually staged, and "Later" sticks across session switches, reloads, and relaunches instead of resurfacing every time. A Hub the app genuinely cannot talk to still warns every time</li>
+<li>Signing in now shows the device confirmation code in the app while you wait on the browser, so you can match it against the code the browser asks you to confirm — in onboarding, Account settings, and the provider list</li>
+<li>Voice input failures caused by provider setup — missing credentials, transcription config — now take you straight to voice settings instead of a toast you cannot act on. Genuine microphone permission failures still toast, with a clearer message</li>
+<li>Fixed the scheduled-task report vanishing when a finished run's step collapsed</li>
+<li>Fixed one wedged MCP server blocking the rest from shutting down, leaking their processes</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/desktop-v0.0.22...desktop-v0.0.23"><tt>desktop-v0.0.22...desktop-v0.0.23</tt></a></p>]]>
+    </description>
+    <content:encoded><![CDATA[<ul>
+<li>Agent Plugins are now discovered and run by the shared Hub. Packages under <code>~/.agents/plugins</code> are validated from their <code>plugin.json</code>, their valid Agent Skills become available to the agent, and their stdio / Streamable HTTP / SSE MCP servers start automatically. Settings → Customize lists Agent Plugins separately from Cline Plugins, with each plugin's description, badge, and contributed tools, and enable/disable is Hub-managed per plugin. Workspace <code>.agents/plugins</code> directories are intentionally ignored</li>
+<li>The "Cline Hub was updated" dialog no longer appears on every launch and reconnect. The app no longer prompts about a Hub running the same core version it does — a desktop and CLI release cut from different commits bundle the same core but never share a build fingerprint, so anyone with both installed got a dialog whose "Update and restart" looped on "no app update available". The build-mismatch dialog now also waits until an app update is actually staged, and "Later" sticks across session switches, reloads, and relaunches instead of resurfacing every time. A Hub the app genuinely cannot talk to still warns every time</li>
+<li>Signing in now shows the device confirmation code in the app while you wait on the browser, so you can match it against the code the browser asks you to confirm — in onboarding, Account settings, and the provider list</li>
+<li>Voice input failures caused by provider setup — missing credentials, transcription config — now take you straight to voice settings instead of a toast you cannot act on. Genuine microphone permission failures still toast, with a clearer message</li>
+<li>Fixed the scheduled-task report vanishing when a finished run's step collapsed</li>
+<li>Fixed one wedged MCP server blocking the rest from shutting down, leaking their processes</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/desktop-v0.0.22...desktop-v0.0.23"><tt>desktop-v0.0.22...desktop-v0.0.23</tt></a></p>]]></content:encoded>
+    
+    <pubDate>2026-09-03T18:33:16.000Z</pubDate>
+  </item><item>
     <title><![CDATA[tmpfiles暫存檔案分享：title.txt（4.21 KB）開放下載 59分鐘後過期]]></title>
     <link>https://github.com/cline/cline/releases/tag/v4.1.17</link>
     <itunes:title><![CDATA[tmpfiles暫存檔案分享：title.txt（4.21 KB）開放下載 59分鐘後過期]]></itunes:title>
@@ -408,34 +446,5 @@
 <p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/cli-v3.0.60...cli-v3.0.61"><tt>cli-v3.0.60...cli-v3.0.61</tt></a></p>]]></content:encoded>
     
     <pubDate>2026-09-02T04:49:47.000Z</pubDate>
-  </item><item>
-    <title><![CDATA[暫存檔案空間tmpfiles提供「title.txt」下載 檔案將於59分鐘後失效]]></title>
-    <link>https://github.com/cline/cline/releases/tag/desktop-v0.0.22-beta.1</link>
-    <itunes:title><![CDATA[暫存檔案空間tmpfiles提供「title.txt」下載 檔案將於59分鐘後失效]]></itunes:title>
-    <itunes:author><![CDATA[github-actions[bot]]]></itunes:author>
-    <itunes:summary>
-      <![CDATA[<ul>
-<li>Beta: Composio connectors now register tools directly in the packaged desktop runtime for eligible internal accounts, with safer OAuth revocation and more resilient connect, disconnect, and reconciliation behavior.</li>
-<li>Web search is enabled by default for new desktop sessions.</li>
-<li>Includes all stable desktop improvements through 0.0.21, including the two-pane Marketplace explorer, reliable cancellation of child agents and teammates, full-composer attachment drops, live Cline model catalog refreshes, and clearer provider authentication errors.</li>
-</ul>
-<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/desktop-v0.0.21-beta.2...desktop-v0.0.22-beta.1"><tt>desktop-v0.0.21-beta.2...desktop-v0.0.22-beta.1</tt></a></p>]]>
-    </itunes:summary>
-    <description>
-      <![CDATA[<ul>
-<li>Beta: Composio connectors now register tools directly in the packaged desktop runtime for eligible internal accounts, with safer OAuth revocation and more resilient connect, disconnect, and reconciliation behavior.</li>
-<li>Web search is enabled by default for new desktop sessions.</li>
-<li>Includes all stable desktop improvements through 0.0.21, including the two-pane Marketplace explorer, reliable cancellation of child agents and teammates, full-composer attachment drops, live Cline model catalog refreshes, and clearer provider authentication errors.</li>
-</ul>
-<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/desktop-v0.0.21-beta.2...desktop-v0.0.22-beta.1"><tt>desktop-v0.0.21-beta.2...desktop-v0.0.22-beta.1</tt></a></p>]]>
-    </description>
-    <content:encoded><![CDATA[<ul>
-<li>Beta: Composio connectors now register tools directly in the packaged desktop runtime for eligible internal accounts, with safer OAuth revocation and more resilient connect, disconnect, and reconciliation behavior.</li>
-<li>Web search is enabled by default for new desktop sessions.</li>
-<li>Includes all stable desktop improvements through 0.0.21, including the two-pane Marketplace explorer, reliable cancellation of child agents and teammates, full-composer attachment drops, live Cline model catalog refreshes, and clearer provider authentication errors.</li>
-</ul>
-<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/desktop-v0.0.21-beta.2...desktop-v0.0.22-beta.1"><tt>desktop-v0.0.21-beta.2...desktop-v0.0.22-beta.1</tt></a></p>]]></content:encoded>
-    
-    <pubDate>2026-09-01T22:39:07.000Z</pubDate>
   </item></channel>
 </rss>
