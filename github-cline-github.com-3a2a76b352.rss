@@ -3,7 +3,7 @@
     <title><![CDATA[cline Release [GH][RSS+]]]></title>
     <link>https://github.com/cline/cline/releases.atom</link>
     <image>
-      <url>https://fastly.picsum.photos/id/613/800/800.jpg?hmac=6YZtia61m_f9MDd7hsCDRtC_RJK8w4ZrwCmw06XBAjs</url>
+      <url>https://fastly.picsum.photos/id/420/800/800.jpg?hmac=hqjmVvz_goX0JzSlTZTRihej23T4yaOjTp1Hk6Hz5sQ</url>
       <title>cline Release [GH][RSS+]</title>
       <link>https://github.com/cline/cline/releases.atom</link>
     </image>
@@ -28,8 +28,82 @@
     <itunes:owner>
       <itunes:name><![CDATA[cline Release [GH][RSS+]]]></itunes:name>
     </itunes:owner>
-    <itunes:image href="https://fastly.picsum.photos/id/613/800/800.jpg?hmac=6YZtia61m_f9MDd7hsCDRtC_RJK8w4ZrwCmw06XBAjs"/>
+    <itunes:image href="https://fastly.picsum.photos/id/420/800/800.jpg?hmac=hqjmVvz_goX0JzSlTZTRihej23T4yaOjTp1Hk6Hz5sQ"/>
 <item>
+    <title><![CDATA[tmpfiles暫存檔案託管：title.txt（5.92KB）開放下載 59分鐘後失效]]></title>
+    <link>https://github.com/cline/cline/releases/tag/desktop-v0.0.26</link>
+    <itunes:title><![CDATA[tmpfiles暫存檔案託管：title.txt（5.92KB）開放下載 59分鐘後失效]]></itunes:title>
+    <itunes:author><![CDATA[github-actions[bot]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<ul>
+<li>The composer now shows the current branch's GitHub pull request — PR number, merge status, changed-line totals, and CI checks. Click through to open it in your browser, or expand CI to inspect individual checks and their logs; status refreshes every 30 seconds while visible, on window focus, and on demand. If the branch has no PR, <strong>Create PR</strong> opens GitHub's comparison form. Requires the GitHub CLI (<code>gh</code>) installed and signed in, plus a GitHub.com <code>origin</code> remote; the row hides itself on the default branch, detached HEAD, and unsupported repositories. Cline does not push commits or submit the PR for you</li>
+<li>The Customize view's Tools, Skills, and Rules tabs now read as one consistent list instead of three different ones, matching the pattern Plugins already used. Tools gets a search bar that filters both sections and per-section Enable all/Disable all that only touches what's visible; Skills gets an in-place enable/disable toggle — previously the desktop app had no concept of a disabled skill, so disabled ones were hidden and unreachable — and the same Copy path / Uninstall menu Plugins use. Tabs are reordered to Tools, Plugins, Skills, Rules, MCP, Hooks and open on Tools, and the sidebar's "New Task" button is now "New Session"</li>
+<li>Deleting a queued prompt no longer leaves it in the transcript as a message that never ran. The sidecar inferred a queued prompt had started whenever the pending list shrank and its head changed — which is exactly what deleting the first queued prompt (or discarding the queue) looks like. It now relies only on the runtime's real start event</li>
+<li>A session forked from a checkpoint restore no longer comes back stuck on "Thinking...". Sessions that materialize with seeded history never passed their status when persisting, so the row and manifest were written as "running" while the live session was idle; resuming from that manifest then showed a session that was never going to finish</li>
+<li>Sending an image with no text no longer fails with "session input requires a prompt string" — the composer asks for a message instead of letting the request through to a backend that rejects it</li>
+<li>Image attachments in formats the model pipeline can't read (HEIC, TIFF, SVG, BMP, ICO, and friends) are now rejected at attach time — by picker, paste, or drag-and-drop — instead of failing later in the turn. Files whose type has to be inferred from the extension are classified the same way</li>
+<li>Signing out of ChatGPT (Codex) now sticks. Sign-out removes the provider entry, but the runtime re-imports any missing provider from the classic extension's stored credentials on every command, so the next action signed you straight back in. The legacy Codex credentials are now cleared too, and a failed clear reports the sign-out as failed instead of quietly succeeding</li>
+<li>Auth failures on providers that log in through a local CLI — Claude Code, Codex CLI, OpenCode — now point you at that CLI instead of Settings → Models, where there is nothing to fix. "OAuth session expired", "Not logged in · Please run /login", and similar messages are also recognized as credential failures now, so they get a hint at all</li>
+<li>Model lists now refresh from the live catalog for every provider that uses the shared catalog, not just Cline and Cline Pass. Providers with their own endpoint-owned model lists are unaffected, and the first providers listing is still network-free</li>
+<li>Cline Pass and free models now report zero cost instead of the upstream provider's price</li>
+<li>Session history rows no longer overlap their own hover metadata when a label is wider than the fixed label column</li>
+<li>Scheduled sessions no longer stall out. The poller could stop advancing, and capacity waits were counted as run attempts, so a schedule could burn through its retries without ever running. Execution lifecycle and capacity claims are now fenced atomically. New recurring schedules also default to your local timezone instead of UTC; existing schedules without a timezone keep it that way when edited</li>
+<li>Automation event acceptance is now atomic and retryable, so an event can't be half-accepted and lost if delivery fails mid-way</li>
+<li>Nested PowerShell commands no longer flood errors and look like a hang. Commands run through an outer PowerShell bootstrap, so a nested <code>powershell -Command "... $_ ..."</code> had <code>$_</code> interpolated away by the outer parser before the inner shell saw it — a <code>Where-Object { $_.Name ... }</code> pipeline then errored once per item over a large tree while still exiting 0. Redundant nested invocations are now unwrapped and run directly, only when that provably preserves semantics (same PowerShell edition, no profile loading, fully quoted command). Cline is also told which edition it's actually on — Windows PowerShell vs. Microsoft PowerShell — and to stop wrapping commands in a shell it's already running in</li>
+<li>Prompt telemetry to Cline's tracing backend is now limited to Cline and Cline Pass requests. Turns run against your own provider keys are not traced</li>
+<li>Cline Pass now appears in the composer's provider picker alongside Cline. One Cline sign-in configures both — Cline Pass stores its credentials under the Cline account rather than having its own — but the picker only listed providers with their own saved settings entry, and onboarding writes just the Cline one. A new Cline Pass user therefore saw a single row</li>
+<li>The composer's provider picker has a <strong>Set up another provider</strong> row at the bottom that opens Settings → Models. The picker only lists what you have already configured, so there was no way to reach the rest of the catalog from the composer</li>
+<li>Dropped the "Configured" checkmark from the composer's provider picker (added in 0.0.25). Every row in that picker has a saved settings entry, so for anyone who set their providers up in the app every row carried the same green check and it read as decoration. Settings is still where provider readiness is shown, and it distinguishes a real credential from an entry a legacy migration left behind</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/desktop-v0.0.25...desktop-v0.0.26"><tt>desktop-v0.0.25...desktop-v0.0.26</tt></a></p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<ul>
+<li>The composer now shows the current branch's GitHub pull request — PR number, merge status, changed-line totals, and CI checks. Click through to open it in your browser, or expand CI to inspect individual checks and their logs; status refreshes every 30 seconds while visible, on window focus, and on demand. If the branch has no PR, <strong>Create PR</strong> opens GitHub's comparison form. Requires the GitHub CLI (<code>gh</code>) installed and signed in, plus a GitHub.com <code>origin</code> remote; the row hides itself on the default branch, detached HEAD, and unsupported repositories. Cline does not push commits or submit the PR for you</li>
+<li>The Customize view's Tools, Skills, and Rules tabs now read as one consistent list instead of three different ones, matching the pattern Plugins already used. Tools gets a search bar that filters both sections and per-section Enable all/Disable all that only touches what's visible; Skills gets an in-place enable/disable toggle — previously the desktop app had no concept of a disabled skill, so disabled ones were hidden and unreachable — and the same Copy path / Uninstall menu Plugins use. Tabs are reordered to Tools, Plugins, Skills, Rules, MCP, Hooks and open on Tools, and the sidebar's "New Task" button is now "New Session"</li>
+<li>Deleting a queued prompt no longer leaves it in the transcript as a message that never ran. The sidecar inferred a queued prompt had started whenever the pending list shrank and its head changed — which is exactly what deleting the first queued prompt (or discarding the queue) looks like. It now relies only on the runtime's real start event</li>
+<li>A session forked from a checkpoint restore no longer comes back stuck on "Thinking...". Sessions that materialize with seeded history never passed their status when persisting, so the row and manifest were written as "running" while the live session was idle; resuming from that manifest then showed a session that was never going to finish</li>
+<li>Sending an image with no text no longer fails with "session input requires a prompt string" — the composer asks for a message instead of letting the request through to a backend that rejects it</li>
+<li>Image attachments in formats the model pipeline can't read (HEIC, TIFF, SVG, BMP, ICO, and friends) are now rejected at attach time — by picker, paste, or drag-and-drop — instead of failing later in the turn. Files whose type has to be inferred from the extension are classified the same way</li>
+<li>Signing out of ChatGPT (Codex) now sticks. Sign-out removes the provider entry, but the runtime re-imports any missing provider from the classic extension's stored credentials on every command, so the next action signed you straight back in. The legacy Codex credentials are now cleared too, and a failed clear reports the sign-out as failed instead of quietly succeeding</li>
+<li>Auth failures on providers that log in through a local CLI — Claude Code, Codex CLI, OpenCode — now point you at that CLI instead of Settings → Models, where there is nothing to fix. "OAuth session expired", "Not logged in · Please run /login", and similar messages are also recognized as credential failures now, so they get a hint at all</li>
+<li>Model lists now refresh from the live catalog for every provider that uses the shared catalog, not just Cline and Cline Pass. Providers with their own endpoint-owned model lists are unaffected, and the first providers listing is still network-free</li>
+<li>Cline Pass and free models now report zero cost instead of the upstream provider's price</li>
+<li>Session history rows no longer overlap their own hover metadata when a label is wider than the fixed label column</li>
+<li>Scheduled sessions no longer stall out. The poller could stop advancing, and capacity waits were counted as run attempts, so a schedule could burn through its retries without ever running. Execution lifecycle and capacity claims are now fenced atomically. New recurring schedules also default to your local timezone instead of UTC; existing schedules without a timezone keep it that way when edited</li>
+<li>Automation event acceptance is now atomic and retryable, so an event can't be half-accepted and lost if delivery fails mid-way</li>
+<li>Nested PowerShell commands no longer flood errors and look like a hang. Commands run through an outer PowerShell bootstrap, so a nested <code>powershell -Command "... $_ ..."</code> had <code>$_</code> interpolated away by the outer parser before the inner shell saw it — a <code>Where-Object { $_.Name ... }</code> pipeline then errored once per item over a large tree while still exiting 0. Redundant nested invocations are now unwrapped and run directly, only when that provably preserves semantics (same PowerShell edition, no profile loading, fully quoted command). Cline is also told which edition it's actually on — Windows PowerShell vs. Microsoft PowerShell — and to stop wrapping commands in a shell it's already running in</li>
+<li>Prompt telemetry to Cline's tracing backend is now limited to Cline and Cline Pass requests. Turns run against your own provider keys are not traced</li>
+<li>Cline Pass now appears in the composer's provider picker alongside Cline. One Cline sign-in configures both — Cline Pass stores its credentials under the Cline account rather than having its own — but the picker only listed providers with their own saved settings entry, and onboarding writes just the Cline one. A new Cline Pass user therefore saw a single row</li>
+<li>The composer's provider picker has a <strong>Set up another provider</strong> row at the bottom that opens Settings → Models. The picker only lists what you have already configured, so there was no way to reach the rest of the catalog from the composer</li>
+<li>Dropped the "Configured" checkmark from the composer's provider picker (added in 0.0.25). Every row in that picker has a saved settings entry, so for anyone who set their providers up in the app every row carried the same green check and it read as decoration. Settings is still where provider readiness is shown, and it distinguishes a real credential from an entry a legacy migration left behind</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/desktop-v0.0.25...desktop-v0.0.26"><tt>desktop-v0.0.25...desktop-v0.0.26</tt></a></p>]]>
+    </description>
+    <content:encoded><![CDATA[<ul>
+<li>The composer now shows the current branch's GitHub pull request — PR number, merge status, changed-line totals, and CI checks. Click through to open it in your browser, or expand CI to inspect individual checks and their logs; status refreshes every 30 seconds while visible, on window focus, and on demand. If the branch has no PR, <strong>Create PR</strong> opens GitHub's comparison form. Requires the GitHub CLI (<code>gh</code>) installed and signed in, plus a GitHub.com <code>origin</code> remote; the row hides itself on the default branch, detached HEAD, and unsupported repositories. Cline does not push commits or submit the PR for you</li>
+<li>The Customize view's Tools, Skills, and Rules tabs now read as one consistent list instead of three different ones, matching the pattern Plugins already used. Tools gets a search bar that filters both sections and per-section Enable all/Disable all that only touches what's visible; Skills gets an in-place enable/disable toggle — previously the desktop app had no concept of a disabled skill, so disabled ones were hidden and unreachable — and the same Copy path / Uninstall menu Plugins use. Tabs are reordered to Tools, Plugins, Skills, Rules, MCP, Hooks and open on Tools, and the sidebar's "New Task" button is now "New Session"</li>
+<li>Deleting a queued prompt no longer leaves it in the transcript as a message that never ran. The sidecar inferred a queued prompt had started whenever the pending list shrank and its head changed — which is exactly what deleting the first queued prompt (or discarding the queue) looks like. It now relies only on the runtime's real start event</li>
+<li>A session forked from a checkpoint restore no longer comes back stuck on "Thinking...". Sessions that materialize with seeded history never passed their status when persisting, so the row and manifest were written as "running" while the live session was idle; resuming from that manifest then showed a session that was never going to finish</li>
+<li>Sending an image with no text no longer fails with "session input requires a prompt string" — the composer asks for a message instead of letting the request through to a backend that rejects it</li>
+<li>Image attachments in formats the model pipeline can't read (HEIC, TIFF, SVG, BMP, ICO, and friends) are now rejected at attach time — by picker, paste, or drag-and-drop — instead of failing later in the turn. Files whose type has to be inferred from the extension are classified the same way</li>
+<li>Signing out of ChatGPT (Codex) now sticks. Sign-out removes the provider entry, but the runtime re-imports any missing provider from the classic extension's stored credentials on every command, so the next action signed you straight back in. The legacy Codex credentials are now cleared too, and a failed clear reports the sign-out as failed instead of quietly succeeding</li>
+<li>Auth failures on providers that log in through a local CLI — Claude Code, Codex CLI, OpenCode — now point you at that CLI instead of Settings → Models, where there is nothing to fix. "OAuth session expired", "Not logged in · Please run /login", and similar messages are also recognized as credential failures now, so they get a hint at all</li>
+<li>Model lists now refresh from the live catalog for every provider that uses the shared catalog, not just Cline and Cline Pass. Providers with their own endpoint-owned model lists are unaffected, and the first providers listing is still network-free</li>
+<li>Cline Pass and free models now report zero cost instead of the upstream provider's price</li>
+<li>Session history rows no longer overlap their own hover metadata when a label is wider than the fixed label column</li>
+<li>Scheduled sessions no longer stall out. The poller could stop advancing, and capacity waits were counted as run attempts, so a schedule could burn through its retries without ever running. Execution lifecycle and capacity claims are now fenced atomically. New recurring schedules also default to your local timezone instead of UTC; existing schedules without a timezone keep it that way when edited</li>
+<li>Automation event acceptance is now atomic and retryable, so an event can't be half-accepted and lost if delivery fails mid-way</li>
+<li>Nested PowerShell commands no longer flood errors and look like a hang. Commands run through an outer PowerShell bootstrap, so a nested <code>powershell -Command "... $_ ..."</code> had <code>$_</code> interpolated away by the outer parser before the inner shell saw it — a <code>Where-Object { $_.Name ... }</code> pipeline then errored once per item over a large tree while still exiting 0. Redundant nested invocations are now unwrapped and run directly, only when that provably preserves semantics (same PowerShell edition, no profile loading, fully quoted command). Cline is also told which edition it's actually on — Windows PowerShell vs. Microsoft PowerShell — and to stop wrapping commands in a shell it's already running in</li>
+<li>Prompt telemetry to Cline's tracing backend is now limited to Cline and Cline Pass requests. Turns run against your own provider keys are not traced</li>
+<li>Cline Pass now appears in the composer's provider picker alongside Cline. One Cline sign-in configures both — Cline Pass stores its credentials under the Cline account rather than having its own — but the picker only listed providers with their own saved settings entry, and onboarding writes just the Cline one. A new Cline Pass user therefore saw a single row</li>
+<li>The composer's provider picker has a <strong>Set up another provider</strong> row at the bottom that opens Settings → Models. The picker only lists what you have already configured, so there was no way to reach the rest of the catalog from the composer</li>
+<li>Dropped the "Configured" checkmark from the composer's provider picker (added in 0.0.25). Every row in that picker has a saved settings entry, so for anyone who set their providers up in the app every row carried the same green check and it read as decoration. Settings is still where provider readiness is shown, and it distinguishes a real credential from an entry a legacy migration left behind</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/desktop-v0.0.25...desktop-v0.0.26"><tt>desktop-v0.0.25...desktop-v0.0.26</tt></a></p>]]></content:encoded>
+    
+    <pubDate>2026-09-11T07:46:46.000Z</pubDate>
+  </item><item>
     <title><![CDATA[tmpfiles臨時檔案託管：title.txt開放下載且將於59分鐘後失效]]></title>
     <link>https://github.com/cline/cline/releases/tag/desktop-v0.0.25</link>
     <itunes:title><![CDATA[tmpfiles臨時檔案託管：title.txt開放下載且將於59分鐘後失效]]></itunes:title>
@@ -358,19 +432,5 @@
     <content:encoded><![CDATA[<p>@cline/core@0.0.82</p>]]></content:encoded>
     
     <pubDate>2026-09-02T04:40:02.000Z</pubDate>
-  </item><item>
-    <title><![CDATA[tmpfiles暫存檔案分享頁面：title.txt提供下載，59分鐘後失效過期]]></title>
-    <link>https://github.com/cline/cline/releases/tag/sdk%2Fagents%2Fv0.0.82</link>
-    <itunes:title><![CDATA[tmpfiles暫存檔案分享頁面：title.txt提供下載，59分鐘後失效過期]]></itunes:title>
-    <itunes:author><![CDATA[github-actions[bot]]]></itunes:author>
-    <itunes:summary>
-      <![CDATA[<p>@cline/agents@0.0.82</p>]]>
-    </itunes:summary>
-    <description>
-      <![CDATA[<p>@cline/agents@0.0.82</p>]]>
-    </description>
-    <content:encoded><![CDATA[<p>@cline/agents@0.0.82</p>]]></content:encoded>
-    
-    <pubDate>2026-09-02T04:40:00.000Z</pubDate>
   </item></channel>
 </rss>
