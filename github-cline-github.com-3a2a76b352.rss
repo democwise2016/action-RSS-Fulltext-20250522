@@ -3,7 +3,7 @@
     <title><![CDATA[cline Release [GH][RSS+]]]></title>
     <link>https://github.com/cline/cline/releases.atom</link>
     <image>
-      <url>https://fastly.picsum.photos/id/530/800/800.jpg?hmac=4Y0guzyql8hlsm7b7O9KKEa9XPG0I9uqcZznpVa4t0Y</url>
+      <url>https://fastly.picsum.photos/id/216/800/800.jpg?hmac=yLRbmFm65SVWEbWlG14o0L5tM-YgLT4Fg1n7D3J2UuQ</url>
       <title>cline Release [GH][RSS+]</title>
       <link>https://github.com/cline/cline/releases.atom</link>
     </image>
@@ -28,21 +28,30 @@
     <itunes:owner>
       <itunes:name><![CDATA[cline Release [GH][RSS+]]]></itunes:name>
     </itunes:owner>
-    <itunes:image href="https://fastly.picsum.photos/id/530/800/800.jpg?hmac=4Y0guzyql8hlsm7b7O9KKEa9XPG0I9uqcZznpVa4t0Y"/>
+    <itunes:image href="https://fastly.picsum.photos/id/216/800/800.jpg?hmac=yLRbmFm65SVWEbWlG14o0L5tM-YgLT4Fg1n7D3J2UuQ"/>
 <item>
-    <title><![CDATA[tmpfiles 臨時檔案分享：title.txt 開放下載，將於 59 分鐘後過期失效]]></title>
+    <title><![CDATA[tmpfiles暫存檔案代管頁面：title.txt開放下載 倒數59分鐘後失效]]></title>
     <link>https://github.com/cline/cline/releases/tag/desktop-v0.0.32</link>
-    <itunes:title><![CDATA[tmpfiles 臨時檔案分享：title.txt 開放下載，將於 59 分鐘後過期失效]]></itunes:title>
-    <itunes:author><![CDATA[saoudrizwan]]></itunes:author>
+    <itunes:title><![CDATA[tmpfiles暫存檔案代管頁面：title.txt開放下載 倒數59分鐘後失效]]></itunes:title>
+    <itunes:author><![CDATA[github-actions[bot]]]></itunes:author>
     <itunes:summary>
-      <![CDATA[<p>Desktop v0.0.32</p>]]>
+      <![CDATA[<ul>
+<li>Cline starts again after updating. In 0.0.31 the app could fail at launch with "desktop backend exited before publishing its endpoint" and never reach the workspace picker. Cline runs its own copy of the Cline Hub in the background, and the two halves had been built from different copies of the same code — so the Hub announced one build identity while the app expected another, the app shut down the very Hub it had just started, and startup timed out reporting "No compatible hub runtime is available". Both halves now load the same copy of that code, and the real compiled backend is now booted end-to-end in CI on every change so the two cannot drift apart again</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/desktop-v0.0.31...desktop-v0.0.32"><tt>desktop-v0.0.31...desktop-v0.0.32</tt></a></p>]]>
     </itunes:summary>
     <description>
-      <![CDATA[<p>Desktop v0.0.32</p>]]>
+      <![CDATA[<ul>
+<li>Cline starts again after updating. In 0.0.31 the app could fail at launch with "desktop backend exited before publishing its endpoint" and never reach the workspace picker. Cline runs its own copy of the Cline Hub in the background, and the two halves had been built from different copies of the same code — so the Hub announced one build identity while the app expected another, the app shut down the very Hub it had just started, and startup timed out reporting "No compatible hub runtime is available". Both halves now load the same copy of that code, and the real compiled backend is now booted end-to-end in CI on every change so the two cannot drift apart again</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/desktop-v0.0.31...desktop-v0.0.32"><tt>desktop-v0.0.31...desktop-v0.0.32</tt></a></p>]]>
     </description>
-    <content:encoded><![CDATA[<p>Desktop v0.0.32</p>]]></content:encoded>
+    <content:encoded><![CDATA[<ul>
+<li>Cline starts again after updating. In 0.0.31 the app could fail at launch with "desktop backend exited before publishing its endpoint" and never reach the workspace picker. Cline runs its own copy of the Cline Hub in the background, and the two halves had been built from different copies of the same code — so the Hub announced one build identity while the app expected another, the app shut down the very Hub it had just started, and startup timed out reporting "No compatible hub runtime is available". Both halves now load the same copy of that code, and the real compiled backend is now booted end-to-end in CI on every change so the two cannot drift apart again</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/desktop-v0.0.31...desktop-v0.0.32"><tt>desktop-v0.0.31...desktop-v0.0.32</tt></a></p>]]></content:encoded>
     
-    <pubDate>2026-09-18T01:15:43.000Z</pubDate>
+    <pubDate>2026-09-18T01:43:09.000Z</pubDate>
   </item><item>
     <title><![CDATA[/tmp/files臨時檔案託管頁面：title.txt開放下載且將於59分鐘後失效]]></title>
     <link>https://github.com/cline/cline/releases/tag/v4.1.19</link>
