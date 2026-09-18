@@ -3,7 +3,7 @@
     <title><![CDATA[cline Release [GH][RSS+]]]></title>
     <link>https://github.com/cline/cline/releases.atom</link>
     <image>
-      <url>https://fastly.picsum.photos/id/321/800/800.jpg?hmac=uWHLm1NkKdWNmGxGC7UbYqAO4EbvSrX8FAfijy_er5A</url>
+      <url>https://fastly.picsum.photos/id/530/800/800.jpg?hmac=4Y0guzyql8hlsm7b7O9KKEa9XPG0I9uqcZznpVa4t0Y</url>
       <title>cline Release [GH][RSS+]</title>
       <link>https://github.com/cline/cline/releases.atom</link>
     </image>
@@ -28,8 +28,22 @@
     <itunes:owner>
       <itunes:name><![CDATA[cline Release [GH][RSS+]]]></itunes:name>
     </itunes:owner>
-    <itunes:image href="https://fastly.picsum.photos/id/321/800/800.jpg?hmac=uWHLm1NkKdWNmGxGC7UbYqAO4EbvSrX8FAfijy_er5A"/>
+    <itunes:image href="https://fastly.picsum.photos/id/530/800/800.jpg?hmac=4Y0guzyql8hlsm7b7O9KKEa9XPG0I9uqcZznpVa4t0Y"/>
 <item>
+    <title><![CDATA[tmpfiles 臨時檔案分享：title.txt 開放下載，將於 59 分鐘後過期失效]]></title>
+    <link>https://github.com/cline/cline/releases/tag/desktop-v0.0.32</link>
+    <itunes:title><![CDATA[tmpfiles 臨時檔案分享：title.txt 開放下載，將於 59 分鐘後過期失效]]></itunes:title>
+    <itunes:author><![CDATA[saoudrizwan]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>Desktop v0.0.32</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>Desktop v0.0.32</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>Desktop v0.0.32</p>]]></content:encoded>
+    
+    <pubDate>2026-09-18T01:15:43.000Z</pubDate>
+  </item><item>
     <title><![CDATA[/tmp/files臨時檔案託管頁面：title.txt開放下載且將於59分鐘後失效]]></title>
     <link>https://github.com/cline/cline/releases/tag/v4.1.19</link>
     <itunes:title><![CDATA[/tmp/files臨時檔案託管頁面：title.txt開放下載且將於59分鐘後失效]]></itunes:title>
@@ -160,6 +174,32 @@
 <p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/v4.1.18...v4.1.19"><tt>v4.1.18...v4.1.19</tt></a></p>]]></content:encoded>
     
     <pubDate>2026-09-17T07:51:58.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[tmpfiles臨時檔案託管：檔案「title.txt」開放下載且於59分鐘後失效]]></title>
+    <link>https://github.com/cline/cline/releases/tag/desktop-v0.0.31</link>
+    <itunes:title><![CDATA[tmpfiles臨時檔案託管：檔案「title.txt」開放下載且於59分鐘後失效]]></itunes:title>
+    <itunes:author><![CDATA[github-actions[bot]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<ul>
+<li>Cline can now work on a remote machine over SSH, with the app itself staying local. Add and test a host under <strong>Settings → Remote</strong>, then pick it from the environment selector beside the workspace picker on the welcome screen — saving or testing a profile does not activate it. The connection opens at the remote user's home directory; <strong>Add project…</strong> in the workspace picker browses that machine for a project, and <strong>Local</strong> disconnects. Agent tools, workspace discovery, Git metadata, and session persistence all run on the host while approvals and live session events return to the desktop, because only the authenticated Cline Hub protocol is forwarded through the tunnel. SSH config aliases work: leave <strong>Port</strong> blank to use the alias's own configuration, or enter one to override it. Recent and last-used workspaces are remembered separately per host. Host metadata lives at <code>~/.cline/data/settings/remote-environments.json</code> (mode <code>0600</code>) and records an identity-file path, never private-key contents; the host key must already be trusted by your SSH client, and unknown or changed keys are rejected. On first connect Cline uploads a self-contained helper to <code>~/.cline/remote/</code> — no <code>apt</code>, <code>npm</code>, root access, global CLI install, or public port — and caches it for faster reconnects, leaving any existing Cline CLI hub on that account running. Linux x64 and arm64 hosts are supported (32-bit Raspberry Pi operating systems are not; macOS hosts need a locally built helper via <code>CLINE_REMOTE_HELPER_BINARY</code>). File attachments and opening a remote file in a local editor are not available in remote sessions yet — text, images, file mentions and search, Git branch operations, session history, and remote agent tools are</li>
+<li>Sub-agents spawned in the same step now run at the same time instead of one after another, so delegating three independent pieces of work takes as long as the slowest one rather than the sum of all three. Tools that must run in order still do, and only back-to-back parallel calls overlap</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/desktop-v0.0.30...desktop-v0.0.31"><tt>desktop-v0.0.30...desktop-v0.0.31</tt></a></p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<ul>
+<li>Cline can now work on a remote machine over SSH, with the app itself staying local. Add and test a host under <strong>Settings → Remote</strong>, then pick it from the environment selector beside the workspace picker on the welcome screen — saving or testing a profile does not activate it. The connection opens at the remote user's home directory; <strong>Add project…</strong> in the workspace picker browses that machine for a project, and <strong>Local</strong> disconnects. Agent tools, workspace discovery, Git metadata, and session persistence all run on the host while approvals and live session events return to the desktop, because only the authenticated Cline Hub protocol is forwarded through the tunnel. SSH config aliases work: leave <strong>Port</strong> blank to use the alias's own configuration, or enter one to override it. Recent and last-used workspaces are remembered separately per host. Host metadata lives at <code>~/.cline/data/settings/remote-environments.json</code> (mode <code>0600</code>) and records an identity-file path, never private-key contents; the host key must already be trusted by your SSH client, and unknown or changed keys are rejected. On first connect Cline uploads a self-contained helper to <code>~/.cline/remote/</code> — no <code>apt</code>, <code>npm</code>, root access, global CLI install, or public port — and caches it for faster reconnects, leaving any existing Cline CLI hub on that account running. Linux x64 and arm64 hosts are supported (32-bit Raspberry Pi operating systems are not; macOS hosts need a locally built helper via <code>CLINE_REMOTE_HELPER_BINARY</code>). File attachments and opening a remote file in a local editor are not available in remote sessions yet — text, images, file mentions and search, Git branch operations, session history, and remote agent tools are</li>
+<li>Sub-agents spawned in the same step now run at the same time instead of one after another, so delegating three independent pieces of work takes as long as the slowest one rather than the sum of all three. Tools that must run in order still do, and only back-to-back parallel calls overlap</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/desktop-v0.0.30...desktop-v0.0.31"><tt>desktop-v0.0.30...desktop-v0.0.31</tt></a></p>]]>
+    </description>
+    <content:encoded><![CDATA[<ul>
+<li>Cline can now work on a remote machine over SSH, with the app itself staying local. Add and test a host under <strong>Settings → Remote</strong>, then pick it from the environment selector beside the workspace picker on the welcome screen — saving or testing a profile does not activate it. The connection opens at the remote user's home directory; <strong>Add project…</strong> in the workspace picker browses that machine for a project, and <strong>Local</strong> disconnects. Agent tools, workspace discovery, Git metadata, and session persistence all run on the host while approvals and live session events return to the desktop, because only the authenticated Cline Hub protocol is forwarded through the tunnel. SSH config aliases work: leave <strong>Port</strong> blank to use the alias's own configuration, or enter one to override it. Recent and last-used workspaces are remembered separately per host. Host metadata lives at <code>~/.cline/data/settings/remote-environments.json</code> (mode <code>0600</code>) and records an identity-file path, never private-key contents; the host key must already be trusted by your SSH client, and unknown or changed keys are rejected. On first connect Cline uploads a self-contained helper to <code>~/.cline/remote/</code> — no <code>apt</code>, <code>npm</code>, root access, global CLI install, or public port — and caches it for faster reconnects, leaving any existing Cline CLI hub on that account running. Linux x64 and arm64 hosts are supported (32-bit Raspberry Pi operating systems are not; macOS hosts need a locally built helper via <code>CLINE_REMOTE_HELPER_BINARY</code>). File attachments and opening a remote file in a local editor are not available in remote sessions yet — text, images, file mentions and search, Git branch operations, session history, and remote agent tools are</li>
+<li>Sub-agents spawned in the same step now run at the same time instead of one after another, so delegating three independent pieces of work takes as long as the slowest one rather than the sum of all three. Tools that must run in order still do, and only back-to-back parallel calls overlap</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/desktop-v0.0.30...desktop-v0.0.31"><tt>desktop-v0.0.30...desktop-v0.0.31</tt></a></p>]]></content:encoded>
+    
+    <pubDate>2026-09-17T22:08:55.000Z</pubDate>
   </item><item>
     <title><![CDATA[/tmp/files臨時檔案託管：title.txt檔案提供下載 59分鐘後過期失效]]></title>
     <link>https://github.com/cline/cline/releases/tag/desktop-v0.0.30</link>
