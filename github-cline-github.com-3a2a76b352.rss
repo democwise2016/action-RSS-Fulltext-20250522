@@ -3,7 +3,7 @@
     <title><![CDATA[cline Release [GH][RSS+]]]></title>
     <link>https://github.com/cline/cline/releases.atom</link>
     <image>
-      <url>https://fastly.picsum.photos/id/16/800/800.jpg?hmac=ffLO8oPXECVbAa4FALBtuhSWzX5688S9Cq6C2D2yFUI</url>
+      <url>https://fastly.picsum.photos/id/702/800/800.jpg?hmac=I3zFzdBlDPMNZCcLdhkhcOmpV1rGpMXY557ilz9JA9Y</url>
       <title>cline Release [GH][RSS+]</title>
       <link>https://github.com/cline/cline/releases.atom</link>
     </image>
@@ -28,8 +28,76 @@
     <itunes:owner>
       <itunes:name><![CDATA[cline Release [GH][RSS+]]]></itunes:name>
     </itunes:owner>
-    <itunes:image href="https://fastly.picsum.photos/id/16/800/800.jpg?hmac=ffLO8oPXECVbAa4FALBtuhSWzX5688S9Cq6C2D2yFUI"/>
+    <itunes:image href="https://fastly.picsum.photos/id/702/800/800.jpg?hmac=I3zFzdBlDPMNZCcLdhkhcOmpV1rGpMXY557ilz9JA9Y"/>
 <item>
+    <title><![CDATA[tmpfiles臨時檔案下載頁面：檔案「title.txt」將於59分鐘後失效]]></title>
+    <link>https://github.com/cline/cline/releases/tag/v4.1.20</link>
+    <itunes:title><![CDATA[tmpfiles臨時檔案下載頁面：檔案「title.txt」將於59分鐘後失效]]></itunes:title>
+    <itunes:author><![CDATA[github-actions[bot]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<h3>Changed</h3>
+<ul>
+<li>Sub-agents spawned in the same step now run their tool calls at the same time rather than one after another. Tools that must run in order still do, and the parent still waits for every result before its next turn.</li>
+<li>Models that advertise a large output limit now get a bigger default output budget — 30% of the limit rather than a flat 32,000 tokens, whichever is larger. Nothing changes for models under roughly 107k output tokens; longer responses can mean higher per-turn cost and latency.</li>
+<li>Refreshed the model catalog: 203 to 209 providers and 6,079 to 6,237 models. Kimi For Coding splits into separate kimi.com and kimi.ai providers, and AI21 Labs, ainetcafe, Inco, OCI Generative AI, Tempr, and Vispark are new. The resolved default model changes for 36 providers that do not pin one — most landing on DeepSeek V4.1 Flash, GLM 5.3 Flash, or MiMo V2.6 Flash. If you use one of those providers without pinning a model, expect a different default.</li>
+</ul>
+<h3>Fixed</h3>
+<ul>
+<li>UserPromptSubmit and TaskStart hooks can inject context again. What those hooks returned as <code>contextModification</code> was being dropped — only <code>cancel</code> survived — so a hook meant to add repository facts or house rules to a task silently did nothing. The context is now delivered as a <code>&lt;hook_context&gt;</code> block on the run's first request, the same as before the regression, and the raw block never renders in the transcript. A hook also no longer receives its own previously injected text back as the next turn's prompt.</li>
+<li>Unsent text in the composer survives Retry. Retry sent no composer content but still ran the same cleanup as approval actions, deleting the only copy of anything typed while a request was in flight. Text, quote context, images, and files are now tracked as one draft that only submitting actions consume.</li>
+<li>Output from background commands now streams into the command row while the command runs, instead of appearing only when it finishes.</li>
+<li>The Azure API version configured for a provider is now honored in tasks and mirrored to <code>providers.json</code>.</li>
+<li>Rules are found and shown consistently. The Rules panel listed only <code>.clinerules</code> and the Documents global folder, so rules loaded from <code>.cline/rules</code>, <code>~/.cline/rules</code>, or <code>~/Cline/Rules</code> were applied to the model but missing from the panel — and on Windows with a OneDrive-redirected Documents folder, global rules were not found at all.</li>
+<li>Deleting a task from history now actually removes it. A task whose index entry was missing but whose file on disk survived was reported as deleted and then reappeared on the next refresh.</li>
+<li>Sub-agents you configure yourself no longer ask you to approve their individual tool calls after you have already approved the delegation.</li>
+<li>Compaction no longer silently falls back to truncation partway through a long task. The summarizer kept the credentials captured when the task started, so once they refreshed its request failed with an authorization error that was swallowed; it now follows the task's current credentials and model.</li>
+<li>A model turn that hits its output-token limit before making a tool call no longer ends the task. It is retried up to three times with a reminder to respond concisely and split large work across tool calls.</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/v4.1.19...v4.1.20"><tt>v4.1.19...v4.1.20</tt></a></p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<h3>Changed</h3>
+<ul>
+<li>Sub-agents spawned in the same step now run their tool calls at the same time rather than one after another. Tools that must run in order still do, and the parent still waits for every result before its next turn.</li>
+<li>Models that advertise a large output limit now get a bigger default output budget — 30% of the limit rather than a flat 32,000 tokens, whichever is larger. Nothing changes for models under roughly 107k output tokens; longer responses can mean higher per-turn cost and latency.</li>
+<li>Refreshed the model catalog: 203 to 209 providers and 6,079 to 6,237 models. Kimi For Coding splits into separate kimi.com and kimi.ai providers, and AI21 Labs, ainetcafe, Inco, OCI Generative AI, Tempr, and Vispark are new. The resolved default model changes for 36 providers that do not pin one — most landing on DeepSeek V4.1 Flash, GLM 5.3 Flash, or MiMo V2.6 Flash. If you use one of those providers without pinning a model, expect a different default.</li>
+</ul>
+<h3>Fixed</h3>
+<ul>
+<li>UserPromptSubmit and TaskStart hooks can inject context again. What those hooks returned as <code>contextModification</code> was being dropped — only <code>cancel</code> survived — so a hook meant to add repository facts or house rules to a task silently did nothing. The context is now delivered as a <code>&lt;hook_context&gt;</code> block on the run's first request, the same as before the regression, and the raw block never renders in the transcript. A hook also no longer receives its own previously injected text back as the next turn's prompt.</li>
+<li>Unsent text in the composer survives Retry. Retry sent no composer content but still ran the same cleanup as approval actions, deleting the only copy of anything typed while a request was in flight. Text, quote context, images, and files are now tracked as one draft that only submitting actions consume.</li>
+<li>Output from background commands now streams into the command row while the command runs, instead of appearing only when it finishes.</li>
+<li>The Azure API version configured for a provider is now honored in tasks and mirrored to <code>providers.json</code>.</li>
+<li>Rules are found and shown consistently. The Rules panel listed only <code>.clinerules</code> and the Documents global folder, so rules loaded from <code>.cline/rules</code>, <code>~/.cline/rules</code>, or <code>~/Cline/Rules</code> were applied to the model but missing from the panel — and on Windows with a OneDrive-redirected Documents folder, global rules were not found at all.</li>
+<li>Deleting a task from history now actually removes it. A task whose index entry was missing but whose file on disk survived was reported as deleted and then reappeared on the next refresh.</li>
+<li>Sub-agents you configure yourself no longer ask you to approve their individual tool calls after you have already approved the delegation.</li>
+<li>Compaction no longer silently falls back to truncation partway through a long task. The summarizer kept the credentials captured when the task started, so once they refreshed its request failed with an authorization error that was swallowed; it now follows the task's current credentials and model.</li>
+<li>A model turn that hits its output-token limit before making a tool call no longer ends the task. It is retried up to three times with a reminder to respond concisely and split large work across tool calls.</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/v4.1.19...v4.1.20"><tt>v4.1.19...v4.1.20</tt></a></p>]]>
+    </description>
+    <content:encoded><![CDATA[<h3>Changed</h3>
+<ul>
+<li>Sub-agents spawned in the same step now run their tool calls at the same time rather than one after another. Tools that must run in order still do, and the parent still waits for every result before its next turn.</li>
+<li>Models that advertise a large output limit now get a bigger default output budget — 30% of the limit rather than a flat 32,000 tokens, whichever is larger. Nothing changes for models under roughly 107k output tokens; longer responses can mean higher per-turn cost and latency.</li>
+<li>Refreshed the model catalog: 203 to 209 providers and 6,079 to 6,237 models. Kimi For Coding splits into separate kimi.com and kimi.ai providers, and AI21 Labs, ainetcafe, Inco, OCI Generative AI, Tempr, and Vispark are new. The resolved default model changes for 36 providers that do not pin one — most landing on DeepSeek V4.1 Flash, GLM 5.3 Flash, or MiMo V2.6 Flash. If you use one of those providers without pinning a model, expect a different default.</li>
+</ul>
+<h3>Fixed</h3>
+<ul>
+<li>UserPromptSubmit and TaskStart hooks can inject context again. What those hooks returned as <code>contextModification</code> was being dropped — only <code>cancel</code> survived — so a hook meant to add repository facts or house rules to a task silently did nothing. The context is now delivered as a <code>&lt;hook_context&gt;</code> block on the run's first request, the same as before the regression, and the raw block never renders in the transcript. A hook also no longer receives its own previously injected text back as the next turn's prompt.</li>
+<li>Unsent text in the composer survives Retry. Retry sent no composer content but still ran the same cleanup as approval actions, deleting the only copy of anything typed while a request was in flight. Text, quote context, images, and files are now tracked as one draft that only submitting actions consume.</li>
+<li>Output from background commands now streams into the command row while the command runs, instead of appearing only when it finishes.</li>
+<li>The Azure API version configured for a provider is now honored in tasks and mirrored to <code>providers.json</code>.</li>
+<li>Rules are found and shown consistently. The Rules panel listed only <code>.clinerules</code> and the Documents global folder, so rules loaded from <code>.cline/rules</code>, <code>~/.cline/rules</code>, or <code>~/Cline/Rules</code> were applied to the model but missing from the panel — and on Windows with a OneDrive-redirected Documents folder, global rules were not found at all.</li>
+<li>Deleting a task from history now actually removes it. A task whose index entry was missing but whose file on disk survived was reported as deleted and then reappeared on the next refresh.</li>
+<li>Sub-agents you configure yourself no longer ask you to approve their individual tool calls after you have already approved the delegation.</li>
+<li>Compaction no longer silently falls back to truncation partway through a long task. The summarizer kept the credentials captured when the task started, so once they refreshed its request failed with an authorization error that was swallowed; it now follows the task's current credentials and model.</li>
+<li>A model turn that hits its output-token limit before making a tool call no longer ends the task. It is retried up to three times with a reminder to respond concisely and split large work across tool calls.</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/v4.1.19...v4.1.20"><tt>v4.1.19...v4.1.20</tt></a></p>]]></content:encoded>
+    
+    <pubDate>2026-09-22T20:45:19.000Z</pubDate>
+  </item><item>
     <title><![CDATA[tmpfiles暫存檔案託管平台：檔案「title.txt」限時59分鐘下載頁面]]></title>
     <link>https://github.com/cline/cline/releases/tag/sdk%2Fshared%2Fv0.0.85</link>
     <itunes:title><![CDATA[tmpfiles暫存檔案託管平台：檔案「title.txt」限時59分鐘下載頁面]]></itunes:title>
@@ -202,19 +270,5 @@
     <content:encoded><![CDATA[<p>@cline/core@0.0.84</p>]]></content:encoded>
     
     <pubDate>2026-09-22T03:26:08.000Z</pubDate>
-  </item><item>
-    <title><![CDATA[/tmp/files臨時檔案託管頁面：title.txt開放下載且將於59分鐘後失效]]></title>
-    <link>https://github.com/cline/cline/releases/tag/sdk%2Fagents%2Fv0.0.84</link>
-    <itunes:title><![CDATA[/tmp/files臨時檔案託管頁面：title.txt開放下載且將於59分鐘後失效]]></itunes:title>
-    <itunes:author><![CDATA[github-actions[bot]]]></itunes:author>
-    <itunes:summary>
-      <![CDATA[<p>@cline/agents@0.0.84</p>]]>
-    </itunes:summary>
-    <description>
-      <![CDATA[<p>@cline/agents@0.0.84</p>]]>
-    </description>
-    <content:encoded><![CDATA[<p>@cline/agents@0.0.84</p>]]></content:encoded>
-    
-    <pubDate>2026-09-22T03:26:06.000Z</pubDate>
   </item></channel>
 </rss>
