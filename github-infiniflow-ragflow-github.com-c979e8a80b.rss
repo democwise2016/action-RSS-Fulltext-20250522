@@ -3,7 +3,7 @@
     <title><![CDATA[RagFlow Release [GH][RSS+]]]></title>
     <link>https://github.com/infiniflow/ragflow/releases.atom</link>
     <image>
-      <url>https://fastly.picsum.photos/id/1057/800/800.jpg?hmac=aH1_BQREWF3B5_HePAuU7nUrpx4k7vXxR9jn82OXV2M</url>
+      <url>https://fastly.picsum.photos/id/129/800/800.jpg?hmac=YYWHqUi5Oz3wleC7Lk3Sa5y_aCQzS4pLH396WxSKFUI</url>
       <title>RagFlow Release [GH][RSS+]</title>
       <link>https://github.com/infiniflow/ragflow/releases.atom</link>
     </image>
@@ -28,21 +28,21 @@
     <itunes:owner>
       <itunes:name><![CDATA[RagFlow Release [GH][RSS+]]]></itunes:name>
     </itunes:owner>
-    <itunes:image href="https://fastly.picsum.photos/id/1057/800/800.jpg?hmac=aH1_BQREWF3B5_HePAuU7nUrpx4k7vXxR9jn82OXV2M"/>
+    <itunes:image href="https://fastly.picsum.photos/id/129/800/800.jpg?hmac=YYWHqUi5Oz3wleC7Lk3Sa5y_aCQzS4pLH396WxSKFUI"/>
 <item>
-    <title><![CDATA[/tmp/files 臨時檔案分享頁面：title.txt 開放下載且將於 59 分鐘後過期]]></title>
+    <title><![CDATA[tmpfiles 臨時檔案託管：檔案 title.txt 開放下載並將於 59 分鐘後過期]]></title>
     <link>https://github.com/infiniflow/ragflow/releases/tag/nightly</link>
-    <itunes:title><![CDATA[/tmp/files 臨時檔案分享頁面：title.txt 開放下載且將於 59 分鐘後過期]]></itunes:title>
+    <itunes:title><![CDATA[tmpfiles 臨時檔案託管：檔案 title.txt 開放下載並將於 59 分鐘後過期]]></itunes:title>
     <itunes:author><![CDATA[yuzhichang]]></itunes:author>
     <itunes:summary>
-      <![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/11146f4a1fa9db9eb8951742f5272e8505f460fb/hovercard" href="https://github.com/infiniflow/ragflow/commit/11146f4a1fa9db9eb8951742f5272e8505f460fb"><tt>11146f4</tt></a> at 2026-09-23 21:22:52+08:00</p>]]>
+      <![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/313ca90f6abd7682fe8523e16fd67b3653a3fa84/hovercard" href="https://github.com/infiniflow/ragflow/commit/313ca90f6abd7682fe8523e16fd67b3653a3fa84"><tt>313ca90</tt></a> at 2026-09-24 21:23:25+08:00</p>]]>
     </itunes:summary>
     <description>
-      <![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/11146f4a1fa9db9eb8951742f5272e8505f460fb/hovercard" href="https://github.com/infiniflow/ragflow/commit/11146f4a1fa9db9eb8951742f5272e8505f460fb"><tt>11146f4</tt></a> at 2026-09-23 21:22:52+08:00</p>]]>
+      <![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/313ca90f6abd7682fe8523e16fd67b3653a3fa84/hovercard" href="https://github.com/infiniflow/ragflow/commit/313ca90f6abd7682fe8523e16fd67b3653a3fa84"><tt>313ca90</tt></a> at 2026-09-24 21:23:25+08:00</p>]]>
     </description>
-    <content:encoded><![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/11146f4a1fa9db9eb8951742f5272e8505f460fb/hovercard" href="https://github.com/infiniflow/ragflow/commit/11146f4a1fa9db9eb8951742f5272e8505f460fb"><tt>11146f4</tt></a> at 2026-09-23 21:22:52+08:00</p>]]></content:encoded>
+    <content:encoded><![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/313ca90f6abd7682fe8523e16fd67b3653a3fa84/hovercard" href="https://github.com/infiniflow/ragflow/commit/313ca90f6abd7682fe8523e16fd67b3653a3fa84"><tt>313ca90</tt></a> at 2026-09-24 21:23:25+08:00</p>]]></content:encoded>
     
-    <pubDate>2026-09-23T13:22:58.000Z</pubDate>
+    <pubDate>2026-09-24T13:23:32.000Z</pubDate>
   </item><item>
     <title><![CDATA[/tmp/files暫存檔案託管：title.txt下載頁面與59分鐘過期倒數]]></title>
     <link>https://github.com/infiniflow/ragflow/releases/tag/dev-20260918</link>

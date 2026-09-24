@@ -3,7 +3,7 @@
     <title><![CDATA[cline Release [GH][RSS+]]]></title>
     <link>https://github.com/cline/cline/releases.atom</link>
     <image>
-      <url>https://fastly.picsum.photos/id/302/800/800.jpg?hmac=4BgFx1mxEuqhY1MOcl3I_Szp6PwDKINsnXEPS8p6UFk</url>
+      <url>https://fastly.picsum.photos/id/640/800/800.jpg?hmac=5QyyvPx17ZEkWXyWKERk1jG1PlXhmwwU-HD61qPenlk</url>
       <title>cline Release [GH][RSS+]</title>
       <link>https://github.com/cline/cline/releases.atom</link>
     </image>
@@ -28,7 +28,7 @@
     <itunes:owner>
       <itunes:name><![CDATA[cline Release [GH][RSS+]]]></itunes:name>
     </itunes:owner>
-    <itunes:image href="https://fastly.picsum.photos/id/302/800/800.jpg?hmac=4BgFx1mxEuqhY1MOcl3I_Szp6PwDKINsnXEPS8p6UFk"/>
+    <itunes:image href="https://fastly.picsum.photos/id/640/800/800.jpg?hmac=5QyyvPx17ZEkWXyWKERk1jG1PlXhmwwU-HD61qPenlk"/>
 <item>
     <title><![CDATA[tmpfiles臨時檔案下載頁面：檔案「title.txt」將於59分鐘後失效]]></title>
     <link>https://github.com/cline/cline/releases/tag/v4.1.20</link>
@@ -111,19 +111,5 @@
     <content:encoded><![CDATA[<p>@cline/shared@0.0.85</p>]]></content:encoded>
     
     <pubDate>2026-09-22T08:13:38.000Z</pubDate>
-  </item><item>
-    <title><![CDATA[tmpfiles臨時檔案分享：title.txt開放下載並於59分鐘後過期失效]]></title>
-    <link>https://github.com/cline/cline/releases/tag/sdk%2Fshared%2Fv0.0.84</link>
-    <itunes:title><![CDATA[tmpfiles臨時檔案分享：title.txt開放下載並於59分鐘後過期失效]]></itunes:title>
-    <itunes:author><![CDATA[github-actions[bot]]]></itunes:author>
-    <itunes:summary>
-      <![CDATA[<p>@cline/shared@0.0.84</p>]]>
-    </itunes:summary>
-    <description>
-      <![CDATA[<p>@cline/shared@0.0.84</p>]]>
-    </description>
-    <content:encoded><![CDATA[<p>@cline/shared@0.0.84</p>]]></content:encoded>
-    
-    <pubDate>2026-09-22T03:26:00.000Z</pubDate>
   </item></channel>
 </rss>
