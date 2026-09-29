@@ -1,0 +1,65 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
+  <channel>
+    <title><![CDATA[cline Release [GH][RSS+]]]></title>
+    <link>https://github.com/cline/cline/releases.atom</link>
+    <image>
+      <url>https://fastly.picsum.photos/id/109/800/800.jpg?hmac=WKoRQonRrUQq201vBvoDNcnapqC5LFMcTjsIo5qMsKE</url>
+      <title>cline Release [GH][RSS+]</title>
+      <link>https://github.com/cline/cline/releases.atom</link>
+    </image>
+    <language>en-us</language>
+    <atom:link href="https://github.com/cline/cline/releases.atom" rel="self" type="application/rss+xml"/>
+    <copyright><![CDATA[cline Release [GH][RSS+]]]></copyright>
+    <itunes:author><![CDATA[cline Release [GH][RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[
+      <a href="https://github.com/cline/cline/releases" target="_blank">https://github.com/cline/cline/releases</a><br />
+<br />
+<a href="https://github.com/cline/cline/releases.atom" target="_blank">https://github.com/cline/cline/releases.atom</a>
+      ]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[
+      <a href="https://github.com/cline/cline/releases" target="_blank">https://github.com/cline/cline/releases</a><br />
+<br />
+<a href="https://github.com/cline/cline/releases.atom" target="_blank">https://github.com/cline/cline/releases.atom</a>
+      ]]>
+    </description>
+    <itunes:owner>
+      <itunes:name><![CDATA[cline Release [GH][RSS+]]]></itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://fastly.picsum.photos/id/109/800/800.jpg?hmac=WKoRQonRrUQq201vBvoDNcnapqC5LFMcTjsIo5qMsKE"/>
+<item>
+    <title><![CDATA[tmpfiles暫存檔案下載頁面：title.txt將於59分鐘後過期失效]]></title>
+    <link>https://github.com/cline/cline/releases/tag/desktop-v0.0.37</link>
+    <itunes:title><![CDATA[tmpfiles暫存檔案下載頁面：title.txt將於59分鐘後過期失效]]></itunes:title>
+    <itunes:author><![CDATA[github-actions[bot]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<ul>
+<li>Settings has a new <strong>About</strong> page. It shows your version and channel, has <strong>Check for updates</strong> and <strong>Restart to update</strong> buttons, and lists the release notes for recent versions with links to each GitHub release and the full changelog. <strong>Report an issue</strong> is there too</li>
+<li>After an update, a one-time <strong>What's new</strong> dialog now catches you up on recent features. The first one covers SSH remotes, worktrees, pull request status in the composer, and parallel sub-agents. To see it again, use <strong>Highlights</strong> on the About page</li>
+<li>On macOS, <strong>Help → Export Diagnostics…</strong> now opens the diagnostics export directly, so you don't have to find it in Settings</li>
+<li>On Amazon Bedrock, OpenAI models reached through inference profiles (<code>us.openai.…</code>, <code>global.openai.…</code>) no longer fail with "Unknown parameter: 'reasoningConfig'" when reasoning effort is set</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/desktop-v0.0.36...desktop-v0.0.37"><tt>desktop-v0.0.36...desktop-v0.0.37</tt></a></p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<ul>
+<li>Settings has a new <strong>About</strong> page. It shows your version and channel, has <strong>Check for updates</strong> and <strong>Restart to update</strong> buttons, and lists the release notes for recent versions with links to each GitHub release and the full changelog. <strong>Report an issue</strong> is there too</li>
+<li>After an update, a one-time <strong>What's new</strong> dialog now catches you up on recent features. The first one covers SSH remotes, worktrees, pull request status in the composer, and parallel sub-agents. To see it again, use <strong>Highlights</strong> on the About page</li>
+<li>On macOS, <strong>Help → Export Diagnostics…</strong> now opens the diagnostics export directly, so you don't have to find it in Settings</li>
+<li>On Amazon Bedrock, OpenAI models reached through inference profiles (<code>us.openai.…</code>, <code>global.openai.…</code>) no longer fail with "Unknown parameter: 'reasoningConfig'" when reasoning effort is set</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/desktop-v0.0.36...desktop-v0.0.37"><tt>desktop-v0.0.36...desktop-v0.0.37</tt></a></p>]]>
+    </description>
+    <content:encoded><![CDATA[<ul>
+<li>Settings has a new <strong>About</strong> page. It shows your version and channel, has <strong>Check for updates</strong> and <strong>Restart to update</strong> buttons, and lists the release notes for recent versions with links to each GitHub release and the full changelog. <strong>Report an issue</strong> is there too</li>
+<li>After an update, a one-time <strong>What's new</strong> dialog now catches you up on recent features. The first one covers SSH remotes, worktrees, pull request status in the composer, and parallel sub-agents. To see it again, use <strong>Highlights</strong> on the About page</li>
+<li>On macOS, <strong>Help → Export Diagnostics…</strong> now opens the diagnostics export directly, so you don't have to find it in Settings</li>
+<li>On Amazon Bedrock, OpenAI models reached through inference profiles (<code>us.openai.…</code>, <code>global.openai.…</code>) no longer fail with "Unknown parameter: 'reasoningConfig'" when reasoning effort is set</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/desktop-v0.0.36...desktop-v0.0.37"><tt>desktop-v0.0.36...desktop-v0.0.37</tt></a></p>]]></content:encoded>
+    
+    <pubDate>2026-09-26T02:28:03.000Z</pubDate>
+  </item></channel>
+</rss>

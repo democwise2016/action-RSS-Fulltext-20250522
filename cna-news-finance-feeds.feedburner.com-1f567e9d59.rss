@@ -1,0 +1,392 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
+  <channel>
+    <title><![CDATA[中央社 產經證券[RSS+]]]></title>
+    <link>undefined</link>
+    <image>
+      <url>https://imgcdn.cna.com.tw/www/images/cna_info/cnalogo_176x117.jpg</url>
+      <title>中央社 產經證券[RSS+]</title>
+      <link>undefined</link>
+    </image>
+    <language>zh-tw</language>
+    <atom:link href="https://feeds.feedburner.com/rsscna/finance" rel="self" type="application/rss+xml"/>
+    <copyright><![CDATA[中央社 產經證券[RSS+]]]></copyright>
+    <itunes:author><![CDATA[中央社 產經證券[RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[
+      中央社即時新聞 財經新聞<br />
+<br />
+<a href="https://feeds.feedburner.com/rsscna/finance" target="_blank">https://feeds.feedburner.com/rsscna/finance</a>
+      ]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[
+      中央社即時新聞 財經新聞<br />
+<br />
+<a href="https://feeds.feedburner.com/rsscna/finance" target="_blank">https://feeds.feedburner.com/rsscna/finance</a>
+      ]]>
+    </description>
+    <itunes:owner>
+      <itunes:name><![CDATA[中央社 產經證券[RSS+]]]></itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://imgcdn.cna.com.tw/www/images/cna_info/cnalogo_176x117.jpg"/>
+<item>
+    <title><![CDATA[台股開低拚守穩48000點　台積電撐盤漲15元]]></title>
+    <link>https://www.cna.com.tw/news/afe/202609290030.aspx</link>
+    <itunes:title><![CDATA[台股開低拚守穩48000點　台積電撐盤漲15元]]></itunes:title>
+    <itunes:author><![CDATA[中央社 產經證券[RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:2000/1333;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20260824/2000x1333_wmky_7956864661335_202608100048000000.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260824/2000x1333_wmky_7956864661335_202608100048000000.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260824/2000x1333_wmky_7956864661335_202608100048000000.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20260824/2000x1333_wmky_7956864661335_202608100048000000.jpg" fetchpriority="high" alt="台股示意圖。（中央社檔案照片）">
+                      </picture><figcaption class="picinfo">台股示意圖。（中央社檔案照片）</figcaption></figure><p>（中央社記者<a class="author" href="/author/0122/">吳家豪</a>台北29日電）美股4大指數收黑，台股今天開低震盪，早盤一度下跌超過170點，最低至47845.4點，電子類股指數走低0.3%，權值股台積電撐盤，資金轉進塑膠及觀光等傳產族群，指數最高達48045.13點，拚守穩48000點之上。</p><p>晶圓代工廠台積電以平盤2475元開出，早盤最高漲至2490元，上漲15元或0.6%；聯發科挫近3%，最低5130元。跨足高階光通訊的觸控面板廠GIS-KY早盤攻上漲停89.4元。（編輯：楊凱翔）1150929</p><div class="media"><div class="noWidthMedia"><iframe sandbox="allow-scripts allow-same-origin allow-popups" class="lazyload" data-src="https://project.cna.com.tw/data/twse" width="100%" height="460px"></iframe></div></div>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:2000/1333;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20260824/2000x1333_wmky_7956864661335_202608100048000000.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260824/2000x1333_wmky_7956864661335_202608100048000000.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260824/2000x1333_wmky_7956864661335_202608100048000000.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20260824/2000x1333_wmky_7956864661335_202608100048000000.jpg" fetchpriority="high" alt="台股示意圖。（中央社檔案照片）">
+                      </picture><figcaption class="picinfo">台股示意圖。（中央社檔案照片）</figcaption></figure><p>（中央社記者<a class="author" href="/author/0122/">吳家豪</a>台北29日電）美股4大指數收黑，台股今天開低震盪，早盤一度下跌超過170點，最低至47845.4點，電子類股指數走低0.3%，權值股台積電撐盤，資金轉進塑膠及觀光等傳產族群，指數最高達48045.13點，拚守穩48000點之上。</p><p>晶圓代工廠台積電以平盤2475元開出，早盤最高漲至2490元，上漲15元或0.6%；聯發科挫近3%，最低5130元。跨足高階光通訊的觸控面板廠GIS-KY早盤攻上漲停89.4元。（編輯：楊凱翔）1150929</p><div class="media"><div class="noWidthMedia"><iframe sandbox="allow-scripts allow-same-origin allow-popups" class="lazyload" data-src="https://project.cna.com.tw/data/twse" width="100%" height="460px"></iframe></div></div>]]>
+    </description>
+    <content:encoded><![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:2000/1333;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20260824/2000x1333_wmky_7956864661335_202608100048000000.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260824/2000x1333_wmky_7956864661335_202608100048000000.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260824/2000x1333_wmky_7956864661335_202608100048000000.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20260824/2000x1333_wmky_7956864661335_202608100048000000.jpg" fetchpriority="high" alt="台股示意圖。（中央社檔案照片）">
+                      </picture><figcaption class="picinfo">台股示意圖。（中央社檔案照片）</figcaption></figure><p>（中央社記者<a class="author" href="/author/0122/">吳家豪</a>台北29日電）美股4大指數收黑，台股今天開低震盪，早盤一度下跌超過170點，最低至47845.4點，電子類股指數走低0.3%，權值股台積電撐盤，資金轉進塑膠及觀光等傳產族群，指數最高達48045.13點，拚守穩48000點之上。</p><p>晶圓代工廠台積電以平盤2475元開出，早盤最高漲至2490元，上漲15元或0.6%；聯發科挫近3%，最低5130元。跨足高階光通訊的觸控面板廠GIS-KY早盤攻上漲停89.4元。（編輯：楊凱翔）1150929</p><div class="media"><div class="noWidthMedia"><iframe sandbox="allow-scripts allow-same-origin allow-popups" class="lazyload" data-src="https://project.cna.com.tw/data/twse" width="100%" height="460px"></iframe></div></div>]]></content:encoded>
+    
+    <pubDate>Tue, 29 Sep 2026 09:18:25 +0800</pubDate>
+  </item><item>
+    <title><![CDATA[新台幣開盤貶2分　為31.8元]]></title>
+    <link>https://www.cna.com.tw/news/afe/202609290026.aspx</link>
+    <itunes:title><![CDATA[新台幣開盤貶2分　為31.8元]]></itunes:title>
+    <itunes:author><![CDATA[中央社 產經證券[RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>（中央社台北29日電）台北外匯市場新台幣兌美元匯率今天以31.8元開盤，貶2分。1150929</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>（中央社台北29日電）台北外匯市場新台幣兌美元匯率今天以31.8元開盤，貶2分。1150929</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>（中央社台北29日電）台北外匯市場新台幣兌美元匯率今天以31.8元開盤，貶2分。1150929</p>]]></content:encoded>
+    
+    <pubDate>Tue, 29 Sep 2026 09:05:17 +0800</pubDate>
+  </item><item>
+    <title><![CDATA[台股開盤跌150.71點]]></title>
+    <link>https://www.cna.com.tw/news/afe/202609290025.aspx</link>
+    <itunes:title><![CDATA[台股開盤跌150.71點]]></itunes:title>
+    <itunes:author><![CDATA[中央社 產經證券[RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>（中央社台北29日）台北股市今天開盤跌150.71點，加權股價指數為47873.89點，成交金額新台幣136.26億元。1150929</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>（中央社台北29日）台北股市今天開盤跌150.71點，加權股價指數為47873.89點，成交金額新台幣136.26億元。1150929</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>（中央社台北29日）台北股市今天開盤跌150.71點，加權股價指數為47873.89點，成交金額新台幣136.26億元。1150929</p>]]></content:encoded>
+    
+    <pubDate>Tue, 29 Sep 2026 09:02:14 +0800</pubDate>
+  </item><item>
+    <title><![CDATA[美股收黑、美債殖利率升　法人：台股高檔震盪提防波動]]></title>
+    <link>https://www.cna.com.tw/news/afe/202609290019.aspx</link>
+    <itunes:title><![CDATA[美股收黑、美債殖利率升　法人：台股高檔震盪提防波動]]></itunes:title>
+    <itunes:author><![CDATA[中央社 產經證券[RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>（中央社記者<a class="author" href="/author/0122/">吳家豪</a>台北29日電）中東戰事尚未落幕，加上油價與美債殖利率持續走升，壓抑美股表現。投顧法人分析，台股在人工智慧（AI）基本面支撐下，技術面維持強勢，但受國際股債市走弱及近期融資增速過快影響，短線仍須提防行情波動，預期大盤高檔震盪、類股輪動。</p><p>美國10年期公債殖利率升破5.2%、創下2007年7月以來新高，華爾街股市4大指數28日收盤全部下跌。道瓊工業指數下挫347.11點或0.67%，收51481.51點；標準普爾500指數下滑59.72點或0.77%，收7683.69點；那斯達克指數下跌248.34點或0.92%，收26820.38點；費城半導體指數下挫203.69點或1.61%，收12465.24點。</p><p>在中秋連假前，台股24日開低震盪，盤中一度失守5日線，權值股台積電疲軟，聯發科漲近2%，擁題材的ABF載板、銅箔基板（CCL）、散熱等族群強漲，加權指數終場下跌132.69點，收在48024.6點，跌幅0.28%，守住48000點，成交值新台幣7366.23億元。</p><p>三大法人24日合計賣超台股438.73億元，其中自營商買超13.38億元，連續6個交易日買超；投信賣超114.09億元，連3賣；外資及陸資賣超338.02億元，終止連5買。</p><div class="lineAd"><a href="https://lin.ee/tPtHlLQ" target="_blank"><img src="https://imgcdn.cna.com.tw/www/website/img/ad300x223.jpg"></a></div><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>產業訊息部分，摩根大通（J.P. Morgan）由馬特卡（Mislav Matejka）領導的分析師團隊在報告中指出，全球AI相關族群股票近期回檔後，有助改善投資人部位，估值也變得有吸引力，有望帶動市場重新活絡，其中以半導體類股最被看好。</p><p>高科技廠房無塵室及機電空調統包工程廠洋基工程董事長劉士源24日召開法人說明會表示，洋基工程成功搶下美光（Micron）台南超過新台幣200億元工程案，目前在手訂單金額逾553億元，創下歷史新高。（編輯：楊凱翔）1150929</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>（中央社記者<a class="author" href="/author/0122/">吳家豪</a>台北29日電）中東戰事尚未落幕，加上油價與美債殖利率持續走升，壓抑美股表現。投顧法人分析，台股在人工智慧（AI）基本面支撐下，技術面維持強勢，但受國際股債市走弱及近期融資增速過快影響，短線仍須提防行情波動，預期大盤高檔震盪、類股輪動。</p><p>美國10年期公債殖利率升破5.2%、創下2007年7月以來新高，華爾街股市4大指數28日收盤全部下跌。道瓊工業指數下挫347.11點或0.67%，收51481.51點；標準普爾500指數下滑59.72點或0.77%，收7683.69點；那斯達克指數下跌248.34點或0.92%，收26820.38點；費城半導體指數下挫203.69點或1.61%，收12465.24點。</p><p>在中秋連假前，台股24日開低震盪，盤中一度失守5日線，權值股台積電疲軟，聯發科漲近2%，擁題材的ABF載板、銅箔基板（CCL）、散熱等族群強漲，加權指數終場下跌132.69點，收在48024.6點，跌幅0.28%，守住48000點，成交值新台幣7366.23億元。</p><p>三大法人24日合計賣超台股438.73億元，其中自營商買超13.38億元，連續6個交易日買超；投信賣超114.09億元，連3賣；外資及陸資賣超338.02億元，終止連5買。</p><div class="lineAd"><a href="https://lin.ee/tPtHlLQ" target="_blank"><img src="https://imgcdn.cna.com.tw/www/website/img/ad300x223.jpg"></a></div><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>產業訊息部分，摩根大通（J.P. Morgan）由馬特卡（Mislav Matejka）領導的分析師團隊在報告中指出，全球AI相關族群股票近期回檔後，有助改善投資人部位，估值也變得有吸引力，有望帶動市場重新活絡，其中以半導體類股最被看好。</p><p>高科技廠房無塵室及機電空調統包工程廠洋基工程董事長劉士源24日召開法人說明會表示，洋基工程成功搶下美光（Micron）台南超過新台幣200億元工程案，目前在手訂單金額逾553億元，創下歷史新高。（編輯：楊凱翔）1150929</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>（中央社記者<a class="author" href="/author/0122/">吳家豪</a>台北29日電）中東戰事尚未落幕，加上油價與美債殖利率持續走升，壓抑美股表現。投顧法人分析，台股在人工智慧（AI）基本面支撐下，技術面維持強勢，但受國際股債市走弱及近期融資增速過快影響，短線仍須提防行情波動，預期大盤高檔震盪、類股輪動。</p><p>美國10年期公債殖利率升破5.2%、創下2007年7月以來新高，華爾街股市4大指數28日收盤全部下跌。道瓊工業指數下挫347.11點或0.67%，收51481.51點；標準普爾500指數下滑59.72點或0.77%，收7683.69點；那斯達克指數下跌248.34點或0.92%，收26820.38點；費城半導體指數下挫203.69點或1.61%，收12465.24點。</p><p>在中秋連假前，台股24日開低震盪，盤中一度失守5日線，權值股台積電疲軟，聯發科漲近2%，擁題材的ABF載板、銅箔基板（CCL）、散熱等族群強漲，加權指數終場下跌132.69點，收在48024.6點，跌幅0.28%，守住48000點，成交值新台幣7366.23億元。</p><p>三大法人24日合計賣超台股438.73億元，其中自營商買超13.38億元，連續6個交易日買超；投信賣超114.09億元，連3賣；外資及陸資賣超338.02億元，終止連5買。</p><div class="lineAd"><a href="https://lin.ee/tPtHlLQ" target="_blank"><img src="https://imgcdn.cna.com.tw/www/website/img/ad300x223.jpg"></a></div><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>產業訊息部分，摩根大通（J.P. Morgan）由馬特卡（Mislav Matejka）領導的分析師團隊在報告中指出，全球AI相關族群股票近期回檔後，有助改善投資人部位，估值也變得有吸引力，有望帶動市場重新活絡，其中以半導體類股最被看好。</p><p>高科技廠房無塵室及機電空調統包工程廠洋基工程董事長劉士源24日召開法人說明會表示，洋基工程成功搶下美光（Micron）台南超過新台幣200億元工程案，目前在手訂單金額逾553億元，創下歷史新高。（編輯：楊凱翔）1150929</p>]]></content:encoded>
+    
+    <pubDate>Tue, 29 Sep 2026 08:31:01 +0800</pubDate>
+  </item><item>
+    <title><![CDATA[油價居高通膨難解　美債殖利率盤中逼近24年新高]]></title>
+    <link>https://www.cna.com.tw/news/aopl/202609290018.aspx</link>
+    <itunes:title><![CDATA[油價居高通膨難解　美債殖利率盤中逼近24年新高]]></itunes:title>
+    <itunes:author><![CDATA[中央社 產經證券[RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1200/760;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20260921/1200x760_wmky_818641837403_0.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260921/1200x760_wmky_818641837403_0.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260921/1200x760_wmky_818641837403_0.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20260921/1200x760_wmky_818641837403_0.jpg" fetchpriority="high" alt="中東戰局未解，油價居高不下，美債殖利率9月頻頻突破高點。（示意圖／中央社檔案照片）">
+                      </picture><figcaption class="picinfo">中東戰局未解，油價居高不下，美債殖利率9月頻頻突破高點。（示意圖／中央社檔案照片）</figcaption></figure><p>（中央社記者<a class="author" href="/author/0020/">廖漢原</a>華盛頓28日專電）美國長天期公債殖利率今天全面走高，綜合美媒報導，10年期與30年期美債殖利率盤中一度逼近24年來最高點。中東戰局未解，油價居高不下，市場憂心美國通膨將更難控制，導致殖利率9月期間頻頻突破高點。</p><p>美國總統川普（Donald Trump）週末期間拒絕伊朗提出的停火方案，國際油價再度走高，每桶超過100美元。在通膨陰影籠罩下，市場拋售美國政府公債，美債殖利率無分長短天期全面走高，盤中一度逼近24年新高。</p><p>作為民間借貸基準利率指標的10年期美債殖利率，28日最高升至5.2720%，20年期升至5.6450%，30年期升至5.5660%。</p><p>債券投資人憂心中東衝突持續，油價長期維持高位，加劇美國通膨。美國聯邦準備理事會（Fed）17日升息一碼，並暗示年底還有機會升息。市場轉向比美債更保值的長期資產，債券價格走低。</p><p>加貝利基金（Gabelli Funds）投資經理柏格納（Justin Bergner）在財經頻道CNBC指出，殖利率今天顯著升高，大盤理所當然出現疲軟。人工智慧（AI）因大規模開支在市場爭奪資金，投資人要求更高回報，市場因此繼續一面倒。</p><p>殖利率與一般借貸利息利率不同，受市場需求與債券到期天數等因素影響波動，是債券評估價值的指標，與價格呈反向走勢。</p><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>受高油價與高殖利率衝擊，美股走低，道瓊、標普500與那斯達克指數分別下跌0.67%、0.77%、0.92%。</p><p>AI晶片股普遍走低，輝達（Nvidia）宣布追加1500億美元股票回購計畫，股價逆勢上揚1.68%，超微（AMD）下跌3.61%，美光（Micron）與SK海力士（SK Hynix）ADR下跌2.61%、5.03%，台積電（TSMC）ADR漲0.50%。（編輯：張芷瑄）1150929</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1200/760;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20260921/1200x760_wmky_818641837403_0.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260921/1200x760_wmky_818641837403_0.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260921/1200x760_wmky_818641837403_0.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20260921/1200x760_wmky_818641837403_0.jpg" fetchpriority="high" alt="中東戰局未解，油價居高不下，美債殖利率9月頻頻突破高點。（示意圖／中央社檔案照片）">
+                      </picture><figcaption class="picinfo">中東戰局未解，油價居高不下，美債殖利率9月頻頻突破高點。（示意圖／中央社檔案照片）</figcaption></figure><p>（中央社記者<a class="author" href="/author/0020/">廖漢原</a>華盛頓28日專電）美國長天期公債殖利率今天全面走高，綜合美媒報導，10年期與30年期美債殖利率盤中一度逼近24年來最高點。中東戰局未解，油價居高不下，市場憂心美國通膨將更難控制，導致殖利率9月期間頻頻突破高點。</p><p>美國總統川普（Donald Trump）週末期間拒絕伊朗提出的停火方案，國際油價再度走高，每桶超過100美元。在通膨陰影籠罩下，市場拋售美國政府公債，美債殖利率無分長短天期全面走高，盤中一度逼近24年新高。</p><p>作為民間借貸基準利率指標的10年期美債殖利率，28日最高升至5.2720%，20年期升至5.6450%，30年期升至5.5660%。</p><p>債券投資人憂心中東衝突持續，油價長期維持高位，加劇美國通膨。美國聯邦準備理事會（Fed）17日升息一碼，並暗示年底還有機會升息。市場轉向比美債更保值的長期資產，債券價格走低。</p><p>加貝利基金（Gabelli Funds）投資經理柏格納（Justin Bergner）在財經頻道CNBC指出，殖利率今天顯著升高，大盤理所當然出現疲軟。人工智慧（AI）因大規模開支在市場爭奪資金，投資人要求更高回報，市場因此繼續一面倒。</p><p>殖利率與一般借貸利息利率不同，受市場需求與債券到期天數等因素影響波動，是債券評估價值的指標，與價格呈反向走勢。</p><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>受高油價與高殖利率衝擊，美股走低，道瓊、標普500與那斯達克指數分別下跌0.67%、0.77%、0.92%。</p><p>AI晶片股普遍走低，輝達（Nvidia）宣布追加1500億美元股票回購計畫，股價逆勢上揚1.68%，超微（AMD）下跌3.61%，美光（Micron）與SK海力士（SK Hynix）ADR下跌2.61%、5.03%，台積電（TSMC）ADR漲0.50%。（編輯：張芷瑄）1150929</p>]]>
+    </description>
+    <content:encoded><![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1200/760;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20260921/1200x760_wmky_818641837403_0.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260921/1200x760_wmky_818641837403_0.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260921/1200x760_wmky_818641837403_0.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20260921/1200x760_wmky_818641837403_0.jpg" fetchpriority="high" alt="中東戰局未解，油價居高不下，美債殖利率9月頻頻突破高點。（示意圖／中央社檔案照片）">
+                      </picture><figcaption class="picinfo">中東戰局未解，油價居高不下，美債殖利率9月頻頻突破高點。（示意圖／中央社檔案照片）</figcaption></figure><p>（中央社記者<a class="author" href="/author/0020/">廖漢原</a>華盛頓28日專電）美國長天期公債殖利率今天全面走高，綜合美媒報導，10年期與30年期美債殖利率盤中一度逼近24年來最高點。中東戰局未解，油價居高不下，市場憂心美國通膨將更難控制，導致殖利率9月期間頻頻突破高點。</p><p>美國總統川普（Donald Trump）週末期間拒絕伊朗提出的停火方案，國際油價再度走高，每桶超過100美元。在通膨陰影籠罩下，市場拋售美國政府公債，美債殖利率無分長短天期全面走高，盤中一度逼近24年新高。</p><p>作為民間借貸基準利率指標的10年期美債殖利率，28日最高升至5.2720%，20年期升至5.6450%，30年期升至5.5660%。</p><p>債券投資人憂心中東衝突持續，油價長期維持高位，加劇美國通膨。美國聯邦準備理事會（Fed）17日升息一碼，並暗示年底還有機會升息。市場轉向比美債更保值的長期資產，債券價格走低。</p><p>加貝利基金（Gabelli Funds）投資經理柏格納（Justin Bergner）在財經頻道CNBC指出，殖利率今天顯著升高，大盤理所當然出現疲軟。人工智慧（AI）因大規模開支在市場爭奪資金，投資人要求更高回報，市場因此繼續一面倒。</p><p>殖利率與一般借貸利息利率不同，受市場需求與債券到期天數等因素影響波動，是債券評估價值的指標，與價格呈反向走勢。</p><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>受高油價與高殖利率衝擊，美股走低，道瓊、標普500與那斯達克指數分別下跌0.67%、0.77%、0.92%。</p><p>AI晶片股普遍走低，輝達（Nvidia）宣布追加1500億美元股票回購計畫，股價逆勢上揚1.68%，超微（AMD）下跌3.61%，美光（Micron）與SK海力士（SK Hynix）ADR下跌2.61%、5.03%，台積電（TSMC）ADR漲0.50%。（編輯：張芷瑄）1150929</p>]]></content:encoded>
+    
+    <pubDate>Tue, 29 Sep 2026 08:30:59 +0800</pubDate>
+  </item><item>
+    <title><![CDATA[中東戰事未落幕、美債殖利率攀升　華爾街股市收低]]></title>
+    <link>https://www.cna.com.tw/news/afe/202609290012.aspx</link>
+    <itunes:title><![CDATA[中東戰事未落幕、美債殖利率攀升　華爾街股市收低]]></itunes:title>
+    <itunes:author><![CDATA[中央社 產經證券[RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:2000/1333;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20260929/2000x1333_wmkn_61133165123605_202209300001000000.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260929/2000x1333_wmkn_61133165123605_202209300001000000.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260929/2000x1333_wmkn_61133165123605_202209300001000000.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20260929/2000x1333_wmkn_61133165123605_202209300001000000.jpg" fetchpriority="high" alt="圖為華爾街路標。（中央社檔案照片）">
+                      </picture><figcaption class="picinfo">圖為華爾街路標。（中央社檔案照片）</figcaption></figure><p>（中央社紐約28日綜合外電報導）美國總統川普（Donald Trump）拒絕伊朗提出為期7天的停火方案後，美國公債殖利率持續走揚，華爾街股市4大指數今天收盤全部下跌。</p><p>道瓊工業指數下挫347.11點或0.67%，收51481.51點。</p><p>標準普爾500指數下滑59.72點或0.77%，收7683.69點。</p><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>那斯達克指數下跌248.34點或0.92%，收26820.38點。</p><p>費城半導體指數下挫203.69點或1.61%，收12465.24點。（編譯：<a class="author" href="/author/0131/">陳彥鈞</a>）1150929</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:2000/1333;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20260929/2000x1333_wmkn_61133165123605_202209300001000000.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260929/2000x1333_wmkn_61133165123605_202209300001000000.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260929/2000x1333_wmkn_61133165123605_202209300001000000.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20260929/2000x1333_wmkn_61133165123605_202209300001000000.jpg" fetchpriority="high" alt="圖為華爾街路標。（中央社檔案照片）">
+                      </picture><figcaption class="picinfo">圖為華爾街路標。（中央社檔案照片）</figcaption></figure><p>（中央社紐約28日綜合外電報導）美國總統川普（Donald Trump）拒絕伊朗提出為期7天的停火方案後，美國公債殖利率持續走揚，華爾街股市4大指數今天收盤全部下跌。</p><p>道瓊工業指數下挫347.11點或0.67%，收51481.51點。</p><p>標準普爾500指數下滑59.72點或0.77%，收7683.69點。</p><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>那斯達克指數下跌248.34點或0.92%，收26820.38點。</p><p>費城半導體指數下挫203.69點或1.61%，收12465.24點。（編譯：<a class="author" href="/author/0131/">陳彥鈞</a>）1150929</p>]]>
+    </description>
+    <content:encoded><![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:2000/1333;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20260929/2000x1333_wmkn_61133165123605_202209300001000000.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260929/2000x1333_wmkn_61133165123605_202209300001000000.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260929/2000x1333_wmkn_61133165123605_202209300001000000.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20260929/2000x1333_wmkn_61133165123605_202209300001000000.jpg" fetchpriority="high" alt="圖為華爾街路標。（中央社檔案照片）">
+                      </picture><figcaption class="picinfo">圖為華爾街路標。（中央社檔案照片）</figcaption></figure><p>（中央社紐約28日綜合外電報導）美國總統川普（Donald Trump）拒絕伊朗提出為期7天的停火方案後，美國公債殖利率持續走揚，華爾街股市4大指數今天收盤全部下跌。</p><p>道瓊工業指數下挫347.11點或0.67%，收51481.51點。</p><p>標準普爾500指數下滑59.72點或0.77%，收7683.69點。</p><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>那斯達克指數下跌248.34點或0.92%，收26820.38點。</p><p>費城半導體指數下挫203.69點或1.61%，收12465.24點。（編譯：<a class="author" href="/author/0131/">陳彥鈞</a>）1150929</p>]]></content:encoded>
+    
+    <pubDate>Tue, 29 Sep 2026 05:54:41 +0800</pubDate>
+  </item><item>
+    <title><![CDATA[超微將砸82億美元　收購AI企業World Labs]]></title>
+    <link>https://www.cna.com.tw/news/aopl/202609290011.aspx</link>
+    <itunes:title><![CDATA[超微將砸82億美元　收購AI企業World Labs]]></itunes:title>
+    <itunes:author><![CDATA[中央社 產經證券[RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1080/720;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20260929/1080x720_wmkn_450754371668_0.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260929/1080x720_wmkn_450754371668_0.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260929/1080x720_wmkn_450754371668_0.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20260929/1080x720_wmkn_450754371668_0.jpg" fetchpriority="high" alt="美國半導體公司超微（AMD）計劃收購AI企業World Labs。（路透社）">
+                      </picture><figcaption class="picinfo">美國半導體公司超微（AMD）計劃收購AI企業World Labs。（路透社）</figcaption></figure><p>（中央社加州聖克拉拉郡28日綜合外電報導）美國半導體公司超微（AMD）今天表示，已經啟動協商，計劃斥資82億美元，收購由史丹佛大學教授李飛飛2024年所創辦的人工智慧（AI）新創公司World Labs。</p><p>路透社報導，World Labs的總部位在舊金山，今年稍早籌措到10億美元資金，以發展空間智慧模型。</p><div class="lineAd"><a href="https://lin.ee/tPtHlLQ" target="_blank"><img src="https://imgcdn.cna.com.tw/www/website/img/ad300x223.jpg"></a></div><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>李飛飛將加入超微團隊，擔任執行副總裁暨首席科學家，並向台裔AMD董事長兼執行長蘇姿丰（Lisa Su）報告。</p><p>這項交易預計在2026年底前完成。（編譯：<a class="author" href="/author/0053/">楊惟敬</a>）1150929</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1080/720;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20260929/1080x720_wmkn_450754371668_0.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260929/1080x720_wmkn_450754371668_0.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260929/1080x720_wmkn_450754371668_0.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20260929/1080x720_wmkn_450754371668_0.jpg" fetchpriority="high" alt="美國半導體公司超微（AMD）計劃收購AI企業World Labs。（路透社）">
+                      </picture><figcaption class="picinfo">美國半導體公司超微（AMD）計劃收購AI企業World Labs。（路透社）</figcaption></figure><p>（中央社加州聖克拉拉郡28日綜合外電報導）美國半導體公司超微（AMD）今天表示，已經啟動協商，計劃斥資82億美元，收購由史丹佛大學教授李飛飛2024年所創辦的人工智慧（AI）新創公司World Labs。</p><p>路透社報導，World Labs的總部位在舊金山，今年稍早籌措到10億美元資金，以發展空間智慧模型。</p><div class="lineAd"><a href="https://lin.ee/tPtHlLQ" target="_blank"><img src="https://imgcdn.cna.com.tw/www/website/img/ad300x223.jpg"></a></div><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>李飛飛將加入超微團隊，擔任執行副總裁暨首席科學家，並向台裔AMD董事長兼執行長蘇姿丰（Lisa Su）報告。</p><p>這項交易預計在2026年底前完成。（編譯：<a class="author" href="/author/0053/">楊惟敬</a>）1150929</p>]]>
+    </description>
+    <content:encoded><![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1080/720;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20260929/1080x720_wmkn_450754371668_0.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260929/1080x720_wmkn_450754371668_0.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260929/1080x720_wmkn_450754371668_0.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20260929/1080x720_wmkn_450754371668_0.jpg" fetchpriority="high" alt="美國半導體公司超微（AMD）計劃收購AI企業World Labs。（路透社）">
+                      </picture><figcaption class="picinfo">美國半導體公司超微（AMD）計劃收購AI企業World Labs。（路透社）</figcaption></figure><p>（中央社加州聖克拉拉郡28日綜合外電報導）美國半導體公司超微（AMD）今天表示，已經啟動協商，計劃斥資82億美元，收購由史丹佛大學教授李飛飛2024年所創辦的人工智慧（AI）新創公司World Labs。</p><p>路透社報導，World Labs的總部位在舊金山，今年稍早籌措到10億美元資金，以發展空間智慧模型。</p><div class="lineAd"><a href="https://lin.ee/tPtHlLQ" target="_blank"><img src="https://imgcdn.cna.com.tw/www/website/img/ad300x223.jpg"></a></div><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>李飛飛將加入超微團隊，擔任執行副總裁暨首席科學家，並向台裔AMD董事長兼執行長蘇姿丰（Lisa Su）報告。</p><p>這項交易預計在2026年底前完成。（編譯：<a class="author" href="/author/0053/">楊惟敬</a>）1150929</p>]]></content:encoded>
+    
+    <pubDate>Tue, 29 Sep 2026 05:53:39 +0800</pubDate>
+  </item><item>
+    <title><![CDATA[美國與伊朗談判未能緩解供應疑慮　國際油價小漲]]></title>
+    <link>https://www.cna.com.tw/news/afe/202609290010.aspx</link>
+    <itunes:title><![CDATA[美國與伊朗談判未能緩解供應疑慮　國際油價小漲]]></itunes:title>
+    <itunes:author><![CDATA[中央社 產經證券[RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1024/700;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20260929/1024x700_wmkn_51075704968_0.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260929/1024x700_wmkn_51075704968_0.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260929/1024x700_wmkn_51075704968_0.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20260929/1024x700_wmkn_51075704968_0.jpg" fetchpriority="high" alt="國際原油示意圖。（圖取自Unsplash圖庫）">
+                      </picture><figcaption class="picinfo">國際原油示意圖。（圖取自Unsplash圖庫）</figcaption></figure><p>（中央社紐約28日綜合外電報導）美國總統川普（Donald Trump）稍早稱，美國正透過調解方跟伊朗進行對話，但先前多次出現希望落空的情況，市場仍對兩國能否停火持懷疑態度，國際油價今天呈現小幅上揚。</p><p>紐約商品交易所西德州中級原油11月交割價小升19美分或0.21%，報每桶92.60美元。</p><p>倫敦北海布倫特原油11月交割價上漲96美分或0.92%，報每桶105.28美元。（編譯：<a class="author" href="/author/0131/">陳彥鈞</a>）1150929</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1024/700;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20260929/1024x700_wmkn_51075704968_0.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260929/1024x700_wmkn_51075704968_0.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260929/1024x700_wmkn_51075704968_0.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20260929/1024x700_wmkn_51075704968_0.jpg" fetchpriority="high" alt="國際原油示意圖。（圖取自Unsplash圖庫）">
+                      </picture><figcaption class="picinfo">國際原油示意圖。（圖取自Unsplash圖庫）</figcaption></figure><p>（中央社紐約28日綜合外電報導）美國總統川普（Donald Trump）稍早稱，美國正透過調解方跟伊朗進行對話，但先前多次出現希望落空的情況，市場仍對兩國能否停火持懷疑態度，國際油價今天呈現小幅上揚。</p><p>紐約商品交易所西德州中級原油11月交割價小升19美分或0.21%，報每桶92.60美元。</p><p>倫敦北海布倫特原油11月交割價上漲96美分或0.92%，報每桶105.28美元。（編譯：<a class="author" href="/author/0131/">陳彥鈞</a>）1150929</p>]]>
+    </description>
+    <content:encoded><![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1024/700;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20260929/1024x700_wmkn_51075704968_0.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260929/1024x700_wmkn_51075704968_0.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260929/1024x700_wmkn_51075704968_0.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20260929/1024x700_wmkn_51075704968_0.jpg" fetchpriority="high" alt="國際原油示意圖。（圖取自Unsplash圖庫）">
+                      </picture><figcaption class="picinfo">國際原油示意圖。（圖取自Unsplash圖庫）</figcaption></figure><p>（中央社紐約28日綜合外電報導）美國總統川普（Donald Trump）稍早稱，美國正透過調解方跟伊朗進行對話，但先前多次出現希望落空的情況，市場仍對兩國能否停火持懷疑態度，國際油價今天呈現小幅上揚。</p><p>紐約商品交易所西德州中級原油11月交割價小升19美分或0.21%，報每桶92.60美元。</p><p>倫敦北海布倫特原油11月交割價上漲96美分或0.92%，報每桶105.28美元。（編譯：<a class="author" href="/author/0131/">陳彥鈞</a>）1150929</p>]]></content:encoded>
+    
+    <pubDate>Tue, 29 Sep 2026 05:08:36 +0800</pubDate>
+  </item><item>
+    <title><![CDATA[川普拒絕伊朗停火提案　歐股收盤基本持平]]></title>
+    <link>https://www.cna.com.tw/news/afe/202609290003.aspx</link>
+    <itunes:title><![CDATA[川普拒絕伊朗停火提案　歐股收盤基本持平]]></itunes:title>
+    <itunes:author><![CDATA[中央社 產經證券[RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>（中央社倫敦28日綜合外電報導）美國總統川普（Donald Trump）拒絕伊朗提出為期7天的停火提議後，國際油價攀升，歐洲股市主要指數今天收盤則是基本持平。</p><p>倫敦FTSE 100指數小跌10.37點或0.10%，收10684.88點。</p><div class="lineAd"><a href="https://lin.ee/tPtHlLQ" target="_blank"><img src="https://imgcdn.cna.com.tw/www/website/img/ad300x223.jpg"></a></div><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>法蘭克福DAX指數小挫34.22點或0.13%，收25374.42點。</p><p>巴黎CAC 40指數微漲0.68點或0.01%，收8078.48點。（編譯：<a class="author" href="/author/0131/">陳彥鈞</a>）1150929</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>（中央社倫敦28日綜合外電報導）美國總統川普（Donald Trump）拒絕伊朗提出為期7天的停火提議後，國際油價攀升，歐洲股市主要指數今天收盤則是基本持平。</p><p>倫敦FTSE 100指數小跌10.37點或0.10%，收10684.88點。</p><div class="lineAd"><a href="https://lin.ee/tPtHlLQ" target="_blank"><img src="https://imgcdn.cna.com.tw/www/website/img/ad300x223.jpg"></a></div><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>法蘭克福DAX指數小挫34.22點或0.13%，收25374.42點。</p><p>巴黎CAC 40指數微漲0.68點或0.01%，收8078.48點。（編譯：<a class="author" href="/author/0131/">陳彥鈞</a>）1150929</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>（中央社倫敦28日綜合外電報導）美國總統川普（Donald Trump）拒絕伊朗提出為期7天的停火提議後，國際油價攀升，歐洲股市主要指數今天收盤則是基本持平。</p><p>倫敦FTSE 100指數小跌10.37點或0.10%，收10684.88點。</p><div class="lineAd"><a href="https://lin.ee/tPtHlLQ" target="_blank"><img src="https://imgcdn.cna.com.tw/www/website/img/ad300x223.jpg"></a></div><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>法蘭克福DAX指數小挫34.22點或0.13%，收25374.42點。</p><p>巴黎CAC 40指數微漲0.68點或0.01%，收8078.48點。（編譯：<a class="author" href="/author/0131/">陳彥鈞</a>）1150929</p>]]></content:encoded>
+    
+    <pubDate>Tue, 29 Sep 2026 01:03:18 +0800</pubDate>
+  </item><item>
+    <title><![CDATA[摩根大通估全球AI題材回檔後有望復甦　看多半導體股]]></title>
+    <link>https://www.cna.com.tw/news/afe/202609280244.aspx</link>
+    <itunes:title><![CDATA[摩根大通估全球AI題材回檔後有望復甦　看多半導體股]]></itunes:title>
+    <itunes:author><![CDATA[中央社 產經證券[RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:2000/1325;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20260929/2000x1325_wmkn_93506594368_0.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260929/2000x1325_wmkn_93506594368_0.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260929/2000x1325_wmkn_93506594368_0.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20260929/2000x1325_wmkn_93506594368_0.jpg" fetchpriority="high" alt="示意圖。（圖取自Unsplash圖庫）">
+                      </picture><figcaption class="picinfo">示意圖。（圖取自Unsplash圖庫）</figcaption></figure><p>（中央社紐約28日綜合外電報導）摩根大通分析師今天表示，全球人工智慧（AI）相關族群股票近期回檔後，有助改善投資人部位，估值也變得有吸引力，有望帶動市場重新活絡，其中以半導體類股最被看好。</p><p>路透社報導，摩根大通（J.P. Morgan）以馬特卡（Mislav Matejka）領導的分析師團隊在報告中指出：「科技股或許未能重回過往高峰，但從基本面來看，前景仍然正面，AI相關領域內仍有許多投資機會。」</p><p>報告中指出，今年初，AI相關股票大漲，隨後因市場擔憂資本支出及其短期回報而轉弱。9月初，受到多位AI產業高層示警快速發展帶來的風險，AI相關個股重挫。</p><p>摩根大通認為，投資人在AI領域的投資部位已變得更乾淨，多數AI相關領域的估值已大幅回落，且儘管近期市場擔憂成長放緩，資本支出仍可望保持強勁。</p><p>摩根大通並補充道，企業獲利持續強勁，AI變現的證據日益增加，將有助於支撐市場對該產業恢復興趣。</p><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>摩根大通持續看多半導體類股，主因為其基本面穩健、定價成長延續至2027年，以及供需吃緊情況可能持續到2028年。</p><p>衡量全球半導體類股表現的MSCI全球半導體及半導體設備指數，今年以來已上漲約48%。（譯者：<a class="author" href="/author/0143/">高照芬</a>/核稿：楊昭彥）1150928</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:2000/1325;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20260929/2000x1325_wmkn_93506594368_0.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260929/2000x1325_wmkn_93506594368_0.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260929/2000x1325_wmkn_93506594368_0.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20260929/2000x1325_wmkn_93506594368_0.jpg" fetchpriority="high" alt="示意圖。（圖取自Unsplash圖庫）">
+                      </picture><figcaption class="picinfo">示意圖。（圖取自Unsplash圖庫）</figcaption></figure><p>（中央社紐約28日綜合外電報導）摩根大通分析師今天表示，全球人工智慧（AI）相關族群股票近期回檔後，有助改善投資人部位，估值也變得有吸引力，有望帶動市場重新活絡，其中以半導體類股最被看好。</p><p>路透社報導，摩根大通（J.P. Morgan）以馬特卡（Mislav Matejka）領導的分析師團隊在報告中指出：「科技股或許未能重回過往高峰，但從基本面來看，前景仍然正面，AI相關領域內仍有許多投資機會。」</p><p>報告中指出，今年初，AI相關股票大漲，隨後因市場擔憂資本支出及其短期回報而轉弱。9月初，受到多位AI產業高層示警快速發展帶來的風險，AI相關個股重挫。</p><p>摩根大通認為，投資人在AI領域的投資部位已變得更乾淨，多數AI相關領域的估值已大幅回落，且儘管近期市場擔憂成長放緩，資本支出仍可望保持強勁。</p><p>摩根大通並補充道，企業獲利持續強勁，AI變現的證據日益增加，將有助於支撐市場對該產業恢復興趣。</p><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>摩根大通持續看多半導體類股，主因為其基本面穩健、定價成長延續至2027年，以及供需吃緊情況可能持續到2028年。</p><p>衡量全球半導體類股表現的MSCI全球半導體及半導體設備指數，今年以來已上漲約48%。（譯者：<a class="author" href="/author/0143/">高照芬</a>/核稿：楊昭彥）1150928</p>]]>
+    </description>
+    <content:encoded><![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:2000/1325;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20260929/2000x1325_wmkn_93506594368_0.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260929/2000x1325_wmkn_93506594368_0.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260929/2000x1325_wmkn_93506594368_0.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20260929/2000x1325_wmkn_93506594368_0.jpg" fetchpriority="high" alt="示意圖。（圖取自Unsplash圖庫）">
+                      </picture><figcaption class="picinfo">示意圖。（圖取自Unsplash圖庫）</figcaption></figure><p>（中央社紐約28日綜合外電報導）摩根大通分析師今天表示，全球人工智慧（AI）相關族群股票近期回檔後，有助改善投資人部位，估值也變得有吸引力，有望帶動市場重新活絡，其中以半導體類股最被看好。</p><p>路透社報導，摩根大通（J.P. Morgan）以馬特卡（Mislav Matejka）領導的分析師團隊在報告中指出：「科技股或許未能重回過往高峰，但從基本面來看，前景仍然正面，AI相關領域內仍有許多投資機會。」</p><p>報告中指出，今年初，AI相關股票大漲，隨後因市場擔憂資本支出及其短期回報而轉弱。9月初，受到多位AI產業高層示警快速發展帶來的風險，AI相關個股重挫。</p><p>摩根大通認為，投資人在AI領域的投資部位已變得更乾淨，多數AI相關領域的估值已大幅回落，且儘管近期市場擔憂成長放緩，資本支出仍可望保持強勁。</p><p>摩根大通並補充道，企業獲利持續強勁，AI變現的證據日益增加，將有助於支撐市場對該產業恢復興趣。</p><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>摩根大通持續看多半導體類股，主因為其基本面穩健、定價成長延續至2027年，以及供需吃緊情況可能持續到2028年。</p><p>衡量全球半導體類股表現的MSCI全球半導體及半導體設備指數，今年以來已上漲約48%。（譯者：<a class="author" href="/author/0143/">高照芬</a>/核稿：楊昭彥）1150928</p>]]></content:encoded>
+    
+    <pubDate>Mon, 28 Sep 2026 23:08:03 +0800</pubDate>
+  </item><item>
+    <title><![CDATA[宏碁50週年音樂劇　台積電魏哲家現身力挺]]></title>
+    <link>https://www.cna.com.tw/news/afe/202609280242.aspx</link>
+    <itunes:title><![CDATA[宏碁50週年音樂劇　台積電魏哲家現身力挺]]></itunes:title>
+    <itunes:author><![CDATA[中央社 產經證券[RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>（中央社記者<a class="author" href="/author/0122/">吳家豪</a>台北28日電）電腦品牌廠宏碁今年迎來創立50週年，今天在台北南港展覽館舉行Acer 50「微笑半世紀」音樂劇，將宏碁走過半世紀的創業與轉型歷程搬上舞台，包括台積電董事長魏哲家、緯創董事長林憲銘等多位科技產業大老都親自出席相挺，場面熱絡。</p><p>「微笑半世紀」音樂劇由宏碁集團創辦人施振榮擔任共同製作人，攜手雲門舞集、灣聲樂團與故事工廠3大藝文團隊跨界共創，今天演出分下午與晚間2場，吸引相當多人到場觀賞。</p><p>「微笑半世紀」融合音樂、現代戲劇、舞蹈與高科技多媒體視覺，將宏碁自創立以來的重大歷史與轉折點生動具象化。劇情深入刻劃宏碁早期以「微處理機園丁」自許開拓市場的篳路藍縷，重現歷次組織變革、二次再造、推動「微笑曲線」理論、自創品牌揚帆出海，以及品牌分拆等關鍵時刻，將50年來泛宏碁企業家族開枝散葉的過程全數搬上舞台。</p><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>除了宏碁5位創辦人施振榮、葉紫華、黃少華、邰中和與林家和之外，包括台積電董事長魏哲家、已從台積電退休並出任宏碁獨立董事的何麗梅、宏碁董事長暨執行長陳俊聖、友達董事長彭双浪、佳世達總經理柯淑芬、華碩董事長施崇棠、和碩董事長童子賢、緯穎董事長洪麗寗等人，都親自到場觀賞音樂劇。</p><p>施振榮表示，「微笑半世紀」不是一齣「回頭看」的音樂劇，而是一個「向前看」的新起點。透過音樂、戲劇、舞蹈與科技的共創，把50年的酸甜苦辣放上舞台，也把下一個50年的希望交給年輕世代。（編輯：林家嫻）1150928</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>（中央社記者<a class="author" href="/author/0122/">吳家豪</a>台北28日電）電腦品牌廠宏碁今年迎來創立50週年，今天在台北南港展覽館舉行Acer 50「微笑半世紀」音樂劇，將宏碁走過半世紀的創業與轉型歷程搬上舞台，包括台積電董事長魏哲家、緯創董事長林憲銘等多位科技產業大老都親自出席相挺，場面熱絡。</p><p>「微笑半世紀」音樂劇由宏碁集團創辦人施振榮擔任共同製作人，攜手雲門舞集、灣聲樂團與故事工廠3大藝文團隊跨界共創，今天演出分下午與晚間2場，吸引相當多人到場觀賞。</p><p>「微笑半世紀」融合音樂、現代戲劇、舞蹈與高科技多媒體視覺，將宏碁自創立以來的重大歷史與轉折點生動具象化。劇情深入刻劃宏碁早期以「微處理機園丁」自許開拓市場的篳路藍縷，重現歷次組織變革、二次再造、推動「微笑曲線」理論、自創品牌揚帆出海，以及品牌分拆等關鍵時刻，將50年來泛宏碁企業家族開枝散葉的過程全數搬上舞台。</p><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>除了宏碁5位創辦人施振榮、葉紫華、黃少華、邰中和與林家和之外，包括台積電董事長魏哲家、已從台積電退休並出任宏碁獨立董事的何麗梅、宏碁董事長暨執行長陳俊聖、友達董事長彭双浪、佳世達總經理柯淑芬、華碩董事長施崇棠、和碩董事長童子賢、緯穎董事長洪麗寗等人，都親自到場觀賞音樂劇。</p><p>施振榮表示，「微笑半世紀」不是一齣「回頭看」的音樂劇，而是一個「向前看」的新起點。透過音樂、戲劇、舞蹈與科技的共創，把50年的酸甜苦辣放上舞台，也把下一個50年的希望交給年輕世代。（編輯：林家嫻）1150928</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>（中央社記者<a class="author" href="/author/0122/">吳家豪</a>台北28日電）電腦品牌廠宏碁今年迎來創立50週年，今天在台北南港展覽館舉行Acer 50「微笑半世紀」音樂劇，將宏碁走過半世紀的創業與轉型歷程搬上舞台，包括台積電董事長魏哲家、緯創董事長林憲銘等多位科技產業大老都親自出席相挺，場面熱絡。</p><p>「微笑半世紀」音樂劇由宏碁集團創辦人施振榮擔任共同製作人，攜手雲門舞集、灣聲樂團與故事工廠3大藝文團隊跨界共創，今天演出分下午與晚間2場，吸引相當多人到場觀賞。</p><p>「微笑半世紀」融合音樂、現代戲劇、舞蹈與高科技多媒體視覺，將宏碁自創立以來的重大歷史與轉折點生動具象化。劇情深入刻劃宏碁早期以「微處理機園丁」自許開拓市場的篳路藍縷，重現歷次組織變革、二次再造、推動「微笑曲線」理論、自創品牌揚帆出海，以及品牌分拆等關鍵時刻，將50年來泛宏碁企業家族開枝散葉的過程全數搬上舞台。</p><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>除了宏碁5位創辦人施振榮、葉紫華、黃少華、邰中和與林家和之外，包括台積電董事長魏哲家、已從台積電退休並出任宏碁獨立董事的何麗梅、宏碁董事長暨執行長陳俊聖、友達董事長彭双浪、佳世達總經理柯淑芬、華碩董事長施崇棠、和碩董事長童子賢、緯穎董事長洪麗寗等人，都親自到場觀賞音樂劇。</p><p>施振榮表示，「微笑半世紀」不是一齣「回頭看」的音樂劇，而是一個「向前看」的新起點。透過音樂、戲劇、舞蹈與科技的共創，把50年的酸甜苦辣放上舞台，也把下一個50年的希望交給年輕世代。（編輯：林家嫻）1150928</p>]]></content:encoded>
+    
+    <pubDate>Mon, 28 Sep 2026 22:56:56 +0800</pubDate>
+  </item><item>
+    <title><![CDATA[川普拒伊朗和平方案致油價飆漲　美股開低]]></title>
+    <link>https://www.cna.com.tw/news/afe/202609280234.aspx</link>
+    <itunes:title><![CDATA[川普拒伊朗和平方案致油價飆漲　美股開低]]></itunes:title>
+    <itunes:author><![CDATA[中央社 產經證券[RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:2000/1333;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20260608/2000x1333_wmky_26281061763452_202209300001000000.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260608/2000x1333_wmky_26281061763452_202209300001000000.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260608/2000x1333_wmky_26281061763452_202209300001000000.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20260608/2000x1333_wmky_26281061763452_202209300001000000.jpg" fetchpriority="high" alt="圖為美國華爾街路標。（中央社檔案照片）">
+                      </picture><figcaption class="picinfo">圖為美國華爾街路標。（中央社檔案照片）</figcaption></figure><p>（中央社紐約28日綜合外電報導）美國總統川普（Donald Trump）拒絕伊朗結束衝突的提案，導致原油價格飆漲，除重新引發通膨憂慮，也推升美國公債殖利率，華爾街股市今天開低。</p><p>路透社報導，道瓊工業指數開盤下跌180.1點，跌幅0.35%，來到51648.48點。</p><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>標普500指數開盤下跌21.7點，跌幅0.28%，報7721.7點。</p><p>那斯達克綜合指數開盤下滑133.0點，跌幅0.49%，來到26935.762點。（編譯：<a class="author" href="/author/0079/">楊昭彥</a>）1150928</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:2000/1333;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20260608/2000x1333_wmky_26281061763452_202209300001000000.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260608/2000x1333_wmky_26281061763452_202209300001000000.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260608/2000x1333_wmky_26281061763452_202209300001000000.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20260608/2000x1333_wmky_26281061763452_202209300001000000.jpg" fetchpriority="high" alt="圖為美國華爾街路標。（中央社檔案照片）">
+                      </picture><figcaption class="picinfo">圖為美國華爾街路標。（中央社檔案照片）</figcaption></figure><p>（中央社紐約28日綜合外電報導）美國總統川普（Donald Trump）拒絕伊朗結束衝突的提案，導致原油價格飆漲，除重新引發通膨憂慮，也推升美國公債殖利率，華爾街股市今天開低。</p><p>路透社報導，道瓊工業指數開盤下跌180.1點，跌幅0.35%，來到51648.48點。</p><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>標普500指數開盤下跌21.7點，跌幅0.28%，報7721.7點。</p><p>那斯達克綜合指數開盤下滑133.0點，跌幅0.49%，來到26935.762點。（編譯：<a class="author" href="/author/0079/">楊昭彥</a>）1150928</p>]]>
+    </description>
+    <content:encoded><![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:2000/1333;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20260608/2000x1333_wmky_26281061763452_202209300001000000.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260608/2000x1333_wmky_26281061763452_202209300001000000.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260608/2000x1333_wmky_26281061763452_202209300001000000.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20260608/2000x1333_wmky_26281061763452_202209300001000000.jpg" fetchpriority="high" alt="圖為美國華爾街路標。（中央社檔案照片）">
+                      </picture><figcaption class="picinfo">圖為美國華爾街路標。（中央社檔案照片）</figcaption></figure><p>（中央社紐約28日綜合外電報導）美國總統川普（Donald Trump）拒絕伊朗結束衝突的提案，導致原油價格飆漲，除重新引發通膨憂慮，也推升美國公債殖利率，華爾街股市今天開低。</p><p>路透社報導，道瓊工業指數開盤下跌180.1點，跌幅0.35%，來到51648.48點。</p><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>標普500指數開盤下跌21.7點，跌幅0.28%，報7721.7點。</p><p>那斯達克綜合指數開盤下滑133.0點，跌幅0.49%，來到26935.762點。（編譯：<a class="author" href="/author/0079/">楊昭彥</a>）1150928</p>]]></content:encoded>
+    
+    <pubDate>Mon, 28 Sep 2026 22:02:38 +0800</pubDate>
+  </item><item>
+    <title><![CDATA[AI熱潮帶動成長　輝達庫藏股計畫追加1500億美元創紀錄]]></title>
+    <link>https://www.cna.com.tw/news/aopl/202609280219.aspx</link>
+    <itunes:title><![CDATA[AI熱潮帶動成長　輝達庫藏股計畫追加1500億美元創紀錄]]></itunes:title>
+    <itunes:author><![CDATA[中央社 產經證券[RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:800/600;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20260928/800x600_wmky_914032072751_0.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260928/800x600_wmky_914032072751_0.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260928/800x600_wmky_914032072751_0.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20260928/800x600_wmky_914032072751_0.jpg" fetchpriority="high" alt="圖為輝達企業標誌。（中央社檔案照片）">
+                      </picture><figcaption class="picinfo">圖為輝達企業標誌。（中央社檔案照片）</figcaption></figure><p>（中央社聖克拉拉28日綜合外電報導）人工智慧（AI）晶片巨擘輝達（Nvidia）庫藏股計畫將追加1500億美元，超越蘋果（Apple）2024年庫藏股計畫追加的1100億美元，創下史上最高庫藏股追加規模。</p><p>路透社報導，總部設於加州聖克拉拉（Santa Clara）的輝達盤前股價一度上漲1.8%。</p><p>輝達已成為全球AI熱潮的最大受益者之一，市場對其高價晶片及相關技術的需求，推動營收快速成長。</p><p>在這次追加授權額度後，庫藏股剩餘授權額度達2350億美元，輝達預計在2028年度執行完畢。</p><p>執行長黃仁勳表示：「我們的現金生成能力使我們有能力投資於推動這項轉型的新技術，並將資本回饋給股東。」</p><div class="lineAd"><a href="https://lin.ee/tPtHlLQ" target="_blank"><img src="https://imgcdn.cna.com.tw/www/website/img/ad300x223.jpg"></a></div><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>輝達上個月預測2028年度營收將成長約70%，讓質疑經歷多年爆發性成長後，AI支出熱潮還能持續多久的投資人鬆了一口氣。</p><p>輝達也持續投資AI新創公司及雲端服務提供業者，引發部分投資人關注，質疑這類資金是否間接支撐對其自家晶片的需求。（編譯：<a class="author" href="/author/0129/">劉淑琴</a>）1150928</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:800/600;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20260928/800x600_wmky_914032072751_0.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260928/800x600_wmky_914032072751_0.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260928/800x600_wmky_914032072751_0.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20260928/800x600_wmky_914032072751_0.jpg" fetchpriority="high" alt="圖為輝達企業標誌。（中央社檔案照片）">
+                      </picture><figcaption class="picinfo">圖為輝達企業標誌。（中央社檔案照片）</figcaption></figure><p>（中央社聖克拉拉28日綜合外電報導）人工智慧（AI）晶片巨擘輝達（Nvidia）庫藏股計畫將追加1500億美元，超越蘋果（Apple）2024年庫藏股計畫追加的1100億美元，創下史上最高庫藏股追加規模。</p><p>路透社報導，總部設於加州聖克拉拉（Santa Clara）的輝達盤前股價一度上漲1.8%。</p><p>輝達已成為全球AI熱潮的最大受益者之一，市場對其高價晶片及相關技術的需求，推動營收快速成長。</p><p>在這次追加授權額度後，庫藏股剩餘授權額度達2350億美元，輝達預計在2028年度執行完畢。</p><p>執行長黃仁勳表示：「我們的現金生成能力使我們有能力投資於推動這項轉型的新技術，並將資本回饋給股東。」</p><div class="lineAd"><a href="https://lin.ee/tPtHlLQ" target="_blank"><img src="https://imgcdn.cna.com.tw/www/website/img/ad300x223.jpg"></a></div><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>輝達上個月預測2028年度營收將成長約70%，讓質疑經歷多年爆發性成長後，AI支出熱潮還能持續多久的投資人鬆了一口氣。</p><p>輝達也持續投資AI新創公司及雲端服務提供業者，引發部分投資人關注，質疑這類資金是否間接支撐對其自家晶片的需求。（編譯：<a class="author" href="/author/0129/">劉淑琴</a>）1150928</p>]]>
+    </description>
+    <content:encoded><![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:800/600;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20260928/800x600_wmky_914032072751_0.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260928/800x600_wmky_914032072751_0.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260928/800x600_wmky_914032072751_0.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20260928/800x600_wmky_914032072751_0.jpg" fetchpriority="high" alt="圖為輝達企業標誌。（中央社檔案照片）">
+                      </picture><figcaption class="picinfo">圖為輝達企業標誌。（中央社檔案照片）</figcaption></figure><p>（中央社聖克拉拉28日綜合外電報導）人工智慧（AI）晶片巨擘輝達（Nvidia）庫藏股計畫將追加1500億美元，超越蘋果（Apple）2024年庫藏股計畫追加的1100億美元，創下史上最高庫藏股追加規模。</p><p>路透社報導，總部設於加州聖克拉拉（Santa Clara）的輝達盤前股價一度上漲1.8%。</p><p>輝達已成為全球AI熱潮的最大受益者之一，市場對其高價晶片及相關技術的需求，推動營收快速成長。</p><p>在這次追加授權額度後，庫藏股剩餘授權額度達2350億美元，輝達預計在2028年度執行完畢。</p><p>執行長黃仁勳表示：「我們的現金生成能力使我們有能力投資於推動這項轉型的新技術，並將資本回饋給股東。」</p><div class="lineAd"><a href="https://lin.ee/tPtHlLQ" target="_blank"><img src="https://imgcdn.cna.com.tw/www/website/img/ad300x223.jpg"></a></div><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>輝達上個月預測2028年度營收將成長約70%，讓質疑經歷多年爆發性成長後，AI支出熱潮還能持續多久的投資人鬆了一口氣。</p><p>輝達也持續投資AI新創公司及雲端服務提供業者，引發部分投資人關注，質疑這類資金是否間接支撐對其自家晶片的需求。（編譯：<a class="author" href="/author/0129/">劉淑琴</a>）1150928</p>]]></content:encoded>
+    
+    <pubDate>Mon, 28 Sep 2026 20:33:01 +0800</pubDate>
+  </item><item>
+    <title><![CDATA[國銀新南向放款前8月大增4648億元　澳洲增額居首]]></title>
+    <link>https://www.cna.com.tw/news/afe/202609280216.aspx</link>
+    <itunes:title><![CDATA[國銀新南向放款前8月大增4648億元　澳洲增額居首]]></itunes:title>
+    <itunes:author><![CDATA[中央社 產經證券[RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1200/800;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20260928/1200x800_wmky_834232578293_202507010162000000.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260928/1200x800_wmky_834232578293_202507010162000000.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260928/1200x800_wmky_834232578293_202507010162000000.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20260928/1200x800_wmky_834232578293_202507010162000000.jpg" fetchpriority="high" alt="金管會統計顯示，截至2026年8月底，本國銀行對新南向國家授信餘額達新台幣2兆4643億元，前8月大增4648億元。（中央社檔案照片）">
+                      </picture><figcaption class="picinfo">金管會統計顯示，截至2026年8月底，本國銀行對新南向國家授信餘額達新台幣2兆4643億元，前8月大增4648億元。（中央社檔案照片）</figcaption></figure><p>（中央社記者<a class="author" href="/author/0160/">蘇思云</a>台北28日電）金管會統計顯示，截至今年8月底，本國銀行對新南向國家授信餘額達新台幣2兆4643億元，前8月大增4648億元，全年增額將挑戰歷史新高；觀察前8月放款增額地區，以澳洲放款增加1685億元最多，越南增904億元居次，新加坡增816億元居第3名。</p><p>配合新南向政策，金管會提供多元資金管道的整體金融支援，促進南向發展。金管會從2017年訂定新南向放款目標以來，2026年度國銀對新南向國家授信總餘額成長目標為800億元，年底總餘額目標達2兆795億元，今年已提前在2月達標。</p><p>過去新南向全年放款高峰落在2022年新增放款達2657億元，今年以來更明顯加速。金管會統計顯示，截至今年8月底，本國銀行對新南向國家授信餘額為2兆4643億元，今年前8月增額為4648億元，相較全年目標值800億元，達標率為581%，持續超標。</p><p>金管會指出，截至8月底，授信總餘額較去年底增加最多的國家依序為，澳洲增加1685億元、越南增加904億元、新加坡增加816億元、印度增766億元。銀行業者指出，主要受惠相關地區經濟相對活絡，帶動企業授信需求上揚。</p><p>國銀近年積極在澳洲申設據點，以最大城市雪梨來看，金管會資料顯示，國銀在澳洲雪梨設有2家代表人辦事處與7家分行，分別為王道銀、中信銀設有雪梨辦事處，中信銀雪梨辦事處升格分行去年也獲金管會核准，目前正依當地相關法規辦理籌設作業；兆豐銀、玉山銀、台企銀、華南銀、合庫銀、台銀、台北富邦銀行則設有雪梨分行。</p><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>北富銀雪梨分行近期舉行開幕典禮，北富銀指出，澳洲為亞太地區重要經濟體，擁有穩健的經濟環境、成熟的金融市場及豐富產業資源，近年在能源轉型、基礎建設、高科技及醫療生技等領域持續吸引國際資本與產業進駐。雪梨分行將以企業金融及機構金融業務為發展重心，未來將積極參與當地基礎建設、再生能源與重要產業發展計畫。</p><p>金管會統計顯示，截至今年8月底，授信總餘額較去年底增加最多的前5家銀行，分別為中信銀行增541億元、國泰世華銀行增529億元、台北富邦銀行增500億元、玉山銀行增485億元與兆豐銀行增397億元。（編輯：林家嫻）1150928</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1200/800;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20260928/1200x800_wmky_834232578293_202507010162000000.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260928/1200x800_wmky_834232578293_202507010162000000.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260928/1200x800_wmky_834232578293_202507010162000000.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20260928/1200x800_wmky_834232578293_202507010162000000.jpg" fetchpriority="high" alt="金管會統計顯示，截至2026年8月底，本國銀行對新南向國家授信餘額達新台幣2兆4643億元，前8月大增4648億元。（中央社檔案照片）">
+                      </picture><figcaption class="picinfo">金管會統計顯示，截至2026年8月底，本國銀行對新南向國家授信餘額達新台幣2兆4643億元，前8月大增4648億元。（中央社檔案照片）</figcaption></figure><p>（中央社記者<a class="author" href="/author/0160/">蘇思云</a>台北28日電）金管會統計顯示，截至今年8月底，本國銀行對新南向國家授信餘額達新台幣2兆4643億元，前8月大增4648億元，全年增額將挑戰歷史新高；觀察前8月放款增額地區，以澳洲放款增加1685億元最多，越南增904億元居次，新加坡增816億元居第3名。</p><p>配合新南向政策，金管會提供多元資金管道的整體金融支援，促進南向發展。金管會從2017年訂定新南向放款目標以來，2026年度國銀對新南向國家授信總餘額成長目標為800億元，年底總餘額目標達2兆795億元，今年已提前在2月達標。</p><p>過去新南向全年放款高峰落在2022年新增放款達2657億元，今年以來更明顯加速。金管會統計顯示，截至今年8月底，本國銀行對新南向國家授信餘額為2兆4643億元，今年前8月增額為4648億元，相較全年目標值800億元，達標率為581%，持續超標。</p><p>金管會指出，截至8月底，授信總餘額較去年底增加最多的國家依序為，澳洲增加1685億元、越南增加904億元、新加坡增加816億元、印度增766億元。銀行業者指出，主要受惠相關地區經濟相對活絡，帶動企業授信需求上揚。</p><p>國銀近年積極在澳洲申設據點，以最大城市雪梨來看，金管會資料顯示，國銀在澳洲雪梨設有2家代表人辦事處與7家分行，分別為王道銀、中信銀設有雪梨辦事處，中信銀雪梨辦事處升格分行去年也獲金管會核准，目前正依當地相關法規辦理籌設作業；兆豐銀、玉山銀、台企銀、華南銀、合庫銀、台銀、台北富邦銀行則設有雪梨分行。</p><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>北富銀雪梨分行近期舉行開幕典禮，北富銀指出，澳洲為亞太地區重要經濟體，擁有穩健的經濟環境、成熟的金融市場及豐富產業資源，近年在能源轉型、基礎建設、高科技及醫療生技等領域持續吸引國際資本與產業進駐。雪梨分行將以企業金融及機構金融業務為發展重心，未來將積極參與當地基礎建設、再生能源與重要產業發展計畫。</p><p>金管會統計顯示，截至今年8月底，授信總餘額較去年底增加最多的前5家銀行，分別為中信銀行增541億元、國泰世華銀行增529億元、台北富邦銀行增500億元、玉山銀行增485億元與兆豐銀行增397億元。（編輯：林家嫻）1150928</p>]]>
+    </description>
+    <content:encoded><![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1200/800;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20260928/1200x800_wmky_834232578293_202507010162000000.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260928/1200x800_wmky_834232578293_202507010162000000.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20260928/1200x800_wmky_834232578293_202507010162000000.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20260928/1200x800_wmky_834232578293_202507010162000000.jpg" fetchpriority="high" alt="金管會統計顯示，截至2026年8月底，本國銀行對新南向國家授信餘額達新台幣2兆4643億元，前8月大增4648億元。（中央社檔案照片）">
+                      </picture><figcaption class="picinfo">金管會統計顯示，截至2026年8月底，本國銀行對新南向國家授信餘額達新台幣2兆4643億元，前8月大增4648億元。（中央社檔案照片）</figcaption></figure><p>（中央社記者<a class="author" href="/author/0160/">蘇思云</a>台北28日電）金管會統計顯示，截至今年8月底，本國銀行對新南向國家授信餘額達新台幣2兆4643億元，前8月大增4648億元，全年增額將挑戰歷史新高；觀察前8月放款增額地區，以澳洲放款增加1685億元最多，越南增904億元居次，新加坡增816億元居第3名。</p><p>配合新南向政策，金管會提供多元資金管道的整體金融支援，促進南向發展。金管會從2017年訂定新南向放款目標以來，2026年度國銀對新南向國家授信總餘額成長目標為800億元，年底總餘額目標達2兆795億元，今年已提前在2月達標。</p><p>過去新南向全年放款高峰落在2022年新增放款達2657億元，今年以來更明顯加速。金管會統計顯示，截至今年8月底，本國銀行對新南向國家授信餘額為2兆4643億元，今年前8月增額為4648億元，相較全年目標值800億元，達標率為581%，持續超標。</p><p>金管會指出，截至8月底，授信總餘額較去年底增加最多的國家依序為，澳洲增加1685億元、越南增加904億元、新加坡增加816億元、印度增766億元。銀行業者指出，主要受惠相關地區經濟相對活絡，帶動企業授信需求上揚。</p><p>國銀近年積極在澳洲申設據點，以最大城市雪梨來看，金管會資料顯示，國銀在澳洲雪梨設有2家代表人辦事處與7家分行，分別為王道銀、中信銀設有雪梨辦事處，中信銀雪梨辦事處升格分行去年也獲金管會核准，目前正依當地相關法規辦理籌設作業；兆豐銀、玉山銀、台企銀、華南銀、合庫銀、台銀、台北富邦銀行則設有雪梨分行。</p><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>北富銀雪梨分行近期舉行開幕典禮，北富銀指出，澳洲為亞太地區重要經濟體，擁有穩健的經濟環境、成熟的金融市場及豐富產業資源，近年在能源轉型、基礎建設、高科技及醫療生技等領域持續吸引國際資本與產業進駐。雪梨分行將以企業金融及機構金融業務為發展重心，未來將積極參與當地基礎建設、再生能源與重要產業發展計畫。</p><p>金管會統計顯示，截至今年8月底，授信總餘額較去年底增加最多的前5家銀行，分別為中信銀行增541億元、國泰世華銀行增529億元、台北富邦銀行增500億元、玉山銀行增485億元與兆豐銀行增397億元。（編輯：林家嫻）1150928</p>]]></content:encoded>
+    
+    <pubDate>Mon, 28 Sep 2026 20:05:54 +0800</pubDate>
+  </item><item>
+    <title><![CDATA[川普拒絕伊朗停火提議　亞股收盤互有漲跌油價攀升]]></title>
+    <link>https://www.cna.com.tw/news/afe/202609280158.aspx</link>
+    <itunes:title><![CDATA[川普拒絕伊朗停火提議　亞股收盤互有漲跌油價攀升]]></itunes:title>
+    <itunes:author><![CDATA[中央社 產經證券[RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>（中央社香港28日綜合外電報導）美國總統川普拒絕伊朗提出的為期7天停火提議，再掀通膨疑慮，亞洲股市今天收盤互有漲跌，國際油價與債券殖利率攀升，投資人則等待美國公布重要經濟數據。</p><p>法新社報導，伊朗上週在聯合國大會（UN General Assembly）提出停火計畫，希望停止敵對行動並重啟荷莫茲海峽（Strait of Hormuz），藉此緩解推高全球各地成本的嚴重供應危機。</p><p>然而，川普在白宮外告訴記者：「我拒絕他們的提案。」儘管如此，他也向美國新聞網站Axios表示，他預期將會恢復談判。</p><p>伊朗提出停火方案的消息上週五傳出後，國際油價下跌逾2%，但本週開盤反彈，布倫特原油價格漲逾3%，重返每桶107美元以上。這再次引發通膨疑慮，並使股市承壓。</p><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>首爾股市在長假後今天恢復交易，收盤下跌2.7%；東京、上海、馬尼拉、孟買、曼谷及雅加達股市也走低。香港、雪梨、新加坡及威靈頓股市則上漲。</p><p>債券殖利率則攀升。彭博（Bloomberg News）報導，全球債券指標平均殖利率上週突破4%，為2007年以來首見。（編譯：<a class="author" href="/author/0086/">陳正健</a>）1150928</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>（中央社香港28日綜合外電報導）美國總統川普拒絕伊朗提出的為期7天停火提議，再掀通膨疑慮，亞洲股市今天收盤互有漲跌，國際油價與債券殖利率攀升，投資人則等待美國公布重要經濟數據。</p><p>法新社報導，伊朗上週在聯合國大會（UN General Assembly）提出停火計畫，希望停止敵對行動並重啟荷莫茲海峽（Strait of Hormuz），藉此緩解推高全球各地成本的嚴重供應危機。</p><p>然而，川普在白宮外告訴記者：「我拒絕他們的提案。」儘管如此，他也向美國新聞網站Axios表示，他預期將會恢復談判。</p><p>伊朗提出停火方案的消息上週五傳出後，國際油價下跌逾2%，但本週開盤反彈，布倫特原油價格漲逾3%，重返每桶107美元以上。這再次引發通膨疑慮，並使股市承壓。</p><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>首爾股市在長假後今天恢復交易，收盤下跌2.7%；東京、上海、馬尼拉、孟買、曼谷及雅加達股市也走低。香港、雪梨、新加坡及威靈頓股市則上漲。</p><p>債券殖利率則攀升。彭博（Bloomberg News）報導，全球債券指標平均殖利率上週突破4%，為2007年以來首見。（編譯：<a class="author" href="/author/0086/">陳正健</a>）1150928</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>（中央社香港28日綜合外電報導）美國總統川普拒絕伊朗提出的為期7天停火提議，再掀通膨疑慮，亞洲股市今天收盤互有漲跌，國際油價與債券殖利率攀升，投資人則等待美國公布重要經濟數據。</p><p>法新社報導，伊朗上週在聯合國大會（UN General Assembly）提出停火計畫，希望停止敵對行動並重啟荷莫茲海峽（Strait of Hormuz），藉此緩解推高全球各地成本的嚴重供應危機。</p><p>然而，川普在白宮外告訴記者：「我拒絕他們的提案。」儘管如此，他也向美國新聞網站Axios表示，他預期將會恢復談判。</p><p>伊朗提出停火方案的消息上週五傳出後，國際油價下跌逾2%，但本週開盤反彈，布倫特原油價格漲逾3%，重返每桶107美元以上。這再次引發通膨疑慮，並使股市承壓。</p><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>首爾股市在長假後今天恢復交易，收盤下跌2.7%；東京、上海、馬尼拉、孟買、曼谷及雅加達股市也走低。香港、雪梨、新加坡及威靈頓股市則上漲。</p><p>債券殖利率則攀升。彭博（Bloomberg News）報導，全球債券指標平均殖利率上週突破4%，為2007年以來首見。（編譯：<a class="author" href="/author/0086/">陳正健</a>）1150928</p>]]></content:encoded>
+    
+    <pubDate>Mon, 28 Sep 2026 16:38:45 +0800</pubDate>
+  </item><item>
+    <title><![CDATA[財部：台灣女性稅務員占比近8成　居亞太經濟體第2]]></title>
+    <link>https://www.cna.com.tw/news/afe/202609280155.aspx</link>
+    <itunes:title><![CDATA[財部：台灣女性稅務員占比近8成　居亞太經濟體第2]]></itunes:title>
+    <itunes:author><![CDATA[中央社 產經證券[RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>（中央社記者呂晏慈台北28日電）財政部統計顯示，2023年台灣平均每名稅務人員服務2583人，居亞太經濟體中段班，另女性稅務人員占比高達77.2%，在亞太經濟體中僅次於泰國的81.3%；女性主管占比73%，明顯高於多數鄰近國家及地區。</p><p>財政部統計處日前發布第16號財政統計通報，解析2023年亞太經濟體平均每名全職稅務人員服務人口及女性占比情形，以及其服務年資及稅務職能結構。</p><p>統計處指出，由於各國稅制結構不同，稅務人員配置有所差異。依據亞洲開發銀行（ADB）最新發布資料，2023年泰國每名全職稅務人員平均服務3195人居冠，其次為新加坡3041人，而台灣為2583人，與香港及馬來西亞相當，但高於南韓、日本及中國。</p><p>比較全職稅務人員性別組成，2023年台灣女性稅務人員占比達77.2%，在亞太經濟體中僅次於泰國的81.3%；女性主管方面，台灣占比為73%，為所有亞太經濟體中最高。此外，日、韓兩國女性稅務人員占比偏低，僅24.7%、46.9%，女性主管則占11.2%、2.6%。</p><p>統計處指出，與2020年相較，3年間各經濟體的女性稅務人員占比升、降各半，以南韓下滑9.5個百分點最多，台灣則小減1.2個百分點；台灣主管層級女性比重上揚5.7個百分點，僅次於泰國的9.2個百分點。</p><div class="lineAd"><a href="https://lin.ee/tPtHlLQ" target="_blank"><img src="https://imgcdn.cna.com.tw/www/website/img/ad300x223.jpg"></a></div><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>觀察稅務人員的年資分布，台灣以資深人員居多，其中服務逾20年比重為44.4%，低於中國（57.4%）、泰國（55.5%）及日本（50.4%），其次為年資10年至19年者占27.7%，兩者合計占7成2；而香港、南韓、新加坡及澳大利亞則以服務年資不及10年者比重介於42%至58%較多，人員組成相對年輕，其中，澳大利亞應與招募新血因應退休離職潮有關。</p><p>統計處分析，以稅務員的職能組成來看，2023年台灣負責審核、驗證及調查業務人員居多，占比逾半，香港、日本、南韓、新加坡、泰國皆以從事第一線註冊、申報及繳稅人員占比較高。（編輯：林家嫻）1150928</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>（中央社記者呂晏慈台北28日電）財政部統計顯示，2023年台灣平均每名稅務人員服務2583人，居亞太經濟體中段班，另女性稅務人員占比高達77.2%，在亞太經濟體中僅次於泰國的81.3%；女性主管占比73%，明顯高於多數鄰近國家及地區。</p><p>財政部統計處日前發布第16號財政統計通報，解析2023年亞太經濟體平均每名全職稅務人員服務人口及女性占比情形，以及其服務年資及稅務職能結構。</p><p>統計處指出，由於各國稅制結構不同，稅務人員配置有所差異。依據亞洲開發銀行（ADB）最新發布資料，2023年泰國每名全職稅務人員平均服務3195人居冠，其次為新加坡3041人，而台灣為2583人，與香港及馬來西亞相當，但高於南韓、日本及中國。</p><p>比較全職稅務人員性別組成，2023年台灣女性稅務人員占比達77.2%，在亞太經濟體中僅次於泰國的81.3%；女性主管方面，台灣占比為73%，為所有亞太經濟體中最高。此外，日、韓兩國女性稅務人員占比偏低，僅24.7%、46.9%，女性主管則占11.2%、2.6%。</p><p>統計處指出，與2020年相較，3年間各經濟體的女性稅務人員占比升、降各半，以南韓下滑9.5個百分點最多，台灣則小減1.2個百分點；台灣主管層級女性比重上揚5.7個百分點，僅次於泰國的9.2個百分點。</p><div class="lineAd"><a href="https://lin.ee/tPtHlLQ" target="_blank"><img src="https://imgcdn.cna.com.tw/www/website/img/ad300x223.jpg"></a></div><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>觀察稅務人員的年資分布，台灣以資深人員居多，其中服務逾20年比重為44.4%，低於中國（57.4%）、泰國（55.5%）及日本（50.4%），其次為年資10年至19年者占27.7%，兩者合計占7成2；而香港、南韓、新加坡及澳大利亞則以服務年資不及10年者比重介於42%至58%較多，人員組成相對年輕，其中，澳大利亞應與招募新血因應退休離職潮有關。</p><p>統計處分析，以稅務員的職能組成來看，2023年台灣負責審核、驗證及調查業務人員居多，占比逾半，香港、日本、南韓、新加坡、泰國皆以從事第一線註冊、申報及繳稅人員占比較高。（編輯：林家嫻）1150928</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>（中央社記者呂晏慈台北28日電）財政部統計顯示，2023年台灣平均每名稅務人員服務2583人，居亞太經濟體中段班，另女性稅務人員占比高達77.2%，在亞太經濟體中僅次於泰國的81.3%；女性主管占比73%，明顯高於多數鄰近國家及地區。</p><p>財政部統計處日前發布第16號財政統計通報，解析2023年亞太經濟體平均每名全職稅務人員服務人口及女性占比情形，以及其服務年資及稅務職能結構。</p><p>統計處指出，由於各國稅制結構不同，稅務人員配置有所差異。依據亞洲開發銀行（ADB）最新發布資料，2023年泰國每名全職稅務人員平均服務3195人居冠，其次為新加坡3041人，而台灣為2583人，與香港及馬來西亞相當，但高於南韓、日本及中國。</p><p>比較全職稅務人員性別組成，2023年台灣女性稅務人員占比達77.2%，在亞太經濟體中僅次於泰國的81.3%；女性主管方面，台灣占比為73%，為所有亞太經濟體中最高。此外，日、韓兩國女性稅務人員占比偏低，僅24.7%、46.9%，女性主管則占11.2%、2.6%。</p><p>統計處指出，與2020年相較，3年間各經濟體的女性稅務人員占比升、降各半，以南韓下滑9.5個百分點最多，台灣則小減1.2個百分點；台灣主管層級女性比重上揚5.7個百分點，僅次於泰國的9.2個百分點。</p><div class="lineAd"><a href="https://lin.ee/tPtHlLQ" target="_blank"><img src="https://imgcdn.cna.com.tw/www/website/img/ad300x223.jpg"></a></div><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>觀察稅務人員的年資分布，台灣以資深人員居多，其中服務逾20年比重為44.4%，低於中國（57.4%）、泰國（55.5%）及日本（50.4%），其次為年資10年至19年者占27.7%，兩者合計占7成2；而香港、南韓、新加坡及澳大利亞則以服務年資不及10年者比重介於42%至58%較多，人員組成相對年輕，其中，澳大利亞應與招募新血因應退休離職潮有關。</p><p>統計處分析，以稅務員的職能組成來看，2023年台灣負責審核、驗證及調查業務人員居多，占比逾半，香港、日本、南韓、新加坡、泰國皆以從事第一線註冊、申報及繳稅人員占比較高。（編輯：林家嫻）1150928</p>]]></content:encoded>
+    
+    <pubDate>Mon, 28 Sep 2026 16:35:38 +0800</pubDate>
+  </item></channel>
+</rss>
