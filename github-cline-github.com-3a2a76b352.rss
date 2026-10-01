@@ -3,7 +3,7 @@
     <title><![CDATA[cline Release [GH][RSS+]]]></title>
     <link>https://github.com/cline/cline/releases.atom</link>
     <image>
-      <url>https://fastly.picsum.photos/id/184/800/800.jpg?hmac=lmC8WI1eOGRKHRp2-ljqfQZcfb5306DsbFJcRBuSTwY</url>
+      <url>https://fastly.picsum.photos/id/821/800/800.jpg?hmac=dprIWVMGR_ZtJAoT9PdNXWxA0SepdlG5EwPw68OnVLc</url>
       <title>cline Release [GH][RSS+]</title>
       <link>https://github.com/cline/cline/releases.atom</link>
     </image>
@@ -28,38 +28,237 @@
     <itunes:owner>
       <itunes:name><![CDATA[cline Release [GH][RSS+]]]></itunes:name>
     </itunes:owner>
-    <itunes:image href="https://fastly.picsum.photos/id/184/800/800.jpg?hmac=lmC8WI1eOGRKHRp2-ljqfQZcfb5306DsbFJcRBuSTwY"/>
+    <itunes:image href="https://fastly.picsum.photos/id/821/800/800.jpg?hmac=dprIWVMGR_ZtJAoT9PdNXWxA0SepdlG5EwPw68OnVLc"/>
 <item>
-    <title><![CDATA[tmpfiles暫存檔案下載頁面：title.txt將於59分鐘後過期失效]]></title>
-    <link>https://github.com/cline/cline/releases/tag/desktop-v0.0.37</link>
-    <itunes:title><![CDATA[tmpfiles暫存檔案下載頁面：title.txt將於59分鐘後過期失效]]></itunes:title>
+    <title><![CDATA[Cline v4.1.22 更新：新增 Bee 與 Pareto 提供商，GPT-6.1 Sol 成為多平台預設模型並修復多項錯誤]]></title>
+    <link>https://github.com/cline/cline/releases/tag/v4.1.22</link>
+    <itunes:title><![CDATA[Cline v4.1.22 更新：新增 Bee 與 Pareto 提供商，GPT-6.1 Sol 成為多平台預設模型並修復多項錯誤]]></itunes:title>
+    <itunes:author><![CDATA[github-actions[bot]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<h3>Added</h3>
+<ul>
+<li>New providers: Bee (by HEOSSI) and Pareto Inference (<code>PARETO_API_KEY</code>).</li>
+</ul>
+<h3>Changed</h3>
+<ul>
+<li>Direct Anthropic requests now use Anthropic's server-side refusal fallback. On OpenRouter and Cline, Anthropic models can fail over to another upstream provider instead of failing the request.</li>
+<li>When a response is blocked by a content filter, Cline now says so and suggests rephrasing, instead of "Model returned empty response".</li>
+<li>Refreshed the model catalog. GPT-6.1 Sol becomes the default model for OpenAI, OpenRouter, GitHub Copilot, Cortecs, Eden AI, Kilo Gateway, both LLM Gateway providers, NanoGPT, OpenCode Zen, and Requesty. Vercel AI Gateway moves to Ling 3.1 Flash, Tempr Gateway to MiMo V2.6 Flash, CrossModel and Ofox to Claude Sonnet 5.5, Pioneer to GLiNER 2.5 Decide, and Scaleway to Qwen 3.8 27B. The Cline recommended list adds Claude Sonnet 5.5 and Claude Opus 5.5. If you use one of those providers without pinning a model, expect a different default.</li>
+</ul>
+<h3>Fixed</h3>
+<ul>
+<li>After an API error you can type and send a new message instead of only using Retry. A <code>/compact</code> (or <code>/smol</code>, <code>/newtask</code>) typed during recovery stays in the composer instead of being sent to the model as text.</li>
+<li>If a new task fails Cline sign-in, signing in and submitting a revised prompt now starts the task with that prompt. Before, nothing happened.</li>
+<li><strong>Reset Code</strong> is now disabled when a message has no checkpoint, and no longer stays disabled for a message whose checkpoint exists (seen on slow disks). Changing the Checkpoints setting now applies to the active task, and follow-up messages typed while it applies are kept in order.</li>
+<li>Canceling right after sending a message now stops the task. A cancel that landed while the turn was still being set up was ignored, and the task kept running.</li>
+<li>Reasoning tokens are no longer counted twice in token usage. Cost is unchanged.</li>
+<li>Amazon Bedrock: GPT-6 and GPT-5.6 route through inference profiles, and India regions (<code>ap-south-1</code>, <code>ap-south-2</code>) resolve the <code>in.</code> profile. OpenAI models behind inference profiles get the reasoning effort setting they support. Nova 2 Lite with high reasoning, application inference-profile ARNs, and Nova Micro no longer get requests Bedrock rejects. A legacy AWS profile setting saved without the "use profile" flag now carries over as profile authentication instead of being dropped.</li>
+<li>Gateway models on providers that mix endpoints keep their own API protocol instead of falling back to the provider-wide default.</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/v4.1.21...v4.1.22"><tt>v4.1.21...v4.1.22</tt></a></p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<h3>Added</h3>
+<ul>
+<li>New providers: Bee (by HEOSSI) and Pareto Inference (<code>PARETO_API_KEY</code>).</li>
+</ul>
+<h3>Changed</h3>
+<ul>
+<li>Direct Anthropic requests now use Anthropic's server-side refusal fallback. On OpenRouter and Cline, Anthropic models can fail over to another upstream provider instead of failing the request.</li>
+<li>When a response is blocked by a content filter, Cline now says so and suggests rephrasing, instead of "Model returned empty response".</li>
+<li>Refreshed the model catalog. GPT-6.1 Sol becomes the default model for OpenAI, OpenRouter, GitHub Copilot, Cortecs, Eden AI, Kilo Gateway, both LLM Gateway providers, NanoGPT, OpenCode Zen, and Requesty. Vercel AI Gateway moves to Ling 3.1 Flash, Tempr Gateway to MiMo V2.6 Flash, CrossModel and Ofox to Claude Sonnet 5.5, Pioneer to GLiNER 2.5 Decide, and Scaleway to Qwen 3.8 27B. The Cline recommended list adds Claude Sonnet 5.5 and Claude Opus 5.5. If you use one of those providers without pinning a model, expect a different default.</li>
+</ul>
+<h3>Fixed</h3>
+<ul>
+<li>After an API error you can type and send a new message instead of only using Retry. A <code>/compact</code> (or <code>/smol</code>, <code>/newtask</code>) typed during recovery stays in the composer instead of being sent to the model as text.</li>
+<li>If a new task fails Cline sign-in, signing in and submitting a revised prompt now starts the task with that prompt. Before, nothing happened.</li>
+<li><strong>Reset Code</strong> is now disabled when a message has no checkpoint, and no longer stays disabled for a message whose checkpoint exists (seen on slow disks). Changing the Checkpoints setting now applies to the active task, and follow-up messages typed while it applies are kept in order.</li>
+<li>Canceling right after sending a message now stops the task. A cancel that landed while the turn was still being set up was ignored, and the task kept running.</li>
+<li>Reasoning tokens are no longer counted twice in token usage. Cost is unchanged.</li>
+<li>Amazon Bedrock: GPT-6 and GPT-5.6 route through inference profiles, and India regions (<code>ap-south-1</code>, <code>ap-south-2</code>) resolve the <code>in.</code> profile. OpenAI models behind inference profiles get the reasoning effort setting they support. Nova 2 Lite with high reasoning, application inference-profile ARNs, and Nova Micro no longer get requests Bedrock rejects. A legacy AWS profile setting saved without the "use profile" flag now carries over as profile authentication instead of being dropped.</li>
+<li>Gateway models on providers that mix endpoints keep their own API protocol instead of falling back to the provider-wide default.</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/v4.1.21...v4.1.22"><tt>v4.1.21...v4.1.22</tt></a></p>]]>
+    </description>
+    <content:encoded><![CDATA[<h3>Added</h3>
+<ul>
+<li>New providers: Bee (by HEOSSI) and Pareto Inference (<code>PARETO_API_KEY</code>).</li>
+</ul>
+<h3>Changed</h3>
+<ul>
+<li>Direct Anthropic requests now use Anthropic's server-side refusal fallback. On OpenRouter and Cline, Anthropic models can fail over to another upstream provider instead of failing the request.</li>
+<li>When a response is blocked by a content filter, Cline now says so and suggests rephrasing, instead of "Model returned empty response".</li>
+<li>Refreshed the model catalog. GPT-6.1 Sol becomes the default model for OpenAI, OpenRouter, GitHub Copilot, Cortecs, Eden AI, Kilo Gateway, both LLM Gateway providers, NanoGPT, OpenCode Zen, and Requesty. Vercel AI Gateway moves to Ling 3.1 Flash, Tempr Gateway to MiMo V2.6 Flash, CrossModel and Ofox to Claude Sonnet 5.5, Pioneer to GLiNER 2.5 Decide, and Scaleway to Qwen 3.8 27B. The Cline recommended list adds Claude Sonnet 5.5 and Claude Opus 5.5. If you use one of those providers without pinning a model, expect a different default.</li>
+</ul>
+<h3>Fixed</h3>
+<ul>
+<li>After an API error you can type and send a new message instead of only using Retry. A <code>/compact</code> (or <code>/smol</code>, <code>/newtask</code>) typed during recovery stays in the composer instead of being sent to the model as text.</li>
+<li>If a new task fails Cline sign-in, signing in and submitting a revised prompt now starts the task with that prompt. Before, nothing happened.</li>
+<li><strong>Reset Code</strong> is now disabled when a message has no checkpoint, and no longer stays disabled for a message whose checkpoint exists (seen on slow disks). Changing the Checkpoints setting now applies to the active task, and follow-up messages typed while it applies are kept in order.</li>
+<li>Canceling right after sending a message now stops the task. A cancel that landed while the turn was still being set up was ignored, and the task kept running.</li>
+<li>Reasoning tokens are no longer counted twice in token usage. Cost is unchanged.</li>
+<li>Amazon Bedrock: GPT-6 and GPT-5.6 route through inference profiles, and India regions (<code>ap-south-1</code>, <code>ap-south-2</code>) resolve the <code>in.</code> profile. OpenAI models behind inference profiles get the reasoning effort setting they support. Nova 2 Lite with high reasoning, application inference-profile ARNs, and Nova Micro no longer get requests Bedrock rejects. A legacy AWS profile setting saved without the "use profile" flag now carries over as profile authentication instead of being dropped.</li>
+<li>Gateway models on providers that mix endpoints keep their own API protocol instead of falling back to the provider-wide default.</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/v4.1.21...v4.1.22"><tt>v4.1.21...v4.1.22</tt></a></p>]]></content:encoded>
+    
+    <pubDate>2026-09-30T04:10:18.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[Cline 釋出 @cline/shared SDK v0.0.89 版本更新]]></title>
+    <link>https://github.com/cline/cline/releases/tag/sdk%2Fshared%2Fv0.0.89</link>
+    <itunes:title><![CDATA[Cline 釋出 @cline/shared SDK v0.0.89 版本更新]]></itunes:title>
+    <itunes:author><![CDATA[github-actions[bot]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>@cline/shared@0.0.89</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>@cline/shared@0.0.89</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>@cline/shared@0.0.89</p>]]></content:encoded>
+    
+    <pubDate>2026-09-30T23:34:03.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[@cline/shared 套件發布 v0.0.88 版本]]></title>
+    <link>https://github.com/cline/cline/releases/tag/sdk%2Fshared%2Fv0.0.88</link>
+    <itunes:title><![CDATA[@cline/shared 套件發布 v0.0.88 版本]]></itunes:title>
+    <itunes:author><![CDATA[github-actions[bot]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>@cline/shared@0.0.88</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>@cline/shared@0.0.88</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>@cline/shared@0.0.88</p>]]></content:encoded>
+    
+    <pubDate>2026-09-30T02:32:26.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[SDK v0.0.89：支援完整讀取大型工具結果、修復自訂供應商與設定儲存，並更新模型目錄]]></title>
+    <link>https://github.com/cline/cline/releases/tag/sdk%2Fsdk%2Fv0.0.89</link>
+    <itunes:title><![CDATA[SDK v0.0.89：支援完整讀取大型工具結果、修復自訂供應商與設定儲存，並更新模型目錄]]></itunes:title>
     <itunes:author><![CDATA[github-actions[bot]]]></itunes:author>
     <itunes:summary>
       <![CDATA[<ul>
-<li>Settings has a new <strong>About</strong> page. It shows your version and channel, has <strong>Check for updates</strong> and <strong>Restart to update</strong> buttons, and lists the release notes for recent versions with links to each GitHub release and the full changelog. <strong>Report an issue</strong> is there too</li>
-<li>After an update, a one-time <strong>What's new</strong> dialog now catches you up on recent features. The first one covers SSH remotes, worktrees, pull request status in the composer, and parallel sub-agents. To see it again, use <strong>Highlights</strong> on the About page</li>
-<li>On macOS, <strong>Help → Export Diagnostics…</strong> now opens the diagnostics export directly, so you don't have to find it in Settings</li>
-<li>On Amazon Bedrock, OpenAI models reached through inference profiles (<code>us.openai.…</code>, <code>global.openai.…</code>) no longer fail with "Unknown parameter: 'reasoningConfig'" when reasoning effort is set</li>
+<li>Oversized MCP and Composio tool results can now be recovered in full. Core caches the oversized output in a per-session in-memory cache and sends the model a bounded preview plus a <code>cline://cache/...</code> URI that <code>read_files</code> can page through by line range. Custom tools can opt in with <code>resultPolicy: "cache-oversized"</code> on <code>createTool</code>. Entries expire after five model iterations without a read, the cache is capped at 16 MiB per session, and original output stays in history and tool events</li>
+<li>Custom providers from <code>providers.json</code>/<code>models.json</code> now run on the agent path. They appeared in pickers but failed with <code>Unknown or disabled provider "&lt;id&gt;"</code>, because <code>createAgentModelFromConfig</code> only registered builtin providers with the gateway. <code>@cline/llms</code> now exports <code>resolveGatewayProviderRegistration(Sync)</code></li>
+<li>Provider settings saves are more robust. Settings still save when model discovery fails, mutations are serialized, a failed catalog write restores the previous settings, and persistence errors propagate to the caller (<code>saveLocalProviderSettings</code> is now async). Model source requests are authenticated, and source catalogs refresh when credentials or endpoints change</li>
+<li>Refreshed the model catalog. The Cline recommended list adds GPT-6.1 Sol and drops the Pixel Canary stealth model. Default models change for 302.AI (Claude Sonnet 5.5), NanoGPT (Ling 3.1 Flash), Vivgrid (GPT-6.1 Sol), and Vultr (MiMo V2.6 Flash RL). Vultr's model ids were renamed upstream (for example <code>zai-org/GLM-5.2-FP8</code> is now <code>glm-5.2</code>), so a pinned Vultr model may need to be re-selected</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/desktop-v0.0.36...desktop-v0.0.37"><tt>desktop-v0.0.36...desktop-v0.0.37</tt></a></p>]]>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/sdk/sdk/v0.0.88...sdk/sdk/v0.0.89"><tt>sdk/sdk/v0.0.88...sdk/sdk/v0.0.89</tt></a></p>]]>
     </itunes:summary>
     <description>
       <![CDATA[<ul>
-<li>Settings has a new <strong>About</strong> page. It shows your version and channel, has <strong>Check for updates</strong> and <strong>Restart to update</strong> buttons, and lists the release notes for recent versions with links to each GitHub release and the full changelog. <strong>Report an issue</strong> is there too</li>
-<li>After an update, a one-time <strong>What's new</strong> dialog now catches you up on recent features. The first one covers SSH remotes, worktrees, pull request status in the composer, and parallel sub-agents. To see it again, use <strong>Highlights</strong> on the About page</li>
-<li>On macOS, <strong>Help → Export Diagnostics…</strong> now opens the diagnostics export directly, so you don't have to find it in Settings</li>
-<li>On Amazon Bedrock, OpenAI models reached through inference profiles (<code>us.openai.…</code>, <code>global.openai.…</code>) no longer fail with "Unknown parameter: 'reasoningConfig'" when reasoning effort is set</li>
+<li>Oversized MCP and Composio tool results can now be recovered in full. Core caches the oversized output in a per-session in-memory cache and sends the model a bounded preview plus a <code>cline://cache/...</code> URI that <code>read_files</code> can page through by line range. Custom tools can opt in with <code>resultPolicy: "cache-oversized"</code> on <code>createTool</code>. Entries expire after five model iterations without a read, the cache is capped at 16 MiB per session, and original output stays in history and tool events</li>
+<li>Custom providers from <code>providers.json</code>/<code>models.json</code> now run on the agent path. They appeared in pickers but failed with <code>Unknown or disabled provider "&lt;id&gt;"</code>, because <code>createAgentModelFromConfig</code> only registered builtin providers with the gateway. <code>@cline/llms</code> now exports <code>resolveGatewayProviderRegistration(Sync)</code></li>
+<li>Provider settings saves are more robust. Settings still save when model discovery fails, mutations are serialized, a failed catalog write restores the previous settings, and persistence errors propagate to the caller (<code>saveLocalProviderSettings</code> is now async). Model source requests are authenticated, and source catalogs refresh when credentials or endpoints change</li>
+<li>Refreshed the model catalog. The Cline recommended list adds GPT-6.1 Sol and drops the Pixel Canary stealth model. Default models change for 302.AI (Claude Sonnet 5.5), NanoGPT (Ling 3.1 Flash), Vivgrid (GPT-6.1 Sol), and Vultr (MiMo V2.6 Flash RL). Vultr's model ids were renamed upstream (for example <code>zai-org/GLM-5.2-FP8</code> is now <code>glm-5.2</code>), so a pinned Vultr model may need to be re-selected</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/desktop-v0.0.36...desktop-v0.0.37"><tt>desktop-v0.0.36...desktop-v0.0.37</tt></a></p>]]>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/sdk/sdk/v0.0.88...sdk/sdk/v0.0.89"><tt>sdk/sdk/v0.0.88...sdk/sdk/v0.0.89</tt></a></p>]]>
     </description>
     <content:encoded><![CDATA[<ul>
-<li>Settings has a new <strong>About</strong> page. It shows your version and channel, has <strong>Check for updates</strong> and <strong>Restart to update</strong> buttons, and lists the release notes for recent versions with links to each GitHub release and the full changelog. <strong>Report an issue</strong> is there too</li>
-<li>After an update, a one-time <strong>What's new</strong> dialog now catches you up on recent features. The first one covers SSH remotes, worktrees, pull request status in the composer, and parallel sub-agents. To see it again, use <strong>Highlights</strong> on the About page</li>
-<li>On macOS, <strong>Help → Export Diagnostics…</strong> now opens the diagnostics export directly, so you don't have to find it in Settings</li>
-<li>On Amazon Bedrock, OpenAI models reached through inference profiles (<code>us.openai.…</code>, <code>global.openai.…</code>) no longer fail with "Unknown parameter: 'reasoningConfig'" when reasoning effort is set</li>
+<li>Oversized MCP and Composio tool results can now be recovered in full. Core caches the oversized output in a per-session in-memory cache and sends the model a bounded preview plus a <code>cline://cache/...</code> URI that <code>read_files</code> can page through by line range. Custom tools can opt in with <code>resultPolicy: "cache-oversized"</code> on <code>createTool</code>. Entries expire after five model iterations without a read, the cache is capped at 16 MiB per session, and original output stays in history and tool events</li>
+<li>Custom providers from <code>providers.json</code>/<code>models.json</code> now run on the agent path. They appeared in pickers but failed with <code>Unknown or disabled provider "&lt;id&gt;"</code>, because <code>createAgentModelFromConfig</code> only registered builtin providers with the gateway. <code>@cline/llms</code> now exports <code>resolveGatewayProviderRegistration(Sync)</code></li>
+<li>Provider settings saves are more robust. Settings still save when model discovery fails, mutations are serialized, a failed catalog write restores the previous settings, and persistence errors propagate to the caller (<code>saveLocalProviderSettings</code> is now async). Model source requests are authenticated, and source catalogs refresh when credentials or endpoints change</li>
+<li>Refreshed the model catalog. The Cline recommended list adds GPT-6.1 Sol and drops the Pixel Canary stealth model. Default models change for 302.AI (Claude Sonnet 5.5), NanoGPT (Ling 3.1 Flash), Vivgrid (GPT-6.1 Sol), and Vultr (MiMo V2.6 Flash RL). Vultr's model ids were renamed upstream (for example <code>zai-org/GLM-5.2-FP8</code> is now <code>glm-5.2</code>), so a pinned Vultr model may need to be re-selected</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/desktop-v0.0.36...desktop-v0.0.37"><tt>desktop-v0.0.36...desktop-v0.0.37</tt></a></p>]]></content:encoded>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/sdk/sdk/v0.0.88...sdk/sdk/v0.0.89"><tt>sdk/sdk/v0.0.88...sdk/sdk/v0.0.89</tt></a></p>]]></content:encoded>
     
-    <pubDate>2026-09-26T02:28:03.000Z</pubDate>
+    <pubDate>2026-09-30T23:34:22.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[SDK v0.0.88 發布：新增 API 備援機制、修復會話恢復與中斷功能並更新模型目錄]]></title>
+    <link>https://github.com/cline/cline/releases/tag/sdk%2Fsdk%2Fv0.0.88</link>
+    <itunes:title><![CDATA[SDK v0.0.88 發布：新增 API 備援機制、修復會話恢復與中斷功能並更新模型目錄]]></itunes:title>
+    <itunes:author><![CDATA[github-actions[bot]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<ul>
+<li>Direct Anthropic requests now ask the Claude API for its recommended server-side refusal fallback (<code>anthropic.fallbacks: "default"</code>), and OpenRouter and Cline requests for Anthropic models set <code>provider.allow_fallbacks</code> so a request can fail over to another upstream provider instead of failing outright</li>
+<li>A Stop issued while a turn is still being prepared is no longer dropped. The agent runtime ignores <code>abort()</code> with no run in flight, so a Stop that landed between <code>runTurn()</code> entry and the run start (session persistence, the git metadata refresh, credential sync) was lost and the turn kept running while the host showed it as stopped. <code>LocalRuntimeHost</code> now re-sends the abort once the run exists, and clears a leftover between-turns abort flag when a new turn starts so it can't cancel the next prompt</li>
+<li>Content-filtered turns are no longer reported as empty responses. <code>content-filter</code> is a new <code>AgentModelFinishReason</code>, mapped by both the AI SDK and ApiHandler adapters (including the compat round trip); the run fails with a message saying the response was blocked by a content filter and suggesting a rephrase, and the run-failed <code>sdk.error</code> event carries the turn's finish reason</li>
+<li>Resuming an existing session works again. 0.0.87 added a duplicate-start guard that rejected starting an existing session ID with "session already exists", which blocked desktop and TUI resume; the guard is reverted, and the cloud controller keeps initial thinking and reasoning-effort preferences in session metadata instead</li>
+<li><code>NodeHubClient</code> registers <code>{ version, pid }</code> metadata (version defaults to the <code>@cline/core</code> version, overridable with <code>clientVersion</code>). <code>hub.client.registered</code> includes it, and the Cline Hub web app shows it for connected clients and in join/leave events</li>
+<li><code>@ai-sdk/amazon-bedrock</code> moves to <code>^5.0.98</code>, so Nova 2 Lite with high reasoning effort no longer returns a 400</li>
+<li>Refreshed the model catalog. GPT-6.1 Sol becomes the default model for OpenAI, OpenRouter, GitHub Copilot, Cortecs, Eden AI, Kilo Gateway, both LLM Gateway providers, NanoGPT, OpenCode Zen, and Requesty. Vercel AI Gateway moves to Ling 3.1 Flash, Tempr Gateway to MiMo V2.6 Flash, CrossModel and Ofox to Claude Sonnet 5.5, Pioneer to GLiNER 2.5 Decide, and Scaleway to Qwen 3.8 27B. New models include Grok 4.7 on Bedrock, DeepSeek V4.1 Flash on Nebius, and Qwen 3.8 27B on Cerebras and Groq; the Claude Opus 4 variants are dropped</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/sdk/sdk/v0.0.87...sdk/sdk/v0.0.88"><tt>sdk/sdk/v0.0.87...sdk/sdk/v0.0.88</tt></a></p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<ul>
+<li>Direct Anthropic requests now ask the Claude API for its recommended server-side refusal fallback (<code>anthropic.fallbacks: "default"</code>), and OpenRouter and Cline requests for Anthropic models set <code>provider.allow_fallbacks</code> so a request can fail over to another upstream provider instead of failing outright</li>
+<li>A Stop issued while a turn is still being prepared is no longer dropped. The agent runtime ignores <code>abort()</code> with no run in flight, so a Stop that landed between <code>runTurn()</code> entry and the run start (session persistence, the git metadata refresh, credential sync) was lost and the turn kept running while the host showed it as stopped. <code>LocalRuntimeHost</code> now re-sends the abort once the run exists, and clears a leftover between-turns abort flag when a new turn starts so it can't cancel the next prompt</li>
+<li>Content-filtered turns are no longer reported as empty responses. <code>content-filter</code> is a new <code>AgentModelFinishReason</code>, mapped by both the AI SDK and ApiHandler adapters (including the compat round trip); the run fails with a message saying the response was blocked by a content filter and suggesting a rephrase, and the run-failed <code>sdk.error</code> event carries the turn's finish reason</li>
+<li>Resuming an existing session works again. 0.0.87 added a duplicate-start guard that rejected starting an existing session ID with "session already exists", which blocked desktop and TUI resume; the guard is reverted, and the cloud controller keeps initial thinking and reasoning-effort preferences in session metadata instead</li>
+<li><code>NodeHubClient</code> registers <code>{ version, pid }</code> metadata (version defaults to the <code>@cline/core</code> version, overridable with <code>clientVersion</code>). <code>hub.client.registered</code> includes it, and the Cline Hub web app shows it for connected clients and in join/leave events</li>
+<li><code>@ai-sdk/amazon-bedrock</code> moves to <code>^5.0.98</code>, so Nova 2 Lite with high reasoning effort no longer returns a 400</li>
+<li>Refreshed the model catalog. GPT-6.1 Sol becomes the default model for OpenAI, OpenRouter, GitHub Copilot, Cortecs, Eden AI, Kilo Gateway, both LLM Gateway providers, NanoGPT, OpenCode Zen, and Requesty. Vercel AI Gateway moves to Ling 3.1 Flash, Tempr Gateway to MiMo V2.6 Flash, CrossModel and Ofox to Claude Sonnet 5.5, Pioneer to GLiNER 2.5 Decide, and Scaleway to Qwen 3.8 27B. New models include Grok 4.7 on Bedrock, DeepSeek V4.1 Flash on Nebius, and Qwen 3.8 27B on Cerebras and Groq; the Claude Opus 4 variants are dropped</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/sdk/sdk/v0.0.87...sdk/sdk/v0.0.88"><tt>sdk/sdk/v0.0.87...sdk/sdk/v0.0.88</tt></a></p>]]>
+    </description>
+    <content:encoded><![CDATA[<ul>
+<li>Direct Anthropic requests now ask the Claude API for its recommended server-side refusal fallback (<code>anthropic.fallbacks: "default"</code>), and OpenRouter and Cline requests for Anthropic models set <code>provider.allow_fallbacks</code> so a request can fail over to another upstream provider instead of failing outright</li>
+<li>A Stop issued while a turn is still being prepared is no longer dropped. The agent runtime ignores <code>abort()</code> with no run in flight, so a Stop that landed between <code>runTurn()</code> entry and the run start (session persistence, the git metadata refresh, credential sync) was lost and the turn kept running while the host showed it as stopped. <code>LocalRuntimeHost</code> now re-sends the abort once the run exists, and clears a leftover between-turns abort flag when a new turn starts so it can't cancel the next prompt</li>
+<li>Content-filtered turns are no longer reported as empty responses. <code>content-filter</code> is a new <code>AgentModelFinishReason</code>, mapped by both the AI SDK and ApiHandler adapters (including the compat round trip); the run fails with a message saying the response was blocked by a content filter and suggesting a rephrase, and the run-failed <code>sdk.error</code> event carries the turn's finish reason</li>
+<li>Resuming an existing session works again. 0.0.87 added a duplicate-start guard that rejected starting an existing session ID with "session already exists", which blocked desktop and TUI resume; the guard is reverted, and the cloud controller keeps initial thinking and reasoning-effort preferences in session metadata instead</li>
+<li><code>NodeHubClient</code> registers <code>{ version, pid }</code> metadata (version defaults to the <code>@cline/core</code> version, overridable with <code>clientVersion</code>). <code>hub.client.registered</code> includes it, and the Cline Hub web app shows it for connected clients and in join/leave events</li>
+<li><code>@ai-sdk/amazon-bedrock</code> moves to <code>^5.0.98</code>, so Nova 2 Lite with high reasoning effort no longer returns a 400</li>
+<li>Refreshed the model catalog. GPT-6.1 Sol becomes the default model for OpenAI, OpenRouter, GitHub Copilot, Cortecs, Eden AI, Kilo Gateway, both LLM Gateway providers, NanoGPT, OpenCode Zen, and Requesty. Vercel AI Gateway moves to Ling 3.1 Flash, Tempr Gateway to MiMo V2.6 Flash, CrossModel and Ofox to Claude Sonnet 5.5, Pioneer to GLiNER 2.5 Decide, and Scaleway to Qwen 3.8 27B. New models include Grok 4.7 on Bedrock, DeepSeek V4.1 Flash on Nebius, and Qwen 3.8 27B on Cerebras and Groq; the Claude Opus 4 variants are dropped</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/sdk/sdk/v0.0.87...sdk/sdk/v0.0.88"><tt>sdk/sdk/v0.0.87...sdk/sdk/v0.0.88</tt></a></p>]]></content:encoded>
+    
+    <pubDate>2026-09-30T02:32:48.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[SDK/LLMs 發布 @cline/llms 0.0.89 版本]]></title>
+    <link>https://github.com/cline/cline/releases/tag/sdk%2Fllms%2Fv0.0.89</link>
+    <itunes:title><![CDATA[SDK/LLMs 發布 @cline/llms 0.0.89 版本]]></itunes:title>
+    <itunes:author><![CDATA[github-actions[bot]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>@cline/llms@0.0.89</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>@cline/llms@0.0.89</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>@cline/llms@0.0.89</p>]]></content:encoded>
+    
+    <pubDate>2026-09-30T23:34:05.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[Cline LLM SDK 更新至 0.0.88 版]]></title>
+    <link>https://github.com/cline/cline/releases/tag/sdk%2Fllms%2Fv0.0.88</link>
+    <itunes:title><![CDATA[Cline LLM SDK 更新至 0.0.88 版]]></itunes:title>
+    <itunes:author><![CDATA[github-actions[bot]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>@cline/llms@0.0.88</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>@cline/llms@0.0.88</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>@cline/llms@0.0.88</p>]]></content:encoded>
+    
+    <pubDate>2026-09-30T02:32:28.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[Cline 核心 SDK 發布 v0.0.89 版本更新]]></title>
+    <link>https://github.com/cline/cline/releases/tag/sdk%2Fcore%2Fv0.0.89</link>
+    <itunes:title><![CDATA[Cline 核心 SDK 發布 v0.0.89 版本更新]]></itunes:title>
+    <itunes:author><![CDATA[github-actions[bot]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>@cline/core@0.0.89</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>@cline/core@0.0.89</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>@cline/core@0.0.89</p>]]></content:encoded>
+    
+    <pubDate>2026-09-30T23:34:08.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[Cline 核心套件版本：0.0.88]]></title>
+    <link>https://github.com/cline/cline/releases/tag/sdk%2Fcore%2Fv0.0.88</link>
+    <itunes:title><![CDATA[Cline 核心套件版本：0.0.88]]></itunes:title>
+    <itunes:author><![CDATA[github-actions[bot]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>@cline/core@0.0.88</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>@cline/core@0.0.88</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>@cline/core@0.0.88</p>]]></content:encoded>
+    
+    <pubDate>2026-09-30T02:32:32.000Z</pubDate>
   </item></channel>
 </rss>
