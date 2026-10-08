@@ -3,7 +3,7 @@
     <title><![CDATA[GraphRAG Release [GH][RSS+]]]></title>
     <link>https://github.com/microsoft/graphrag/releases.atom</link>
     <image>
-      <url>https://fastly.picsum.photos/id/512/800/800.jpg?hmac=-Q9vHXSapTTo8mbCOtMUzr6mydu3RfYD-hdhSH9N6ag</url>
+      <url>https://fastly.picsum.photos/id/1019/800/800.jpg?hmac=sVtfJzBornA6hSh5Owmt8eCyjERXaah1l6krmwuOTK4</url>
       <title>GraphRAG Release [GH][RSS+]</title>
       <link>https://github.com/microsoft/graphrag/releases.atom</link>
     </image>
@@ -28,8 +28,37 @@
     <itunes:owner>
       <itunes:name><![CDATA[GraphRAG Release [GH][RSS+]]]></itunes:name>
     </itunes:owner>
-    <itunes:image href="https://fastly.picsum.photos/id/512/800/800.jpg?hmac=-Q9vHXSapTTo8mbCOtMUzr6mydu3RfYD-hdhSH9N6ag"/>
+    <itunes:image href="https://fastly.picsum.photos/id/1019/800/800.jpg?hmac=sVtfJzBornA6hSh5Owmt8eCyjERXaah1l6krmwuOTK4"/>
 <item>
+    <title><![CDATA[v3.3.0 正式發布：修復 SQLite 效能問題]]></title>
+    <link>https://github.com/microsoft/graphrag/releases/tag/v3.3.0</link>
+    <itunes:title><![CDATA[v3.3.0 正式發布：修復 SQLite 效能問題]]></itunes:title>
+    <itunes:author><![CDATA[gaudyb]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>fix sqlite performance issue by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/gaudyb/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/gaudyb">gaudyb</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="5751173493" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2591" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2591/hovercard" href="https://github.com/microsoft/graphrag/pull/2591">#2591</a></li>
+<li>Release v3.3.0 by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/gaudyb/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/gaudyb">gaudyb</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="5766375084" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2592" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2592/hovercard" href="https://github.com/microsoft/graphrag/pull/2592">#2592</a></li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/microsoft/graphrag/compare/v3.2.0...v3.3.0"><tt>v3.2.0...v3.3.0</tt></a></p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>fix sqlite performance issue by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/gaudyb/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/gaudyb">gaudyb</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="5751173493" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2591" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2591/hovercard" href="https://github.com/microsoft/graphrag/pull/2591">#2591</a></li>
+<li>Release v3.3.0 by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/gaudyb/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/gaudyb">gaudyb</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="5766375084" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2592" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2592/hovercard" href="https://github.com/microsoft/graphrag/pull/2592">#2592</a></li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/microsoft/graphrag/compare/v3.2.0...v3.3.0"><tt>v3.2.0...v3.3.0</tt></a></p>]]>
+    </description>
+    <content:encoded><![CDATA[<h2>What's Changed</h2>
+<ul>
+<li>fix sqlite performance issue by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/gaudyb/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/gaudyb">gaudyb</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="5751173493" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2591" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2591/hovercard" href="https://github.com/microsoft/graphrag/pull/2591">#2591</a></li>
+<li>Release v3.3.0 by <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/gaudyb/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/gaudyb">gaudyb</a> in <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="5766375084" data-permission-text="Title is private" data-url="https://github.com/microsoft/graphrag/issues/2592" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/graphrag/pull/2592/hovercard" href="https://github.com/microsoft/graphrag/pull/2592">#2592</a></li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/microsoft/graphrag/compare/v3.2.0...v3.3.0"><tt>v3.2.0...v3.3.0</tt></a></p>]]></content:encoded>
+    
+    <pubDate>2026-10-08T18:28:43.000Z</pubDate>
+  </item><item>
     <title><![CDATA[/tmp/files 臨時檔案分享平台：title.txt 下載頁面與 59 分鐘過期提示]]></title>
     <link>https://github.com/microsoft/graphrag/releases/tag/v3.1.2</link>
     <itunes:title><![CDATA[/tmp/files 臨時檔案分享平台：title.txt 下載頁面與 59 分鐘過期提示]]></itunes:title>
@@ -327,43 +356,5 @@ v1.2.1]]></itunes:title>
     <content:encoded><![CDATA[<p>v1.2.1</p>]]></content:encoded>
     
     <pubDate>2026-03-27T14:06:36.000Z</pubDate>
-  </item><item>
-    <title><![CDATA[v3.0.7 更新：依嵌入模型重配向量儲存大小，並因安全性問題鎖定 litellm 版本。]]></title>
-    <link>https://github.com/microsoft/graphrag/releases/tag/v3.0.7</link>
-    <itunes:title><![CDATA[v3.0.7 更新：依嵌入模型重配向量儲存大小，並因安全性問題鎖定 litellm 版本。]]></itunes:title>
-    <itunes:author><![CDATA[dworthen]]></itunes:author>
-    <itunes:summary>
-      <![CDATA[<h2>What's Changed</h2>
-<ul>
-<li>patch: reconfigure vector store size by embedding model</li>
-</ul>
-<h3>Security</h3>
-<ul>
-<li>patch: Pin litellm dependency due to litellm compromise: <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4127260614" data-permission-text="Title is private" data-url="https://github.com/BerriAI/litellm/issues/24512" data-hovercard-type="issue" data-hovercard-url="/BerriAI/litellm/issues/24512/hovercard" href="https://github.com/BerriAI/litellm/issues/24512">BerriAI/litellm#24512</a></li>
-</ul>
-<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/microsoft/graphrag/compare/v3.0.6...v3.0.7"><tt>v3.0.6...v3.0.7</tt></a></p>]]>
-    </itunes:summary>
-    <description>
-      <![CDATA[<h2>What's Changed</h2>
-<ul>
-<li>patch: reconfigure vector store size by embedding model</li>
-</ul>
-<h3>Security</h3>
-<ul>
-<li>patch: Pin litellm dependency due to litellm compromise: <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4127260614" data-permission-text="Title is private" data-url="https://github.com/BerriAI/litellm/issues/24512" data-hovercard-type="issue" data-hovercard-url="/BerriAI/litellm/issues/24512/hovercard" href="https://github.com/BerriAI/litellm/issues/24512">BerriAI/litellm#24512</a></li>
-</ul>
-<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/microsoft/graphrag/compare/v3.0.6...v3.0.7"><tt>v3.0.6...v3.0.7</tt></a></p>]]>
-    </description>
-    <content:encoded><![CDATA[<h2>What's Changed</h2>
-<ul>
-<li>patch: reconfigure vector store size by embedding model</li>
-</ul>
-<h3>Security</h3>
-<ul>
-<li>patch: Pin litellm dependency due to litellm compromise: <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4127260614" data-permission-text="Title is private" data-url="https://github.com/BerriAI/litellm/issues/24512" data-hovercard-type="issue" data-hovercard-url="/BerriAI/litellm/issues/24512/hovercard" href="https://github.com/BerriAI/litellm/issues/24512">BerriAI/litellm#24512</a></li>
-</ul>
-<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/microsoft/graphrag/compare/v3.0.6...v3.0.7"><tt>v3.0.6...v3.0.7</tt></a></p>]]></content:encoded>
-    
-    <pubDate>2026-03-26T13:48:27.000Z</pubDate>
   </item></channel>
 </rss>
