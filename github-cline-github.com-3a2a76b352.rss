@@ -3,7 +3,7 @@
     <title><![CDATA[cline Release [GH][RSS+]]]></title>
     <link>https://github.com/cline/cline/releases.atom</link>
     <image>
-      <url>https://fastly.picsum.photos/id/362/800/800.jpg?hmac=VMM7ynimF18IrbcxCbN5AnOhz3RyPlq_T19C39WHeB4</url>
+      <url>https://fastly.picsum.photos/id/184/800/800.jpg?hmac=lmC8WI1eOGRKHRp2-ljqfQZcfb5306DsbFJcRBuSTwY</url>
       <title>cline Release [GH][RSS+]</title>
       <link>https://github.com/cline/cline/releases.atom</link>
     </image>
@@ -28,8 +28,182 @@
     <itunes:owner>
       <itunes:name><![CDATA[cline Release [GH][RSS+]]]></itunes:name>
     </itunes:owner>
-    <itunes:image href="https://fastly.picsum.photos/id/362/800/800.jpg?hmac=VMM7ynimF18IrbcxCbN5AnOhz3RyPlq_T19C39WHeB4"/>
+    <itunes:image href="https://fastly.picsum.photos/id/184/800/800.jpg?hmac=lmC8WI1eOGRKHRp2-ljqfQZcfb5306DsbFJcRBuSTwY"/>
 <item>
+    <title><![CDATA[SDK v0.0.92更新：統一AI SDK版本、修復推理關閉錯誤，預設改用Claude Haiku 5.5]]></title>
+    <link>https://github.com/cline/cline/releases/tag/sdk%2Fsdk%2Fv0.0.92</link>
+    <itunes:title><![CDATA[SDK v0.0.92更新：統一AI SDK版本、修復推理關閉錯誤，預設改用Claude Haiku 5.5]]></itunes:title>
+    <itunes:author><![CDATA[github-actions[bot]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<ul>
+<li>The AI SDK moves together to one release line: <code>ai</code> 7.0.120 and every <code>@ai-sdk/*</code> package on <code>@ai-sdk/provider-utils</code> 5.0.50 (previously <code>ai</code> 7.0.79 with packages bumped one by one). Turning reasoning off no longer sends <code>reasoning.effort: "none"</code> to OpenAI models that can't turn it off, such as GPT-6 Astra and GPT-6.1 Sol (GPT-6 Astra answered with a 400, for example from commit message generation); GPT-5.x and GPT-6 Sol/Luna still get <code>"none"</code>. Turning reasoning off also no longer sends <code>thinking: {type: "disabled"}</code> to Claude models that can't turn thinking off, such as Claude Fable 5 and Opus 5.5 (they answered with <code>"thinking.type.disabled" is not supported for this model</code>); other Claude models still get <code>disabled</code></li>
+<li>Stdio MCP clients handle EPIPE when a server exits before reading all of its input. Previously that raised an uncaught exception on the host process. The SAP AI Core provider also no longer installs winston's process-wide <code>uncaughtException</code> handler, which called <code>process.exit(1)</code> three seconds after any uncaught error</li>
+<li>The legacy provider-settings migration no longer adds an empty <code>sapaicore</code> entry to <code>providers.json</code>. It used to do this for every migrated user, because the extension writes <code>sapAiCoreUseOrchestrationMode</code> as a default</li>
+<li><code>@cline/core</code> exports <code>parseMcpHeaders</code>, used by the CLI's <code>mcp add</code> wizard to keep <code>--header</code> values</li>
+<li>Refreshed the model catalog. Adds Claude Haiku 5.5. Default models change for Google Vertex AI (Claude Sonnet 5.5 → Claude Haiku 5.5), Cortecs, DevPass (LLM Gateway), Eden AI, GitHub Copilot, LLM Gateway, NanoGPT, OpenCode Go, Requesty, and Vivgrid (most now Claude Haiku 5.5)</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/sdk/sdk/v0.0.91...sdk/sdk/v0.0.92"><tt>sdk/sdk/v0.0.91...sdk/sdk/v0.0.92</tt></a></p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<ul>
+<li>The AI SDK moves together to one release line: <code>ai</code> 7.0.120 and every <code>@ai-sdk/*</code> package on <code>@ai-sdk/provider-utils</code> 5.0.50 (previously <code>ai</code> 7.0.79 with packages bumped one by one). Turning reasoning off no longer sends <code>reasoning.effort: "none"</code> to OpenAI models that can't turn it off, such as GPT-6 Astra and GPT-6.1 Sol (GPT-6 Astra answered with a 400, for example from commit message generation); GPT-5.x and GPT-6 Sol/Luna still get <code>"none"</code>. Turning reasoning off also no longer sends <code>thinking: {type: "disabled"}</code> to Claude models that can't turn thinking off, such as Claude Fable 5 and Opus 5.5 (they answered with <code>"thinking.type.disabled" is not supported for this model</code>); other Claude models still get <code>disabled</code></li>
+<li>Stdio MCP clients handle EPIPE when a server exits before reading all of its input. Previously that raised an uncaught exception on the host process. The SAP AI Core provider also no longer installs winston's process-wide <code>uncaughtException</code> handler, which called <code>process.exit(1)</code> three seconds after any uncaught error</li>
+<li>The legacy provider-settings migration no longer adds an empty <code>sapaicore</code> entry to <code>providers.json</code>. It used to do this for every migrated user, because the extension writes <code>sapAiCoreUseOrchestrationMode</code> as a default</li>
+<li><code>@cline/core</code> exports <code>parseMcpHeaders</code>, used by the CLI's <code>mcp add</code> wizard to keep <code>--header</code> values</li>
+<li>Refreshed the model catalog. Adds Claude Haiku 5.5. Default models change for Google Vertex AI (Claude Sonnet 5.5 → Claude Haiku 5.5), Cortecs, DevPass (LLM Gateway), Eden AI, GitHub Copilot, LLM Gateway, NanoGPT, OpenCode Go, Requesty, and Vivgrid (most now Claude Haiku 5.5)</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/sdk/sdk/v0.0.91...sdk/sdk/v0.0.92"><tt>sdk/sdk/v0.0.91...sdk/sdk/v0.0.92</tt></a></p>]]>
+    </description>
+    <content:encoded><![CDATA[<ul>
+<li>The AI SDK moves together to one release line: <code>ai</code> 7.0.120 and every <code>@ai-sdk/*</code> package on <code>@ai-sdk/provider-utils</code> 5.0.50 (previously <code>ai</code> 7.0.79 with packages bumped one by one). Turning reasoning off no longer sends <code>reasoning.effort: "none"</code> to OpenAI models that can't turn it off, such as GPT-6 Astra and GPT-6.1 Sol (GPT-6 Astra answered with a 400, for example from commit message generation); GPT-5.x and GPT-6 Sol/Luna still get <code>"none"</code>. Turning reasoning off also no longer sends <code>thinking: {type: "disabled"}</code> to Claude models that can't turn thinking off, such as Claude Fable 5 and Opus 5.5 (they answered with <code>"thinking.type.disabled" is not supported for this model</code>); other Claude models still get <code>disabled</code></li>
+<li>Stdio MCP clients handle EPIPE when a server exits before reading all of its input. Previously that raised an uncaught exception on the host process. The SAP AI Core provider also no longer installs winston's process-wide <code>uncaughtException</code> handler, which called <code>process.exit(1)</code> three seconds after any uncaught error</li>
+<li>The legacy provider-settings migration no longer adds an empty <code>sapaicore</code> entry to <code>providers.json</code>. It used to do this for every migrated user, because the extension writes <code>sapAiCoreUseOrchestrationMode</code> as a default</li>
+<li><code>@cline/core</code> exports <code>parseMcpHeaders</code>, used by the CLI's <code>mcp add</code> wizard to keep <code>--header</code> values</li>
+<li>Refreshed the model catalog. Adds Claude Haiku 5.5. Default models change for Google Vertex AI (Claude Sonnet 5.5 → Claude Haiku 5.5), Cortecs, DevPass (LLM Gateway), Eden AI, GitHub Copilot, LLM Gateway, NanoGPT, OpenCode Go, Requesty, and Vivgrid (most now Claude Haiku 5.5)</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/sdk/sdk/v0.0.91...sdk/sdk/v0.0.92"><tt>sdk/sdk/v0.0.91...sdk/sdk/v0.0.92</tt></a></p>]]></content:encoded>
+    
+    <pubDate>2026-10-08T05:09:49.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[Cline LLM 套件更新至 v0.0.92]]></title>
+    <link>https://github.com/cline/cline/releases/tag/sdk%2Fllms%2Fv0.0.92</link>
+    <itunes:title><![CDATA[Cline LLM 套件更新至 v0.0.92]]></itunes:title>
+    <itunes:author><![CDATA[github-actions[bot]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>@cline/llms@0.0.92</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>@cline/llms@0.0.92</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>@cline/llms@0.0.92</p>]]></content:encoded>
+    
+    <pubDate>2026-10-08T05:09:33.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[Cline 核心 SDK @cline/core v0.0.92 版本釋出]]></title>
+    <link>https://github.com/cline/cline/releases/tag/sdk%2Fcore%2Fv0.0.92</link>
+    <itunes:title><![CDATA[Cline 核心 SDK @cline/core v0.0.92 版本釋出]]></itunes:title>
+    <itunes:author><![CDATA[github-actions[bot]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>@cline/core@0.0.92</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>@cline/core@0.0.92</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>@cline/core@0.0.92</p>]]></content:encoded>
+    
+    <pubDate>2026-10-08T05:09:36.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[@cline/agents SDK v0.0.92 版本發布]]></title>
+    <link>https://github.com/cline/cline/releases/tag/sdk%2Fagents%2Fv0.0.92</link>
+    <itunes:title><![CDATA[@cline/agents SDK v0.0.92 版本發布]]></itunes:title>
+    <itunes:author><![CDATA[github-actions[bot]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>@cline/agents@0.0.92</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>@cline/agents@0.0.92</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>@cline/agents@0.0.92</p>]]></content:encoded>
+    
+    <pubDate>2026-10-08T05:09:34.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[Desktop v0.0.45更新：修復SSH連線與崩潰問題，新增Claude Haiku 5.5並更新模型目錄]]></title>
+    <link>https://github.com/cline/cline/releases/tag/desktop-v0.0.45</link>
+    <itunes:title><![CDATA[Desktop v0.0.45更新：修復SSH連線與崩潰問題，新增Claude Haiku 5.5並更新模型目錄]]></itunes:title>
+    <itunes:author><![CDATA[github-actions[bot]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<ul>
+<li>SSH remotes start again. Since 0.0.38, connecting to an SSH environment failed with <code>SyntaxError: Invalid character</code></li>
+<li>On SSH environments, the git branch label no longer opens two new SSH logins every 5 seconds. It checks every 30 seconds now, and switching branches from the picker still updates it right away</li>
+<li>Long model names in the composer show in full when the row has room, and only truncate when it runs out</li>
+<li>Turning reasoning off no longer fails with a 400 error on GPT-6 Astra, GPT-6.1 Sol, Claude Fable 5 or Claude Opus 5.5</li>
+<li>The background service no longer crashes about 3 seconds after an MCP server or hook quits before reading all of its input</li>
+<li>Settings migrated from the VS Code extension no longer add an empty SAP AI Core provider</li>
+<li>Refreshed the model catalog. Adds Claude Haiku 5.5. Default models change for Google Vertex AI (Claude Sonnet 5.5 → Claude Haiku 5.5), Cortecs, DevPass (LLM Gateway), Eden AI, GitHub Copilot, LLM Gateway, NanoGPT, OpenCode Go, Requesty, and Vivgrid (most now Claude Haiku 5.5)</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/desktop-v0.0.44...desktop-v0.0.45"><tt>desktop-v0.0.44...desktop-v0.0.45</tt></a></p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<ul>
+<li>SSH remotes start again. Since 0.0.38, connecting to an SSH environment failed with <code>SyntaxError: Invalid character</code></li>
+<li>On SSH environments, the git branch label no longer opens two new SSH logins every 5 seconds. It checks every 30 seconds now, and switching branches from the picker still updates it right away</li>
+<li>Long model names in the composer show in full when the row has room, and only truncate when it runs out</li>
+<li>Turning reasoning off no longer fails with a 400 error on GPT-6 Astra, GPT-6.1 Sol, Claude Fable 5 or Claude Opus 5.5</li>
+<li>The background service no longer crashes about 3 seconds after an MCP server or hook quits before reading all of its input</li>
+<li>Settings migrated from the VS Code extension no longer add an empty SAP AI Core provider</li>
+<li>Refreshed the model catalog. Adds Claude Haiku 5.5. Default models change for Google Vertex AI (Claude Sonnet 5.5 → Claude Haiku 5.5), Cortecs, DevPass (LLM Gateway), Eden AI, GitHub Copilot, LLM Gateway, NanoGPT, OpenCode Go, Requesty, and Vivgrid (most now Claude Haiku 5.5)</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/desktop-v0.0.44...desktop-v0.0.45"><tt>desktop-v0.0.44...desktop-v0.0.45</tt></a></p>]]>
+    </description>
+    <content:encoded><![CDATA[<ul>
+<li>SSH remotes start again. Since 0.0.38, connecting to an SSH environment failed with <code>SyntaxError: Invalid character</code></li>
+<li>On SSH environments, the git branch label no longer opens two new SSH logins every 5 seconds. It checks every 30 seconds now, and switching branches from the picker still updates it right away</li>
+<li>Long model names in the composer show in full when the row has room, and only truncate when it runs out</li>
+<li>Turning reasoning off no longer fails with a 400 error on GPT-6 Astra, GPT-6.1 Sol, Claude Fable 5 or Claude Opus 5.5</li>
+<li>The background service no longer crashes about 3 seconds after an MCP server or hook quits before reading all of its input</li>
+<li>Settings migrated from the VS Code extension no longer add an empty SAP AI Core provider</li>
+<li>Refreshed the model catalog. Adds Claude Haiku 5.5. Default models change for Google Vertex AI (Claude Sonnet 5.5 → Claude Haiku 5.5), Cortecs, DevPass (LLM Gateway), Eden AI, GitHub Copilot, LLM Gateway, NanoGPT, OpenCode Go, Requesty, and Vivgrid (most now Claude Haiku 5.5)</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/desktop-v0.0.44...desktop-v0.0.45"><tt>desktop-v0.0.44...desktop-v0.0.45</tt></a></p>]]></content:encoded>
+    
+    <pubDate>2026-10-08T06:50:38.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[Cline CLI v3.0.70更新：修復多款模型400錯誤、新增Claude Haiku 5.5]]></title>
+    <link>https://github.com/cline/cline/releases/tag/cli-v3.0.70</link>
+    <itunes:title><![CDATA[Cline CLI v3.0.70更新：修復多款模型400錯誤、新增Claude Haiku 5.5]]></itunes:title>
+    <itunes:author><![CDATA[github-actions[bot]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<ul>
+<li>Commit message generation and tasks with reasoning off no longer fail with a 400 error on GPT-6 Astra, GPT-6.1 Sol, Claude Fable 5 or Claude Opus 5.5</li>
+<li>Cline no longer exits about 3 seconds after an MCP server or hook quits before reading all of its input</li>
+<li>Settings migrated from the VS Code extension no longer add an empty SAP AI Core provider</li>
+<li><code>cline mcp add</code> keeps your <code>--header</code> values when it opens the setup wizard. Before, accepting the prefilled answers saved a remote server without its headers (for example, <code>Authorization</code>). The wizard now asks for one header per prompt and validates each one the same way as <code>--yes</code></li>
+<li><code>cline dashboard</code> is now <code>cline hub dashboard</code>. The old command still works as a hidden alias</li>
+<li>A bare <code>cline hub</code> prints its subcommands</li>
+<li><code>cline doctor log</code> opens the file set by <code>CLINE_LOG_PATH</code> when that variable is set</li>
+<li><code>cline --help</code> is corrected: <code>--retries</code> shows its real default of 3 (it said 6), and <code>--thinking</code> explains that it falls back to the level picked in <code>/model</code></li>
+<li>A bare <code>--retries</code> with no count is now rejected with an error instead of crashing</li>
+<li>Options that were accepted but never did anything are removed and now fail with "unknown option": <code>cline history --page</code>, and <code>cline schedule create</code>/<code>update</code> <code>--autonomous</code>, <code>--no-autonomous</code>, <code>--idle-timeout</code>, <code>--poll-interval</code> and <code>--delivery-channel</code>. Remove them from scripts. Existing schedules saved with them still load</li>
+<li><code>cline schedule create</code>, <code>update</code> and <code>import</code> reject a delivery that could never be posted, such as <code>--delivery-adapter</code> without <code>--delivery-thread</code> or an adapter that isn't a known connector. Before, the schedule was saved and its results were silently never posted. Errors name the flag or <code>--metadata-json</code> path to fix</li>
+<li>Refreshed the model catalog. Adds Claude Haiku 5.5. Default models change for Google Vertex AI (Claude Sonnet 5.5 → Claude Haiku 5.5), Cortecs, DevPass (LLM Gateway), Eden AI, GitHub Copilot, LLM Gateway, NanoGPT, OpenCode Go, Requesty, and Vivgrid (most now Claude Haiku 5.5)</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/cli-v3.0.69...cli-v3.0.70"><tt>cli-v3.0.69...cli-v3.0.70</tt></a></p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<ul>
+<li>Commit message generation and tasks with reasoning off no longer fail with a 400 error on GPT-6 Astra, GPT-6.1 Sol, Claude Fable 5 or Claude Opus 5.5</li>
+<li>Cline no longer exits about 3 seconds after an MCP server or hook quits before reading all of its input</li>
+<li>Settings migrated from the VS Code extension no longer add an empty SAP AI Core provider</li>
+<li><code>cline mcp add</code> keeps your <code>--header</code> values when it opens the setup wizard. Before, accepting the prefilled answers saved a remote server without its headers (for example, <code>Authorization</code>). The wizard now asks for one header per prompt and validates each one the same way as <code>--yes</code></li>
+<li><code>cline dashboard</code> is now <code>cline hub dashboard</code>. The old command still works as a hidden alias</li>
+<li>A bare <code>cline hub</code> prints its subcommands</li>
+<li><code>cline doctor log</code> opens the file set by <code>CLINE_LOG_PATH</code> when that variable is set</li>
+<li><code>cline --help</code> is corrected: <code>--retries</code> shows its real default of 3 (it said 6), and <code>--thinking</code> explains that it falls back to the level picked in <code>/model</code></li>
+<li>A bare <code>--retries</code> with no count is now rejected with an error instead of crashing</li>
+<li>Options that were accepted but never did anything are removed and now fail with "unknown option": <code>cline history --page</code>, and <code>cline schedule create</code>/<code>update</code> <code>--autonomous</code>, <code>--no-autonomous</code>, <code>--idle-timeout</code>, <code>--poll-interval</code> and <code>--delivery-channel</code>. Remove them from scripts. Existing schedules saved with them still load</li>
+<li><code>cline schedule create</code>, <code>update</code> and <code>import</code> reject a delivery that could never be posted, such as <code>--delivery-adapter</code> without <code>--delivery-thread</code> or an adapter that isn't a known connector. Before, the schedule was saved and its results were silently never posted. Errors name the flag or <code>--metadata-json</code> path to fix</li>
+<li>Refreshed the model catalog. Adds Claude Haiku 5.5. Default models change for Google Vertex AI (Claude Sonnet 5.5 → Claude Haiku 5.5), Cortecs, DevPass (LLM Gateway), Eden AI, GitHub Copilot, LLM Gateway, NanoGPT, OpenCode Go, Requesty, and Vivgrid (most now Claude Haiku 5.5)</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/cli-v3.0.69...cli-v3.0.70"><tt>cli-v3.0.69...cli-v3.0.70</tt></a></p>]]>
+    </description>
+    <content:encoded><![CDATA[<ul>
+<li>Commit message generation and tasks with reasoning off no longer fail with a 400 error on GPT-6 Astra, GPT-6.1 Sol, Claude Fable 5 or Claude Opus 5.5</li>
+<li>Cline no longer exits about 3 seconds after an MCP server or hook quits before reading all of its input</li>
+<li>Settings migrated from the VS Code extension no longer add an empty SAP AI Core provider</li>
+<li><code>cline mcp add</code> keeps your <code>--header</code> values when it opens the setup wizard. Before, accepting the prefilled answers saved a remote server without its headers (for example, <code>Authorization</code>). The wizard now asks for one header per prompt and validates each one the same way as <code>--yes</code></li>
+<li><code>cline dashboard</code> is now <code>cline hub dashboard</code>. The old command still works as a hidden alias</li>
+<li>A bare <code>cline hub</code> prints its subcommands</li>
+<li><code>cline doctor log</code> opens the file set by <code>CLINE_LOG_PATH</code> when that variable is set</li>
+<li><code>cline --help</code> is corrected: <code>--retries</code> shows its real default of 3 (it said 6), and <code>--thinking</code> explains that it falls back to the level picked in <code>/model</code></li>
+<li>A bare <code>--retries</code> with no count is now rejected with an error instead of crashing</li>
+<li>Options that were accepted but never did anything are removed and now fail with "unknown option": <code>cline history --page</code>, and <code>cline schedule create</code>/<code>update</code> <code>--autonomous</code>, <code>--no-autonomous</code>, <code>--idle-timeout</code>, <code>--poll-interval</code> and <code>--delivery-channel</code>. Remove them from scripts. Existing schedules saved with them still load</li>
+<li><code>cline schedule create</code>, <code>update</code> and <code>import</code> reject a delivery that could never be posted, such as <code>--delivery-adapter</code> without <code>--delivery-thread</code> or an adapter that isn't a known connector. Before, the schedule was saved and its results were silently never posted. Errors name the flag or <code>--metadata-json</code> path to fix</li>
+<li>Refreshed the model catalog. Adds Claude Haiku 5.5. Default models change for Google Vertex AI (Claude Sonnet 5.5 → Claude Haiku 5.5), Cortecs, DevPass (LLM Gateway), Eden AI, GitHub Copilot, LLM Gateway, NanoGPT, OpenCode Go, Requesty, and Vivgrid (most now Claude Haiku 5.5)</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/cli-v3.0.69...cli-v3.0.70"><tt>cli-v3.0.69...cli-v3.0.70</tt></a></p>]]></content:encoded>
+    
+    <pubDate>2026-10-08T05:55:09.000Z</pubDate>
+  </item><item>
     <title><![CDATA[Cline v4.1.23 更新：新增 GPT-6.1 Sol、更新模型目錄並修復 Claude 自訂端點報錯]]></title>
     <link>https://github.com/cline/cline/releases/tag/v4.1.23</link>
     <itunes:title><![CDATA[Cline v4.1.23 更新：新增 GPT-6.1 Sol、更新模型目錄並修復 Claude 自訂端點報錯]]></itunes:title>
@@ -149,175 +323,5 @@
 <p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/sdk/sdk/v0.0.90...sdk/sdk/v0.0.91"><tt>sdk/sdk/v0.0.90...sdk/sdk/v0.0.91</tt></a></p>]]></content:encoded>
     
     <pubDate>2026-10-07T06:00:09.000Z</pubDate>
-  </item><item>
-    <title><![CDATA[{"error":"Content not found or expired."}]]></title>
-    <link>https://github.com/cline/cline/releases/tag/sdk%2Fllms%2Fv0.0.91</link>
-    <itunes:title><![CDATA[{"error":"Content not found or expired."}]]></itunes:title>
-    <itunes:author><![CDATA[github-actions[bot]]]></itunes:author>
-    <itunes:summary>
-      <![CDATA[<p>@cline/llms@0.0.91</p>]]>
-    </itunes:summary>
-    <description>
-      <![CDATA[<p>@cline/llms@0.0.91</p>]]>
-    </description>
-    <content:encoded><![CDATA[<p>@cline/llms@0.0.91</p>]]></content:encoded>
-    
-    <pubDate>2026-10-07T05:59:51.000Z</pubDate>
-  </item><item>
-    <title><![CDATA[Cline Core SDK 版本更新至 v0.0.91]]></title>
-    <link>https://github.com/cline/cline/releases/tag/sdk%2Fcore%2Fv0.0.91</link>
-    <itunes:title><![CDATA[Cline Core SDK 版本更新至 v0.0.91]]></itunes:title>
-    <itunes:author><![CDATA[github-actions[bot]]]></itunes:author>
-    <itunes:summary>
-      <![CDATA[<p>@cline/core@0.0.91</p>]]>
-    </itunes:summary>
-    <description>
-      <![CDATA[<p>@cline/core@0.0.91</p>]]>
-    </description>
-    <content:encoded><![CDATA[<p>@cline/core@0.0.91</p>]]></content:encoded>
-    
-    <pubDate>2026-10-07T05:59:55.000Z</pubDate>
-  </item><item>
-    <title><![CDATA[@cline/agents SDK v0.0.91 版本發布]]></title>
-    <link>https://github.com/cline/cline/releases/tag/sdk%2Fagents%2Fv0.0.91</link>
-    <itunes:title><![CDATA[@cline/agents SDK v0.0.91 版本發布]]></itunes:title>
-    <itunes:author><![CDATA[github-actions[bot]]]></itunes:author>
-    <itunes:summary>
-      <![CDATA[<p>@cline/agents@0.0.91</p>]]>
-    </itunes:summary>
-    <description>
-      <![CDATA[<p>@cline/agents@0.0.91</p>]]>
-    </description>
-    <content:encoded><![CDATA[<p>@cline/agents@0.0.91</p>]]></content:encoded>
-    
-    <pubDate>2026-10-07T05:59:53.000Z</pubDate>
-  </item><item>
-    <title><![CDATA[Cline Desktop v0.0.44：圖表互動呈現、斷線自動重連與模型相容性提升]]></title>
-    <link>https://github.com/cline/cline/releases/tag/desktop-v0.0.44</link>
-    <itunes:title><![CDATA[Cline Desktop v0.0.44：圖表互動呈現、斷線自動重連與模型相容性提升]]></itunes:title>
-    <itunes:author><![CDATA[github-actions[bot]]]></itunes:author>
-    <itunes:summary>
-      <![CDATA[<ul>
-<li>Mermaid diagrams in chat now render inline as interactive diagrams, with copy, download, fullscreen, and pan/zoom. Links inside a diagram go through the same confirmation dialog as other links, showing the real destination before anything opens</li>
-<li>If the Cline Hub connection drops mid-chat, the app now reconnects your session automatically for up to a minute instead of failing right away. Queued messages are sent once the session is back. If it can't reconnect, the turn ends with a notice so you can resend</li>
-<li>Local and self-hosted providers that don't need an API key (LM Studio, Ollama, vLLM, LiteLLM, and custom OpenAI-compatible endpoints) can start sessions again. They failed every turn with "Missing API key"</li>
-<li>MCP servers launched with <code>npx</code> or <code>uvx</code> on Windows now load. They often took longer than the 3-second startup limit and were silently dropped. The default is now 10 seconds</li>
-<li>Claude through a custom Anthropic base URL (Azure AI Foundry, corporate gateways) no longer fails with a 400 error</li>
-<li>Kimi K3 and other models that only accept certain reasoning levels no longer reject requests. The app picks the closest level the model supports</li>
-<li>If a model's response ends without a recognized finish reason, the agent asks it to continue once instead of treating the response as complete</li>
-<li>Refreshed the model catalog. The Cline free list adds Solar Mini 4 and drops DeepSeek V4.1 Flash and space-bunny-alpha. Default models change for AKI.IO, Blue Claw, CoralBricks, CrossModel, DevPass, LLM Gateway, Mistral, NanoGPT, Requesty, Neon, Subconscious, and The Grid AI</li>
-</ul>
-<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/desktop-v0.0.43...desktop-v0.0.44"><tt>desktop-v0.0.43...desktop-v0.0.44</tt></a></p>]]>
-    </itunes:summary>
-    <description>
-      <![CDATA[<ul>
-<li>Mermaid diagrams in chat now render inline as interactive diagrams, with copy, download, fullscreen, and pan/zoom. Links inside a diagram go through the same confirmation dialog as other links, showing the real destination before anything opens</li>
-<li>If the Cline Hub connection drops mid-chat, the app now reconnects your session automatically for up to a minute instead of failing right away. Queued messages are sent once the session is back. If it can't reconnect, the turn ends with a notice so you can resend</li>
-<li>Local and self-hosted providers that don't need an API key (LM Studio, Ollama, vLLM, LiteLLM, and custom OpenAI-compatible endpoints) can start sessions again. They failed every turn with "Missing API key"</li>
-<li>MCP servers launched with <code>npx</code> or <code>uvx</code> on Windows now load. They often took longer than the 3-second startup limit and were silently dropped. The default is now 10 seconds</li>
-<li>Claude through a custom Anthropic base URL (Azure AI Foundry, corporate gateways) no longer fails with a 400 error</li>
-<li>Kimi K3 and other models that only accept certain reasoning levels no longer reject requests. The app picks the closest level the model supports</li>
-<li>If a model's response ends without a recognized finish reason, the agent asks it to continue once instead of treating the response as complete</li>
-<li>Refreshed the model catalog. The Cline free list adds Solar Mini 4 and drops DeepSeek V4.1 Flash and space-bunny-alpha. Default models change for AKI.IO, Blue Claw, CoralBricks, CrossModel, DevPass, LLM Gateway, Mistral, NanoGPT, Requesty, Neon, Subconscious, and The Grid AI</li>
-</ul>
-<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/desktop-v0.0.43...desktop-v0.0.44"><tt>desktop-v0.0.43...desktop-v0.0.44</tt></a></p>]]>
-    </description>
-    <content:encoded><![CDATA[<ul>
-<li>Mermaid diagrams in chat now render inline as interactive diagrams, with copy, download, fullscreen, and pan/zoom. Links inside a diagram go through the same confirmation dialog as other links, showing the real destination before anything opens</li>
-<li>If the Cline Hub connection drops mid-chat, the app now reconnects your session automatically for up to a minute instead of failing right away. Queued messages are sent once the session is back. If it can't reconnect, the turn ends with a notice so you can resend</li>
-<li>Local and self-hosted providers that don't need an API key (LM Studio, Ollama, vLLM, LiteLLM, and custom OpenAI-compatible endpoints) can start sessions again. They failed every turn with "Missing API key"</li>
-<li>MCP servers launched with <code>npx</code> or <code>uvx</code> on Windows now load. They often took longer than the 3-second startup limit and were silently dropped. The default is now 10 seconds</li>
-<li>Claude through a custom Anthropic base URL (Azure AI Foundry, corporate gateways) no longer fails with a 400 error</li>
-<li>Kimi K3 and other models that only accept certain reasoning levels no longer reject requests. The app picks the closest level the model supports</li>
-<li>If a model's response ends without a recognized finish reason, the agent asks it to continue once instead of treating the response as complete</li>
-<li>Refreshed the model catalog. The Cline free list adds Solar Mini 4 and drops DeepSeek V4.1 Flash and space-bunny-alpha. Default models change for AKI.IO, Blue Claw, CoralBricks, CrossModel, DevPass, LLM Gateway, Mistral, NanoGPT, Requesty, Neon, Subconscious, and The Grid AI</li>
-</ul>
-<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/desktop-v0.0.43...desktop-v0.0.44"><tt>desktop-v0.0.43...desktop-v0.0.44</tt></a></p>]]></content:encoded>
-    
-    <pubDate>2026-10-07T07:17:23.000Z</pubDate>
-  </item><item>
-    <title><![CDATA[CLI v3.0.69更新：延長MCP啟動逾時至10秒，修復Claude自訂URL與Kimi相容性]]></title>
-    <link>https://github.com/cline/cline/releases/tag/cli-v3.0.69</link>
-    <itunes:title><![CDATA[CLI v3.0.69更新：延長MCP啟動逾時至10秒，修復Claude自訂URL與Kimi相容性]]></itunes:title>
-    <itunes:author><![CDATA[github-actions[bot]]]></itunes:author>
-    <itunes:summary>
-      <![CDATA[<ul>
-<li>MCP servers launched with <code>npx</code> or <code>uvx</code> on Windows now load. They often took longer than the 3-second startup limit and were silently dropped, so their tools never showed up. The default is now 10 seconds</li>
-<li>Claude through a custom Anthropic base URL (Azure AI Foundry, corporate gateways) no longer fails with a 400 error</li>
-<li>Kimi K3 and other models that only accept certain reasoning levels no longer reject requests. The CLI picks the closest level the model supports</li>
-<li>OpenAI-compatible providers no longer print a <code>providerOptions key 'openai-compatible'</code> deprecation warning on every response</li>
-<li>If a model's response ends without a recognized finish reason, the agent asks it to continue once instead of treating the response as complete</li>
-<li><code>cline config --json</code> prints JSON again. It opened the interactive view instead, which failed outside a terminal; <code>cline config --json mcp</code> printed plain text</li>
-<li><code>-y</code>/<code>--yolo</code> is now listed in <code>cline --help</code>, with a warning to use it only in sandboxed environments</li>
-</ul>
-<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/cli-v3.0.68...cli-v3.0.69"><tt>cli-v3.0.68...cli-v3.0.69</tt></a></p>]]>
-    </itunes:summary>
-    <description>
-      <![CDATA[<ul>
-<li>MCP servers launched with <code>npx</code> or <code>uvx</code> on Windows now load. They often took longer than the 3-second startup limit and were silently dropped, so their tools never showed up. The default is now 10 seconds</li>
-<li>Claude through a custom Anthropic base URL (Azure AI Foundry, corporate gateways) no longer fails with a 400 error</li>
-<li>Kimi K3 and other models that only accept certain reasoning levels no longer reject requests. The CLI picks the closest level the model supports</li>
-<li>OpenAI-compatible providers no longer print a <code>providerOptions key 'openai-compatible'</code> deprecation warning on every response</li>
-<li>If a model's response ends without a recognized finish reason, the agent asks it to continue once instead of treating the response as complete</li>
-<li><code>cline config --json</code> prints JSON again. It opened the interactive view instead, which failed outside a terminal; <code>cline config --json mcp</code> printed plain text</li>
-<li><code>-y</code>/<code>--yolo</code> is now listed in <code>cline --help</code>, with a warning to use it only in sandboxed environments</li>
-</ul>
-<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/cli-v3.0.68...cli-v3.0.69"><tt>cli-v3.0.68...cli-v3.0.69</tt></a></p>]]>
-    </description>
-    <content:encoded><![CDATA[<ul>
-<li>MCP servers launched with <code>npx</code> or <code>uvx</code> on Windows now load. They often took longer than the 3-second startup limit and were silently dropped, so their tools never showed up. The default is now 10 seconds</li>
-<li>Claude through a custom Anthropic base URL (Azure AI Foundry, corporate gateways) no longer fails with a 400 error</li>
-<li>Kimi K3 and other models that only accept certain reasoning levels no longer reject requests. The CLI picks the closest level the model supports</li>
-<li>OpenAI-compatible providers no longer print a <code>providerOptions key 'openai-compatible'</code> deprecation warning on every response</li>
-<li>If a model's response ends without a recognized finish reason, the agent asks it to continue once instead of treating the response as complete</li>
-<li><code>cline config --json</code> prints JSON again. It opened the interactive view instead, which failed outside a terminal; <code>cline config --json mcp</code> printed plain text</li>
-<li><code>-y</code>/<code>--yolo</code> is now listed in <code>cline --help</code>, with a warning to use it only in sandboxed environments</li>
-</ul>
-<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/cli-v3.0.68...cli-v3.0.69"><tt>cli-v3.0.68...cli-v3.0.69</tt></a></p>]]></content:encoded>
-    
-    <pubDate>2026-10-07T06:12:01.000Z</pubDate>
-  </item><item>
-    <title><![CDATA[@cline/shared 釋出 v0.0.90 版本 SDK 更新]]></title>
-    <link>https://github.com/cline/cline/releases/tag/sdk%2Fshared%2Fv0.0.90</link>
-    <itunes:title><![CDATA[@cline/shared 釋出 v0.0.90 版本 SDK 更新]]></itunes:title>
-    <itunes:author><![CDATA[github-actions[bot]]]></itunes:author>
-    <itunes:summary>
-      <![CDATA[<p>@cline/shared@0.0.90</p>]]>
-    </itunes:summary>
-    <description>
-      <![CDATA[<p>@cline/shared@0.0.90</p>]]>
-    </description>
-    <content:encoded><![CDATA[<p>@cline/shared@0.0.90</p>]]></content:encoded>
-    
-    <pubDate>2026-10-02T04:35:15.000Z</pubDate>
-  </item><item>
-    <title><![CDATA[SDK v0.0.90：團隊儲存效能優化、請求標頭支援與模型目錄更新]]></title>
-    <link>https://github.com/cline/cline/releases/tag/sdk%2Fsdk%2Fv0.0.90</link>
-    <itunes:title><![CDATA[SDK v0.0.90：團隊儲存效能優化、請求標頭支援與模型目錄更新]]></itunes:title>
-    <itunes:author><![CDATA[github-actions[bot]]]></itunes:author>
-    <itunes:summary>
-      <![CDATA[<ul>
-<li>Agent teams no longer slow down as a session runs or while a teammate is streaming. Every streamed chunk and 2-second heartbeat used to re-save the whole team state, including every finished teammate's full transcript (one local <code>teams.db</code> reached 1.66 GB, with a single run row rewritten ~339k times). Stream chunks and heartbeats now go to live UIs only and are never persisted, only changed entities are written (batched into one transaction every ~300 ms), run records keep a summary instead of the transcript, and <code>team_events</code> is capped per team (2000 rows, 30 days). SQLite team storage moves to schema v2 with a one-time migration that compacts existing data; <code>SqliteTeamStore.vacuum()</code> returns the freed space when called explicitly. Failed team writes are retried instead of dropped</li>
-<li>Standalone provider requests made outside a session (such as commit message generation) can now resolve Cline surface headers. <code>sessionId</code> is optional in <code>resolveProviderRequestHeaders</code>, and <code>X-Task-ID</code> is omitted rather than sent empty</li>
-<li>Refreshed the model catalog. Default models change for DigitalOcean (GPT-6.1 Sol), GMI Cloud (Qwen 3.8 Flash), NanoGPT (Pareto 26.10 Preview), Nvidia (DeepSeek V4.1 Flash), and Ofox (GPT-6.1 Sol)</li>
-</ul>
-<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/sdk/sdk/v0.0.89...sdk/sdk/v0.0.90"><tt>sdk/sdk/v0.0.89...sdk/sdk/v0.0.90</tt></a></p>]]>
-    </itunes:summary>
-    <description>
-      <![CDATA[<ul>
-<li>Agent teams no longer slow down as a session runs or while a teammate is streaming. Every streamed chunk and 2-second heartbeat used to re-save the whole team state, including every finished teammate's full transcript (one local <code>teams.db</code> reached 1.66 GB, with a single run row rewritten ~339k times). Stream chunks and heartbeats now go to live UIs only and are never persisted, only changed entities are written (batched into one transaction every ~300 ms), run records keep a summary instead of the transcript, and <code>team_events</code> is capped per team (2000 rows, 30 days). SQLite team storage moves to schema v2 with a one-time migration that compacts existing data; <code>SqliteTeamStore.vacuum()</code> returns the freed space when called explicitly. Failed team writes are retried instead of dropped</li>
-<li>Standalone provider requests made outside a session (such as commit message generation) can now resolve Cline surface headers. <code>sessionId</code> is optional in <code>resolveProviderRequestHeaders</code>, and <code>X-Task-ID</code> is omitted rather than sent empty</li>
-<li>Refreshed the model catalog. Default models change for DigitalOcean (GPT-6.1 Sol), GMI Cloud (Qwen 3.8 Flash), NanoGPT (Pareto 26.10 Preview), Nvidia (DeepSeek V4.1 Flash), and Ofox (GPT-6.1 Sol)</li>
-</ul>
-<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/sdk/sdk/v0.0.89...sdk/sdk/v0.0.90"><tt>sdk/sdk/v0.0.89...sdk/sdk/v0.0.90</tt></a></p>]]>
-    </description>
-    <content:encoded><![CDATA[<ul>
-<li>Agent teams no longer slow down as a session runs or while a teammate is streaming. Every streamed chunk and 2-second heartbeat used to re-save the whole team state, including every finished teammate's full transcript (one local <code>teams.db</code> reached 1.66 GB, with a single run row rewritten ~339k times). Stream chunks and heartbeats now go to live UIs only and are never persisted, only changed entities are written (batched into one transaction every ~300 ms), run records keep a summary instead of the transcript, and <code>team_events</code> is capped per team (2000 rows, 30 days). SQLite team storage moves to schema v2 with a one-time migration that compacts existing data; <code>SqliteTeamStore.vacuum()</code> returns the freed space when called explicitly. Failed team writes are retried instead of dropped</li>
-<li>Standalone provider requests made outside a session (such as commit message generation) can now resolve Cline surface headers. <code>sessionId</code> is optional in <code>resolveProviderRequestHeaders</code>, and <code>X-Task-ID</code> is omitted rather than sent empty</li>
-<li>Refreshed the model catalog. Default models change for DigitalOcean (GPT-6.1 Sol), GMI Cloud (Qwen 3.8 Flash), NanoGPT (Pareto 26.10 Preview), Nvidia (DeepSeek V4.1 Flash), and Ofox (GPT-6.1 Sol)</li>
-</ul>
-<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/sdk/sdk/v0.0.89...sdk/sdk/v0.0.90"><tt>sdk/sdk/v0.0.89...sdk/sdk/v0.0.90</tt></a></p>]]></content:encoded>
-    
-    <pubDate>2026-10-02T04:35:33.000Z</pubDate>
   </item></channel>
 </rss>
