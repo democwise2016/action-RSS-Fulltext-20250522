@@ -3,7 +3,7 @@
     <title><![CDATA[GraphRAG Release [GH][RSS+]]]></title>
     <link>https://github.com/microsoft/graphrag/releases.atom</link>
     <image>
-      <url>https://fastly.picsum.photos/id/1019/800/800.jpg?hmac=sVtfJzBornA6hSh5Owmt8eCyjERXaah1l6krmwuOTK4</url>
+      <url>https://fastly.picsum.photos/id/296/800/800.jpg?hmac=rWb3cbtqrmUrvV9Mi_jQbS-r4d2trad3AMNeKnvqdDU</url>
       <title>GraphRAG Release [GH][RSS+]</title>
       <link>https://github.com/microsoft/graphrag/releases.atom</link>
     </image>
@@ -28,7 +28,7 @@
     <itunes:owner>
       <itunes:name><![CDATA[GraphRAG Release [GH][RSS+]]]></itunes:name>
     </itunes:owner>
-    <itunes:image href="https://fastly.picsum.photos/id/1019/800/800.jpg?hmac=sVtfJzBornA6hSh5Owmt8eCyjERXaah1l6krmwuOTK4"/>
+    <itunes:image href="https://fastly.picsum.photos/id/296/800/800.jpg?hmac=rWb3cbtqrmUrvV9Mi_jQbS-r4d2trad3AMNeKnvqdDU"/>
 <item>
     <title><![CDATA[v3.3.0 正式發布：修復 SQLite 效能問題]]></title>
     <link>https://github.com/microsoft/graphrag/releases/tag/v3.3.0</link>
