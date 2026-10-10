@@ -3,7 +3,7 @@
     <title><![CDATA[RagFlow Release [GH][RSS+]]]></title>
     <link>https://github.com/infiniflow/ragflow/releases.atom</link>
     <image>
-      <url>https://fastly.picsum.photos/id/1029/800/800.jpg?hmac=jqv220dpX10JRaqV_wnKUyUzjiOcOzT_SR7UHSD2Dso</url>
+      <url>https://fastly.picsum.photos/id/44/800/800.jpg?hmac=GXTTFUlVyz_scsT7RyNaV3d2TzYe5jAnVFOp5LLODoY</url>
       <title>RagFlow Release [GH][RSS+]</title>
       <link>https://github.com/infiniflow/ragflow/releases.atom</link>
     </image>
@@ -28,21 +28,35 @@
     <itunes:owner>
       <itunes:name><![CDATA[RagFlow Release [GH][RSS+]]]></itunes:name>
     </itunes:owner>
-    <itunes:image href="https://fastly.picsum.photos/id/1029/800/800.jpg?hmac=jqv220dpX10JRaqV_wnKUyUzjiOcOzT_SR7UHSD2Dso"/>
+    <itunes:image href="https://fastly.picsum.photos/id/44/800/800.jpg?hmac=GXTTFUlVyz_scsT7RyNaV3d2TzYe5jAnVFOp5LLODoY"/>
 <item>
-    <title><![CDATA[Nightly 版本發布：基於 commit b071994 於 2026-10-09 建置]]></title>
+    <title><![CDATA[Nightly 版本釋出：基於 commit d542485 於 2026 年 10 月 10 日建置完成]]></title>
     <link>https://github.com/infiniflow/ragflow/releases/tag/nightly</link>
-    <itunes:title><![CDATA[Nightly 版本發布：基於 commit b071994 於 2026-10-09 建置]]></itunes:title>
+    <itunes:title><![CDATA[Nightly 版本釋出：基於 commit d542485 於 2026 年 10 月 10 日建置完成]]></itunes:title>
     <itunes:author><![CDATA[yuzhichang]]></itunes:author>
     <itunes:summary>
-      <![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/b071994f87fad75d5b5717c4a43af26201eb9402/hovercard" href="https://github.com/infiniflow/ragflow/commit/b071994f87fad75d5b5717c4a43af26201eb9402"><tt>b071994</tt></a> at 2026-10-09 21:24:14+08:00</p>]]>
+      <![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/d542485a5ec1ba211212d49e09039455c7389a04/hovercard" href="https://github.com/infiniflow/ragflow/commit/d542485a5ec1ba211212d49e09039455c7389a04"><tt>d542485</tt></a> at 2026-10-10 21:17:22+08:00</p>]]>
     </itunes:summary>
     <description>
-      <![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/b071994f87fad75d5b5717c4a43af26201eb9402/hovercard" href="https://github.com/infiniflow/ragflow/commit/b071994f87fad75d5b5717c4a43af26201eb9402"><tt>b071994</tt></a> at 2026-10-09 21:24:14+08:00</p>]]>
+      <![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/d542485a5ec1ba211212d49e09039455c7389a04/hovercard" href="https://github.com/infiniflow/ragflow/commit/d542485a5ec1ba211212d49e09039455c7389a04"><tt>d542485</tt></a> at 2026-10-10 21:17:22+08:00</p>]]>
     </description>
-    <content:encoded><![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/b071994f87fad75d5b5717c4a43af26201eb9402/hovercard" href="https://github.com/infiniflow/ragflow/commit/b071994f87fad75d5b5717c4a43af26201eb9402"><tt>b071994</tt></a> at 2026-10-09 21:24:14+08:00</p>]]></content:encoded>
+    <content:encoded><![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/d542485a5ec1ba211212d49e09039455c7389a04/hovercard" href="https://github.com/infiniflow/ragflow/commit/d542485a5ec1ba211212d49e09039455c7389a04"><tt>d542485</tt></a> at 2026-10-10 21:17:22+08:00</p>]]></content:encoded>
     
-    <pubDate>2026-10-09T13:24:21.000Z</pubDate>
+    <pubDate>2026-10-10T13:17:30.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[網頁版代理清單新增內建管線並以唯讀項目呈現]]></title>
+    <link>https://github.com/infiniflow/ragflow/releases/tag/dev-20261010</link>
+    <itunes:title><![CDATA[網頁版代理清單新增內建管線並以唯讀項目呈現]]></itunes:title>
+    <itunes:author><![CDATA[xugangqiang]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>feat(web): show built-in pipelines in the agents list as read-only it…</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>feat(web): show built-in pipelines in the agents list as read-only it…</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>feat(web): show built-in pipelines in the agents list as read-only it…</p>]]></content:encoded>
+    
+    <pubDate>2026-10-10T03:04:26.000Z</pubDate>
   </item><item>
     <title><![CDATA[/tmp/files暫存檔案託管：title.txt下載頁面與59分鐘過期倒數]]></title>
     <link>https://github.com/infiniflow/ragflow/releases/tag/dev-20260918</link>
@@ -71,28 +85,5 @@
     <content:encoded><![CDATA[<p>fix(bedrock): report the expected key schema instead of a JSONDecodeE…</p>]]></content:encoded>
     
     <pubDate>2026-09-16T02:01:18.000Z</pubDate>
-  </item><item>
-    <title><![CDATA[/tmp/files臨時檔案託管：title.txt下載頁面（59分鐘後過期）]]></title>
-    <link>https://github.com/infiniflow/ragflow/releases/tag/dev-20260914</link>
-    <itunes:title><![CDATA[/tmp/files臨時檔案託管：title.txt下載頁面（59分鐘後過期）]]></itunes:title>
-    <itunes:author><![CDATA[6ba3i]]></itunes:author>
-    <itunes:summary>
-      <![CDATA[<h3>Summary</h3>
-<p>Removed unnecessary beartype hooks from three package imports. This<br>
-prevents unwanted import-time instrumentation and dependency coupling.<br>
-based on <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4524517263" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/15258" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/15258/hovercard" href="https://github.com/infiniflow/ragflow/pull/15258">#15258</a></p>]]>
-    </itunes:summary>
-    <description>
-      <![CDATA[<h3>Summary</h3>
-<p>Removed unnecessary beartype hooks from three package imports. This<br>
-prevents unwanted import-time instrumentation and dependency coupling.<br>
-based on <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4524517263" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/15258" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/15258/hovercard" href="https://github.com/infiniflow/ragflow/pull/15258">#15258</a></p>]]>
-    </description>
-    <content:encoded><![CDATA[<h3>Summary</h3>
-<p>Removed unnecessary beartype hooks from three package imports. This<br>
-prevents unwanted import-time instrumentation and dependency coupling.<br>
-based on <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4524517263" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/15258" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/15258/hovercard" href="https://github.com/infiniflow/ragflow/pull/15258">#15258</a></p>]]></content:encoded>
-    
-    <pubDate>2026-09-14T02:04:11.000Z</pubDate>
   </item></channel>
 </rss>
