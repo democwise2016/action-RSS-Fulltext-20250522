@@ -3,7 +3,7 @@
     <title><![CDATA[cline Release [GH][RSS+]]]></title>
     <link>https://github.com/cline/cline/releases.atom</link>
     <image>
-      <url>https://fastly.picsum.photos/id/610/800/800.jpg?hmac=ksOmwCoPA5SpPhmims4D-T2hQ_IqGBHPc5PpI8RP4B0</url>
+      <url>https://fastly.picsum.photos/id/142/800/800.jpg?hmac=eXyt1-KM--iTld7JYyjxb_Yst-dSuAKJB8KeLZndh_U</url>
       <title>cline Release [GH][RSS+]</title>
       <link>https://github.com/cline/cline/releases.atom</link>
     </image>
@@ -28,7 +28,7 @@
     <itunes:owner>
       <itunes:name><![CDATA[cline Release [GH][RSS+]]]></itunes:name>
     </itunes:owner>
-    <itunes:image href="https://fastly.picsum.photos/id/610/800/800.jpg?hmac=ksOmwCoPA5SpPhmims4D-T2hQ_IqGBHPc5PpI8RP4B0"/>
+    <itunes:image href="https://fastly.picsum.photos/id/142/800/800.jpg?hmac=eXyt1-KM--iTld7JYyjxb_Yst-dSuAKJB8KeLZndh_U"/>
 <item>
     <title><![CDATA[SDK v0.0.92更新：統一AI SDK版本、修復推理關閉錯誤，預設改用Claude Haiku 5.5]]></title>
     <link>https://github.com/cline/cline/releases/tag/sdk%2Fsdk%2Fv0.0.92</link>
