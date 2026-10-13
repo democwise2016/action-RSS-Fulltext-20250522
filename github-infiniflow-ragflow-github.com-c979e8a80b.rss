@@ -3,7 +3,7 @@
     <title><![CDATA[RagFlow Release [GH][RSS+]]]></title>
     <link>https://github.com/infiniflow/ragflow/releases.atom</link>
     <image>
-      <url>https://fastly.picsum.photos/id/216/800/800.jpg?hmac=yLRbmFm65SVWEbWlG14o0L5tM-YgLT4Fg1n7D3J2UuQ</url>
+      <url>https://fastly.picsum.photos/id/740/800/800.jpg?hmac=wn9qyHCa6cZpb1wC-R4MRPsBQ57T0EQUroypJbxqBkA</url>
       <title>RagFlow Release [GH][RSS+]</title>
       <link>https://github.com/infiniflow/ragflow/releases.atom</link>
     </image>
@@ -28,8 +28,22 @@
     <itunes:owner>
       <itunes:name><![CDATA[RagFlow Release [GH][RSS+]]]></itunes:name>
     </itunes:owner>
-    <itunes:image href="https://fastly.picsum.photos/id/216/800/800.jpg?hmac=yLRbmFm65SVWEbWlG14o0L5tM-YgLT4Fg1n7D3J2UuQ"/>
+    <itunes:image href="https://fastly.picsum.photos/id/740/800/800.jpg?hmac=wn9qyHCa6cZpb1wC-R4MRPsBQ57T0EQUroypJbxqBkA"/>
 <item>
+    <title><![CDATA[Nightly 版本發布：基於 d2ede48 於 2026 年 10 月 13 日建立]]></title>
+    <link>https://github.com/infiniflow/ragflow/releases/tag/nightly</link>
+    <itunes:title><![CDATA[Nightly 版本發布：基於 d2ede48 於 2026 年 10 月 13 日建立]]></itunes:title>
+    <itunes:author><![CDATA[yuzhichang]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/d2ede485bfe87dc42b6c23598a2e36ab8f964030/hovercard" href="https://github.com/infiniflow/ragflow/commit/d2ede485bfe87dc42b6c23598a2e36ab8f964030"><tt>d2ede48</tt></a> at 2026-10-13 21:28:22+08:00</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/d2ede485bfe87dc42b6c23598a2e36ab8f964030/hovercard" href="https://github.com/infiniflow/ragflow/commit/d2ede485bfe87dc42b6c23598a2e36ab8f964030"><tt>d2ede48</tt></a> at 2026-10-13 21:28:22+08:00</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/d2ede485bfe87dc42b6c23598a2e36ab8f964030/hovercard" href="https://github.com/infiniflow/ragflow/commit/d2ede485bfe87dc42b6c23598a2e36ab8f964030"><tt>d2ede48</tt></a> at 2026-10-13 21:28:22+08:00</p>]]></content:encoded>
+    
+    <pubDate>2026-10-13T13:28:33.000Z</pubDate>
+  </item><item>
     <title><![CDATA[修正檔案移動：禁止同時移動資料夾及其子項目]]></title>
     <link>https://github.com/infiniflow/ragflow/releases/tag/dev-20261013</link>
     <itunes:title><![CDATA[修正檔案移動：禁止同時移動資料夾及其子項目]]></itunes:title>
@@ -43,20 +57,6 @@
     <content:encoded><![CDATA[<p>fix(file): reject moving a folder together with its descendants (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="5813057652" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/20848" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/20848/hovercard" href="https://github.com/infiniflow/ragflow/pull/20848">#20848</a>)</p>]]></content:encoded>
     
     <pubDate>2026-10-13T02:10:34.000Z</pubDate>
-  </item><item>
-    <title><![CDATA[Nightly 版本發布：2026-10-12 基於 deb1235 建立]]></title>
-    <link>https://github.com/infiniflow/ragflow/releases/tag/nightly</link>
-    <itunes:title><![CDATA[Nightly 版本發布：2026-10-12 基於 deb1235 建立]]></itunes:title>
-    <itunes:author><![CDATA[yuzhichang]]></itunes:author>
-    <itunes:summary>
-      <![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/deb1235be41dbfd379efa9842fb38116d4a121f7/hovercard" href="https://github.com/infiniflow/ragflow/commit/deb1235be41dbfd379efa9842fb38116d4a121f7"><tt>deb1235</tt></a> at 2026-10-12 21:41:01+08:00</p>]]>
-    </itunes:summary>
-    <description>
-      <![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/deb1235be41dbfd379efa9842fb38116d4a121f7/hovercard" href="https://github.com/infiniflow/ragflow/commit/deb1235be41dbfd379efa9842fb38116d4a121f7"><tt>deb1235</tt></a> at 2026-10-12 21:41:01+08:00</p>]]>
-    </description>
-    <content:encoded><![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/deb1235be41dbfd379efa9842fb38116d4a121f7/hovercard" href="https://github.com/infiniflow/ragflow/commit/deb1235be41dbfd379efa9842fb38116d4a121f7"><tt>deb1235</tt></a> at 2026-10-12 21:41:01+08:00</p>]]></content:encoded>
-    
-    <pubDate>2026-10-12T13:41:09.000Z</pubDate>
   </item><item>
     <title><![CDATA[網頁版代理清單新增內建管線並以唯讀項目呈現]]></title>
     <link>https://github.com/infiniflow/ragflow/releases/tag/dev-20261010</link>
