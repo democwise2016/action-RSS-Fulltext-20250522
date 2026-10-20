@@ -3,7 +3,7 @@
     <title><![CDATA[RagFlow Release [GH][RSS+]]]></title>
     <link>https://github.com/infiniflow/ragflow/releases.atom</link>
     <image>
-      <url>https://fastly.picsum.photos/id/402/800/800.jpg?hmac=PXkKu0f6JVrejU47-muMPcGMrTn-OQ2W-EwQz0IkpFs</url>
+      <url>https://fastly.picsum.photos/id/38/800/800.jpg?hmac=QwB6W_u9nGWmuDhzn6E5a24KGJfZ7n8IFQQ3iepyYjw</url>
       <title>RagFlow Release [GH][RSS+]</title>
       <link>https://github.com/infiniflow/ragflow/releases.atom</link>
     </image>
@@ -28,8 +28,22 @@
     <itunes:owner>
       <itunes:name><![CDATA[RagFlow Release [GH][RSS+]]]></itunes:name>
     </itunes:owner>
-    <itunes:image href="https://fastly.picsum.photos/id/402/800/800.jpg?hmac=PXkKu0f6JVrejU47-muMPcGMrTn-OQ2W-EwQz0IkpFs"/>
+    <itunes:image href="https://fastly.picsum.photos/id/38/800/800.jpg?hmac=QwB6W_u9nGWmuDhzn6E5a24KGJfZ7n8IFQQ3iepyYjw"/>
 <item>
+    <title><![CDATA[Nightly 版本釋出：基於 30a6808 於 2026-10-20 建立]]></title>
+    <link>https://github.com/infiniflow/ragflow/releases/tag/nightly</link>
+    <itunes:title><![CDATA[Nightly 版本釋出：基於 30a6808 於 2026-10-20 建立]]></itunes:title>
+    <itunes:author><![CDATA[yuzhichang]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/30a6808d713cc09a7fb489019aba6ec7b1aa13e0/hovercard" href="https://github.com/infiniflow/ragflow/commit/30a6808d713cc09a7fb489019aba6ec7b1aa13e0"><tt>30a6808</tt></a> at 2026-10-20 13:18:51+00:00</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/30a6808d713cc09a7fb489019aba6ec7b1aa13e0/hovercard" href="https://github.com/infiniflow/ragflow/commit/30a6808d713cc09a7fb489019aba6ec7b1aa13e0"><tt>30a6808</tt></a> at 2026-10-20 13:18:51+00:00</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/30a6808d713cc09a7fb489019aba6ec7b1aa13e0/hovercard" href="https://github.com/infiniflow/ragflow/commit/30a6808d713cc09a7fb489019aba6ec7b1aa13e0"><tt>30a6808</tt></a> at 2026-10-20 13:18:51+00:00</p>]]></content:encoded>
+    
+    <pubDate>2026-10-20T13:18:57.000Z</pubDate>
+  </item><item>
     <title><![CDATA[CLI 新增「show quota」配額查詢功能（dev-20261020-3，#21243）]]></title>
     <link>https://github.com/infiniflow/ragflow/releases/tag/dev-20261020-3</link>
     <itunes:title><![CDATA[CLI 新增「show quota」配額查詢功能（dev-20261020-3，#21243）]]></itunes:title>
@@ -57,20 +71,6 @@
     <content:encoded><![CDATA[<p>Signed-off-by: Jin Hai <a href="mailto:haijin.chn@gmail.com">haijin.chn@gmail.com</a></p>]]></content:encoded>
     
     <pubDate>2026-10-20T05:52:48.000Z</pubDate>
-  </item><item>
-    <title><![CDATA[Nightly 版本發布：基於 7eb673b 於 2026-10-20 生成]]></title>
-    <link>https://github.com/infiniflow/ragflow/releases/tag/nightly</link>
-    <itunes:title><![CDATA[Nightly 版本發布：基於 7eb673b 於 2026-10-20 生成]]></itunes:title>
-    <itunes:author><![CDATA[yuzhichang]]></itunes:author>
-    <itunes:summary>
-      <![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/7eb673bfc3ab1cc22532fe23a1e9bb85c34e48bd/hovercard" href="https://github.com/infiniflow/ragflow/commit/7eb673bfc3ab1cc22532fe23a1e9bb85c34e48bd"><tt>7eb673b</tt></a> at 2026-10-20 09:20:10+00:00</p>]]>
-    </itunes:summary>
-    <description>
-      <![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/7eb673bfc3ab1cc22532fe23a1e9bb85c34e48bd/hovercard" href="https://github.com/infiniflow/ragflow/commit/7eb673bfc3ab1cc22532fe23a1e9bb85c34e48bd"><tt>7eb673b</tt></a> at 2026-10-20 09:20:10+00:00</p>]]>
-    </description>
-    <content:encoded><![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/7eb673bfc3ab1cc22532fe23a1e9bb85c34e48bd/hovercard" href="https://github.com/infiniflow/ragflow/commit/7eb673bfc3ab1cc22532fe23a1e9bb85c34e48bd"><tt>7eb673b</tt></a> at 2026-10-20 09:20:10+00:00</p>]]></content:encoded>
-    
-    <pubDate>2026-10-20T09:20:15.000Z</pubDate>
   </item><item>
     <title><![CDATA[修復 Agentic RAG 中的主張與證據使用問題 (#21170)]]></title>
     <link>https://github.com/infiniflow/ragflow/releases/tag/dev-20261020</link>
