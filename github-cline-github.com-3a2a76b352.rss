@@ -1,0 +1,226 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
+  <channel>
+    <title><![CDATA[cline Release [GH][RSS+]]]></title>
+    <link>https://github.com/cline/cline/releases.atom</link>
+    <image>
+      <url>https://fastly.picsum.photos/id/483/800/800.jpg?hmac=pUlwmtzIJHCht1x9xOgXs--CIh6OX8RilZwgQLrgakw</url>
+      <title>cline Release [GH][RSS+]</title>
+      <link>https://github.com/cline/cline/releases.atom</link>
+    </image>
+    <language>en-us</language>
+    <atom:link href="https://github.com/cline/cline/releases.atom" rel="self" type="application/rss+xml"/>
+    <copyright><![CDATA[cline Release [GH][RSS+]]]></copyright>
+    <itunes:author><![CDATA[cline Release [GH][RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[
+      <a href="https://github.com/cline/cline/releases" target="_blank">https://github.com/cline/cline/releases</a><br />
+<br />
+<a href="https://github.com/cline/cline/releases.atom" target="_blank">https://github.com/cline/cline/releases.atom</a>
+      ]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[
+      <a href="https://github.com/cline/cline/releases" target="_blank">https://github.com/cline/cline/releases</a><br />
+<br />
+<a href="https://github.com/cline/cline/releases.atom" target="_blank">https://github.com/cline/cline/releases.atom</a>
+      ]]>
+    </description>
+    <itunes:owner>
+      <itunes:name><![CDATA[cline Release [GH][RSS+]]]></itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://fastly.picsum.photos/id/483/800/800.jpg?hmac=pUlwmtzIJHCht1x9xOgXs--CIh6OX8RilZwgQLrgakw"/>
+<item>
+    <title><![CDATA[@cline/shared SDK 發布 v0.0.95 版本更新]]></title>
+    <link>https://github.com/cline/cline/releases/tag/sdk%2Fshared%2Fv0.0.95</link>
+    <itunes:title><![CDATA[@cline/shared SDK 發布 v0.0.95 版本更新]]></itunes:title>
+    <itunes:author><![CDATA[github-actions[bot]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>@cline/shared@0.0.95</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>@cline/shared@0.0.95</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>@cline/shared@0.0.95</p>]]></content:encoded>
+    
+    <pubDate>2026-10-17T02:59:52.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[SDK v0.0.95：支援 GPT-6 相容請求並更新模型目錄與遙測功能]]></title>
+    <link>https://github.com/cline/cline/releases/tag/sdk%2Fsdk%2Fv0.0.95</link>
+    <itunes:title><![CDATA[SDK v0.0.95：支援 GPT-6 相容請求並更新模型目錄與遙測功能]]></itunes:title>
+    <itunes:author><![CDATA[github-actions[bot]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<ul>
+<li>OpenAI-compatible requests for GPT-6 models (<code>gpt-6-sol</code>, <code>gpt-6.1-sol</code>, <code>gpt-6-1-sol</code>, and later gpt-5 through gpt-9 ids) send <code>max_completion_tokens</code> instead of <code>max_tokens</code>, so OpenAI and Azure no longer reject them. Azure's <code>gpt-35-turbo</code> keeps <code>max_tokens</code></li>
+<li>The hub daemon records which client started it (<code>CLINE_HUB_LAUNCHER_CLIENT</code>, <code>CLINE_HUB_LAUNCHER_VERSION</code>, <code>CLINE_HUB_LAUNCHER_TRANSPORT</code>) and publishes that as OTel resource attributes. SSH remote hubs report the local client with transport <code>ssh</code>. <code>@cline/shared</code> adds <code>withHubLauncherIdentity</code>, <code>claimHubLauncherIdentity</code> and <code>readHubLauncherIdentity</code></li>
+<li>The telemetry self-check report includes <code>traces_exporter</code></li>
+<li>Refreshed the model catalog (6,952 → 7,041 models). Adds the CommandCode and Reflection providers. The Cline recommended list leads with Claude Sonnet 5.5 again, so the <code>cline</code> provider's bundled default goes back to Claude Sonnet 5.5 from Gemini 4 Argon. Default models change for 302.AI (Gemini 4 Argon), Eden AI and Prime Inference (Muse Spark Open), CoreWeave (Reflection Beam 1.0), NanoGPT, Pioneer (Nemotron 3.5 Super VL), and Scaleway (DeepSeek V4.1 Flash). OpenCode Go keeps its <code>https://opencode.ai/inference/go/v1</code> base URL, now pinned, because models.dev moved its provider-level URL to an OpenAI-only path</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/sdk/sdk/v0.0.94...sdk/sdk/v0.0.95"><tt>sdk/sdk/v0.0.94...sdk/sdk/v0.0.95</tt></a></p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<ul>
+<li>OpenAI-compatible requests for GPT-6 models (<code>gpt-6-sol</code>, <code>gpt-6.1-sol</code>, <code>gpt-6-1-sol</code>, and later gpt-5 through gpt-9 ids) send <code>max_completion_tokens</code> instead of <code>max_tokens</code>, so OpenAI and Azure no longer reject them. Azure's <code>gpt-35-turbo</code> keeps <code>max_tokens</code></li>
+<li>The hub daemon records which client started it (<code>CLINE_HUB_LAUNCHER_CLIENT</code>, <code>CLINE_HUB_LAUNCHER_VERSION</code>, <code>CLINE_HUB_LAUNCHER_TRANSPORT</code>) and publishes that as OTel resource attributes. SSH remote hubs report the local client with transport <code>ssh</code>. <code>@cline/shared</code> adds <code>withHubLauncherIdentity</code>, <code>claimHubLauncherIdentity</code> and <code>readHubLauncherIdentity</code></li>
+<li>The telemetry self-check report includes <code>traces_exporter</code></li>
+<li>Refreshed the model catalog (6,952 → 7,041 models). Adds the CommandCode and Reflection providers. The Cline recommended list leads with Claude Sonnet 5.5 again, so the <code>cline</code> provider's bundled default goes back to Claude Sonnet 5.5 from Gemini 4 Argon. Default models change for 302.AI (Gemini 4 Argon), Eden AI and Prime Inference (Muse Spark Open), CoreWeave (Reflection Beam 1.0), NanoGPT, Pioneer (Nemotron 3.5 Super VL), and Scaleway (DeepSeek V4.1 Flash). OpenCode Go keeps its <code>https://opencode.ai/inference/go/v1</code> base URL, now pinned, because models.dev moved its provider-level URL to an OpenAI-only path</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/sdk/sdk/v0.0.94...sdk/sdk/v0.0.95"><tt>sdk/sdk/v0.0.94...sdk/sdk/v0.0.95</tt></a></p>]]>
+    </description>
+    <content:encoded><![CDATA[<ul>
+<li>OpenAI-compatible requests for GPT-6 models (<code>gpt-6-sol</code>, <code>gpt-6.1-sol</code>, <code>gpt-6-1-sol</code>, and later gpt-5 through gpt-9 ids) send <code>max_completion_tokens</code> instead of <code>max_tokens</code>, so OpenAI and Azure no longer reject them. Azure's <code>gpt-35-turbo</code> keeps <code>max_tokens</code></li>
+<li>The hub daemon records which client started it (<code>CLINE_HUB_LAUNCHER_CLIENT</code>, <code>CLINE_HUB_LAUNCHER_VERSION</code>, <code>CLINE_HUB_LAUNCHER_TRANSPORT</code>) and publishes that as OTel resource attributes. SSH remote hubs report the local client with transport <code>ssh</code>. <code>@cline/shared</code> adds <code>withHubLauncherIdentity</code>, <code>claimHubLauncherIdentity</code> and <code>readHubLauncherIdentity</code></li>
+<li>The telemetry self-check report includes <code>traces_exporter</code></li>
+<li>Refreshed the model catalog (6,952 → 7,041 models). Adds the CommandCode and Reflection providers. The Cline recommended list leads with Claude Sonnet 5.5 again, so the <code>cline</code> provider's bundled default goes back to Claude Sonnet 5.5 from Gemini 4 Argon. Default models change for 302.AI (Gemini 4 Argon), Eden AI and Prime Inference (Muse Spark Open), CoreWeave (Reflection Beam 1.0), NanoGPT, Pioneer (Nemotron 3.5 Super VL), and Scaleway (DeepSeek V4.1 Flash). OpenCode Go keeps its <code>https://opencode.ai/inference/go/v1</code> base URL, now pinned, because models.dev moved its provider-level URL to an OpenAI-only path</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/sdk/sdk/v0.0.94...sdk/sdk/v0.0.95"><tt>sdk/sdk/v0.0.94...sdk/sdk/v0.0.95</tt></a></p>]]></content:encoded>
+    
+    <pubDate>2026-10-17T03:00:13.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[@cline/llms SDK v0.0.95 版本發布]]></title>
+    <link>https://github.com/cline/cline/releases/tag/sdk%2Fllms%2Fv0.0.95</link>
+    <itunes:title><![CDATA[@cline/llms SDK v0.0.95 版本發布]]></itunes:title>
+    <itunes:author><![CDATA[github-actions[bot]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>@cline/llms@0.0.95</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>@cline/llms@0.0.95</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>@cline/llms@0.0.95</p>]]></content:encoded>
+    
+    <pubDate>2026-10-17T02:59:54.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[Cline Core SDK 發布 v0.0.95 版本更新]]></title>
+    <link>https://github.com/cline/cline/releases/tag/sdk%2Fcore%2Fv0.0.95</link>
+    <itunes:title><![CDATA[Cline Core SDK 發布 v0.0.95 版本更新]]></itunes:title>
+    <itunes:author><![CDATA[github-actions[bot]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>@cline/core@0.0.95</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>@cline/core@0.0.95</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>@cline/core@0.0.95</p>]]></content:encoded>
+    
+    <pubDate>2026-10-17T02:59:58.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[Cline Agents SDK 釋出 v0.0.95]]></title>
+    <link>https://github.com/cline/cline/releases/tag/sdk%2Fagents%2Fv0.0.95</link>
+    <itunes:title><![CDATA[Cline Agents SDK 釋出 v0.0.95]]></itunes:title>
+    <itunes:author><![CDATA[github-actions[bot]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>@cline/agents@0.0.95</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>@cline/agents@0.0.95</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>@cline/agents@0.0.95</p>]]></content:encoded>
+    
+    <pubDate>2026-10-17T02:59:56.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[Desktop v0.0.48釋出：支援GPT-6、Claude Sonnet 5.5重返預設並擴充模型目錄]]></title>
+    <link>https://github.com/cline/cline/releases/tag/desktop-v0.0.48</link>
+    <itunes:title><![CDATA[Desktop v0.0.48釋出：支援GPT-6、Claude Sonnet 5.5重返預設並擴充模型目錄]]></itunes:title>
+    <itunes:author><![CDATA[github-actions[bot]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<ul>
+<li>GPT-6 models (such as <code>gpt-6-sol</code> and <code>gpt-6.1-sol</code>) work on OpenAI and Azure OpenAI-compatible endpoints. Before, every request was rejected because Cline sent <code>max_tokens</code> instead of <code>max_completion_tokens</code></li>
+<li>The Cline provider's default model is Claude Sonnet 5.5 again, which is back at the top of Cline's recommended list</li>
+<li>Refreshed the model catalog. Adds the CommandCode and Reflection providers. Default models change for 302.AI (Gemini 4 Argon), Eden AI and Prime Inference (Muse Spark Open), CoreWeave (Reflection Beam 1.0), NanoGPT, Pioneer (Nemotron 3.5 Super VL), and Scaleway (DeepSeek V4.1 Flash)</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/desktop-v0.0.47...desktop-v0.0.48"><tt>desktop-v0.0.47...desktop-v0.0.48</tt></a></p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<ul>
+<li>GPT-6 models (such as <code>gpt-6-sol</code> and <code>gpt-6.1-sol</code>) work on OpenAI and Azure OpenAI-compatible endpoints. Before, every request was rejected because Cline sent <code>max_tokens</code> instead of <code>max_completion_tokens</code></li>
+<li>The Cline provider's default model is Claude Sonnet 5.5 again, which is back at the top of Cline's recommended list</li>
+<li>Refreshed the model catalog. Adds the CommandCode and Reflection providers. Default models change for 302.AI (Gemini 4 Argon), Eden AI and Prime Inference (Muse Spark Open), CoreWeave (Reflection Beam 1.0), NanoGPT, Pioneer (Nemotron 3.5 Super VL), and Scaleway (DeepSeek V4.1 Flash)</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/desktop-v0.0.47...desktop-v0.0.48"><tt>desktop-v0.0.47...desktop-v0.0.48</tt></a></p>]]>
+    </description>
+    <content:encoded><![CDATA[<ul>
+<li>GPT-6 models (such as <code>gpt-6-sol</code> and <code>gpt-6.1-sol</code>) work on OpenAI and Azure OpenAI-compatible endpoints. Before, every request was rejected because Cline sent <code>max_tokens</code> instead of <code>max_completion_tokens</code></li>
+<li>The Cline provider's default model is Claude Sonnet 5.5 again, which is back at the top of Cline's recommended list</li>
+<li>Refreshed the model catalog. Adds the CommandCode and Reflection providers. Default models change for 302.AI (Gemini 4 Argon), Eden AI and Prime Inference (Muse Spark Open), CoreWeave (Reflection Beam 1.0), NanoGPT, Pioneer (Nemotron 3.5 Super VL), and Scaleway (DeepSeek V4.1 Flash)</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/desktop-v0.0.47...desktop-v0.0.48"><tt>desktop-v0.0.47...desktop-v0.0.48</tt></a></p>]]></content:encoded>
+    
+    <pubDate>2026-10-17T04:34:29.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[CLI v3.0.73 支援 GPT-6，新增模型供應商並更新模型清單與預設值]]></title>
+    <link>https://github.com/cline/cline/releases/tag/cli-v3.0.73</link>
+    <itunes:title><![CDATA[CLI v3.0.73 支援 GPT-6，新增模型供應商並更新模型清單與預設值]]></itunes:title>
+    <itunes:author><![CDATA[github-actions[bot]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<ul>
+<li>GPT-6 models (such as <code>gpt-6-sol</code> and <code>gpt-6.1-sol</code>) work on OpenAI and Azure OpenAI-compatible endpoints. Before, every request was rejected because Cline sent <code>max_tokens</code> instead of <code>max_completion_tokens</code></li>
+<li>With no model chosen, the Cline provider uses Claude Sonnet 5.5 again, which is back at the top of Cline's recommended list</li>
+<li>Refreshed the model catalog. Adds the CommandCode and Reflection providers. Default models change for 302.AI (Gemini 4 Argon), Eden AI and Prime Inference (Muse Spark Open), CoreWeave (Reflection Beam 1.0), NanoGPT, Pioneer (Nemotron 3.5 Super VL), and Scaleway (DeepSeek V4.1 Flash)</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/cli-v3.0.72...cli-v3.0.73"><tt>cli-v3.0.72...cli-v3.0.73</tt></a></p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<ul>
+<li>GPT-6 models (such as <code>gpt-6-sol</code> and <code>gpt-6.1-sol</code>) work on OpenAI and Azure OpenAI-compatible endpoints. Before, every request was rejected because Cline sent <code>max_tokens</code> instead of <code>max_completion_tokens</code></li>
+<li>With no model chosen, the Cline provider uses Claude Sonnet 5.5 again, which is back at the top of Cline's recommended list</li>
+<li>Refreshed the model catalog. Adds the CommandCode and Reflection providers. Default models change for 302.AI (Gemini 4 Argon), Eden AI and Prime Inference (Muse Spark Open), CoreWeave (Reflection Beam 1.0), NanoGPT, Pioneer (Nemotron 3.5 Super VL), and Scaleway (DeepSeek V4.1 Flash)</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/cli-v3.0.72...cli-v3.0.73"><tt>cli-v3.0.72...cli-v3.0.73</tt></a></p>]]>
+    </description>
+    <content:encoded><![CDATA[<ul>
+<li>GPT-6 models (such as <code>gpt-6-sol</code> and <code>gpt-6.1-sol</code>) work on OpenAI and Azure OpenAI-compatible endpoints. Before, every request was rejected because Cline sent <code>max_tokens</code> instead of <code>max_completion_tokens</code></li>
+<li>With no model chosen, the Cline provider uses Claude Sonnet 5.5 again, which is back at the top of Cline's recommended list</li>
+<li>Refreshed the model catalog. Adds the CommandCode and Reflection providers. Default models change for 302.AI (Gemini 4 Argon), Eden AI and Prime Inference (Muse Spark Open), CoreWeave (Reflection Beam 1.0), NanoGPT, Pioneer (Nemotron 3.5 Super VL), and Scaleway (DeepSeek V4.1 Flash)</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/cli-v3.0.72...cli-v3.0.73"><tt>cli-v3.0.72...cli-v3.0.73</tt></a></p>]]></content:encoded>
+    
+    <pubDate>2026-10-17T03:59:11.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[{"error":"Content not found or expired."}]]></title>
+    <link>https://github.com/cline/cline/releases/tag/sdk%2Fsdk%2Fv0.0.94</link>
+    <itunes:title><![CDATA[{"error":"Content not found or expired."}]]></itunes:title>
+    <itunes:author><![CDATA[github-actions[bot]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<ul>
+<li>Plugins now run only in worker threads (the default, <code>CLINE_PLUGIN_MODE=worker</code>) or in the subprocess sandbox (<code>sandbox</code>). The <code>in_process</code> mode is removed, along with its silent fallback. A host that ships no <code>plugin-sandbox-bootstrap.js</code> fails every plugin load with <code>PluginBootstrapMissingError</code>, which names <code>CLINE_PLUGIN_BOOTSTRAP_PATH</code>, instead of quietly running plugins inside the hub. The hub daemon's uncaught error handlers are fatal again. The SSH remote hub ships no bootstrap yet, so it reports plugin tools as missing</li>
+<li>Provider errors that arrive after a model stream has started are retried up to 3 times, and the final failure is reported as an error in logs and Langfuse traces. Exhausted retries no longer also trigger the agent's whole-turn retry, so retry budgets don't multiply</li>
+<li>Model request failure logs include the provider's request id</li>
+<li><code>setHubDaemonLauncher</code> lets an embedding host start the hub daemon through a bundled Cline CLI, and <code>ensureDetachedHubServer</code> gains a <code>beforeSpawn</code> hook that runs only when a new daemon actually starts. The standalone SSH remote helper entrypoint is removed: SSH remotes run the hub through the uploaded Cline CLI</li>
+<li><code>NodeHubClient</code> accepts <code>resolveConnectionHeaders</code>, so a remote proxy's WebSocket upgrade can be authenticated with HTTP headers refreshed on every reconnect. It is threaded through <code>HubRuntimeHost</code> and <code>RemoteRuntimeHost</code></li>
+<li><code>AskQuestionExecutor</code> may return text and image blocks, so attachments sent with an answer reach the model</li>
+<li>New <code>buildTelemetrySelfcheckReport</code> export in <code>@cline/shared</code></li>
+<li>The <code>cline</code> provider's bundled default (the first Cline recommended model) is now Gemini 4 Argon instead of Claude Sonnet 5.5, because the recommended list now leads with it</li>
+<li>Refreshed the model catalog (6,862 → 6,952 models). Adds the Boundless and Standard Compute providers, and SambaNova now comes from the catalog with MiniMax M3 as its default. The Cline recommended list adds Gemini 4 Argon and drops Grok 4.7, and the Cline free list replaces Step 5 Preview with Nemotron 3.5 Super VL. OpenCode Go no longer lists MiniMax M2.7. Default models change for Cortecs, CrossModel, Eden AI, Google Gemini, GitHub Copilot, Google Vertex AI, LLM Gateway, Ofox, OpenCode Go, and Prime Inference (Gemini 4 Argon), Fireworks AI, Nebius Token Factory, and Requesty (Muse Spark Open), CoreWeave, DigitalOcean, NanoGPT, and Nvidia (Nemotron 3.5 Super VL), Aixy and Neon (Claude Haiku 5.5), Agnes AI, Ambient, IteraCompute, Poe, Scaleway, and SenseNova</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/sdk/sdk/v0.0.93...sdk/sdk/v0.0.94"><tt>sdk/sdk/v0.0.93...sdk/sdk/v0.0.94</tt></a></p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<ul>
+<li>Plugins now run only in worker threads (the default, <code>CLINE_PLUGIN_MODE=worker</code>) or in the subprocess sandbox (<code>sandbox</code>). The <code>in_process</code> mode is removed, along with its silent fallback. A host that ships no <code>plugin-sandbox-bootstrap.js</code> fails every plugin load with <code>PluginBootstrapMissingError</code>, which names <code>CLINE_PLUGIN_BOOTSTRAP_PATH</code>, instead of quietly running plugins inside the hub. The hub daemon's uncaught error handlers are fatal again. The SSH remote hub ships no bootstrap yet, so it reports plugin tools as missing</li>
+<li>Provider errors that arrive after a model stream has started are retried up to 3 times, and the final failure is reported as an error in logs and Langfuse traces. Exhausted retries no longer also trigger the agent's whole-turn retry, so retry budgets don't multiply</li>
+<li>Model request failure logs include the provider's request id</li>
+<li><code>setHubDaemonLauncher</code> lets an embedding host start the hub daemon through a bundled Cline CLI, and <code>ensureDetachedHubServer</code> gains a <code>beforeSpawn</code> hook that runs only when a new daemon actually starts. The standalone SSH remote helper entrypoint is removed: SSH remotes run the hub through the uploaded Cline CLI</li>
+<li><code>NodeHubClient</code> accepts <code>resolveConnectionHeaders</code>, so a remote proxy's WebSocket upgrade can be authenticated with HTTP headers refreshed on every reconnect. It is threaded through <code>HubRuntimeHost</code> and <code>RemoteRuntimeHost</code></li>
+<li><code>AskQuestionExecutor</code> may return text and image blocks, so attachments sent with an answer reach the model</li>
+<li>New <code>buildTelemetrySelfcheckReport</code> export in <code>@cline/shared</code></li>
+<li>The <code>cline</code> provider's bundled default (the first Cline recommended model) is now Gemini 4 Argon instead of Claude Sonnet 5.5, because the recommended list now leads with it</li>
+<li>Refreshed the model catalog (6,862 → 6,952 models). Adds the Boundless and Standard Compute providers, and SambaNova now comes from the catalog with MiniMax M3 as its default. The Cline recommended list adds Gemini 4 Argon and drops Grok 4.7, and the Cline free list replaces Step 5 Preview with Nemotron 3.5 Super VL. OpenCode Go no longer lists MiniMax M2.7. Default models change for Cortecs, CrossModel, Eden AI, Google Gemini, GitHub Copilot, Google Vertex AI, LLM Gateway, Ofox, OpenCode Go, and Prime Inference (Gemini 4 Argon), Fireworks AI, Nebius Token Factory, and Requesty (Muse Spark Open), CoreWeave, DigitalOcean, NanoGPT, and Nvidia (Nemotron 3.5 Super VL), Aixy and Neon (Claude Haiku 5.5), Agnes AI, Ambient, IteraCompute, Poe, Scaleway, and SenseNova</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/sdk/sdk/v0.0.93...sdk/sdk/v0.0.94"><tt>sdk/sdk/v0.0.93...sdk/sdk/v0.0.94</tt></a></p>]]>
+    </description>
+    <content:encoded><![CDATA[<ul>
+<li>Plugins now run only in worker threads (the default, <code>CLINE_PLUGIN_MODE=worker</code>) or in the subprocess sandbox (<code>sandbox</code>). The <code>in_process</code> mode is removed, along with its silent fallback. A host that ships no <code>plugin-sandbox-bootstrap.js</code> fails every plugin load with <code>PluginBootstrapMissingError</code>, which names <code>CLINE_PLUGIN_BOOTSTRAP_PATH</code>, instead of quietly running plugins inside the hub. The hub daemon's uncaught error handlers are fatal again. The SSH remote hub ships no bootstrap yet, so it reports plugin tools as missing</li>
+<li>Provider errors that arrive after a model stream has started are retried up to 3 times, and the final failure is reported as an error in logs and Langfuse traces. Exhausted retries no longer also trigger the agent's whole-turn retry, so retry budgets don't multiply</li>
+<li>Model request failure logs include the provider's request id</li>
+<li><code>setHubDaemonLauncher</code> lets an embedding host start the hub daemon through a bundled Cline CLI, and <code>ensureDetachedHubServer</code> gains a <code>beforeSpawn</code> hook that runs only when a new daemon actually starts. The standalone SSH remote helper entrypoint is removed: SSH remotes run the hub through the uploaded Cline CLI</li>
+<li><code>NodeHubClient</code> accepts <code>resolveConnectionHeaders</code>, so a remote proxy's WebSocket upgrade can be authenticated with HTTP headers refreshed on every reconnect. It is threaded through <code>HubRuntimeHost</code> and <code>RemoteRuntimeHost</code></li>
+<li><code>AskQuestionExecutor</code> may return text and image blocks, so attachments sent with an answer reach the model</li>
+<li>New <code>buildTelemetrySelfcheckReport</code> export in <code>@cline/shared</code></li>
+<li>The <code>cline</code> provider's bundled default (the first Cline recommended model) is now Gemini 4 Argon instead of Claude Sonnet 5.5, because the recommended list now leads with it</li>
+<li>Refreshed the model catalog (6,862 → 6,952 models). Adds the Boundless and Standard Compute providers, and SambaNova now comes from the catalog with MiniMax M3 as its default. The Cline recommended list adds Gemini 4 Argon and drops Grok 4.7, and the Cline free list replaces Step 5 Preview with Nemotron 3.5 Super VL. OpenCode Go no longer lists MiniMax M2.7. Default models change for Cortecs, CrossModel, Eden AI, Google Gemini, GitHub Copilot, Google Vertex AI, LLM Gateway, Ofox, OpenCode Go, and Prime Inference (Gemini 4 Argon), Fireworks AI, Nebius Token Factory, and Requesty (Muse Spark Open), CoreWeave, DigitalOcean, NanoGPT, and Nvidia (Nemotron 3.5 Super VL), Aixy and Neon (Claude Haiku 5.5), Agnes AI, Ambient, IteraCompute, Poe, Scaleway, and SenseNova</li>
+</ul>
+<p><strong>Full Changelog</strong>: <a class="commit-link" href="https://github.com/cline/cline/compare/sdk/sdk/v0.0.93...sdk/sdk/v0.0.94"><tt>sdk/sdk/v0.0.93...sdk/sdk/v0.0.94</tt></a></p>]]></content:encoded>
+    
+    <pubDate>2026-10-16T03:51:13.000Z</pubDate>
+  </item></channel>
+</rss>
