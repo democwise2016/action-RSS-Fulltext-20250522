@@ -3,7 +3,7 @@
     <title><![CDATA[RagFlow Release [GH][RSS+]]]></title>
     <link>https://github.com/infiniflow/ragflow/releases.atom</link>
     <image>
-      <url>https://fastly.picsum.photos/id/257/800/800.jpg?hmac=Z6rTJH9r9nedDzaugmwZOZSX2Duw4qFcz73jhC9Sq30</url>
+      <url>https://fastly.picsum.photos/id/402/800/800.jpg?hmac=PXkKu0f6JVrejU47-muMPcGMrTn-OQ2W-EwQz0IkpFs</url>
       <title>RagFlow Release [GH][RSS+]</title>
       <link>https://github.com/infiniflow/ragflow/releases.atom</link>
     </image>
@@ -28,21 +28,49 @@
     <itunes:owner>
       <itunes:name><![CDATA[RagFlow Release [GH][RSS+]]]></itunes:name>
     </itunes:owner>
-    <itunes:image href="https://fastly.picsum.photos/id/257/800/800.jpg?hmac=Z6rTJH9r9nedDzaugmwZOZSX2Duw4qFcz73jhC9Sq30"/>
+    <itunes:image href="https://fastly.picsum.photos/id/402/800/800.jpg?hmac=PXkKu0f6JVrejU47-muMPcGMrTn-OQ2W-EwQz0IkpFs"/>
 <item>
-    <title><![CDATA[Nightly 版本發布：基於提交 7eb673b 於 2026-10-19 建立]]></title>
-    <link>https://github.com/infiniflow/ragflow/releases/tag/nightly</link>
-    <itunes:title><![CDATA[Nightly 版本發布：基於提交 7eb673b 於 2026-10-19 建立]]></itunes:title>
-    <itunes:author><![CDATA[yuzhichang]]></itunes:author>
+    <title><![CDATA[CLI 新增「show quota」配額查詢功能（dev-20261020-3，#21243）]]></title>
+    <link>https://github.com/infiniflow/ragflow/releases/tag/dev-20261020-3</link>
+    <itunes:title><![CDATA[CLI 新增「show quota」配額查詢功能（dev-20261020-3，#21243）]]></itunes:title>
+    <itunes:author><![CDATA[JinHai-CN]]></itunes:author>
     <itunes:summary>
-      <![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/7eb673bfc3ab1cc22532fe23a1e9bb85c34e48bd/hovercard" href="https://github.com/infiniflow/ragflow/commit/7eb673bfc3ab1cc22532fe23a1e9bb85c34e48bd"><tt>7eb673b</tt></a> at 2026-10-19 13:21:12+00:00</p>]]>
+      <![CDATA[<p>Signed-off-by: Jin Hai <a href="mailto:haijin.chn@gmail.com">haijin.chn@gmail.com</a></p>]]>
     </itunes:summary>
     <description>
-      <![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/7eb673bfc3ab1cc22532fe23a1e9bb85c34e48bd/hovercard" href="https://github.com/infiniflow/ragflow/commit/7eb673bfc3ab1cc22532fe23a1e9bb85c34e48bd"><tt>7eb673b</tt></a> at 2026-10-19 13:21:12+00:00</p>]]>
+      <![CDATA[<p>Signed-off-by: Jin Hai <a href="mailto:haijin.chn@gmail.com">haijin.chn@gmail.com</a></p>]]>
     </description>
-    <content:encoded><![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/7eb673bfc3ab1cc22532fe23a1e9bb85c34e48bd/hovercard" href="https://github.com/infiniflow/ragflow/commit/7eb673bfc3ab1cc22532fe23a1e9bb85c34e48bd"><tt>7eb673b</tt></a> at 2026-10-19 13:21:12+00:00</p>]]></content:encoded>
+    <content:encoded><![CDATA[<p>Signed-off-by: Jin Hai <a href="mailto:haijin.chn@gmail.com">haijin.chn@gmail.com</a></p>]]></content:encoded>
     
-    <pubDate>2026-10-19T13:21:17.000Z</pubDate>
+    <pubDate>2026-10-20T10:54:51.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[於Bootstrap引導程序中獲取伺服器類型（PR #21204）]]></title>
+    <link>https://github.com/infiniflow/ragflow/releases/tag/dev-20261020-2</link>
+    <itunes:title><![CDATA[於Bootstrap引導程序中獲取伺服器類型（PR #21204）]]></itunes:title>
+    <itunes:author><![CDATA[JinHai-CN]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>Signed-off-by: Jin Hai <a href="mailto:haijin.chn@gmail.com">haijin.chn@gmail.com</a></p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>Signed-off-by: Jin Hai <a href="mailto:haijin.chn@gmail.com">haijin.chn@gmail.com</a></p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>Signed-off-by: Jin Hai <a href="mailto:haijin.chn@gmail.com">haijin.chn@gmail.com</a></p>]]></content:encoded>
+    
+    <pubDate>2026-10-20T05:52:48.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[Nightly 版本發布：基於 7eb673b 於 2026-10-20 生成]]></title>
+    <link>https://github.com/infiniflow/ragflow/releases/tag/nightly</link>
+    <itunes:title><![CDATA[Nightly 版本發布：基於 7eb673b 於 2026-10-20 生成]]></itunes:title>
+    <itunes:author><![CDATA[yuzhichang]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/7eb673bfc3ab1cc22532fe23a1e9bb85c34e48bd/hovercard" href="https://github.com/infiniflow/ragflow/commit/7eb673bfc3ab1cc22532fe23a1e9bb85c34e48bd"><tt>7eb673b</tt></a> at 2026-10-20 09:20:10+00:00</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/7eb673bfc3ab1cc22532fe23a1e9bb85c34e48bd/hovercard" href="https://github.com/infiniflow/ragflow/commit/7eb673bfc3ab1cc22532fe23a1e9bb85c34e48bd"><tt>7eb673b</tt></a> at 2026-10-20 09:20:10+00:00</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/7eb673bfc3ab1cc22532fe23a1e9bb85c34e48bd/hovercard" href="https://github.com/infiniflow/ragflow/commit/7eb673bfc3ab1cc22532fe23a1e9bb85c34e48bd"><tt>7eb673b</tt></a> at 2026-10-20 09:20:10+00:00</p>]]></content:encoded>
+    
+    <pubDate>2026-10-20T09:20:15.000Z</pubDate>
   </item><item>
     <title><![CDATA[修復 Agentic RAG 中的主張與證據使用問題 (#21170)]]></title>
     <link>https://github.com/infiniflow/ragflow/releases/tag/dev-20261020</link>
@@ -1540,33 +1568,5 @@
     <content:encoded><![CDATA[<p>fix(files): handle vanished folders on list requests instead of retur…</p>]]></content:encoded>
     
     <pubDate>2026-10-16T01:48:46.000Z</pubDate>
-  </item><item>
-    <title><![CDATA[重構移除低、中、高、超高思考模式]]></title>
-    <link>https://github.com/infiniflow/ragflow/releases/tag/dev-20261014</link>
-    <itunes:title><![CDATA[重構移除低、中、高、超高思考模式]]></itunes:title>
-    <itunes:author><![CDATA[Caobaining1]]></itunes:author>
-    <itunes:summary>
-      <![CDATA[<p>refactor: remove the low/medium/high/ultra thinking modes (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="5828274243" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/20910" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/20910/hovercard" href="https://github.com/infiniflow/ragflow/pull/20910">#20910</a>)</p>]]>
-    </itunes:summary>
-    <description>
-      <![CDATA[<p>refactor: remove the low/medium/high/ultra thinking modes (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="5828274243" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/20910" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/20910/hovercard" href="https://github.com/infiniflow/ragflow/pull/20910">#20910</a>)</p>]]>
-    </description>
-    <content:encoded><![CDATA[<p>refactor: remove the low/medium/high/ultra thinking modes (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="5828274243" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/20910" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/20910/hovercard" href="https://github.com/infiniflow/ragflow/pull/20910">#20910</a>)</p>]]></content:encoded>
-    
-    <pubDate>2026-10-13T13:18:48.000Z</pubDate>
-  </item><item>
-    <title><![CDATA[修正檔案移動：禁止同時移動資料夾及其子項目]]></title>
-    <link>https://github.com/infiniflow/ragflow/releases/tag/dev-20261013</link>
-    <itunes:title><![CDATA[修正檔案移動：禁止同時移動資料夾及其子項目]]></itunes:title>
-    <itunes:author><![CDATA[flyingwhit]]></itunes:author>
-    <itunes:summary>
-      <![CDATA[<p>fix(file): reject moving a folder together with its descendants (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="5813057652" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/20848" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/20848/hovercard" href="https://github.com/infiniflow/ragflow/pull/20848">#20848</a>)</p>]]>
-    </itunes:summary>
-    <description>
-      <![CDATA[<p>fix(file): reject moving a folder together with its descendants (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="5813057652" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/20848" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/20848/hovercard" href="https://github.com/infiniflow/ragflow/pull/20848">#20848</a>)</p>]]>
-    </description>
-    <content:encoded><![CDATA[<p>fix(file): reject moving a folder together with its descendants (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="5813057652" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/20848" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/20848/hovercard" href="https://github.com/infiniflow/ragflow/pull/20848">#20848</a>)</p>]]></content:encoded>
-    
-    <pubDate>2026-10-13T02:10:34.000Z</pubDate>
   </item></channel>
 </rss>
