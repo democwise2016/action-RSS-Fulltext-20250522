@@ -3,7 +3,7 @@
     <title><![CDATA[RagFlow Release [GH][RSS+]]]></title>
     <link>https://github.com/infiniflow/ragflow/releases.atom</link>
     <image>
-      <url>https://fastly.picsum.photos/id/250/800/800.jpg?hmac=esK-vVpv5wxAO70TrMRPbACT5XTj9bsYj81FI_kmN8U</url>
+      <url>https://fastly.picsum.photos/id/736/800/800.jpg?hmac=yhgmikSsL6y4VbaKndZ1WDZJ9I_sPdxzx-_xDvfK_wo</url>
       <title>RagFlow Release [GH][RSS+]</title>
       <link>https://github.com/infiniflow/ragflow/releases.atom</link>
     </image>
@@ -28,21 +28,21 @@
     <itunes:owner>
       <itunes:name><![CDATA[RagFlow Release [GH][RSS+]]]></itunes:name>
     </itunes:owner>
-    <itunes:image href="https://fastly.picsum.photos/id/250/800/800.jpg?hmac=esK-vVpv5wxAO70TrMRPbACT5XTj9bsYj81FI_kmN8U"/>
+    <itunes:image href="https://fastly.picsum.photos/id/736/800/800.jpg?hmac=yhgmikSsL6y4VbaKndZ1WDZJ9I_sPdxzx-_xDvfK_wo"/>
 <item>
-    <title><![CDATA[Nightly 版本釋出：基於 Commit 7eb673b 於 2026-10-21 建立]]></title>
+    <title><![CDATA[Nightly 版本於2026年10月21日由 e2401e5 建置發布]]></title>
     <link>https://github.com/infiniflow/ragflow/releases/tag/nightly</link>
-    <itunes:title><![CDATA[Nightly 版本釋出：基於 Commit 7eb673b 於 2026-10-21 建立]]></itunes:title>
+    <itunes:title><![CDATA[Nightly 版本於2026年10月21日由 e2401e5 建置發布]]></itunes:title>
     <itunes:author><![CDATA[yuzhichang]]></itunes:author>
     <itunes:summary>
-      <![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/7eb673bfc3ab1cc22532fe23a1e9bb85c34e48bd/hovercard" href="https://github.com/infiniflow/ragflow/commit/7eb673bfc3ab1cc22532fe23a1e9bb85c34e48bd"><tt>7eb673b</tt></a> at 2026-10-21 03:00:26+00:00</p>]]>
+      <![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/e2401e54947db7eb5e542b6de26755d89886f783/hovercard" href="https://github.com/infiniflow/ragflow/commit/e2401e54947db7eb5e542b6de26755d89886f783"><tt>e2401e5</tt></a> at 2026-10-21 13:19:14+00:00</p>]]>
     </itunes:summary>
     <description>
-      <![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/7eb673bfc3ab1cc22532fe23a1e9bb85c34e48bd/hovercard" href="https://github.com/infiniflow/ragflow/commit/7eb673bfc3ab1cc22532fe23a1e9bb85c34e48bd"><tt>7eb673b</tt></a> at 2026-10-21 03:00:26+00:00</p>]]>
+      <![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/e2401e54947db7eb5e542b6de26755d89886f783/hovercard" href="https://github.com/infiniflow/ragflow/commit/e2401e54947db7eb5e542b6de26755d89886f783"><tt>e2401e5</tt></a> at 2026-10-21 13:19:14+00:00</p>]]>
     </description>
-    <content:encoded><![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/7eb673bfc3ab1cc22532fe23a1e9bb85c34e48bd/hovercard" href="https://github.com/infiniflow/ragflow/commit/7eb673bfc3ab1cc22532fe23a1e9bb85c34e48bd"><tt>7eb673b</tt></a> at 2026-10-21 03:00:26+00:00</p>]]></content:encoded>
+    <content:encoded><![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/e2401e54947db7eb5e542b6de26755d89886f783/hovercard" href="https://github.com/infiniflow/ragflow/commit/e2401e54947db7eb5e542b6de26755d89886f783"><tt>e2401e5</tt></a> at 2026-10-21 13:19:14+00:00</p>]]></content:encoded>
     
-    <pubDate>2026-10-21T13:15:22.000Z</pubDate>
+    <pubDate>2026-10-21T13:19:20.000Z</pubDate>
   </item><item>
     <title><![CDATA[dev-20261021：新增租戶角色與權限功能 (#21257)]]></title>
     <link>https://github.com/infiniflow/ragflow/releases/tag/dev-20261021</link>
