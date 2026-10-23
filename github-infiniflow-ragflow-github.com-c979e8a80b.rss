@@ -3,7 +3,7 @@
     <title><![CDATA[RagFlow Release [GH][RSS+]]]></title>
     <link>https://github.com/infiniflow/ragflow/releases.atom</link>
     <image>
-      <url>https://fastly.picsum.photos/id/10/800/800.jpg?hmac=SaapDzK-vdMhnDRoUKZjiLf320I9R3i5E4MZ8kBgPMk</url>
+      <url>https://fastly.picsum.photos/id/416/800/800.jpg?hmac=D_vCTjv6Ng2H-C6ymWjEZtrUQ9eGtQV5Zqt_5s1sN4M</url>
       <title>RagFlow Release [GH][RSS+]</title>
       <link>https://github.com/infiniflow/ragflow/releases.atom</link>
     </image>
@@ -28,7 +28,7 @@
     <itunes:owner>
       <itunes:name><![CDATA[RagFlow Release [GH][RSS+]]]></itunes:name>
     </itunes:owner>
-    <itunes:image href="https://fastly.picsum.photos/id/10/800/800.jpg?hmac=SaapDzK-vdMhnDRoUKZjiLf320I9R3i5E4MZ8kBgPMk"/>
+    <itunes:image href="https://fastly.picsum.photos/id/416/800/800.jpg?hmac=D_vCTjv6Ng2H-C6ymWjEZtrUQ9eGtQV5Zqt_5s1sN4M"/>
 <item>
     <title><![CDATA[RAGFlow v0.27.3 發布：Agentic RAG 移植 Go，強化檢索與文件解析穩定性]]></title>
     <link>https://github.com/infiniflow/ragflow/releases/tag/v0.27.3</link>
@@ -2093,6 +2093,20 @@
     
     <pubDate>2026-10-23T06:34:45.000Z</pubDate>
   </item><item>
+    <title><![CDATA[Nightly 版本於2026年10月23日發布，基於 a55dcce 建立]]></title>
+    <link>https://github.com/infiniflow/ragflow/releases/tag/nightly</link>
+    <itunes:title><![CDATA[Nightly 版本於2026年10月23日發布，基於 a55dcce 建立]]></itunes:title>
+    <itunes:author><![CDATA[yuzhichang]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/a55dccee4c211046b4e4d216a538bc60fae78dfd/hovercard" href="https://github.com/infiniflow/ragflow/commit/a55dccee4c211046b4e4d216a538bc60fae78dfd"><tt>a55dcce</tt></a> at 2026-10-23 13:17:53+00:00</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/a55dccee4c211046b4e4d216a538bc60fae78dfd/hovercard" href="https://github.com/infiniflow/ragflow/commit/a55dccee4c211046b4e4d216a538bc60fae78dfd"><tt>a55dcce</tt></a> at 2026-10-23 13:17:53+00:00</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/a55dccee4c211046b4e4d216a538bc60fae78dfd/hovercard" href="https://github.com/infiniflow/ragflow/commit/a55dccee4c211046b4e4d216a538bc60fae78dfd"><tt>a55dcce</tt></a> at 2026-10-23 13:17:53+00:00</p>]]></content:encoded>
+    
+    <pubDate>2026-10-23T13:18:01.000Z</pubDate>
+  </item><item>
     <title><![CDATA[權限功能：統一資源與代理的所有權]]></title>
     <link>https://github.com/infiniflow/ragflow/releases/tag/dev-20261023</link>
     <itunes:title><![CDATA[權限功能：統一資源與代理的所有權]]></itunes:title>
@@ -2134,20 +2148,6 @@
     <content:encoded><![CDATA[<p>build(deps-dev): bump pillow from 12.3.0 to 13.0.0 (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="5993465903" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/21396" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/21396/hovercard" href="https://github.com/infiniflow/ragflow/pull/21396">#21396</a>)</p>]]></content:encoded>
     
     <pubDate>2026-10-23T07:52:47.000Z</pubDate>
-  </item><item>
-    <title><![CDATA[Nightly 版本發布：於 2026-10-22 自 4fd8c43 建立]]></title>
-    <link>https://github.com/infiniflow/ragflow/releases/tag/nightly</link>
-    <itunes:title><![CDATA[Nightly 版本發布：於 2026-10-22 自 4fd8c43 建立]]></itunes:title>
-    <itunes:author><![CDATA[yuzhichang]]></itunes:author>
-    <itunes:summary>
-      <![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/4fd8c439af2cf31e19731675e27bbb9ccb854bf1/hovercard" href="https://github.com/infiniflow/ragflow/commit/4fd8c439af2cf31e19731675e27bbb9ccb854bf1"><tt>4fd8c43</tt></a> at 2026-10-22 13:19:54+00:00</p>]]>
-    </itunes:summary>
-    <description>
-      <![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/4fd8c439af2cf31e19731675e27bbb9ccb854bf1/hovercard" href="https://github.com/infiniflow/ragflow/commit/4fd8c439af2cf31e19731675e27bbb9ccb854bf1"><tt>4fd8c43</tt></a> at 2026-10-22 13:19:54+00:00</p>]]>
-    </description>
-    <content:encoded><![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/4fd8c439af2cf31e19731675e27bbb9ccb854bf1/hovercard" href="https://github.com/infiniflow/ragflow/commit/4fd8c439af2cf31e19731675e27bbb9ccb854bf1"><tt>4fd8c43</tt></a> at 2026-10-22 13:19:54+00:00</p>]]></content:encoded>
-    
-    <pubDate>2026-10-22T13:20:05.000Z</pubDate>
   </item><item>
     <title><![CDATA[重構解析器：移除未使用的 ParseResult.Text 欄位與文字輸出]]></title>
     <link>https://github.com/infiniflow/ragflow/releases/tag/dev-20261022</link>
