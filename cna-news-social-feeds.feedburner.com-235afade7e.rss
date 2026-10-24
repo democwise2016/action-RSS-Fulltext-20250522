@@ -30,9 +30,38 @@
     </itunes:owner>
     <itunes:image href="https://imgcdn.cna.com.tw/www/images/cna_info/cnalogo_176x117.jpg"/>
 <item>
-    <title><![CDATA[颱風薔琵來襲　1死350傷]]></title>
+    <title><![CDATA[台灣東部海域發生規模5地震　最大震度花蓮縣3級]]></title>
+    <link>https://www.cna.com.tw/news/asoc/202610240012.aspx</link>
+    <itunes:title><![CDATA[台灣東部海域發生規模5地震　最大震度花蓮縣3級]]></itunes:title>
+    <itunes:author><![CDATA[中央社 社會[RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1280/960;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20261024/1280x960_wmkn_007911972443_0.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261024/1280x960_wmkn_007911972443_0.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261024/1280x960_wmkn_007911972443_0.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20261024/1280x960_wmkn_007911972443_0.jpg" fetchpriority="high" alt="台灣東部海域24日4時48分發生芮氏規模5地震。（圖取自氣象署網頁cwa.gov.tw）">
+                      </picture><figcaption class="picinfo">台灣東部海域24日4時48分發生芮氏規模5地震。（圖取自氣象署網頁cwa.gov.tw）</figcaption></figure><p>（中央社台北24日電）根據中央氣象署最新資訊，24日4時48分發生芮氏規模5地震，地震深度15.4公里，震央位於花蓮縣政府東南東方31.2公里（位於台灣東部海域），最大震度花蓮縣3級。1151024</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1280/960;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20261024/1280x960_wmkn_007911972443_0.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261024/1280x960_wmkn_007911972443_0.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261024/1280x960_wmkn_007911972443_0.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20261024/1280x960_wmkn_007911972443_0.jpg" fetchpriority="high" alt="台灣東部海域24日4時48分發生芮氏規模5地震。（圖取自氣象署網頁cwa.gov.tw）">
+                      </picture><figcaption class="picinfo">台灣東部海域24日4時48分發生芮氏規模5地震。（圖取自氣象署網頁cwa.gov.tw）</figcaption></figure><p>（中央社台北24日電）根據中央氣象署最新資訊，24日4時48分發生芮氏規模5地震，地震深度15.4公里，震央位於花蓮縣政府東南東方31.2公里（位於台灣東部海域），最大震度花蓮縣3級。1151024</p>]]>
+    </description>
+    <content:encoded><![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1280/960;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20261024/1280x960_wmkn_007911972443_0.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261024/1280x960_wmkn_007911972443_0.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261024/1280x960_wmkn_007911972443_0.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20261024/1280x960_wmkn_007911972443_0.jpg" fetchpriority="high" alt="台灣東部海域24日4時48分發生芮氏規模5地震。（圖取自氣象署網頁cwa.gov.tw）">
+                      </picture><figcaption class="picinfo">台灣東部海域24日4時48分發生芮氏規模5地震。（圖取自氣象署網頁cwa.gov.tw）</figcaption></figure><p>（中央社台北24日電）根據中央氣象署最新資訊，24日4時48分發生芮氏規模5地震，地震深度15.4公里，震央位於花蓮縣政府東南東方31.2公里（位於台灣東部海域），最大震度花蓮縣3級。1151024</p>]]></content:encoded>
+    
+    <pubDate>Sat, 24 Oct 2026 05:06:24 +0800</pubDate>
+  </item><item>
+    <title><![CDATA[颱風薔琵襲台　釀1死350傷]]></title>
     <link>https://www.cna.com.tw/news/asoc/202610230277.aspx</link>
-    <itunes:title><![CDATA[颱風薔琵來襲　1死350傷]]></itunes:title>
+    <itunes:title><![CDATA[颱風薔琵襲台　釀1死350傷]]></itunes:title>
     <itunes:author><![CDATA[中央社 社會[RSS+]]]></itunes:author>
     <itunes:summary>
       <![CDATA[<figure class="floatImg center">
@@ -490,34 +519,5 @@
     <content:encoded><![CDATA[<p>（中央社記者<a class="author" href="/author/0036/">趙麗妍</a>台中23日電）台中市交通警察大隊日前拖吊一台併排違規停在豐原區中正路的車輛，途中經民眾提醒，發現車內有2名幼童，立刻停車安置幼童並通知家長接回。員警缺失依規咎責，家長違規部分通報社政機關。</p><p>台中市交通警察大隊今天表示，18日會同交通局人員執行違規停車拖吊作業。豐原區中正路發現併排違規停車，因該車熄火且車窗隔熱紙反光，無法明視車內狀況，未能發現車內尚有2名幼童。車輛拖吊回保管場途中，經民眾告知狀況，立即停車妥適安置幼童並由家長接回，全程幼童安全無受傷。</p><div class="lineAd"><a href="https://lin.ee/tPtHlLQ" target="_blank"><img src="https://imgcdn.cna.com.tw/www/website/img/ad300x223.jpg"></a></div><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>警方強調，再次要求執行拖吊作業人員，在拖吊作業前應確實確認被拖吊車輛車內無人，若拖吊過程中發現車內仍有幼童，應立即停止拖吊，並將車輛停放在無妨礙人車通行的地點，同時聯繫家長接回幼童。</p><p>警方表示，本案員警缺失部分將依規究責，並加強宣導施教。車輛交通違規部分，將依事證及法定要件審認後依規辦理。家長疑有違反兒童及少年福利與權益保障法部分，已通報社政機關依權責處理。呼籲家長切勿將幼童單獨留置車內，以避免觸法或發生危險。（編輯：林恕暉）1151023</p>]]></content:encoded>
     
     <pubDate>Fri, 23 Oct 2026 10:41:06 +0800</pubDate>
-  </item><item>
-    <title><![CDATA[颱風天AI造假速食店招牌掉落　盧秀燕指示警方查辦]]></title>
-    <link>https://www.cna.com.tw/news/asoc/202610230046.aspx</link>
-    <itunes:title><![CDATA[颱風天AI造假速食店招牌掉落　盧秀燕指示警方查辦]]></itunes:title>
-    <itunes:author><![CDATA[中央社 社會[RSS+]]]></itunes:author>
-    <itunes:summary>
-      <![CDATA[<figure class="floatImg center">
-                      <picture style="--aspect-ratio:1365/768;">
-                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20261023/1365x768_wmky_0_C20261023000022.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261023/1365x768_wmky_0_C20261023000022.jpg 2x">
-                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261023/1365x768_wmky_0_C20261023000022.jpg">
-                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20261023/1365x768_wmky_0_C20261023000022.jpg" fetchpriority="high" alt="颱風薔琵逼近，台中市長盧秀燕（左4）召開台中市災害應變中心開設工作會報後接受媒體聯訪，提醒民眾勿外出。中央社記者蘇木春攝　115年10月23日">
-                      </picture><figcaption class="picinfo">颱風薔琵逼近，台中市長盧秀燕（左4）召開台中市災害應變中心開設工作會報後接受媒體聯訪，提醒民眾勿外出。中央社記者蘇木春攝　115年10月23日</figcaption></figure><p>（中央社記者<a class="author" href="/author/0101/">蘇木春</a>台中23日電）颱風薔琵來襲，台中截至今天上午有40人受傷，台中市長盧秀燕提醒勿外出。另針對網傳有速食店招牌掉落，經查為AI生成圖，盧秀燕已指示警察局查辦，並呼籲災害間不要製造假訊息。</p><p>氣象署表示，隨著颱風薔琵逐漸接近台灣，預計暴風圈下午將籠罩台灣本島，今晚到明天上午颱風中心將距離台灣最近，而今天到明天清晨至上午，將是降雨最顯著的時刻。</p><p>盧秀燕今天在台中市消防局召開台中市災害應變中心開設工作會報，她會後接受媒體聯訪時表示，這次的颱風風很大，截至今天上午，台中市有40人受傷，其中有10人還在醫院治療，傷者大部分都是因為外出被吹倒，呼籲大家非必要請不要外出，留在家裡最安全。</p><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>另外，網路流傳一張照片，大甲區的麥當勞招牌掉落，大甲警分局澄清，此為AI生成圖片。盧秀燕說，警方在網路發現訊息後，立刻趕到現場，一方面要排除災害，也擔心民眾可能會受到影響，結果到場才發現這是假訊息。</p><p>盧秀燕指出，警方追查發現有人利用AI合成假訊息在散播，她呼籲在颱風期間不要製造假訊息，會造成社會的負擔、民眾恐慌不安，且有成千上萬的防災人員恪守在各個崗位，保護民眾安全，製造假訊息造成人力浪費，她已請警察局查辦，要遏止歪風，災害期間請大家不要製造假訊息、製造社會的混亂。（編輯：林恕暉）1151023</p>]]>
-    </itunes:summary>
-    <description>
-      <![CDATA[<figure class="floatImg center">
-                      <picture style="--aspect-ratio:1365/768;">
-                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20261023/1365x768_wmky_0_C20261023000022.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261023/1365x768_wmky_0_C20261023000022.jpg 2x">
-                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261023/1365x768_wmky_0_C20261023000022.jpg">
-                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20261023/1365x768_wmky_0_C20261023000022.jpg" fetchpriority="high" alt="颱風薔琵逼近，台中市長盧秀燕（左4）召開台中市災害應變中心開設工作會報後接受媒體聯訪，提醒民眾勿外出。中央社記者蘇木春攝　115年10月23日">
-                      </picture><figcaption class="picinfo">颱風薔琵逼近，台中市長盧秀燕（左4）召開台中市災害應變中心開設工作會報後接受媒體聯訪，提醒民眾勿外出。中央社記者蘇木春攝　115年10月23日</figcaption></figure><p>（中央社記者<a class="author" href="/author/0101/">蘇木春</a>台中23日電）颱風薔琵來襲，台中截至今天上午有40人受傷，台中市長盧秀燕提醒勿外出。另針對網傳有速食店招牌掉落，經查為AI生成圖，盧秀燕已指示警察局查辦，並呼籲災害間不要製造假訊息。</p><p>氣象署表示，隨著颱風薔琵逐漸接近台灣，預計暴風圈下午將籠罩台灣本島，今晚到明天上午颱風中心將距離台灣最近，而今天到明天清晨至上午，將是降雨最顯著的時刻。</p><p>盧秀燕今天在台中市消防局召開台中市災害應變中心開設工作會報，她會後接受媒體聯訪時表示，這次的颱風風很大，截至今天上午，台中市有40人受傷，其中有10人還在醫院治療，傷者大部分都是因為外出被吹倒，呼籲大家非必要請不要外出，留在家裡最安全。</p><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>另外，網路流傳一張照片，大甲區的麥當勞招牌掉落，大甲警分局澄清，此為AI生成圖片。盧秀燕說，警方在網路發現訊息後，立刻趕到現場，一方面要排除災害，也擔心民眾可能會受到影響，結果到場才發現這是假訊息。</p><p>盧秀燕指出，警方追查發現有人利用AI合成假訊息在散播，她呼籲在颱風期間不要製造假訊息，會造成社會的負擔、民眾恐慌不安，且有成千上萬的防災人員恪守在各個崗位，保護民眾安全，製造假訊息造成人力浪費，她已請警察局查辦，要遏止歪風，災害期間請大家不要製造假訊息、製造社會的混亂。（編輯：林恕暉）1151023</p>]]>
-    </description>
-    <content:encoded><![CDATA[<figure class="floatImg center">
-                      <picture style="--aspect-ratio:1365/768;">
-                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20261023/1365x768_wmky_0_C20261023000022.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261023/1365x768_wmky_0_C20261023000022.jpg 2x">
-                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261023/1365x768_wmky_0_C20261023000022.jpg">
-                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20261023/1365x768_wmky_0_C20261023000022.jpg" fetchpriority="high" alt="颱風薔琵逼近，台中市長盧秀燕（左4）召開台中市災害應變中心開設工作會報後接受媒體聯訪，提醒民眾勿外出。中央社記者蘇木春攝　115年10月23日">
-                      </picture><figcaption class="picinfo">颱風薔琵逼近，台中市長盧秀燕（左4）召開台中市災害應變中心開設工作會報後接受媒體聯訪，提醒民眾勿外出。中央社記者蘇木春攝　115年10月23日</figcaption></figure><p>（中央社記者<a class="author" href="/author/0101/">蘇木春</a>台中23日電）颱風薔琵來襲，台中截至今天上午有40人受傷，台中市長盧秀燕提醒勿外出。另針對網傳有速食店招牌掉落，經查為AI生成圖，盧秀燕已指示警察局查辦，並呼籲災害間不要製造假訊息。</p><p>氣象署表示，隨著颱風薔琵逐漸接近台灣，預計暴風圈下午將籠罩台灣本島，今晚到明天上午颱風中心將距離台灣最近，而今天到明天清晨至上午，將是降雨最顯著的時刻。</p><p>盧秀燕今天在台中市消防局召開台中市災害應變中心開設工作會報，她會後接受媒體聯訪時表示，這次的颱風風很大，截至今天上午，台中市有40人受傷，其中有10人還在醫院治療，傷者大部分都是因為外出被吹倒，呼籲大家非必要請不要外出，留在家裡最安全。</p><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>另外，網路流傳一張照片，大甲區的麥當勞招牌掉落，大甲警分局澄清，此為AI生成圖片。盧秀燕說，警方在網路發現訊息後，立刻趕到現場，一方面要排除災害，也擔心民眾可能會受到影響，結果到場才發現這是假訊息。</p><p>盧秀燕指出，警方追查發現有人利用AI合成假訊息在散播，她呼籲在颱風期間不要製造假訊息，會造成社會的負擔、民眾恐慌不安，且有成千上萬的防災人員恪守在各個崗位，保護民眾安全，製造假訊息造成人力浪費，她已請警察局查辦，要遏止歪風，災害期間請大家不要製造假訊息、製造社會的混亂。（編輯：林恕暉）1151023</p>]]></content:encoded>
-    
-    <pubDate>Fri, 23 Oct 2026 10:34:04 +0800</pubDate>
   </item></channel>
 </rss>
