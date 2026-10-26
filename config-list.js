@@ -123,7 +123,7 @@ let feedList = [
     ],
   },
   {
-    title: '3C 達人廖阿輝 [RSS]',
+    title: '3C 達人廖阿輝',
     feedID: 'ahui3c',
     feedURL: 'https://ahui3c.com/feed',
     itemFilters: [
