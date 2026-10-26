@@ -122,9 +122,17 @@ let feedList = [
       ItemFilters['common'].ItemFilterTitleExtract,
     ],
   },
+  {
+    title: '3C 達人廖阿輝 [RSS]',
+    feedID: 'ahui3c.com',
+    feedURL: 'https://ahui3c.com/feed',
+    itemFilters: [
+      ItemFilters['sites'].ItemFilterAhui3C,
+    ],
+  },
 ]
 
-// 29 / 30
+// 16 / 30
 
 // ----------------------------------------------------------------
 
