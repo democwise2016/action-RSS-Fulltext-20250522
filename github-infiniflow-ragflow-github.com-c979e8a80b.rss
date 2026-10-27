@@ -3,7 +3,7 @@
     <title><![CDATA[RagFlow Release [GH][RSS+]]]></title>
     <link>https://github.com/infiniflow/ragflow/releases.atom</link>
     <image>
-      <url>https://fastly.picsum.photos/id/782/800/800.jpg?hmac=IA4rWI9zGxdmYuEUFdNA0swJ2zO0ZLJADKHMuTESjac</url>
+      <url>https://fastly.picsum.photos/id/901/800/800.jpg?hmac=PtFy0YtCORVlHsAff3t_lTqvgW8QnJhsurqKZqt8PG0</url>
       <title>RagFlow Release [GH][RSS+]</title>
       <link>https://github.com/infiniflow/ragflow/releases.atom</link>
     </image>
@@ -28,8 +28,22 @@
     <itunes:owner>
       <itunes:name><![CDATA[RagFlow Release [GH][RSS+]]]></itunes:name>
     </itunes:owner>
-    <itunes:image href="https://fastly.picsum.photos/id/782/800/800.jpg?hmac=IA4rWI9zGxdmYuEUFdNA0swJ2zO0ZLJADKHMuTESjac"/>
+    <itunes:image href="https://fastly.picsum.photos/id/901/800/800.jpg?hmac=PtFy0YtCORVlHsAff3t_lTqvgW8QnJhsurqKZqt8PG0"/>
 <item>
+    <title><![CDATA[Nightly 版本發布：基於提交 5966db4 於 2026 年 10 月 27 日建立]]></title>
+    <link>https://github.com/infiniflow/ragflow/releases/tag/nightly</link>
+    <itunes:title><![CDATA[Nightly 版本發布：基於提交 5966db4 於 2026 年 10 月 27 日建立]]></itunes:title>
+    <itunes:author><![CDATA[yuzhichang]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/5966db46ab4abc849a2ad668795ee9cb2e5417ef/hovercard" href="https://github.com/infiniflow/ragflow/commit/5966db46ab4abc849a2ad668795ee9cb2e5417ef"><tt>5966db4</tt></a> at 2026-10-27 13:24:15+00:00</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/5966db46ab4abc849a2ad668795ee9cb2e5417ef/hovercard" href="https://github.com/infiniflow/ragflow/commit/5966db46ab4abc849a2ad668795ee9cb2e5417ef"><tt>5966db4</tt></a> at 2026-10-27 13:24:15+00:00</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/5966db46ab4abc849a2ad668795ee9cb2e5417ef/hovercard" href="https://github.com/infiniflow/ragflow/commit/5966db46ab4abc849a2ad668795ee9cb2e5417ef"><tt>5966db4</tt></a> at 2026-10-27 13:24:15+00:00</p>]]></content:encoded>
+    
+    <pubDate>2026-10-27T13:24:21.000Z</pubDate>
+  </item><item>
     <title><![CDATA[系統修復：阿里雲ASR音訊改上傳至DashScope儲存空間]]></title>
     <link>https://github.com/infiniflow/ragflow/releases/tag/dev-20261027</link>
     <itunes:title><![CDATA[系統修復：阿里雲ASR音訊改上傳至DashScope儲存空間]]></itunes:title>
@@ -43,20 +57,6 @@
     <content:encoded><![CDATA[<p>fix: upload Aliyun ASR audio to DashScope storage instead of sending …</p>]]></content:encoded>
     
     <pubDate>2026-10-27T01:55:27.000Z</pubDate>
-  </item><item>
-    <title><![CDATA[Nightly版本發布：基於82bd3b2於2026年10月26日生成]]></title>
-    <link>https://github.com/infiniflow/ragflow/releases/tag/nightly</link>
-    <itunes:title><![CDATA[Nightly版本發布：基於82bd3b2於2026年10月26日生成]]></itunes:title>
-    <itunes:author><![CDATA[yuzhichang]]></itunes:author>
-    <itunes:summary>
-      <![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/82bd3b2a581ebe1a42e9448f628f34047f227a45/hovercard" href="https://github.com/infiniflow/ragflow/commit/82bd3b2a581ebe1a42e9448f628f34047f227a45"><tt>82bd3b2</tt></a> at 2026-10-26 14:48:15+00:00</p>]]>
-    </itunes:summary>
-    <description>
-      <![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/82bd3b2a581ebe1a42e9448f628f34047f227a45/hovercard" href="https://github.com/infiniflow/ragflow/commit/82bd3b2a581ebe1a42e9448f628f34047f227a45"><tt>82bd3b2</tt></a> at 2026-10-26 14:48:15+00:00</p>]]>
-    </description>
-    <content:encoded><![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/82bd3b2a581ebe1a42e9448f628f34047f227a45/hovercard" href="https://github.com/infiniflow/ragflow/commit/82bd3b2a581ebe1a42e9448f628f34047f227a45"><tt>82bd3b2</tt></a> at 2026-10-26 14:48:15+00:00</p>]]></content:encoded>
-    
-    <pubDate>2026-10-26T14:48:19.000Z</pubDate>
   </item><item>
     <title><![CDATA[PR 保留企業版測試佔位檔於開源程式庫，避免移入社群測試檔案]]></title>
     <link>https://github.com/infiniflow/ragflow/releases/tag/dev-20261026</link>
