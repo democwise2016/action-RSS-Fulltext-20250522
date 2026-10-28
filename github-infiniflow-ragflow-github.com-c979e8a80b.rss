@@ -3,7 +3,7 @@
     <title><![CDATA[RagFlow Release [GH][RSS+]]]></title>
     <link>https://github.com/infiniflow/ragflow/releases.atom</link>
     <image>
-      <url>https://fastly.picsum.photos/id/436/800/800.jpg?hmac=AZV5i1kLvGQw0e556te1gz93Vmkc7rilwuBcFIFvsR4</url>
+      <url>https://fastly.picsum.photos/id/299/800/800.jpg?hmac=Dj62RkxRiN6ASdmJoAB75Tcypr9fDIoLqjRQxxkfTZM</url>
       <title>RagFlow Release [GH][RSS+]</title>
       <link>https://github.com/infiniflow/ragflow/releases.atom</link>
     </image>
@@ -28,8 +28,22 @@
     <itunes:owner>
       <itunes:name><![CDATA[RagFlow Release [GH][RSS+]]]></itunes:name>
     </itunes:owner>
-    <itunes:image href="https://fastly.picsum.photos/id/436/800/800.jpg?hmac=AZV5i1kLvGQw0e556te1gz93Vmkc7rilwuBcFIFvsR4"/>
+    <itunes:image href="https://fastly.picsum.photos/id/299/800/800.jpg?hmac=Dj62RkxRiN6ASdmJoAB75Tcypr9fDIoLqjRQxxkfTZM"/>
 <item>
+    <title><![CDATA[修正解析器輸出 Docling 頁面位置與實際頁數]]></title>
+    <link>https://github.com/infiniflow/ragflow/releases/tag/dev-20261028</link>
+    <itunes:title><![CDATA[修正解析器輸出 Docling 頁面位置與實際頁數]]></itunes:title>
+    <itunes:author><![CDATA[Taranum01]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>fix(parser): emit Docling page positions and real page_count (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="5974273996" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/21330" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/21330/hovercard" href="https://github.com/infiniflow/ragflow/pull/21330">#21330</a>)</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>fix(parser): emit Docling page positions and real page_count (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="5974273996" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/21330" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/21330/hovercard" href="https://github.com/infiniflow/ragflow/pull/21330">#21330</a>)</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>fix(parser): emit Docling page positions and real page_count (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="5974273996" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/21330" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/21330/hovercard" href="https://github.com/infiniflow/ragflow/pull/21330">#21330</a>)</p>]]></content:encoded>
+    
+    <pubDate>2026-10-28T01:55:28.000Z</pubDate>
+  </item><item>
     <title><![CDATA[Nightly 版本發布：基於提交 5966db4 於 2026 年 10 月 27 日建立]]></title>
     <link>https://github.com/infiniflow/ragflow/releases/tag/nightly</link>
     <itunes:title><![CDATA[Nightly 版本發布：基於提交 5966db4 於 2026 年 10 月 27 日建立]]></itunes:title>
@@ -2225,19 +2239,5 @@ instead of moving enterprise-specific test behavior into<br>
     <content:encoded><![CDATA[<p>feat(permission): align resource and agent ownership (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="5976973164" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/21350" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/21350/hovercard" href="https://github.com/infiniflow/ragflow/pull/21350">#21350</a>)</p>]]></content:encoded>
     
     <pubDate>2026-10-23T01:36:46.000Z</pubDate>
-  </item><item>
-    <title><![CDATA[{"error":"Content not found or expired."}]]></title>
-    <link>https://github.com/infiniflow/ragflow/releases/tag/dev-20261023-3</link>
-    <itunes:title><![CDATA[{"error":"Content not found or expired."}]]></itunes:title>
-    <itunes:author><![CDATA[xugangqiang]]></itunes:author>
-    <itunes:summary>
-      <![CDATA[<p>refactor(cmd): boot standalone DeepDoc server before infrastructure i…</p>]]>
-    </itunes:summary>
-    <description>
-      <![CDATA[<p>refactor(cmd): boot standalone DeepDoc server before infrastructure i…</p>]]>
-    </description>
-    <content:encoded><![CDATA[<p>refactor(cmd): boot standalone DeepDoc server before infrastructure i…</p>]]></content:encoded>
-    
-    <pubDate>2026-10-23T08:07:45.000Z</pubDate>
   </item></channel>
 </rss>
