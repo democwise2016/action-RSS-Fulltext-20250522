@@ -1,0 +1,332 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
+  <channel>
+    <title><![CDATA[中央社 產經證券[RSS+]]]></title>
+    <link>undefined</link>
+    <image>
+      <url>https://imgcdn.cna.com.tw/www/images/cna_info/cnalogo_176x117.jpg</url>
+      <title>中央社 產經證券[RSS+]</title>
+      <link>undefined</link>
+    </image>
+    <language>zh-tw</language>
+    <atom:link href="https://feeds.feedburner.com/rsscna/finance" rel="self" type="application/rss+xml"/>
+    <copyright><![CDATA[中央社 產經證券[RSS+]]]></copyright>
+    <itunes:author><![CDATA[中央社 產經證券[RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[
+      中央社即時新聞 財經新聞<br />
+<br />
+<a href="https://feeds.feedburner.com/rsscna/finance" target="_blank">https://feeds.feedburner.com/rsscna/finance</a>
+      ]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[
+      中央社即時新聞 財經新聞<br />
+<br />
+<a href="https://feeds.feedburner.com/rsscna/finance" target="_blank">https://feeds.feedburner.com/rsscna/finance</a>
+      ]]>
+    </description>
+    <itunes:owner>
+      <itunes:name><![CDATA[中央社 產經證券[RSS+]]]></itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://imgcdn.cna.com.tw/www/images/cna_info/cnalogo_176x117.jpg"/>
+<item>
+    <title><![CDATA[台股早盤挫逾700點　台積電跌30元]]></title>
+    <link>https://www.cna.com.tw/news/afe/202611030032.aspx</link>
+    <itunes:title><![CDATA[台股早盤挫逾700點　台積電跌30元]]></itunes:title>
+    <itunes:author><![CDATA[中央社 產經證券[RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:2000/1333;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20261103/2000x1333_wmky_461255789388_0.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261103/2000x1333_wmky_461255789388_0.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261103/2000x1333_wmky_461255789388_0.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20261103/2000x1333_wmky_461255789388_0.jpg" fetchpriority="high" alt="台股3日開低，早盤跌逾700點，最低至44152點，權王台積電下跌30元，至2300元。（中央社檔案照片）">
+                      </picture><figcaption class="picinfo">台股3日開低，早盤跌逾700點，最低至44152點，權王台積電下跌30元，至2300元。（中央社檔案照片）</figcaption></figure><p>（中央社記者<a class="author" href="/author/0010/">何秀玲</a>台北3日電）台股今天開低，早盤跌逾700點，最低至44152點，隨後跌勢收斂至約450點，指數來到44400點附近。權王台積電下跌30元，至2300元，跌幅1.29%。</p><p>其他權值股走弱，鴻海下跌4元，為247元，跌幅1.59%；聯發科下跌95元，為3875元，跌幅2.39%；台達電下跌20元，為1335元，跌幅1.48%；廣達下跌3元，為315元，跌幅0.94%。</p><p>電子類股指數下跌1.2%，金融類股指數上漲0.11%；代表中小型股的櫃買指數下跌逾2%。（編輯：楊蘭軒）1151103</p><div class="media"><div class="noWidthMedia"><iframe sandbox="allow-scripts allow-same-origin allow-popups" class="lazyload" data-src="https://project.cna.com.tw/data/twse" width="100%" height="460px"></iframe></div></div>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:2000/1333;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20261103/2000x1333_wmky_461255789388_0.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261103/2000x1333_wmky_461255789388_0.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261103/2000x1333_wmky_461255789388_0.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20261103/2000x1333_wmky_461255789388_0.jpg" fetchpriority="high" alt="台股3日開低，早盤跌逾700點，最低至44152點，權王台積電下跌30元，至2300元。（中央社檔案照片）">
+                      </picture><figcaption class="picinfo">台股3日開低，早盤跌逾700點，最低至44152點，權王台積電下跌30元，至2300元。（中央社檔案照片）</figcaption></figure><p>（中央社記者<a class="author" href="/author/0010/">何秀玲</a>台北3日電）台股今天開低，早盤跌逾700點，最低至44152點，隨後跌勢收斂至約450點，指數來到44400點附近。權王台積電下跌30元，至2300元，跌幅1.29%。</p><p>其他權值股走弱，鴻海下跌4元，為247元，跌幅1.59%；聯發科下跌95元，為3875元，跌幅2.39%；台達電下跌20元，為1335元，跌幅1.48%；廣達下跌3元，為315元，跌幅0.94%。</p><p>電子類股指數下跌1.2%，金融類股指數上漲0.11%；代表中小型股的櫃買指數下跌逾2%。（編輯：楊蘭軒）1151103</p><div class="media"><div class="noWidthMedia"><iframe sandbox="allow-scripts allow-same-origin allow-popups" class="lazyload" data-src="https://project.cna.com.tw/data/twse" width="100%" height="460px"></iframe></div></div>]]>
+    </description>
+    <content:encoded><![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:2000/1333;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20261103/2000x1333_wmky_461255789388_0.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261103/2000x1333_wmky_461255789388_0.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261103/2000x1333_wmky_461255789388_0.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20261103/2000x1333_wmky_461255789388_0.jpg" fetchpriority="high" alt="台股3日開低，早盤跌逾700點，最低至44152點，權王台積電下跌30元，至2300元。（中央社檔案照片）">
+                      </picture><figcaption class="picinfo">台股3日開低，早盤跌逾700點，最低至44152點，權王台積電下跌30元，至2300元。（中央社檔案照片）</figcaption></figure><p>（中央社記者<a class="author" href="/author/0010/">何秀玲</a>台北3日電）台股今天開低，早盤跌逾700點，最低至44152點，隨後跌勢收斂至約450點，指數來到44400點附近。權王台積電下跌30元，至2300元，跌幅1.29%。</p><p>其他權值股走弱，鴻海下跌4元，為247元，跌幅1.59%；聯發科下跌95元，為3875元，跌幅2.39%；台達電下跌20元，為1335元，跌幅1.48%；廣達下跌3元，為315元，跌幅0.94%。</p><p>電子類股指數下跌1.2%，金融類股指數上漲0.11%；代表中小型股的櫃買指數下跌逾2%。（編輯：楊蘭軒）1151103</p><div class="media"><div class="noWidthMedia"><iframe sandbox="allow-scripts allow-same-origin allow-popups" class="lazyload" data-src="https://project.cna.com.tw/data/twse" width="100%" height="460px"></iframe></div></div>]]></content:encoded>
+    
+    <pubDate>Tue, 03 Nov 2026 09:16:09 +0800</pubDate>
+  </item><item>
+    <title><![CDATA[新台幣開盤貶1.8分　早盤挫逾1角至32.7元]]></title>
+    <link>https://www.cna.com.tw/news/afe/202611030031.aspx</link>
+    <itunes:title><![CDATA[新台幣開盤貶1.8分　早盤挫逾1角至32.7元]]></itunes:title>
+    <itunes:author><![CDATA[中央社 產經證券[RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>（中央社台北3日電）台北外匯市場新台幣兌美元匯率今天以32.61元開盤，貶1.8分，隨後貶勢擴大至逾1角，為32.7元。</p><p>新台幣兌美元開盤交易區間為32.61元至32.7元。1151103</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>（中央社台北3日電）台北外匯市場新台幣兌美元匯率今天以32.61元開盤，貶1.8分，隨後貶勢擴大至逾1角，為32.7元。</p><p>新台幣兌美元開盤交易區間為32.61元至32.7元。1151103</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>（中央社台北3日電）台北外匯市場新台幣兌美元匯率今天以32.61元開盤，貶1.8分，隨後貶勢擴大至逾1角，為32.7元。</p><p>新台幣兌美元開盤交易區間為32.61元至32.7元。1151103</p>]]></content:encoded>
+    
+    <pubDate>Tue, 03 Nov 2026 09:07:07 +0800</pubDate>
+  </item><item>
+    <title><![CDATA[台股開盤跌438.55點]]></title>
+    <link>https://www.cna.com.tw/news/afe/202611030029.aspx</link>
+    <itunes:title><![CDATA[台股開盤跌438.55點]]></itunes:title>
+    <itunes:author><![CDATA[中央社 產經證券[RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>（中央社台北3日電）台北股市今天開盤跌438.55點，加權股價指數為44481.59點，成交金額新台幣163.24億元。1151103</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>（中央社台北3日電）台北股市今天開盤跌438.55點，加權股價指數為44481.59點，成交金額新台幣163.24億元。1151103</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>（中央社台北3日電）台北股市今天開盤跌438.55點，加權股價指數為44481.59點，成交金額新台幣163.24億元。1151103</p>]]></content:encoded>
+    
+    <pubDate>Tue, 03 Nov 2026 09:05:02 +0800</pubDate>
+  </item><item>
+    <title><![CDATA[美科技股挫台指期夜盤跌917點　法人：台股面臨下探壓力]]></title>
+    <link>https://www.cna.com.tw/news/afe/202611030022.aspx</link>
+    <itunes:title><![CDATA[美科技股挫台指期夜盤跌917點　法人：台股面臨下探壓力]]></itunes:title>
+    <itunes:author><![CDATA[中央社 產經證券[RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>（中央社記者<a class="author" href="/author/0010/">何秀玲</a>台北3日電）投資人憂心AI前景、觀望美國期中選舉，美股主要指數多收跌，費半重挫3.37%、輝達跌1.26%、台積電ADR跌1.85%，台指期夜盤下挫917點至44310點。</p><p>投顧表示，台股今天面臨下探壓力，而蘋果盤後公布營收優於預期，對台廠供應鏈的影響受到關注；11月觀察重點包括美國期中選舉，以及台股季報與月營收。</p><p>美國期中選舉將在美國時間3日登場，分析師指出，投資人對於這場選舉抱持著緊張不安情緒，加上仍對AI熱潮有所疑慮，使華爾街股市主要指數2日收盤大多下挫。</p><p>道瓊工業指數上漲213.67點或0.41%，收51983.98點；標準普爾500指數下跌38.67點或0.51%，收7541.40點；那斯達克指數下跌272.68點或1.07%，收25164.32點；費城半導體指數下跌360.47點或3.37%，收10328.33點。</p><p>此外，蘋果於美股盤後公布會計年度第4季財報（截至2026年9月26日），營收1144.8億美元，高於市場預估的1133.9億美元，手機營收表現優於預期。</p><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>台股2日收在44920.14點，下跌291.69點，成交值新台幣7588.75億元，失守45000點關卡。台積電下跌40元或1.69%，收2330元，創7月底以來新低。</p><p>三大法人合計賣超526.91億元，其中外資及陸資賣超735.20億元，連續第3個交易日賣超；自營商賣超152.88億元，投信則買超361.17億元。（編輯：楊蘭軒）1151103</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>（中央社記者<a class="author" href="/author/0010/">何秀玲</a>台北3日電）投資人憂心AI前景、觀望美國期中選舉，美股主要指數多收跌，費半重挫3.37%、輝達跌1.26%、台積電ADR跌1.85%，台指期夜盤下挫917點至44310點。</p><p>投顧表示，台股今天面臨下探壓力，而蘋果盤後公布營收優於預期，對台廠供應鏈的影響受到關注；11月觀察重點包括美國期中選舉，以及台股季報與月營收。</p><p>美國期中選舉將在美國時間3日登場，分析師指出，投資人對於這場選舉抱持著緊張不安情緒，加上仍對AI熱潮有所疑慮，使華爾街股市主要指數2日收盤大多下挫。</p><p>道瓊工業指數上漲213.67點或0.41%，收51983.98點；標準普爾500指數下跌38.67點或0.51%，收7541.40點；那斯達克指數下跌272.68點或1.07%，收25164.32點；費城半導體指數下跌360.47點或3.37%，收10328.33點。</p><p>此外，蘋果於美股盤後公布會計年度第4季財報（截至2026年9月26日），營收1144.8億美元，高於市場預估的1133.9億美元，手機營收表現優於預期。</p><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>台股2日收在44920.14點，下跌291.69點，成交值新台幣7588.75億元，失守45000點關卡。台積電下跌40元或1.69%，收2330元，創7月底以來新低。</p><p>三大法人合計賣超526.91億元，其中外資及陸資賣超735.20億元，連續第3個交易日賣超；自營商賣超152.88億元，投信則買超361.17億元。（編輯：楊蘭軒）1151103</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>（中央社記者<a class="author" href="/author/0010/">何秀玲</a>台北3日電）投資人憂心AI前景、觀望美國期中選舉，美股主要指數多收跌，費半重挫3.37%、輝達跌1.26%、台積電ADR跌1.85%，台指期夜盤下挫917點至44310點。</p><p>投顧表示，台股今天面臨下探壓力，而蘋果盤後公布營收優於預期，對台廠供應鏈的影響受到關注；11月觀察重點包括美國期中選舉，以及台股季報與月營收。</p><p>美國期中選舉將在美國時間3日登場，分析師指出，投資人對於這場選舉抱持著緊張不安情緒，加上仍對AI熱潮有所疑慮，使華爾街股市主要指數2日收盤大多下挫。</p><p>道瓊工業指數上漲213.67點或0.41%，收51983.98點；標準普爾500指數下跌38.67點或0.51%，收7541.40點；那斯達克指數下跌272.68點或1.07%，收25164.32點；費城半導體指數下跌360.47點或3.37%，收10328.33點。</p><p>此外，蘋果於美股盤後公布會計年度第4季財報（截至2026年9月26日），營收1144.8億美元，高於市場預估的1133.9億美元，手機營收表現優於預期。</p><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>台股2日收在44920.14點，下跌291.69點，成交值新台幣7588.75億元，失守45000點關卡。台積電下跌40元或1.69%，收2330元，創7月底以來新低。</p><p>三大法人合計賣超526.91億元，其中外資及陸資賣超735.20億元，連續第3個交易日賣超；自營商賣超152.88億元，投信則買超361.17億元。（編輯：楊蘭軒）1151103</p>]]></content:encoded>
+    
+    <pubDate>Tue, 03 Nov 2026 08:30:47 +0800</pubDate>
+  </item><item>
+    <title><![CDATA[iPhone漲價財報仍佳　執行長特納斯未來面臨成本考驗]]></title>
+    <link>https://www.cna.com.tw/news/afe/202611030016.aspx</link>
+    <itunes:title><![CDATA[iPhone漲價財報仍佳　執行長特納斯未來面臨成本考驗]]></itunes:title>
+    <itunes:author><![CDATA[中央社 產經證券[RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>（中央社記者<a class="author" href="/author/0020/">廖漢原</a>華盛頓2日專電）蘋果公司今天公布財報，在晶片成本提高，產品價格調漲挑戰下，上季營收仍優於市場預期。新任執行長特納斯相信，更好的還在後頭，但由於零組件成本增加，公司不情願地漲價。</p><p>蘋果（Apple）2日公布上季業績，營收1144.8億美元，較去年同期成長12%，每股盈餘2.10美元，增加14%，均優於分析師預期，當中關鍵的、以iPhone 17為主的產品營收達575.8億美元，同樣高於分析師預期。</p><p>蘋果股價2日收盤下跌1.83%，盤後交易震盪，下跌約4%。公司高層指出，上季調高產品價格以維持營收，但接下來的季度，可能不足以支撐相同的榮景。</p><p>蘋果產品面臨先進晶片，特別是記憶體價格上漲，成本增加壓力，普遍調漲旗艦產品iPhone價格；9月中推出iPhone18 Pro系列，新機銷售僅占上季營運日8天，但仍創下季度銷售紀錄，10月底上市的摺疊機iPhone Duo銷售未列入上季營收。</p><p>市場多認為，蘋果開發人工智慧（AI）進度雖落後，但暫時熬過產品漲價壓力。</p><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>蘋果新任執行長特納斯（John Ternus）2日首度挑大梁，在公布財報後電話會議中，向主要投資者與分析師說明未來營運方向與展望。蘋果在前任執行長庫克（Tim Cook）帶領下，成為全球市值最高企業之一，各界對特納斯深具期待。</p><p>特納斯在財經頻道CNBC節目表示，蘋果創造的一切成就，此刻讓公司更有信心相信更好的還在後頭。他強調，為了幫助處理零組件價格增加，公司「不情願下」調漲產品價格。（編輯：張芷瑄）1151103</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>（中央社記者<a class="author" href="/author/0020/">廖漢原</a>華盛頓2日專電）蘋果公司今天公布財報，在晶片成本提高，產品價格調漲挑戰下，上季營收仍優於市場預期。新任執行長特納斯相信，更好的還在後頭，但由於零組件成本增加，公司不情願地漲價。</p><p>蘋果（Apple）2日公布上季業績，營收1144.8億美元，較去年同期成長12%，每股盈餘2.10美元，增加14%，均優於分析師預期，當中關鍵的、以iPhone 17為主的產品營收達575.8億美元，同樣高於分析師預期。</p><p>蘋果股價2日收盤下跌1.83%，盤後交易震盪，下跌約4%。公司高層指出，上季調高產品價格以維持營收，但接下來的季度，可能不足以支撐相同的榮景。</p><p>蘋果產品面臨先進晶片，特別是記憶體價格上漲，成本增加壓力，普遍調漲旗艦產品iPhone價格；9月中推出iPhone18 Pro系列，新機銷售僅占上季營運日8天，但仍創下季度銷售紀錄，10月底上市的摺疊機iPhone Duo銷售未列入上季營收。</p><p>市場多認為，蘋果開發人工智慧（AI）進度雖落後，但暫時熬過產品漲價壓力。</p><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>蘋果新任執行長特納斯（John Ternus）2日首度挑大梁，在公布財報後電話會議中，向主要投資者與分析師說明未來營運方向與展望。蘋果在前任執行長庫克（Tim Cook）帶領下，成為全球市值最高企業之一，各界對特納斯深具期待。</p><p>特納斯在財經頻道CNBC節目表示，蘋果創造的一切成就，此刻讓公司更有信心相信更好的還在後頭。他強調，為了幫助處理零組件價格增加，公司「不情願下」調漲產品價格。（編輯：張芷瑄）1151103</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>（中央社記者<a class="author" href="/author/0020/">廖漢原</a>華盛頓2日專電）蘋果公司今天公布財報，在晶片成本提高，產品價格調漲挑戰下，上季營收仍優於市場預期。新任執行長特納斯相信，更好的還在後頭，但由於零組件成本增加，公司不情願地漲價。</p><p>蘋果（Apple）2日公布上季業績，營收1144.8億美元，較去年同期成長12%，每股盈餘2.10美元，增加14%，均優於分析師預期，當中關鍵的、以iPhone 17為主的產品營收達575.8億美元，同樣高於分析師預期。</p><p>蘋果股價2日收盤下跌1.83%，盤後交易震盪，下跌約4%。公司高層指出，上季調高產品價格以維持營收，但接下來的季度，可能不足以支撐相同的榮景。</p><p>蘋果產品面臨先進晶片，特別是記憶體價格上漲，成本增加壓力，普遍調漲旗艦產品iPhone價格；9月中推出iPhone18 Pro系列，新機銷售僅占上季營運日8天，但仍創下季度銷售紀錄，10月底上市的摺疊機iPhone Duo銷售未列入上季營收。</p><p>市場多認為，蘋果開發人工智慧（AI）進度雖落後，但暫時熬過產品漲價壓力。</p><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>蘋果新任執行長特納斯（John Ternus）2日首度挑大梁，在公布財報後電話會議中，向主要投資者與分析師說明未來營運方向與展望。蘋果在前任執行長庫克（Tim Cook）帶領下，成為全球市值最高企業之一，各界對特納斯深具期待。</p><p>特納斯在財經頻道CNBC節目表示，蘋果創造的一切成就，此刻讓公司更有信心相信更好的還在後頭。他強調，為了幫助處理零組件價格增加，公司「不情願下」調漲產品價格。（編輯：張芷瑄）1151103</p>]]></content:encoded>
+    
+    <pubDate>Tue, 03 Nov 2026 08:06:33 +0800</pubDate>
+  </item><item>
+    <title><![CDATA[投資人憂AI前景、觀望期中選舉　美國股市多收跌]]></title>
+    <link>https://www.cna.com.tw/news/afe/202611030011.aspx</link>
+    <itunes:title><![CDATA[投資人憂AI前景、觀望期中選舉　美國股市多收跌]]></itunes:title>
+    <itunes:author><![CDATA[中央社 產經證券[RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>（中央社紐約2日綜合外電報導）美國期中選舉明天登場，有分析師指出，投資人對於這場選舉抱持著緊張不安情緒，加上他們仍對人工智慧（AI）熱潮有所疑慮，使華爾街股市主要指數今天收盤大多下挫。</p><p>道瓊工業指數上漲213.67點或0.41%，收51983.98點。</p><p>標準普爾500指數下滑38.67點或0.51%，收7541.40點。</p><div class="lineAd"><a href="https://lin.ee/tPtHlLQ" target="_blank"><img src="https://imgcdn.cna.com.tw/www/website/img/ad300x223.jpg"></a></div><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>那斯達克指數重跌272.68點或1.07%，收25164.32點。</p><p>費城半導體指數重挫360.47點或3.37%，收10328.33點。（編譯：<a class="author" href="/author/0131/">陳彥鈞</a>）1151103</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>（中央社紐約2日綜合外電報導）美國期中選舉明天登場，有分析師指出，投資人對於這場選舉抱持著緊張不安情緒，加上他們仍對人工智慧（AI）熱潮有所疑慮，使華爾街股市主要指數今天收盤大多下挫。</p><p>道瓊工業指數上漲213.67點或0.41%，收51983.98點。</p><p>標準普爾500指數下滑38.67點或0.51%，收7541.40點。</p><div class="lineAd"><a href="https://lin.ee/tPtHlLQ" target="_blank"><img src="https://imgcdn.cna.com.tw/www/website/img/ad300x223.jpg"></a></div><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>那斯達克指數重跌272.68點或1.07%，收25164.32點。</p><p>費城半導體指數重挫360.47點或3.37%，收10328.33點。（編譯：<a class="author" href="/author/0131/">陳彥鈞</a>）1151103</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>（中央社紐約2日綜合外電報導）美國期中選舉明天登場，有分析師指出，投資人對於這場選舉抱持著緊張不安情緒，加上他們仍對人工智慧（AI）熱潮有所疑慮，使華爾街股市主要指數今天收盤大多下挫。</p><p>道瓊工業指數上漲213.67點或0.41%，收51983.98點。</p><p>標準普爾500指數下滑38.67點或0.51%，收7541.40點。</p><div class="lineAd"><a href="https://lin.ee/tPtHlLQ" target="_blank"><img src="https://imgcdn.cna.com.tw/www/website/img/ad300x223.jpg"></a></div><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>那斯達克指數重跌272.68點或1.07%，收25164.32點。</p><p>費城半導體指數重挫360.47點或3.37%，收10328.33點。（編譯：<a class="author" href="/author/0131/">陳彥鈞</a>）1151103</p>]]></content:encoded>
+    
+    <pubDate>Tue, 03 Nov 2026 06:21:19 +0800</pubDate>
+  </item><item>
+    <title><![CDATA[蘋果Q4營收優於預期　受惠iPhone銷售強勁]]></title>
+    <link>https://www.cna.com.tw/news/aopl/202611030010.aspx</link>
+    <itunes:title><![CDATA[蘋果Q4營收優於預期　受惠iPhone銷售強勁]]></itunes:title>
+    <itunes:author><![CDATA[中央社 產經證券[RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:2000/1333;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20261103/2000x1333_wmky_15791801725858_202104290001000000.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261103/2000x1333_wmky_15791801725858_202104290001000000.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261103/2000x1333_wmky_15791801725858_202104290001000000.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20261103/2000x1333_wmky_15791801725858_202104290001000000.jpg" fetchpriority="high" alt="圖為紐約曼哈頓第五大道蘋果直營店外觀。（中央社檔案照片）">
+                      </picture><figcaption class="picinfo">圖為紐約曼哈頓第五大道蘋果直營店外觀。（中央社檔案照片）</figcaption></figure><p>（中央社加州古柏迪諾2日綜合外電報導）蘋果公司（Apple）今天公布第4季財報，營收優於預期，主要受惠於智慧型手機iPhone 18 Pro系列上市初期需求強勁，以及調漲售價有助抵銷記憶體晶片成本上升的衝擊。</p><p>美國財經媒體CNBC和路透社報導，根據倫敦證券交易所集團（LSEG）資料，蘋果第4季營收1144.8億美元，高於分析師預估的1133.9億美元。第4季每股盈餘為2.10美元，即使扣除每股5美分的關稅退款收益，仍高於分析師預估的1.99美元。</p><p>蘋果今天在聲明中表示，營收較去年同期的1025億美元成長12%。根據LSEG資料，蘋果iPhone營收為575.8億美元，高於分析師預估的565.4億美元。</p><p>蘋果在第4季iPhone營收僅計入新款iPhone 18 Pro上市後的8天銷售額，而蘋果首款摺疊手機iPhone Duo在第4季結束後才開賣。</p><p>蘋果將iPhone售價調漲100美元，反映全球記憶體及其他零組件短缺的情況。</p><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>這是蘋果自長年硬體主管特納斯（John Ternus）9月接任執行長以來首次公布財報，稍後他也將首度以執行長身分主持法說會。</p><p>財報公布後，蘋果股價在盤後震盪交易中下跌約1%。（編譯：<a class="author" href="/author/0145/">盧映孜</a>）1151103</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:2000/1333;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20261103/2000x1333_wmky_15791801725858_202104290001000000.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261103/2000x1333_wmky_15791801725858_202104290001000000.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261103/2000x1333_wmky_15791801725858_202104290001000000.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20261103/2000x1333_wmky_15791801725858_202104290001000000.jpg" fetchpriority="high" alt="圖為紐約曼哈頓第五大道蘋果直營店外觀。（中央社檔案照片）">
+                      </picture><figcaption class="picinfo">圖為紐約曼哈頓第五大道蘋果直營店外觀。（中央社檔案照片）</figcaption></figure><p>（中央社加州古柏迪諾2日綜合外電報導）蘋果公司（Apple）今天公布第4季財報，營收優於預期，主要受惠於智慧型手機iPhone 18 Pro系列上市初期需求強勁，以及調漲售價有助抵銷記憶體晶片成本上升的衝擊。</p><p>美國財經媒體CNBC和路透社報導，根據倫敦證券交易所集團（LSEG）資料，蘋果第4季營收1144.8億美元，高於分析師預估的1133.9億美元。第4季每股盈餘為2.10美元，即使扣除每股5美分的關稅退款收益，仍高於分析師預估的1.99美元。</p><p>蘋果今天在聲明中表示，營收較去年同期的1025億美元成長12%。根據LSEG資料，蘋果iPhone營收為575.8億美元，高於分析師預估的565.4億美元。</p><p>蘋果在第4季iPhone營收僅計入新款iPhone 18 Pro上市後的8天銷售額，而蘋果首款摺疊手機iPhone Duo在第4季結束後才開賣。</p><p>蘋果將iPhone售價調漲100美元，反映全球記憶體及其他零組件短缺的情況。</p><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>這是蘋果自長年硬體主管特納斯（John Ternus）9月接任執行長以來首次公布財報，稍後他也將首度以執行長身分主持法說會。</p><p>財報公布後，蘋果股價在盤後震盪交易中下跌約1%。（編譯：<a class="author" href="/author/0145/">盧映孜</a>）1151103</p>]]>
+    </description>
+    <content:encoded><![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:2000/1333;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20261103/2000x1333_wmky_15791801725858_202104290001000000.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261103/2000x1333_wmky_15791801725858_202104290001000000.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261103/2000x1333_wmky_15791801725858_202104290001000000.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20261103/2000x1333_wmky_15791801725858_202104290001000000.jpg" fetchpriority="high" alt="圖為紐約曼哈頓第五大道蘋果直營店外觀。（中央社檔案照片）">
+                      </picture><figcaption class="picinfo">圖為紐約曼哈頓第五大道蘋果直營店外觀。（中央社檔案照片）</figcaption></figure><p>（中央社加州古柏迪諾2日綜合外電報導）蘋果公司（Apple）今天公布第4季財報，營收優於預期，主要受惠於智慧型手機iPhone 18 Pro系列上市初期需求強勁，以及調漲售價有助抵銷記憶體晶片成本上升的衝擊。</p><p>美國財經媒體CNBC和路透社報導，根據倫敦證券交易所集團（LSEG）資料，蘋果第4季營收1144.8億美元，高於分析師預估的1133.9億美元。第4季每股盈餘為2.10美元，即使扣除每股5美分的關稅退款收益，仍高於分析師預估的1.99美元。</p><p>蘋果今天在聲明中表示，營收較去年同期的1025億美元成長12%。根據LSEG資料，蘋果iPhone營收為575.8億美元，高於分析師預估的565.4億美元。</p><p>蘋果在第4季iPhone營收僅計入新款iPhone 18 Pro上市後的8天銷售額，而蘋果首款摺疊手機iPhone Duo在第4季結束後才開賣。</p><p>蘋果將iPhone售價調漲100美元，反映全球記憶體及其他零組件短缺的情況。</p><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>這是蘋果自長年硬體主管特納斯（John Ternus）9月接任執行長以來首次公布財報，稍後他也將首度以執行長身分主持法說會。</p><p>財報公布後，蘋果股價在盤後震盪交易中下跌約1%。（編譯：<a class="author" href="/author/0145/">盧映孜</a>）1151103</p>]]></content:encoded>
+    
+    <pubDate>Tue, 03 Nov 2026 06:16:16 +0800</pubDate>
+  </item><item>
+    <title><![CDATA[美國與伊朗和談希望再起　國際油價重挫逾7%]]></title>
+    <link>https://www.cna.com.tw/news/afe/202611030009.aspx</link>
+    <itunes:title><![CDATA[美國與伊朗和談希望再起　國際油價重挫逾7%]]></itunes:title>
+    <itunes:author><![CDATA[中央社 產經證券[RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1280/960;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20261103/1280x960_wmkn_717619672996_0.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261103/1280x960_wmkn_717619672996_0.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261103/1280x960_wmkn_717619672996_0.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20261103/1280x960_wmkn_717619672996_0.jpg" fetchpriority="high" alt="石油生產示意圖。（圖取自Pixabay圖庫）">
+                      </picture><figcaption class="picinfo">石油生產示意圖。（圖取自Pixabay圖庫）</figcaption></figure><p>（中央社紐約2日綜合外電報導）美國期中選舉前夕，有跡象顯示，華府與德黑蘭當局正試圖重啟對話，這提振投資人對於中東戰爭可能結束的期望，使國際油價今天大跌超過7%。</p><p>紐約商品交易所西德州中級原油2026年12月交割價下挫7.66美元或7.36%，報每桶96.46美元。</p><p>倫敦北海布倫特原油2027年1月交割價下跌8.66美元或7.63%，報每桶104.77美元。（編譯：<a class="author" href="/author/0131/">陳彥鈞</a>）1151103</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1280/960;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20261103/1280x960_wmkn_717619672996_0.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261103/1280x960_wmkn_717619672996_0.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261103/1280x960_wmkn_717619672996_0.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20261103/1280x960_wmkn_717619672996_0.jpg" fetchpriority="high" alt="石油生產示意圖。（圖取自Pixabay圖庫）">
+                      </picture><figcaption class="picinfo">石油生產示意圖。（圖取自Pixabay圖庫）</figcaption></figure><p>（中央社紐約2日綜合外電報導）美國期中選舉前夕，有跡象顯示，華府與德黑蘭當局正試圖重啟對話，這提振投資人對於中東戰爭可能結束的期望，使國際油價今天大跌超過7%。</p><p>紐約商品交易所西德州中級原油2026年12月交割價下挫7.66美元或7.36%，報每桶96.46美元。</p><p>倫敦北海布倫特原油2027年1月交割價下跌8.66美元或7.63%，報每桶104.77美元。（編譯：<a class="author" href="/author/0131/">陳彥鈞</a>）1151103</p>]]>
+    </description>
+    <content:encoded><![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1280/960;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20261103/1280x960_wmkn_717619672996_0.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261103/1280x960_wmkn_717619672996_0.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261103/1280x960_wmkn_717619672996_0.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20261103/1280x960_wmkn_717619672996_0.jpg" fetchpriority="high" alt="石油生產示意圖。（圖取自Pixabay圖庫）">
+                      </picture><figcaption class="picinfo">石油生產示意圖。（圖取自Pixabay圖庫）</figcaption></figure><p>（中央社紐約2日綜合外電報導）美國期中選舉前夕，有跡象顯示，華府與德黑蘭當局正試圖重啟對話，這提振投資人對於中東戰爭可能結束的期望，使國際油價今天大跌超過7%。</p><p>紐約商品交易所西德州中級原油2026年12月交割價下挫7.66美元或7.36%，報每桶96.46美元。</p><p>倫敦北海布倫特原油2027年1月交割價下跌8.66美元或7.63%，報每桶104.77美元。（編譯：<a class="author" href="/author/0131/">陳彥鈞</a>）1151103</p>]]></content:encoded>
+    
+    <pubDate>Tue, 03 Nov 2026 05:55:14 +0800</pubDate>
+  </item><item>
+    <title><![CDATA[伊朗戰事和談希望再起　歐洲股市收盤揚升]]></title>
+    <link>https://www.cna.com.tw/news/afe/202611030003.aspx</link>
+    <itunes:title><![CDATA[伊朗戰事和談希望再起　歐洲股市收盤揚升]]></itunes:title>
+    <itunes:author><![CDATA[中央社 產經證券[RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>（中央社倫敦2日綜合外電報導）投資人對於試圖結束伊朗戰事的各方外交努力抱持希望，帶動國際油價大跌，緩解了通膨疑慮，使歐洲股市主要指數今天收盤走高。</p><p>倫敦FTSE 100指數小升31.55點或0.29%，收10761.33點。</p><div class="lineAd"><a href="https://lin.ee/tPtHlLQ" target="_blank"><img src="https://imgcdn.cna.com.tw/www/website/img/ad300x223.jpg"></a></div><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>法蘭克福DAX指數上揚162.88點或0.63%，收25981.09點。</p><p>巴黎CAC 40指數攀漲78.27點或0.98%，收8047.69點。（編譯：<a class="author" href="/author/0131/">陳彥鈞</a>）1151103</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>（中央社倫敦2日綜合外電報導）投資人對於試圖結束伊朗戰事的各方外交努力抱持希望，帶動國際油價大跌，緩解了通膨疑慮，使歐洲股市主要指數今天收盤走高。</p><p>倫敦FTSE 100指數小升31.55點或0.29%，收10761.33點。</p><div class="lineAd"><a href="https://lin.ee/tPtHlLQ" target="_blank"><img src="https://imgcdn.cna.com.tw/www/website/img/ad300x223.jpg"></a></div><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>法蘭克福DAX指數上揚162.88點或0.63%，收25981.09點。</p><p>巴黎CAC 40指數攀漲78.27點或0.98%，收8047.69點。（編譯：<a class="author" href="/author/0131/">陳彥鈞</a>）1151103</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>（中央社倫敦2日綜合外電報導）投資人對於試圖結束伊朗戰事的各方外交努力抱持希望，帶動國際油價大跌，緩解了通膨疑慮，使歐洲股市主要指數今天收盤走高。</p><p>倫敦FTSE 100指數小升31.55點或0.29%，收10761.33點。</p><div class="lineAd"><a href="https://lin.ee/tPtHlLQ" target="_blank"><img src="https://imgcdn.cna.com.tw/www/website/img/ad300x223.jpg"></a></div><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>法蘭克福DAX指數上揚162.88點或0.63%，收25981.09點。</p><p>巴黎CAC 40指數攀漲78.27點或0.98%，收8047.69點。（編譯：<a class="author" href="/author/0131/">陳彥鈞</a>）1151103</p>]]></content:encoded>
+    
+    <pubDate>Tue, 03 Nov 2026 01:17:56 +0800</pubDate>
+  </item><item>
+    <title><![CDATA[Anthropic第3季營收年增逾11倍　最快下週IPO]]></title>
+    <link>https://www.cna.com.tw/news/aopl/202611030002.aspx</link>
+    <itunes:title><![CDATA[Anthropic第3季營收年增逾11倍　最快下週IPO]]></itunes:title>
+    <itunes:author><![CDATA[中央社 產經證券[RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>（中央社華盛頓2日綜合外電報導）美國人工智慧（AI）公司Anthropic今天報告第3季營收較去年同期暴增逾1100%，公司預計本月稍後在華爾街上市。</p><p>法新社報導，Anthropic是全球AI領先企業之一，預計最快下週首次公開發行（IPO），適逢投資人對大量資金湧入AI領域日益感到不安。</p><p>Anthropic第3季營收達170億美元，高於去年同期的14億美元。</p><p>Anthropic在修訂後的申報文件中表示，7月至9月淨損達233億美元。這家公司上市後的表現將有助判斷帶動美國經濟的AI支出熱潮還能持續多久。</p><p>申報文件顯示，虧損主要來自與公司估值攀升相關的非現金會計費用。</p><p>文件內容也顯示，Anthropic已承諾支出約8950億美元，主要用於算力，其中很大一部分是在未來5年支出。</p><p>由於購買短期運算資源的支出增加，Anthropic第3季再度轉為營業虧損，金額達5億6700萬美元。</p><p>這次IPO將成為市場對AI熱潮信心的一大考驗。隨著散戶首次有機會直接購買這家獨立AI巨擘股票，潛在投資人群體也將擴大。</p><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>上週科技巨擘最新財報顯示投入鉅額資金，卻未見足夠明確的回報跡象，引發市場對AI支出的疑慮，導致大型科技股遭到大幅拋售。</p><p>Anthropic這份約400頁的申報文件中有超過90頁說明風險，包括產業面臨的風險。近幾個月來已有一連串報導指出AI系統出現出乎預期且有害的行為。（編譯：<a class="author" href="/author/0145/">盧映孜</a>）1151103</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>（中央社華盛頓2日綜合外電報導）美國人工智慧（AI）公司Anthropic今天報告第3季營收較去年同期暴增逾1100%，公司預計本月稍後在華爾街上市。</p><p>法新社報導，Anthropic是全球AI領先企業之一，預計最快下週首次公開發行（IPO），適逢投資人對大量資金湧入AI領域日益感到不安。</p><p>Anthropic第3季營收達170億美元，高於去年同期的14億美元。</p><p>Anthropic在修訂後的申報文件中表示，7月至9月淨損達233億美元。這家公司上市後的表現將有助判斷帶動美國經濟的AI支出熱潮還能持續多久。</p><p>申報文件顯示，虧損主要來自與公司估值攀升相關的非現金會計費用。</p><p>文件內容也顯示，Anthropic已承諾支出約8950億美元，主要用於算力，其中很大一部分是在未來5年支出。</p><p>由於購買短期運算資源的支出增加，Anthropic第3季再度轉為營業虧損，金額達5億6700萬美元。</p><p>這次IPO將成為市場對AI熱潮信心的一大考驗。隨著散戶首次有機會直接購買這家獨立AI巨擘股票，潛在投資人群體也將擴大。</p><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>上週科技巨擘最新財報顯示投入鉅額資金，卻未見足夠明確的回報跡象，引發市場對AI支出的疑慮，導致大型科技股遭到大幅拋售。</p><p>Anthropic這份約400頁的申報文件中有超過90頁說明風險，包括產業面臨的風險。近幾個月來已有一連串報導指出AI系統出現出乎預期且有害的行為。（編譯：<a class="author" href="/author/0145/">盧映孜</a>）1151103</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>（中央社華盛頓2日綜合外電報導）美國人工智慧（AI）公司Anthropic今天報告第3季營收較去年同期暴增逾1100%，公司預計本月稍後在華爾街上市。</p><p>法新社報導，Anthropic是全球AI領先企業之一，預計最快下週首次公開發行（IPO），適逢投資人對大量資金湧入AI領域日益感到不安。</p><p>Anthropic第3季營收達170億美元，高於去年同期的14億美元。</p><p>Anthropic在修訂後的申報文件中表示，7月至9月淨損達233億美元。這家公司上市後的表現將有助判斷帶動美國經濟的AI支出熱潮還能持續多久。</p><p>申報文件顯示，虧損主要來自與公司估值攀升相關的非現金會計費用。</p><p>文件內容也顯示，Anthropic已承諾支出約8950億美元，主要用於算力，其中很大一部分是在未來5年支出。</p><p>由於購買短期運算資源的支出增加，Anthropic第3季再度轉為營業虧損，金額達5億6700萬美元。</p><p>這次IPO將成為市場對AI熱潮信心的一大考驗。隨著散戶首次有機會直接購買這家獨立AI巨擘股票，潛在投資人群體也將擴大。</p><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>上週科技巨擘最新財報顯示投入鉅額資金，卻未見足夠明確的回報跡象，引發市場對AI支出的疑慮，導致大型科技股遭到大幅拋售。</p><p>Anthropic這份約400頁的申報文件中有超過90頁說明風險，包括產業面臨的風險。近幾個月來已有一連串報導指出AI系統出現出乎預期且有害的行為。（編譯：<a class="author" href="/author/0145/">盧映孜</a>）1151103</p>]]></content:encoded>
+    
+    <pubDate>Tue, 03 Nov 2026 01:05:54 +0800</pubDate>
+  </item><item>
+    <title><![CDATA[數發部：督促TWCA完成產製符合標準新憑證　調查違約情形]]></title>
+    <link>https://www.cna.com.tw/news/afe/202611020325.aspx</link>
+    <itunes:title><![CDATA[數發部：督促TWCA完成產製符合標準新憑證　調查違約情形]]></itunes:title>
+    <itunes:author><![CDATA[中央社 產經證券[RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>（中央社記者<a class="author" href="/author/0107/">趙敏雅</a>台北2日電）數發部今天表示，10月30日接獲通報，台灣網路認證公司（TWCA）核發的部分憑證中「序號隨機亂數長度」，未達國際標準規範64 bits以上密碼學安全亂數要求，已要求業者於2日內產製符合規定的新憑證，也呼籲各機關儘速更新。另將針對違約情事進行調查，依約罰款及求償。</p><p>數發部晚間發布新聞稿說明，國際社群Bugzilla於10月30日通報，TWCA所核發的部分憑證中「序號隨機亂數長度（Serial Number Entropy）」，未達國際標準規範64 bits以上密碼學安全亂數要求。TWCA雖將憑證序號長度設計為128 bits，但實際僅首尾各12 bits為有效隨機數、中間皆填補為定值，實際隨機亂數僅24 bits。</p><p>數發部表示，10月30日接獲通報後，已立即要求業者於2日內產製符合規定的新憑證，並同步啟動跨機關聯繫通知作業，加速各機關完成憑證更換，避免影響網站正常瀏覽。</p><p>數發部說明，TLS憑證用於建立安全通訊，TWCA所核發的網站TLS憑證，除了提供民間作為網站憑證之外，也經由數發部採購提供各政府機關申請使用。經盤點，這次事件共涉及962個政府機關、9772張網站憑證，若相關網站未於11月6日前完成憑證更新，民眾瀏覽時可能出現安全性警示訊息。</p><p>數發部指出，TWCA已於11月1日完成政府機關9772張TLS憑證重新產製，新憑證符合國際標準所要求的序號隨機亂數長度。同時，透過主動補發機制，由系統直接以電子郵件將新憑證檔寄送予原申請機關承辦人。</p><p>數發部表示，同步啟動資訊主管聯繫機制，請各機關資訊主管協助督促並啟動更新憑證作業，截至11月2日晚間，已有926張憑證完成更新，數發部將持續追蹤，確保所有機關儘速完成更新。</p><div class="lineAd"><a href="https://lin.ee/tPtHlLQ" target="_blank"><img src="https://imgcdn.cna.com.tw/www/website/img/ad300x223.jpg"></a></div><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>數發部說明，雖然此事目前未造成具體資安危害，仍呼籲各機關及其他TWCA憑證的使用者，儘速於11月6日前完成憑證更新作業，避免影響網站正常瀏覽。</p><p>數發部表示，為進一步確保憑證服務安全，已委託獨立第三方專業機構，後續針對TWCA進行深入檢測，全面檢視相關憑證產製及管理機制，並將依檢測結果要求TWCA改善，確保憑證的服務合規與安全，另將針對違約情事進行調查，並依約罰款及求償。（編輯：陳正健）1151102</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>（中央社記者<a class="author" href="/author/0107/">趙敏雅</a>台北2日電）數發部今天表示，10月30日接獲通報，台灣網路認證公司（TWCA）核發的部分憑證中「序號隨機亂數長度」，未達國際標準規範64 bits以上密碼學安全亂數要求，已要求業者於2日內產製符合規定的新憑證，也呼籲各機關儘速更新。另將針對違約情事進行調查，依約罰款及求償。</p><p>數發部晚間發布新聞稿說明，國際社群Bugzilla於10月30日通報，TWCA所核發的部分憑證中「序號隨機亂數長度（Serial Number Entropy）」，未達國際標準規範64 bits以上密碼學安全亂數要求。TWCA雖將憑證序號長度設計為128 bits，但實際僅首尾各12 bits為有效隨機數、中間皆填補為定值，實際隨機亂數僅24 bits。</p><p>數發部表示，10月30日接獲通報後，已立即要求業者於2日內產製符合規定的新憑證，並同步啟動跨機關聯繫通知作業，加速各機關完成憑證更換，避免影響網站正常瀏覽。</p><p>數發部說明，TLS憑證用於建立安全通訊，TWCA所核發的網站TLS憑證，除了提供民間作為網站憑證之外，也經由數發部採購提供各政府機關申請使用。經盤點，這次事件共涉及962個政府機關、9772張網站憑證，若相關網站未於11月6日前完成憑證更新，民眾瀏覽時可能出現安全性警示訊息。</p><p>數發部指出，TWCA已於11月1日完成政府機關9772張TLS憑證重新產製，新憑證符合國際標準所要求的序號隨機亂數長度。同時，透過主動補發機制，由系統直接以電子郵件將新憑證檔寄送予原申請機關承辦人。</p><p>數發部表示，同步啟動資訊主管聯繫機制，請各機關資訊主管協助督促並啟動更新憑證作業，截至11月2日晚間，已有926張憑證完成更新，數發部將持續追蹤，確保所有機關儘速完成更新。</p><div class="lineAd"><a href="https://lin.ee/tPtHlLQ" target="_blank"><img src="https://imgcdn.cna.com.tw/www/website/img/ad300x223.jpg"></a></div><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>數發部說明，雖然此事目前未造成具體資安危害，仍呼籲各機關及其他TWCA憑證的使用者，儘速於11月6日前完成憑證更新作業，避免影響網站正常瀏覽。</p><p>數發部表示，為進一步確保憑證服務安全，已委託獨立第三方專業機構，後續針對TWCA進行深入檢測，全面檢視相關憑證產製及管理機制，並將依檢測結果要求TWCA改善，確保憑證的服務合規與安全，另將針對違約情事進行調查，並依約罰款及求償。（編輯：陳正健）1151102</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>（中央社記者<a class="author" href="/author/0107/">趙敏雅</a>台北2日電）數發部今天表示，10月30日接獲通報，台灣網路認證公司（TWCA）核發的部分憑證中「序號隨機亂數長度」，未達國際標準規範64 bits以上密碼學安全亂數要求，已要求業者於2日內產製符合規定的新憑證，也呼籲各機關儘速更新。另將針對違約情事進行調查，依約罰款及求償。</p><p>數發部晚間發布新聞稿說明，國際社群Bugzilla於10月30日通報，TWCA所核發的部分憑證中「序號隨機亂數長度（Serial Number Entropy）」，未達國際標準規範64 bits以上密碼學安全亂數要求。TWCA雖將憑證序號長度設計為128 bits，但實際僅首尾各12 bits為有效隨機數、中間皆填補為定值，實際隨機亂數僅24 bits。</p><p>數發部表示，10月30日接獲通報後，已立即要求業者於2日內產製符合規定的新憑證，並同步啟動跨機關聯繫通知作業，加速各機關完成憑證更換，避免影響網站正常瀏覽。</p><p>數發部說明，TLS憑證用於建立安全通訊，TWCA所核發的網站TLS憑證，除了提供民間作為網站憑證之外，也經由數發部採購提供各政府機關申請使用。經盤點，這次事件共涉及962個政府機關、9772張網站憑證，若相關網站未於11月6日前完成憑證更新，民眾瀏覽時可能出現安全性警示訊息。</p><p>數發部指出，TWCA已於11月1日完成政府機關9772張TLS憑證重新產製，新憑證符合國際標準所要求的序號隨機亂數長度。同時，透過主動補發機制，由系統直接以電子郵件將新憑證檔寄送予原申請機關承辦人。</p><p>數發部表示，同步啟動資訊主管聯繫機制，請各機關資訊主管協助督促並啟動更新憑證作業，截至11月2日晚間，已有926張憑證完成更新，數發部將持續追蹤，確保所有機關儘速完成更新。</p><div class="lineAd"><a href="https://lin.ee/tPtHlLQ" target="_blank"><img src="https://imgcdn.cna.com.tw/www/website/img/ad300x223.jpg"></a></div><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>數發部說明，雖然此事目前未造成具體資安危害，仍呼籲各機關及其他TWCA憑證的使用者，儘速於11月6日前完成憑證更新作業，避免影響網站正常瀏覽。</p><p>數發部表示，為進一步確保憑證服務安全，已委託獨立第三方專業機構，後續針對TWCA進行深入檢測，全面檢視相關憑證產製及管理機制，並將依檢測結果要求TWCA改善，確保憑證的服務合規與安全，另將針對違約情事進行調查，並依約罰款及求償。（編輯：陳正健）1151102</p>]]></content:encoded>
+    
+    <pubDate>Mon, 02 Nov 2026 23:38:46 +0800</pubDate>
+  </item><item>
+    <title><![CDATA[美伊和談希望再起　國際油價跌幅擴大至逾6%]]></title>
+    <link>https://www.cna.com.tw/news/afe/202611020322.aspx</link>
+    <itunes:title><![CDATA[美伊和談希望再起　國際油價跌幅擴大至逾6%]]></itunes:title>
+    <itunes:author><![CDATA[中央社 產經證券[RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>（中央社倫敦2日綜合外電報導）美國和伊朗可能重啟談判來結束中東衝突的希望再起，國際油價今天跌勢應聲擴大，跌幅來到6%多。</p><p>法新社報導，在美伊間外交進展可期助攻下，原油期貨價格今天稍早已挫跌約4%；隨著交易持續進行，跌幅進一步擴大。</p><p>國際主要合約北海布倫特原油（Brent）期貨價格下跌6.1%，降到每桶106.54美元；美國基準西德州中級原油（WTI）期貨價格則下跌6.3%，來到每桶97.56美元。（編譯：<a class="author" href="/author/0081/">張正芊</a>）1151102</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>（中央社倫敦2日綜合外電報導）美國和伊朗可能重啟談判來結束中東衝突的希望再起，國際油價今天跌勢應聲擴大，跌幅來到6%多。</p><p>法新社報導，在美伊間外交進展可期助攻下，原油期貨價格今天稍早已挫跌約4%；隨著交易持續進行，跌幅進一步擴大。</p><p>國際主要合約北海布倫特原油（Brent）期貨價格下跌6.1%，降到每桶106.54美元；美國基準西德州中級原油（WTI）期貨價格則下跌6.3%，來到每桶97.56美元。（編譯：<a class="author" href="/author/0081/">張正芊</a>）1151102</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>（中央社倫敦2日綜合外電報導）美國和伊朗可能重啟談判來結束中東衝突的希望再起，國際油價今天跌勢應聲擴大，跌幅來到6%多。</p><p>法新社報導，在美伊間外交進展可期助攻下，原油期貨價格今天稍早已挫跌約4%；隨著交易持續進行，跌幅進一步擴大。</p><p>國際主要合約北海布倫特原油（Brent）期貨價格下跌6.1%，降到每桶106.54美元；美國基準西德州中級原油（WTI）期貨價格則下跌6.3%，來到每桶97.56美元。（編譯：<a class="author" href="/author/0081/">張正芊</a>）1151102</p>]]></content:encoded>
+    
+    <pubDate>Mon, 02 Nov 2026 23:10:39 +0800</pubDate>
+  </item><item>
+    <title><![CDATA[吳誠文：南科新園區明年啟動程序　因應1奈米晶圓廠建置需求]]></title>
+    <link>https://www.cna.com.tw/news/afe/202611020319.aspx</link>
+    <itunes:title><![CDATA[吳誠文：南科新園區明年啟動程序　因應1奈米晶圓廠建置需求]]></itunes:title>
+    <itunes:author><![CDATA[中央社 產經證券[RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>（中央社記者<a class="author" href="/author/0107/">趙敏雅</a>台北2日電）國科會主委吳誠文今天表示，國科會轄下3個科學園區管理局，目前共有18個園區，之後將新增1座規模非常大的園區，位在台南，預計明年就會啟動相關作業，主要是因應1奈米晶圓廠的建置需求。</p><p>IEEE亞洲固態電路會議2026（A-SSCC）今天開幕，吳誠文受邀專講時指出，台灣企業生產的AI伺服器全球市占率超過90%，晶圓製造也是第1名，特別是先進半導體技術，幾乎都來自台灣。</p><p>吳誠文細數過去50年，台灣發展半導體歷程，當時透過政府、產業、學術界緊密合作，形成「黃金三角模式」，政策鼓勵科學研究與技術開發，加上科學園區落腳新竹，緊鄰工研院、交大、清大，培育出重要的人才。</p><p>吳誠文表示，除了新竹科學園區，南部科學園區、中部科學園區也陸續成立，3個園區管理局負責規劃與開發所有科學園區，目前已有18個園區，台南將迎來1座規模非常大的新園區，預計明年就會啟動相關作業，主要為了因應1奈米晶圓廠的建置需求。</p><p>吳誠文強調，如果沒有半導體，任何創新都難以實現，包括量子運算、太空科技、機器人及無人載具等領域，都需要半導體技術支撐。</p><p>吳誠文指出，晶片戰略有4大支柱，包括保持優勢、深化國際合作、驅動AI創新、永續性與適應力。他也說，國科會負責資助各領域的學術研究，也建立國家級研究中心，投入昂貴設備、材料與研究人員，供全國教授共享研究平台，盼培育更多高階IC設計人才。</p><div class="lineAd"><a href="https://lin.ee/tPtHlLQ" target="_blank"><img src="https://imgcdn.cna.com.tw/www/website/img/ad300x223.jpg"></a></div><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>吳誠文表示，未來台灣將聚焦高效能運算、量子電腦、智慧機器人與矽光子等4大領域。他進一步說，沒有半導體，量子計算就不可能商業化，台灣樂於協助世界一同推進。</p><p>吳誠文強調，正在邀請國際企業與台灣合作，加速量子運算與高效能運算的整合。相關策略已不僅是國內計畫，更希望與所有國際團隊合作，從「台灣隊（Team Taiwan）」邁向「全球隊（Team Global）」。（編輯：林家嫻）1151102</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>（中央社記者<a class="author" href="/author/0107/">趙敏雅</a>台北2日電）國科會主委吳誠文今天表示，國科會轄下3個科學園區管理局，目前共有18個園區，之後將新增1座規模非常大的園區，位在台南，預計明年就會啟動相關作業，主要是因應1奈米晶圓廠的建置需求。</p><p>IEEE亞洲固態電路會議2026（A-SSCC）今天開幕，吳誠文受邀專講時指出，台灣企業生產的AI伺服器全球市占率超過90%，晶圓製造也是第1名，特別是先進半導體技術，幾乎都來自台灣。</p><p>吳誠文細數過去50年，台灣發展半導體歷程，當時透過政府、產業、學術界緊密合作，形成「黃金三角模式」，政策鼓勵科學研究與技術開發，加上科學園區落腳新竹，緊鄰工研院、交大、清大，培育出重要的人才。</p><p>吳誠文表示，除了新竹科學園區，南部科學園區、中部科學園區也陸續成立，3個園區管理局負責規劃與開發所有科學園區，目前已有18個園區，台南將迎來1座規模非常大的新園區，預計明年就會啟動相關作業，主要為了因應1奈米晶圓廠的建置需求。</p><p>吳誠文強調，如果沒有半導體，任何創新都難以實現，包括量子運算、太空科技、機器人及無人載具等領域，都需要半導體技術支撐。</p><p>吳誠文指出，晶片戰略有4大支柱，包括保持優勢、深化國際合作、驅動AI創新、永續性與適應力。他也說，國科會負責資助各領域的學術研究，也建立國家級研究中心，投入昂貴設備、材料與研究人員，供全國教授共享研究平台，盼培育更多高階IC設計人才。</p><div class="lineAd"><a href="https://lin.ee/tPtHlLQ" target="_blank"><img src="https://imgcdn.cna.com.tw/www/website/img/ad300x223.jpg"></a></div><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>吳誠文表示，未來台灣將聚焦高效能運算、量子電腦、智慧機器人與矽光子等4大領域。他進一步說，沒有半導體，量子計算就不可能商業化，台灣樂於協助世界一同推進。</p><p>吳誠文強調，正在邀請國際企業與台灣合作，加速量子運算與高效能運算的整合。相關策略已不僅是國內計畫，更希望與所有國際團隊合作，從「台灣隊（Team Taiwan）」邁向「全球隊（Team Global）」。（編輯：林家嫻）1151102</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>（中央社記者<a class="author" href="/author/0107/">趙敏雅</a>台北2日電）國科會主委吳誠文今天表示，國科會轄下3個科學園區管理局，目前共有18個園區，之後將新增1座規模非常大的園區，位在台南，預計明年就會啟動相關作業，主要是因應1奈米晶圓廠的建置需求。</p><p>IEEE亞洲固態電路會議2026（A-SSCC）今天開幕，吳誠文受邀專講時指出，台灣企業生產的AI伺服器全球市占率超過90%，晶圓製造也是第1名，特別是先進半導體技術，幾乎都來自台灣。</p><p>吳誠文細數過去50年，台灣發展半導體歷程，當時透過政府、產業、學術界緊密合作，形成「黃金三角模式」，政策鼓勵科學研究與技術開發，加上科學園區落腳新竹，緊鄰工研院、交大、清大，培育出重要的人才。</p><p>吳誠文表示，除了新竹科學園區，南部科學園區、中部科學園區也陸續成立，3個園區管理局負責規劃與開發所有科學園區，目前已有18個園區，台南將迎來1座規模非常大的新園區，預計明年就會啟動相關作業，主要為了因應1奈米晶圓廠的建置需求。</p><p>吳誠文強調，如果沒有半導體，任何創新都難以實現，包括量子運算、太空科技、機器人及無人載具等領域，都需要半導體技術支撐。</p><p>吳誠文指出，晶片戰略有4大支柱，包括保持優勢、深化國際合作、驅動AI創新、永續性與適應力。他也說，國科會負責資助各領域的學術研究，也建立國家級研究中心，投入昂貴設備、材料與研究人員，供全國教授共享研究平台，盼培育更多高階IC設計人才。</p><div class="lineAd"><a href="https://lin.ee/tPtHlLQ" target="_blank"><img src="https://imgcdn.cna.com.tw/www/website/img/ad300x223.jpg"></a></div><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>吳誠文表示，未來台灣將聚焦高效能運算、量子電腦、智慧機器人與矽光子等4大領域。他進一步說，沒有半導體，量子計算就不可能商業化，台灣樂於協助世界一同推進。</p><p>吳誠文強調，正在邀請國際企業與台灣合作，加速量子運算與高效能運算的整合。相關策略已不僅是國內計畫，更希望與所有國際團隊合作，從「台灣隊（Team Taiwan）」邁向「全球隊（Team Global）」。（編輯：林家嫻）1151102</p>]]></content:encoded>
+    
+    <pubDate>Mon, 02 Nov 2026 23:04:32 +0800</pubDate>
+  </item><item>
+    <title><![CDATA[中油、台電承擔高額成本　國營司盼預算撥補穩定經營]]></title>
+    <link>https://www.cna.com.tw/news/afe/202611020291.aspx</link>
+    <itunes:title><![CDATA[中油、台電承擔高額成本　國營司盼預算撥補穩定經營]]></itunes:title>
+    <itunes:author><![CDATA[中央社 產經證券[RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1200/800;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20261102/1200x800_wmky_120514444782_202610290162000000.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261102/1200x800_wmky_120514444782_202610290162000000.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261102/1200x800_wmky_120514444782_202610290162000000.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20261102/1200x800_wmky_120514444782_202610290162000000.jpg" fetchpriority="high" alt="圖為中油加油站商標與吉祥物。（中央社檔案照片）">
+                      </picture><figcaption class="picinfo">圖為中油加油站商標與吉祥物。（中央社檔案照片）</figcaption></figure><p>（中央社記者<a class="author" href="/author/0283/">梁家柔</a>台北2日電）美伊戰爭造成全球油氣供應劇減、現貨價格劇烈波動，中油、台電為穩定物價與照顧民生，付出高額成本。經濟部國營司表示，期盼社會各界支持政府編列預算撥補中油、台電，讓國營企業穩健經營，同時降低民生物價的衝擊、減輕民眾負擔。</p><p>國營司今天透過新聞稿表示，今年2月底美伊開戰後，經濟部於第一時間成立中東能源應變小組，檢視油氣安全存量，指示中油緊急採購油氣並維持高液位儲備，督促台電、中油及相關石油業者配合穩定汽柴油、天然氣及家用液化石油氣價格政策，確保能源安全與民生供應無虞。</p><p>國營司說明，中油、台電作為國營事業，是穩定物價與照顧民生的關鍵角色，也因此付出高額成本。以中油為例，在長期凍緩漲汽柴油、天然氣、液化石油氣等價格下，自行吸收成本，目前負債比達94%。</p><div class="lineAd"><a href="https://lin.ee/tPtHlLQ" target="_blank"><img src="https://imgcdn.cna.com.tw/www/website/img/ad300x223.jpg"></a></div><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>國營司表示，世界各國政府採行汽柴油價格補貼與稅負調整政策，透過油價補貼措施穩定國內能源價格。日本政府補貼汽油零售價，每日支出逾100億日圓，補貼累計支出約9.6兆日圓；韓國政府則編列逾新台幣1300億元預算，補貼煉油商或批發商來抑制燃油價格上漲。</p><p>除了亞洲國家外，國營司提到，法國政府擴大高頻通勤者燃油援助方案；德國政府實施減免能源稅措施；英國政府則將燃油稅凍結政策及臨時減稅優惠延長至明年7月。（編輯：張均懋）1151102</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1200/800;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20261102/1200x800_wmky_120514444782_202610290162000000.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261102/1200x800_wmky_120514444782_202610290162000000.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261102/1200x800_wmky_120514444782_202610290162000000.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20261102/1200x800_wmky_120514444782_202610290162000000.jpg" fetchpriority="high" alt="圖為中油加油站商標與吉祥物。（中央社檔案照片）">
+                      </picture><figcaption class="picinfo">圖為中油加油站商標與吉祥物。（中央社檔案照片）</figcaption></figure><p>（中央社記者<a class="author" href="/author/0283/">梁家柔</a>台北2日電）美伊戰爭造成全球油氣供應劇減、現貨價格劇烈波動，中油、台電為穩定物價與照顧民生，付出高額成本。經濟部國營司表示，期盼社會各界支持政府編列預算撥補中油、台電，讓國營企業穩健經營，同時降低民生物價的衝擊、減輕民眾負擔。</p><p>國營司今天透過新聞稿表示，今年2月底美伊開戰後，經濟部於第一時間成立中東能源應變小組，檢視油氣安全存量，指示中油緊急採購油氣並維持高液位儲備，督促台電、中油及相關石油業者配合穩定汽柴油、天然氣及家用液化石油氣價格政策，確保能源安全與民生供應無虞。</p><p>國營司說明，中油、台電作為國營事業，是穩定物價與照顧民生的關鍵角色，也因此付出高額成本。以中油為例，在長期凍緩漲汽柴油、天然氣、液化石油氣等價格下，自行吸收成本，目前負債比達94%。</p><div class="lineAd"><a href="https://lin.ee/tPtHlLQ" target="_blank"><img src="https://imgcdn.cna.com.tw/www/website/img/ad300x223.jpg"></a></div><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>國營司表示，世界各國政府採行汽柴油價格補貼與稅負調整政策，透過油價補貼措施穩定國內能源價格。日本政府補貼汽油零售價，每日支出逾100億日圓，補貼累計支出約9.6兆日圓；韓國政府則編列逾新台幣1300億元預算，補貼煉油商或批發商來抑制燃油價格上漲。</p><p>除了亞洲國家外，國營司提到，法國政府擴大高頻通勤者燃油援助方案；德國政府實施減免能源稅措施；英國政府則將燃油稅凍結政策及臨時減稅優惠延長至明年7月。（編輯：張均懋）1151102</p>]]>
+    </description>
+    <content:encoded><![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1200/800;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20261102/1200x800_wmky_120514444782_202610290162000000.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261102/1200x800_wmky_120514444782_202610290162000000.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261102/1200x800_wmky_120514444782_202610290162000000.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20261102/1200x800_wmky_120514444782_202610290162000000.jpg" fetchpriority="high" alt="圖為中油加油站商標與吉祥物。（中央社檔案照片）">
+                      </picture><figcaption class="picinfo">圖為中油加油站商標與吉祥物。（中央社檔案照片）</figcaption></figure><p>（中央社記者<a class="author" href="/author/0283/">梁家柔</a>台北2日電）美伊戰爭造成全球油氣供應劇減、現貨價格劇烈波動，中油、台電為穩定物價與照顧民生，付出高額成本。經濟部國營司表示，期盼社會各界支持政府編列預算撥補中油、台電，讓國營企業穩健經營，同時降低民生物價的衝擊、減輕民眾負擔。</p><p>國營司今天透過新聞稿表示，今年2月底美伊開戰後，經濟部於第一時間成立中東能源應變小組，檢視油氣安全存量，指示中油緊急採購油氣並維持高液位儲備，督促台電、中油及相關石油業者配合穩定汽柴油、天然氣及家用液化石油氣價格政策，確保能源安全與民生供應無虞。</p><p>國營司說明，中油、台電作為國營事業，是穩定物價與照顧民生的關鍵角色，也因此付出高額成本。以中油為例，在長期凍緩漲汽柴油、天然氣、液化石油氣等價格下，自行吸收成本，目前負債比達94%。</p><div class="lineAd"><a href="https://lin.ee/tPtHlLQ" target="_blank"><img src="https://imgcdn.cna.com.tw/www/website/img/ad300x223.jpg"></a></div><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>國營司表示，世界各國政府採行汽柴油價格補貼與稅負調整政策，透過油價補貼措施穩定國內能源價格。日本政府補貼汽油零售價，每日支出逾100億日圓，補貼累計支出約9.6兆日圓；韓國政府則編列逾新台幣1300億元預算，補貼煉油商或批發商來抑制燃油價格上漲。</p><p>除了亞洲國家外，國營司提到，法國政府擴大高頻通勤者燃油援助方案；德國政府實施減免能源稅措施；英國政府則將燃油稅凍結政策及臨時減稅優惠延長至明年7月。（編輯：張均懋）1151102</p>]]></content:encoded>
+    
+    <pubDate>Mon, 02 Nov 2026 21:16:26 +0800</pubDate>
+  </item><item>
+    <title><![CDATA[華映科技案人民幣7.68億和解　大同回沖利益估近百億]]></title>
+    <link>https://www.cna.com.tw/news/afe/202611020281.aspx</link>
+    <itunes:title><![CDATA[華映科技案人民幣7.68億和解　大同回沖利益估近百億]]></itunes:title>
+    <itunes:author><![CDATA[中央社 產經證券[RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1200/900;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20261102/1200x900_wmky_226017404955_202610120146000000.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261102/1200x900_wmky_226017404955_202610120146000000.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261102/1200x900_wmky_226017404955_202610120146000000.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20261102/1200x900_wmky_226017404955_202610120146000000.jpg" fetchpriority="high" alt="大同公司宣布，歷時多年的華映科技案畫下句點，雙方董事會通過以人民幣7.68億元達成和解，相較原判決涉及的人民幣30.29億元補償款，大幅減少約74.6%；圖為大同公司外觀。（中央社檔案照片）">
+                      </picture><figcaption class="picinfo">大同公司宣布，歷時多年的華映科技案畫下句點，雙方董事會通過以人民幣7.68億元達成和解，相較原判決涉及的人民幣30.29億元補償款，大幅減少約74.6%；圖為大同公司外觀。（中央社檔案照片）</figcaption></figure><p>（中央社記者<a class="author" href="/author/0133/">潘智義</a>台北2日電）大同公司今天宣布，歷時多年的華映科技案畫下句點，雙方董事會通過以人民幣7.68億元達成和解，相較原判決涉及的人民幣30.29億元補償款，大幅減少約74.6%，預計可回沖利益約新台幣99.5億元。</p><p>由於大同已於2025年底採最保守會計原則，一次性全額認列135.67億元訴訟損失（含執行費），隨著和解條件確定，預期將可回沖近百億元損失，以大同目前約21.51億股普通股估算，回沖利益相當於貢獻每股稅前盈餘約4.6元，對公司財務結構及股東權益帶來顯著正面效益。</p><p>華映案源於2009年中華映管轉投資中國華映科技所衍生的業績承諾爭議，歷經多年司法程序，成為大同長期以來的重要財務與法律風險。新經營團隊接手後，秉持維護公司及全體股東權益原則，積極處理歷史遺留問題，透過理性協商尋求務實解決方案。此次和解的意義重大，不僅有助於降低訴訟風險及財務不確定性，更讓公司得以卸下沉重的歷史包袱，將經營資源集中於核心事業與長期發展。</p><div class="lineAd"><a href="https://lin.ee/tPtHlLQ" target="_blank"><img src="https://imgcdn.cna.com.tw/www/website/img/ad300x223.jpg"></a></div><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>在財務效益方面，大同自結截至2026年第3季底，針對華映案帳列剩餘負債約人民幣28.03億元，折合新台幣約137億元。此次雙方以人民幣7.68億元達成和解，預計可回沖利益約人民幣20.35億元，以11月2日匯率計算，折合新台幣約99.5億元，對公司財務體質改善具有重大正面效益，可望挹注當期獲利、提升股東權益及每股淨值。</p><p>大同強調，隨著重大歷史訴訟風險化解，財務結構將更趨穩健，有助於提升資本市場信心，讓經營團隊更能專注在核心事業發展與轉型布局。新大同將以「電力、算力、土地」3大核心成長引擎為發展主軸，整合集團在電力設備、能源管理、再生能源及土地資產的深厚基礎，積極轉型為能源與AI基礎設施整合服務提供者。（編輯：張均懋）1151102</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1200/900;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20261102/1200x900_wmky_226017404955_202610120146000000.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261102/1200x900_wmky_226017404955_202610120146000000.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261102/1200x900_wmky_226017404955_202610120146000000.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20261102/1200x900_wmky_226017404955_202610120146000000.jpg" fetchpriority="high" alt="大同公司宣布，歷時多年的華映科技案畫下句點，雙方董事會通過以人民幣7.68億元達成和解，相較原判決涉及的人民幣30.29億元補償款，大幅減少約74.6%；圖為大同公司外觀。（中央社檔案照片）">
+                      </picture><figcaption class="picinfo">大同公司宣布，歷時多年的華映科技案畫下句點，雙方董事會通過以人民幣7.68億元達成和解，相較原判決涉及的人民幣30.29億元補償款，大幅減少約74.6%；圖為大同公司外觀。（中央社檔案照片）</figcaption></figure><p>（中央社記者<a class="author" href="/author/0133/">潘智義</a>台北2日電）大同公司今天宣布，歷時多年的華映科技案畫下句點，雙方董事會通過以人民幣7.68億元達成和解，相較原判決涉及的人民幣30.29億元補償款，大幅減少約74.6%，預計可回沖利益約新台幣99.5億元。</p><p>由於大同已於2025年底採最保守會計原則，一次性全額認列135.67億元訴訟損失（含執行費），隨著和解條件確定，預期將可回沖近百億元損失，以大同目前約21.51億股普通股估算，回沖利益相當於貢獻每股稅前盈餘約4.6元，對公司財務結構及股東權益帶來顯著正面效益。</p><p>華映案源於2009年中華映管轉投資中國華映科技所衍生的業績承諾爭議，歷經多年司法程序，成為大同長期以來的重要財務與法律風險。新經營團隊接手後，秉持維護公司及全體股東權益原則，積極處理歷史遺留問題，透過理性協商尋求務實解決方案。此次和解的意義重大，不僅有助於降低訴訟風險及財務不確定性，更讓公司得以卸下沉重的歷史包袱，將經營資源集中於核心事業與長期發展。</p><div class="lineAd"><a href="https://lin.ee/tPtHlLQ" target="_blank"><img src="https://imgcdn.cna.com.tw/www/website/img/ad300x223.jpg"></a></div><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>在財務效益方面，大同自結截至2026年第3季底，針對華映案帳列剩餘負債約人民幣28.03億元，折合新台幣約137億元。此次雙方以人民幣7.68億元達成和解，預計可回沖利益約人民幣20.35億元，以11月2日匯率計算，折合新台幣約99.5億元，對公司財務體質改善具有重大正面效益，可望挹注當期獲利、提升股東權益及每股淨值。</p><p>大同強調，隨著重大歷史訴訟風險化解，財務結構將更趨穩健，有助於提升資本市場信心，讓經營團隊更能專注在核心事業發展與轉型布局。新大同將以「電力、算力、土地」3大核心成長引擎為發展主軸，整合集團在電力設備、能源管理、再生能源及土地資產的深厚基礎，積極轉型為能源與AI基礎設施整合服務提供者。（編輯：張均懋）1151102</p>]]>
+    </description>
+    <content:encoded><![CDATA[<figure class="floatImg center">
+                      <picture style="--aspect-ratio:1200/900;">
+                          <source media="(max-width: 800px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/800/20261102/1200x900_wmky_226017404955_202610120146000000.jpg 1x, https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261102/1200x900_wmky_226017404955_202610120146000000.jpg 2x">
+                          <source media="(min-width: 801px)" srcset="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20261102/1200x900_wmky_226017404955_202610120146000000.jpg">
+                          <img src="https://imgcdn.cna.com.tw/www/WebPhotos/800/20261102/1200x900_wmky_226017404955_202610120146000000.jpg" fetchpriority="high" alt="大同公司宣布，歷時多年的華映科技案畫下句點，雙方董事會通過以人民幣7.68億元達成和解，相較原判決涉及的人民幣30.29億元補償款，大幅減少約74.6%；圖為大同公司外觀。（中央社檔案照片）">
+                      </picture><figcaption class="picinfo">大同公司宣布，歷時多年的華映科技案畫下句點，雙方董事會通過以人民幣7.68億元達成和解，相較原判決涉及的人民幣30.29億元補償款，大幅減少約74.6%；圖為大同公司外觀。（中央社檔案照片）</figcaption></figure><p>（中央社記者<a class="author" href="/author/0133/">潘智義</a>台北2日電）大同公司今天宣布，歷時多年的華映科技案畫下句點，雙方董事會通過以人民幣7.68億元達成和解，相較原判決涉及的人民幣30.29億元補償款，大幅減少約74.6%，預計可回沖利益約新台幣99.5億元。</p><p>由於大同已於2025年底採最保守會計原則，一次性全額認列135.67億元訴訟損失（含執行費），隨著和解條件確定，預期將可回沖近百億元損失，以大同目前約21.51億股普通股估算，回沖利益相當於貢獻每股稅前盈餘約4.6元，對公司財務結構及股東權益帶來顯著正面效益。</p><p>華映案源於2009年中華映管轉投資中國華映科技所衍生的業績承諾爭議，歷經多年司法程序，成為大同長期以來的重要財務與法律風險。新經營團隊接手後，秉持維護公司及全體股東權益原則，積極處理歷史遺留問題，透過理性協商尋求務實解決方案。此次和解的意義重大，不僅有助於降低訴訟風險及財務不確定性，更讓公司得以卸下沉重的歷史包袱，將經營資源集中於核心事業與長期發展。</p><div class="lineAd"><a href="https://lin.ee/tPtHlLQ" target="_blank"><img src="https://imgcdn.cna.com.tw/www/website/img/ad300x223.jpg"></a></div><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>在財務效益方面，大同自結截至2026年第3季底，針對華映案帳列剩餘負債約人民幣28.03億元，折合新台幣約137億元。此次雙方以人民幣7.68億元達成和解，預計可回沖利益約人民幣20.35億元，以11月2日匯率計算，折合新台幣約99.5億元，對公司財務體質改善具有重大正面效益，可望挹注當期獲利、提升股東權益及每股淨值。</p><p>大同強調，隨著重大歷史訴訟風險化解，財務結構將更趨穩健，有助於提升資本市場信心，讓經營團隊更能專注在核心事業發展與轉型布局。新大同將以「電力、算力、土地」3大核心成長引擎為發展主軸，整合集團在電力設備、能源管理、再生能源及土地資產的深厚基礎，積極轉型為能源與AI基礎設施整合服務提供者。（編輯：張均懋）1151102</p>]]></content:encoded>
+    
+    <pubDate>Mon, 02 Nov 2026 20:32:04 +0800</pubDate>
+  </item><item>
+    <title><![CDATA[宏達電第3季每股賺0.26元　新品歐美上市挹注]]></title>
+    <link>https://www.cna.com.tw/news/afe/202611020280.aspx</link>
+    <itunes:title><![CDATA[宏達電第3季每股賺0.26元　新品歐美上市挹注]]></itunes:title>
+    <itunes:author><![CDATA[中央社 產經證券[RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>（中央社記者<a class="author" href="/author/0142/">江明晏</a>台北2日電）宏達電第3季歸屬母公司業主淨利新台幣2.2億元，每股盈餘0.26元，受惠HTC新產品在歐美上市，相關成本持續控制穩定，業內、業外都有成長，終止連3季虧損，累計前3季每股虧0.36元。</p><p>宏達電今天公布第3季財報，營收7.6億元，營業毛利率為40.1%。營業淨損5.1億元，營業利益率負66.3%，歸屬於母公司業主淨利2.2億元，每股盈餘0.26元，累計前3季每股虧0.36元。</p><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>宏達電說明，第3季受惠HTC新產品在歐美上市，相關成本持續控制穩定，業內、業外都有成長。</p><p>宏達電表示，HTC AI智慧眼鏡VIVE Eagle推出全新圓框款並同步軟體升級，於歐洲、北美及澳洲市場上市，進一步擴大全球市場布局。（編輯：張均懋）1151102</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>（中央社記者<a class="author" href="/author/0142/">江明晏</a>台北2日電）宏達電第3季歸屬母公司業主淨利新台幣2.2億元，每股盈餘0.26元，受惠HTC新產品在歐美上市，相關成本持續控制穩定，業內、業外都有成長，終止連3季虧損，累計前3季每股虧0.36元。</p><p>宏達電今天公布第3季財報，營收7.6億元，營業毛利率為40.1%。營業淨損5.1億元，營業利益率負66.3%，歸屬於母公司業主淨利2.2億元，每股盈餘0.26元，累計前3季每股虧0.36元。</p><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>宏達電說明，第3季受惠HTC新產品在歐美上市，相關成本持續控制穩定，業內、業外都有成長。</p><p>宏達電表示，HTC AI智慧眼鏡VIVE Eagle推出全新圓框款並同步軟體升級，於歐洲、北美及澳洲市場上市，進一步擴大全球市場布局。（編輯：張均懋）1151102</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>（中央社記者<a class="author" href="/author/0142/">江明晏</a>台北2日電）宏達電第3季歸屬母公司業主淨利新台幣2.2億元，每股盈餘0.26元，受惠HTC新產品在歐美上市，相關成本持續控制穩定，業內、業外都有成長，終止連3季虧損，累計前3季每股虧0.36元。</p><p>宏達電今天公布第3季財報，營收7.6億元，營業毛利率為40.1%。營業淨損5.1億元，營業利益率負66.3%，歸屬於母公司業主淨利2.2億元，每股盈餘0.26元，累計前3季每股虧0.36元。</p><div class="advertiseInArticlePad newsm_ad jsADslot_infinite js_newsm_ad" id="adslot_newsm" data-width="300" data-height="250" data-dfp="cna2026_m__article_300x250_M" data-isinitview="N" data-1x1="Y"></div><div id="taboola-mid-article-text-links"></div><p>宏達電說明，第3季受惠HTC新產品在歐美上市，相關成本持續控制穩定，業內、業外都有成長。</p><p>宏達電表示，HTC AI智慧眼鏡VIVE Eagle推出全新圓框款並同步軟體升級，於歐洲、北美及澳洲市場上市，進一步擴大全球市場布局。（編輯：張均懋）1151102</p>]]></content:encoded>
+    
+    <pubDate>Mon, 02 Nov 2026 20:29:02 +0800</pubDate>
+  </item></channel>
+</rss>
