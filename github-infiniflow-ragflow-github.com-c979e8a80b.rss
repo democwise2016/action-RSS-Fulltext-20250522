@@ -3,7 +3,7 @@
     <title><![CDATA[RagFlow Release [GH][RSS+]]]></title>
     <link>https://github.com/infiniflow/ragflow/releases.atom</link>
     <image>
-      <url>https://fastly.picsum.photos/id/413/800/800.jpg?hmac=uwqSLoomLe3exkX6rSLcgA1jCX2YAxxBfGfR9s1I4dc</url>
+      <url>https://fastly.picsum.photos/id/643/800/800.jpg?hmac=PAAeULyJBBMZQBBwGeu8Flt6VAeQomJwh1YO9Ab9IIs</url>
       <title>RagFlow Release [GH][RSS+]</title>
       <link>https://github.com/infiniflow/ragflow/releases.atom</link>
     </image>
@@ -28,35 +28,63 @@
     <itunes:owner>
       <itunes:name><![CDATA[RagFlow Release [GH][RSS+]]]></itunes:name>
     </itunes:owner>
-    <itunes:image href="https://fastly.picsum.photos/id/413/800/800.jpg?hmac=uwqSLoomLe3exkX6rSLcgA1jCX2YAxxBfGfR9s1I4dc"/>
+    <itunes:image href="https://fastly.picsum.photos/id/643/800/800.jpg?hmac=PAAeULyJBBMZQBBwGeu8Flt6VAeQomJwh1YO9Ab9IIs"/>
 <item>
-    <title><![CDATA[{"error":"Content not found or expired."}]]></title>
-    <link>https://github.com/infiniflow/ragflow/releases/tag/dev-20261104</link>
-    <itunes:title><![CDATA[{"error":"Content not found or expired."}]]></itunes:title>
-    <itunes:author><![CDATA[ccclucky]]></itunes:author>
-    <itunes:summary>
-      <![CDATA[<p>fix(ingestion): pass the MinerU timeout to the MonkeyOCR file_parse u…</p>]]>
-    </itunes:summary>
-    <description>
-      <![CDATA[<p>fix(ingestion): pass the MinerU timeout to the MonkeyOCR file_parse u…</p>]]>
-    </description>
-    <content:encoded><![CDATA[<p>fix(ingestion): pass the MinerU timeout to the MonkeyOCR file_parse u…</p>]]></content:encoded>
-    
-    <pubDate>2026-11-04T02:43:21.000Z</pubDate>
-  </item><item>
-    <title><![CDATA[Nightly 版本發布：源自 2c4bbbc，於 2026 年 11 月 3 日建立]]></title>
+    <title><![CDATA[Nightly 版本於2026年11月4日由 8cab68a 建立]]></title>
     <link>https://github.com/infiniflow/ragflow/releases/tag/nightly</link>
-    <itunes:title><![CDATA[Nightly 版本發布：源自 2c4bbbc，於 2026 年 11 月 3 日建立]]></itunes:title>
+    <itunes:title><![CDATA[Nightly 版本於2026年11月4日由 8cab68a 建立]]></itunes:title>
     <itunes:author><![CDATA[yuzhichang]]></itunes:author>
     <itunes:summary>
-      <![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/2c4bbbc720fe24bd7ac509ab989325d4c1e8e532/hovercard" href="https://github.com/infiniflow/ragflow/commit/2c4bbbc720fe24bd7ac509ab989325d4c1e8e532"><tt>2c4bbbc</tt></a> at 2026-11-03 13:14:39+00:00</p>]]>
+      <![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/8cab68a9a3b083da95abb2ea0789b0a5623defaf/hovercard" href="https://github.com/infiniflow/ragflow/commit/8cab68a9a3b083da95abb2ea0789b0a5623defaf"><tt>8cab68a</tt></a> at 2026-11-04 13:12:48+00:00</p>]]>
     </itunes:summary>
     <description>
-      <![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/2c4bbbc720fe24bd7ac509ab989325d4c1e8e532/hovercard" href="https://github.com/infiniflow/ragflow/commit/2c4bbbc720fe24bd7ac509ab989325d4c1e8e532"><tt>2c4bbbc</tt></a> at 2026-11-03 13:14:39+00:00</p>]]>
+      <![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/8cab68a9a3b083da95abb2ea0789b0a5623defaf/hovercard" href="https://github.com/infiniflow/ragflow/commit/8cab68a9a3b083da95abb2ea0789b0a5623defaf"><tt>8cab68a</tt></a> at 2026-11-04 13:12:48+00:00</p>]]>
     </description>
-    <content:encoded><![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/2c4bbbc720fe24bd7ac509ab989325d4c1e8e532/hovercard" href="https://github.com/infiniflow/ragflow/commit/2c4bbbc720fe24bd7ac509ab989325d4c1e8e532"><tt>2c4bbbc</tt></a> at 2026-11-03 13:14:39+00:00</p>]]></content:encoded>
+    <content:encoded><![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/8cab68a9a3b083da95abb2ea0789b0a5623defaf/hovercard" href="https://github.com/infiniflow/ragflow/commit/8cab68a9a3b083da95abb2ea0789b0a5623defaf"><tt>8cab68a</tt></a> at 2026-11-04 13:12:48+00:00</p>]]></content:encoded>
     
-    <pubDate>2026-11-03T13:14:44.000Z</pubDate>
+    <pubDate>2026-11-04T13:12:52.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[Agent修復：填入結構化輸出並解決延遲問題]]></title>
+    <link>https://github.com/infiniflow/ragflow/releases/tag/dev-20261104</link>
+    <itunes:title><![CDATA[Agent修復：填入結構化輸出並解決延遲問題]]></itunes:title>
+    <itunes:author><![CDATA[huang-aoqin]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>fix(agent): populate structured output and resolve deferred <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/structur/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/structur">@structur</a>…</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>fix(agent): populate structured output and resolve deferred <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/structur/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/structur">@structur</a>…</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>fix(agent): populate structured output and resolve deferred <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/structur/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/structur">@structur</a>…</p>]]></content:encoded>
+    
+    <pubDate>2026-11-04T02:04:32.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[可觀測性功能更新：IngestionLog 支援傳遞使用者與租戶名稱]]></title>
+    <link>https://github.com/infiniflow/ragflow/releases/tag/dev-20261104-3</link>
+    <itunes:title><![CDATA[可觀測性功能更新：IngestionLog 支援傳遞使用者與租戶名稱]]></itunes:title>
+    <itunes:author><![CDATA[xugangqiang]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>feat(observability): carry user_name/tenant_name through IngestionLog…</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>feat(observability): carry user_name/tenant_name through IngestionLog…</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>feat(observability): carry user_name/tenant_name through IngestionLog…</p>]]></content:encoded>
+    
+    <pubDate>2026-11-04T09:59:36.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[新增透過 DeepDoc 頁面流程辨識圖片表格功能]]></title>
+    <link>https://github.com/infiniflow/ragflow/releases/tag/dev-20261104-2</link>
+    <itunes:title><![CDATA[新增透過 DeepDoc 頁面流程辨識圖片表格功能]]></itunes:title>
+    <itunes:author><![CDATA[jay77721]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>feat(ingestion): recognize image tables through the DeepDoc page pipe…</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>feat(ingestion): recognize image tables through the DeepDoc page pipe…</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>feat(ingestion): recognize image tables through the DeepDoc page pipe…</p>]]></content:encoded>
+    
+    <pubDate>2026-11-04T05:14:38.000Z</pubDate>
   </item><item>
     <title><![CDATA[服務測試調整：API-token 身份測試排除於 EE 構建之外 (#21885)]]></title>
     <link>https://github.com/infiniflow/ragflow/releases/tag/dev-20261103-2</link>
@@ -1654,33 +1682,5 @@
     <content:encoded><![CDATA[<p>Signed-off-by: Jin Hai <a href="mailto:haijin.chn@gmail.com">haijin.chn@gmail.com</a></p>]]></content:encoded>
     
     <pubDate>2026-10-30T09:07:38.000Z</pubDate>
-  </item><item>
-    <title><![CDATA[dev-20261030-3：審查更新（#21754）由Jin Hai簽署提交]]></title>
-    <link>https://github.com/infiniflow/ragflow/releases/tag/dev-20261030-3</link>
-    <itunes:title><![CDATA[dev-20261030-3：審查更新（#21754）由Jin Hai簽署提交]]></itunes:title>
-    <itunes:author><![CDATA[JinHai-CN]]></itunes:author>
-    <itunes:summary>
-      <![CDATA[<p>Signed-off-by: Jin Hai <a href="mailto:haijin.chn@gmail.com">haijin.chn@gmail.com</a></p>]]>
-    </itunes:summary>
-    <description>
-      <![CDATA[<p>Signed-off-by: Jin Hai <a href="mailto:haijin.chn@gmail.com">haijin.chn@gmail.com</a></p>]]>
-    </description>
-    <content:encoded><![CDATA[<p>Signed-off-by: Jin Hai <a href="mailto:haijin.chn@gmail.com">haijin.chn@gmail.com</a></p>]]></content:encoded>
-    
-    <pubDate>2026-10-30T06:51:10.000Z</pubDate>
-  </item><item>
-    <title><![CDATA[dev-20261030-2：更新提示字串 (#21742)]]></title>
-    <link>https://github.com/infiniflow/ragflow/releases/tag/dev-20261030-2</link>
-    <itunes:title><![CDATA[dev-20261030-2：更新提示字串 (#21742)]]></itunes:title>
-    <itunes:author><![CDATA[JinHai-CN]]></itunes:author>
-    <itunes:summary>
-      <![CDATA[<p>Signed-off-by: Jin Hai <a href="mailto:haijin.chn@gmail.com">haijin.chn@gmail.com</a></p>]]>
-    </itunes:summary>
-    <description>
-      <![CDATA[<p>Signed-off-by: Jin Hai <a href="mailto:haijin.chn@gmail.com">haijin.chn@gmail.com</a></p>]]>
-    </description>
-    <content:encoded><![CDATA[<p>Signed-off-by: Jin Hai <a href="mailto:haijin.chn@gmail.com">haijin.chn@gmail.com</a></p>]]></content:encoded>
-    
-    <pubDate>2026-10-30T03:54:21.000Z</pubDate>
   </item></channel>
 </rss>
