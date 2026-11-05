@@ -3,7 +3,7 @@
     <title><![CDATA[RagFlow Release [GH][RSS+]]]></title>
     <link>https://github.com/infiniflow/ragflow/releases.atom</link>
     <image>
-      <url>https://fastly.picsum.photos/id/643/800/800.jpg?hmac=PAAeULyJBBMZQBBwGeu8Flt6VAeQomJwh1YO9Ab9IIs</url>
+      <url>https://fastly.picsum.photos/id/356/800/800.jpg?hmac=9qkroESFY6_r1pblffio9rc7P4Gvt0jOD27cRCdwwPk</url>
       <title>RagFlow Release [GH][RSS+]</title>
       <link>https://github.com/infiniflow/ragflow/releases.atom</link>
     </image>
@@ -28,8 +28,22 @@
     <itunes:owner>
       <itunes:name><![CDATA[RagFlow Release [GH][RSS+]]]></itunes:name>
     </itunes:owner>
-    <itunes:image href="https://fastly.picsum.photos/id/643/800/800.jpg?hmac=PAAeULyJBBMZQBBwGeu8Flt6VAeQomJwh1YO9Ab9IIs"/>
+    <itunes:image href="https://fastly.picsum.photos/id/356/800/800.jpg?hmac=9qkroESFY6_r1pblffio9rc7P4Gvt0jOD27cRCdwwPk"/>
 <item>
+    <title><![CDATA[dev-20261105更新：修復記憶訊息第二排序鍵 (#22004)]]></title>
+    <link>https://github.com/infiniflow/ragflow/releases/tag/dev-20261105</link>
+    <itunes:title><![CDATA[dev-20261105更新：修復記憶訊息第二排序鍵 (#22004)]]></itunes:title>
+    <itunes:author><![CDATA[Lynn-Inf]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>Fix: second sort key for memory messages (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6215252799" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/22004" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/22004/hovercard" href="https://github.com/infiniflow/ragflow/pull/22004">#22004</a>)</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>Fix: second sort key for memory messages (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6215252799" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/22004" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/22004/hovercard" href="https://github.com/infiniflow/ragflow/pull/22004">#22004</a>)</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>Fix: second sort key for memory messages (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6215252799" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/22004" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/22004/hovercard" href="https://github.com/infiniflow/ragflow/pull/22004">#22004</a>)</p>]]></content:encoded>
+    
+    <pubDate>2026-11-05T03:24:53.000Z</pubDate>
+  </item><item>
     <title><![CDATA[Nightly 版本於2026年11月4日由 8cab68a 建立]]></title>
     <link>https://github.com/infiniflow/ragflow/releases/tag/nightly</link>
     <itunes:title><![CDATA[Nightly 版本於2026年11月4日由 8cab68a 建立]]></itunes:title>
@@ -1668,19 +1682,5 @@
     <content:encoded><![CDATA[<p>fix(agent): arxiv send data with https instead of http (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6112755239" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/21739" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/21739/hovercard" href="https://github.com/infiniflow/ragflow/pull/21739">#21739</a>)</p>]]></content:encoded>
     
     <pubDate>2026-10-30T11:04:17.000Z</pubDate>
-  </item><item>
-    <title><![CDATA[dev-20261030-4：重構（#21771）]]></title>
-    <link>https://github.com/infiniflow/ragflow/releases/tag/dev-20261030-4</link>
-    <itunes:title><![CDATA[dev-20261030-4：重構（#21771）]]></itunes:title>
-    <itunes:author><![CDATA[JinHai-CN]]></itunes:author>
-    <itunes:summary>
-      <![CDATA[<p>Signed-off-by: Jin Hai <a href="mailto:haijin.chn@gmail.com">haijin.chn@gmail.com</a></p>]]>
-    </itunes:summary>
-    <description>
-      <![CDATA[<p>Signed-off-by: Jin Hai <a href="mailto:haijin.chn@gmail.com">haijin.chn@gmail.com</a></p>]]>
-    </description>
-    <content:encoded><![CDATA[<p>Signed-off-by: Jin Hai <a href="mailto:haijin.chn@gmail.com">haijin.chn@gmail.com</a></p>]]></content:encoded>
-    
-    <pubDate>2026-10-30T09:07:38.000Z</pubDate>
   </item></channel>
 </rss>
