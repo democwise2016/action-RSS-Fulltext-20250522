@@ -3,7 +3,7 @@
     <title><![CDATA[RagFlow Release [GH][RSS+]]]></title>
     <link>https://github.com/infiniflow/ragflow/releases.atom</link>
     <image>
-      <url>https://fastly.picsum.photos/id/322/800/800.jpg?hmac=BHML9TctQoglH91DIPkzEhtVuCIUzscYP2Xf5uUfz7w</url>
+      <url>https://fastly.picsum.photos/id/517/800/800.jpg?hmac=xItRNviyqpISlDo2YJu5Xzh3O71xdCNVlZIss68D-sA</url>
       <title>RagFlow Release [GH][RSS+]</title>
       <link>https://github.com/infiniflow/ragflow/releases.atom</link>
     </image>
@@ -28,7 +28,7 @@
     <itunes:owner>
       <itunes:name><![CDATA[RagFlow Release [GH][RSS+]]]></itunes:name>
     </itunes:owner>
-    <itunes:image href="https://fastly.picsum.photos/id/322/800/800.jpg?hmac=BHML9TctQoglH91DIPkzEhtVuCIUzscYP2Xf5uUfz7w"/>
+    <itunes:image href="https://fastly.picsum.photos/id/517/800/800.jpg?hmac=xItRNviyqpISlDo2YJu5Xzh3O71xdCNVlZIss68D-sA"/>
 <item>
     <title><![CDATA[修正 Web 系統版本格式並新增頁首租戶欄位]]></title>
     <link>https://github.com/infiniflow/ragflow/releases/tag/dev-20261110</link>
@@ -113,19 +113,5 @@
     <content:encoded><![CDATA[<p>fix: restore harness interrupt resume and events (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6221484078" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/22050" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/22050/hovercard" href="https://github.com/infiniflow/ragflow/pull/22050">#22050</a>)</p>]]></content:encoded>
     
     <pubDate>2026-11-06T01:42:40.000Z</pubDate>
-  </item><item>
-    <title><![CDATA[dev-20261105更新：修復記憶訊息第二排序鍵 (#22004)]]></title>
-    <link>https://github.com/infiniflow/ragflow/releases/tag/dev-20261105</link>
-    <itunes:title><![CDATA[dev-20261105更新：修復記憶訊息第二排序鍵 (#22004)]]></itunes:title>
-    <itunes:author><![CDATA[Lynn-Inf]]></itunes:author>
-    <itunes:summary>
-      <![CDATA[<p>Fix: second sort key for memory messages (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6215252799" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/22004" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/22004/hovercard" href="https://github.com/infiniflow/ragflow/pull/22004">#22004</a>)</p>]]>
-    </itunes:summary>
-    <description>
-      <![CDATA[<p>Fix: second sort key for memory messages (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6215252799" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/22004" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/22004/hovercard" href="https://github.com/infiniflow/ragflow/pull/22004">#22004</a>)</p>]]>
-    </description>
-    <content:encoded><![CDATA[<p>Fix: second sort key for memory messages (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6215252799" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/22004" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/22004/hovercard" href="https://github.com/infiniflow/ragflow/pull/22004">#22004</a>)</p>]]></content:encoded>
-    
-    <pubDate>2026-11-05T03:24:53.000Z</pubDate>
   </item></channel>
 </rss>
