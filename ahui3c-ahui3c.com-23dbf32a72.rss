@@ -3,7 +3,7 @@
     <title><![CDATA[3C 達人廖阿輝[RSS+]]]></title>
     <link>https://ahui3c.com/feed</link>
     <image>
-      <url>https://fastly.picsum.photos/id/847/800/800.jpg?hmac=AcIBV8I8H2-lwFVJ4v5_QJ733eYgM35icipLjv95EcM</url>
+      <url>https://fastly.picsum.photos/id/508/800/800.jpg?hmac=eL5anlPVCrlzwt4LPJhOzBVeL-lFs-gUfNrBGgP5N9I</url>
       <title>3C 達人廖阿輝[RSS+]</title>
       <link>https://ahui3c.com/feed</link>
     </image>
@@ -28,8 +28,259 @@
     <itunes:owner>
       <itunes:name><![CDATA[3C 達人廖阿輝[RSS+]]]></itunes:name>
     </itunes:owner>
-    <itunes:image href="https://fastly.picsum.photos/id/847/800/800.jpg?hmac=AcIBV8I8H2-lwFVJ4v5_QJ733eYgM35icipLjv95EcM"/>
+    <itunes:image href="https://fastly.picsum.photos/id/508/800/800.jpg?hmac=eL5anlPVCrlzwt4LPJhOzBVeL-lFs-gUfNrBGgP5N9I"/>
 <item>
+    <title><![CDATA[Intel Wildcat Lake 深度解析：同樣 18A 為何更親民？Core Series 3 與 Panther Lake 定位、 UCIe 技術一次看懂]]></title>
+    <link>https://ahui3c.com/148543/intel-wildcat-lake-core-series-3-panther-lake-ucie</link>
+    <itunes:title><![CDATA[Intel Wildcat Lake 深度解析：同樣 18A 為何更親民？Core Series 3 與 Panther Lake 定位、 UCIe 技術一次看懂]]></itunes:title>
+    <itunes:author><![CDATA[3C 達人廖阿輝[RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<br><p>之前阿輝已經介紹過 Panther Lake 筆電，也拍過 MSI Prestige 14 Flip AI+ 的影片，自己現在也是 Panther Lake 筆電的用戶。從這個角度再看 Intel 即將推出的最新 <strong>Core Series 3 處理器，代號 <a title="延伸閱讀：Wildcat Lake，我最感興趣的反而不是「它能不能打贏高階處理器」，而是：同樣用上 Intel 18A" href="https://ahui3c.com/tag/wildcat-lake" target="_blank">Wildcat Lake</a></strong>，我最感興趣的反而不是「它能不能打贏高階處理器」，而是：同樣用上 <a title="延伸閱讀：Wildcat Lake，我最感興趣的反而不是「它能不能打贏高階處理器」，而是：同樣用上 Intel 18A" href="https://ahui3c.com/tag/intel-18a" target="_blank">Intel 18A</a>，怎麼把新架構做成更多人買得起的電腦？</p>
+<a title="延伸閱讀：" href="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-scene-home-laptop.png"><img fetchpriority="high" src="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-scene-home-laptop.png" alt="使用者在居家書桌以輕薄筆電處理文件與網頁的 AI 情境示意。"></a>
+<p>畢竟不是每個人買筆電都要剪大型影片、跑複雜 AI 模型，或用內顯挑戰 3A 遊戲。很多人的需求很實際：開網頁順、 Office 好用、視訊會議穩定、出門不用一直找插座，再加上一個合理的價格。 Wildcat Lake 的設計，就是圍繞這些日常需求重新分配成本。</p>
+<p>今天阿輝在參加 Intel 11 月 10 日架構發表活動後，就來聊聊新發表的 Wildcat Lake 和之前 Panther Lake 的定位差異、更評價的定位同時採用最頂尖 Intel 18A 工藝帶來的意義，以及這次很值得認識的 <strong><a title="延伸閱讀：UCIe" href="https://ahui3c.com/tag/ucie" target="_blank">UCIe</a> 晶粒互連技術</strong>。不過也是要說阿輝這次做的是架構分析，Wildcat Lake 實機表現仍要看後續實測啦～～～ </p>
+<a title="延伸閱讀：" href="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-04.jpg"><img src="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-04.jpg" alt="Intel 將 Cougar Cove、Darkmont、Xe3、NPU 5 與 Intel 18A 帶入 Core Series 3。"></a>
+<p><a name="先把名字看懂：Core Series 3 與 Core Ultra Series 3 是兩條產品線"></a></p><h2>先把名字看懂：Core Series 3 與 Core Ultra Series 3 是兩條產品線</h2>
+<p>Intel 的名字真的需要先拆開來看。「Series 3」代表系列世代；「Core 3 、 Core 5 、 Core 7」則是產品等級。所以 <strong>Core Series 3 不等於只有 Core 3</strong> 一顆處理器，這個家族裡也有 Core 5 320 、 Core 7 350 等型號。</p>
+<p>相較於這一次代號 Wildcat Lake 的 Core Series 3 處理器，之前 Panther Lake 的完整名稱或是說證是的型號是 <strong>Intel Core Ultra Series 3</strong>；Wildcat Lake 則是 <strong><a title="延伸閱讀：Intel Core Series 3" href="https://ahui3c.com/tag/intel-core-series-3" target="_blank">Intel Core Series 3</a></strong>，中間少了 Ultra 。兩者有技術上的延續關係，但設計目標不同：Panther Lake 面向更高效能與更完整的 AI PC 體驗；Wildcat Lake 把同世代技術帶到更重視售價的主流市場。它也不是用來全面取代 Panther Lake 的下一代旗艦，也許簡單一點說 Wildcat Lake 像是 Panther Lake 的青春版？但一樣有優異的性能與能耗表現</p>
+<p>以我之前介紹的 Core Ultra X7 358H／Arc B390 筆電來說，強項包含更大規模的 CPU 與內顯資源。 Wildcat Lake 的取捨則更明確：把日常反應、能效與常用連接能力保留下來，讓不需要旗艦規模的使用者有另一個選擇。想先回顧可以看 <a title="延伸閱讀：阿輝的 MSI Prestige 14 Flip AI+／Panther Lake 影片介紹" href="https://ahui3c.com/144714/msi-prestige-14-flip-ai">阿輝的 MSI Prestige 14 Flip AI+／Panther Lake 影片介紹</a>。</p>
+<p><a name="Wildcat Lake 對上 Panther Lake，差別一張表看懂"></a></p><h2>Wildcat Lake 對上 Panther Lake，差別一張表看懂</h2>
+<table><thead><tr><th>比較項目</th><th>Core Series 3／Wildcat Lake</th><th>Core Ultra Series 3／Panther Lake</th></tr></thead><tbody><tr><td>產品重心</td><td>價格敏感的主流筆電、商用與基礎邊緣運算</td><td>更高效能的輕薄筆電、創作、較強內顯與本機 AI</td></tr><tr><td>CPU 運算晶粒製程</td><td>Intel 18A</td><td>Intel 18A</td></tr><tr><td>CPU 規模</td><td>最高 2 個 P-core＋4 個 LP E-core，6 核心／6 執行緒</td><td>最高 16 核心，旗艦配置為 4P＋8E＋4 LP E</td></tr><tr><td>內建 GPU</td><td>最高 2 個 Xe3 核心，支援 XMX；品牌為 Intel Graphics</td><td>最高 12 個 Xe3 核心，部分型號搭載高階 Intel Arc 內顯</td></tr><tr><td>NPU</td><td>NPU 5，PC 型號最高 17 TOPS</td><td>NPU 5，最高 50 TOPS</td></tr><tr><td>記憶體設計</td><td>64-bit 總介面；最高 LPDDR5X-7467 或 DDR5-6400</td><td>較寬的記憶體介面，高階配置最高 LPDDR5X-9600；依型號而異</td></tr><tr><td>封裝方向</td><td>雙晶粒 Organic MCP，採 UCIe 互連</td><td>Foveros 多晶粒整合</td></tr><tr><td>阿輝的選購判斷</td><td>文書、上課、影音、視訊與輕度創作，優先看整機性價比</td><td>較重的多工、創作、內顯遊戲或本機 AI，優先看對應型號規格</td></tr></tbody></table>
+<p><a name="同樣 Intel 18A，為什麼價格還能更親民？"></a></p><h2>同樣 Intel 18A，為什麼價格還能更親民？</h2>
+<p>先進製程是製作晶片的工具，但處理器的成本不只由製程決定。晶粒面積、要裝多少運算單元、封裝有多複雜、測試與組裝損耗，甚至主機板要拉多少線，都會影響最後的成本。</p>
+<p>更進一步講，Intel 18A 的兩項關鍵技術是 <strong>RibbonFET 與 PowerVia</strong> 。 RibbonFET 是 Intel 的環繞式閘極電晶體設計，可以想成用更完整包覆的閘極來控制電流；PowerVia 則把供電導向晶片背面，讓供電與前方訊號布線減少互相搶空間。</p>
+<p>我認為 Wildcat Lake 有意思的地方，在於它沒有把平價產品直接等同於沿用老核心或是採用上一代製程的方式來降低成本。它保留新一代 CPU 、 GPU 與 NPU 的技術基礎，再透過<strong>縮小配置、改變封裝、簡化整個平台</strong>控制成本。就像同一代引擎技術可以裝進不同級距的車，馬力、底盤與配備仍然可以有不同組合。</p>
+<p><a name="2 個 P-core 加上 4 個低功耗核心"></a></p><h2>2 個 P-core 加上 4 個低功耗核心</h2>
+<p>Wildcat Lake 最高配置是 <strong>2 個 Cougar Cove P-core，搭配 4 個 Darkmont LP E-core</strong> 。 P-core 著重較高的單執行緒效能與短時間的反應需求；LP E-core 則是低功耗效率核心，負責適合它們的輕量工作。實際由作業系統與排程機制依負載分配，不是使用者要自己指定開網頁用哪顆核心。</p>
+<p>這也解釋了為什麼我不會只看到「6 核心」就立刻下結論。日常操作有很多時間是在等人輸入、等網路、處理背景服務，並不是每一秒都把所有核心跑滿。保留有力的 P-core，再讓低功耗核心接手合適的工作，是很符合這個價位使用情境的設計。</p>
+<p>當然，長時間大量轉檔、複雜剪輯或重度多工，還是會受限於核心規模、記憶體頻寬與散熱。新核心不能把兩個 P-core 變成高階處理器的全部運算資源；Wildcat Lake 的優勢要放在它所服務的工作類型裡看。</p>
+<a title="延伸閱讀：" href="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-05.jpg"><img src="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-05.jpg" alt="Intel Core Series 3 的運算晶粒、平台控制晶粒及連接規格。"></a>
+<p><a name="成本轉折，從 Foveros 改成雙晶粒 MCP"></a></p><h2>成本轉折，從 Foveros 改成雙晶粒 MCP</h2>
+<p>一顆處理器封裝裡，不一定只有一塊矽晶片。把不同功能拆成多顆晶粒，再放在同一個封裝中，是現在很重要的設計方式。 Wildcat Lake 把 CPU 、 GPU 、 NPU 等運算功能放在一側，I/O 平台控制功能放在另一側。</p>
+<p>Panther Lake 使用 Foveros 整合多顆晶粒；Wildcat Lake 改用 <strong>Organic MCP，也就是以有機封裝基板連接的多晶片封裝</strong>，省下這個設計所需的基底矽晶粒，並降低組裝成本與相關良率損耗。</p>
+<p>我會把它比喻成建築規劃：Foveros 可以提供非常密集的連接，但如果使用需求沒有那麼大，就要重新評估是否需要同樣複雜的結構。 Wildcat Lake 的答案是讓兩顆晶粒透過較符合成本目標的封裝相連，同時重新設計它們之間的通訊。</p>
+<a title="延伸閱讀：" href="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-15.jpg"><img src="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-15.jpg" alt="Intel 簡報說明由 Foveros 改用 MCP 與有機基板的成本取捨。"></a>
+<p>以官方的封裝尺寸來比較，由 Core Ultra Series 3 的 50 × 25 × 1.5 mm，縮到 Core Series 3 的 35 × 25 × 1.23 mm，平面占用面積減少約 30%，主機板也因此有更多配置空間可以選擇與利用。</p>
+<a title="延伸閱讀：" href="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-19.jpg"><img src="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-19.jpg" alt="Core Ultra Series 3 與 Core Series 3 封裝尺寸比較。"></a><figcaption>較小封裝能節省板上空間；整機尺寸、電池及擴充配置仍由筆電廠商決定。圖</figcaption>
+<a title="延伸閱讀：" href="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-scene-mini-pc.png"><img src="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-scene-mini-pc.png" alt="巴掌大小迷你電腦連接螢幕、鍵盤與滑鼠，在小型書桌使用的 AI 情境示意。"></a><figcaption>巴掌大小的迷你電腦搭配螢幕，也能構成日常文書與影音桌面；實際尺寸、散熱與擴充能力取決於整機設計。</figcaption>
+<p><a name="UCIe 是什麼？讓晶粒之間用共通規則溝通"></a></p><h2>UCIe 是什麼？讓晶粒之間用共通規則溝通</h2>
+<p><strong>UCIe 全名是 Universal Chiplet Interconnect Express</strong>，是一套封裝內的晶粒互連開放標準。一般人比較熟悉 PCIe：它讓處理器與顯示卡、 SSD 等裝置溝通；UCIe 的重點則是更靠近晶片內部，讓同一封裝中的不同晶粒交換資料。它不是筆電側面新增的一個插孔，也不是可以插拔更換 CPU 小晶片的消費者介面。</p>
+<p>用生活化的說法，晶粒就像不同部門，互連不只要有「道路」，還要約定資料怎麼送、如何辨識、如何配合工作。 UCIe 提供共通規範，長期目標包括讓不同供應商的 chiplet 更容易整合。這不代表任何兩顆標示 UCIe 的晶粒都能隨意拼裝成電腦；仍然需要完整的系統設計與驗證。標準定義可見 <a href="https://www.uciexpress.org/specifications">UCIe Consortium 官方說明</a>。</p>
+<p>特別值得一提的就是 <strong>Wildcat Lake 是 Intel 首款採用 UCIe 的已上市處理器</strong>，Intel 的 <a href="https://www.intel.com/content/www/us/en/newsroom/news/client-computing/intel-outlines-architectures-for-agentic-ai-at-hot-chips-2026.html">Hot Chips 2026 官方介紹</a>也明確指出這項首次應用。這個里程碑值得注意：新互連技術不只用來追求超高階產品的極限，這次也是為了讓主流產品能用更合適的成本完成多晶粒設計。</p>
+<p>這裡也要分清楚兩個層次：<strong>Foveros／MCP 談的是封裝整合方式，UCIe 談的是晶粒間互連規範</strong>。不是所有 Foveros 都與 UCIe 對立，也不是 UCIe 天生只適用便宜封裝。 Wildcat Lake 採用的是符合它成本與頻寬需求的組合。</p>
+<p>從細密的晶粒連接，改到有機基板上的互連，會遇到接點間距與訊號條件不同的問題。 Intel 資料中接點間距是 Foveros 的 36 μm，對比這次 UCIe 設計的 110 μm；這是兩種具體實作的比較，不是所有 UCIe 的固定規格。</p>
+<p>值得玩味的是，Intel 說這次 die-to-die 互連部分的面積反而增加約 70%，但從整體 MCP 成本來算，仍然值得。<strong>這個 70% 指互連部分，不是整顆處理器變大 70% 。</strong>省成本有時候就是局部多花一些面積，換取其他環節更大的節省。</p>
+<a title="延伸閱讀：" href="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-21.jpg"><img src="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-21.jpg" alt="Wildcat Lake 的 UCIe 晶粒互連區域與 Core Ultra Series 3 互連比較。"></a><figcaption>互連區域增加約 70%，換取整體 MCP 封裝的成本效益。示意圖不能當成整顆晶片面積比例</figcaption>
+<p>省電同樣是大事。資料封包化會增加處理負擔，而電腦看似閒置時，顯示內容仍可能需要跨晶粒傳送，尤其面板沒有自我更新功能（PSR）時更明顯。 Intel 的做法包含多種連線電源狀態，以及顯示流量的 QoS 排程，讓連線有機會進入較低功耗狀態。簡報提到最高 8 倍的閒置功耗節省，是<strong>這個互連最佳化的描述</strong>，並不是筆電續航變成 8 倍。</p>
+<a title="延伸閱讀：" href="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-24.jpg"><img src="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-24.jpg" alt="UCIe 封包化、顯示流量與連線省電最佳化。"></a><figcaption>讓資料正確送達只是第一步，還要讓連線在不需要全速運作時降低功耗。</figcaption>
+<p><a name="把資源放在常用功能：GPU、NPU、記憶體與 I/O 怎麼取捨？"></a></p><h2>把資源放在常用功能：GPU 、 NPU 、記憶體與 I/O 怎麼取捨？</h2>
+<p>Wildcat Lake 的 Xe3 內顯最高有 2 個 Xe 核心，並保留 XMX 矩陣運算加速能力。這讓它不只是負責把桌面畫出來，也能在支援的軟體中執行 AI 工作。但和我先前介紹的 Arc B390 相比，運算規模差距很明確，不能因為同樣叫 Xe3，就期待相同的遊戲表現。</p>
+<p>NPU 同樣沿用 NPU 5 技術，但規模縮為一個運算 tile，PC 型號最高 17 TOPS 。這裡的 tile 是 NPU 內部運算單元的規模描述。對持續運行、且有軟體支援的 AI 功能來說專用 NPU 仍有意義；至於大型模型能跑多快，還要看記憶體容量、頻寬、模型精度與軟體。</p>
+<p>記憶體則採用 64-bit 總介面，支援最高 LPDDR5X-7467 或 DDR5-6400，可以支援最高 48GB LPDDR5/X 與 64GB DDR5 。</p>
+<p>對文書與影音使用，我認為這樣的頻寬取捨可以理解；但 GPU 共用系統記憶體，遇到遊戲或較重的 AI 工作，就更容易受到頻寬限制。這也是 Wildcat Lake 與高階 Panther Lake 會拉開距離的地方之一。</p>
+<p>I/O 部分，平台提供最高兩個 Thunderbolt 4 、 6 條 PCIe 4.0，以及 Wi-Fi 7（R2）與 Bluetooth 6 支援，保留相當實用的現代連接能力。另一方面，它縮減視訊相機相關專用介面、音訊處理資源與部分影音規格。</p>
+<p><a name="成本不只省在 CPU：六層板、記憶體與供電一起調整"></a></p><h2>成本不只省在 CPU：六層板、記憶體與供電一起調整</h2>
+<p>如果只把 CPU 售價壓低，卻要求筆電廠商使用很昂貴的主機板與周邊元件，最後整機未必便宜。 Wildcat Lake 的另一個重點，就是把平台物料成本一起納入設計。</p>
+<p>Intel 官方資料有提到從 128-bit 縮到 64-bit 的記憶體配置，可以減少相關布線與板上占用；平台支援較低成本的 Type-3 六層主機板設計，也能搭配 PCIe Gen 4 SSD，或依產品需求採取 UFS 3.0 儲存方案。對廠商來說，這些都是組合產品價位的工具；對消費者來說，則要確認買到的是哪種儲存，容量與速度不能一概而論。</p>
+<p>其他方向包括 Wi-Fi 7 整合、 USB retimer 中的 PD 控制器整合，以及電源供應設計最佳化，可以減少部分平台成本與整合負擔。</p>
+<p>其中我特別喜歡的一個細節，是 Intel 並不是所有地方都一味刪減：為了電池續航，仍增加 LP E-core 的獨立供電軌。該省的地方省，能改善日常能效的地方則願意保留成本，這才是這顆處理器的設計邏輯。</p>
+<a title="延伸閱讀：" href="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-20.jpg"><img src="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-20.jpg" alt="Wildcat Lake 從記憶體、主機板、供電與整合功能降低平台成本。"></a>
+<p>晶片量產也有不同速度與功能配置。 Intel 透過 CPU 、 GPU 、 NPU 的分級與部分單元配置，增加可用晶粒的利用率；但選擇保留 LP E-core 、顯示與 I/O 的一致性。一般消費者可以把它理解成：用產品分級吸收製造差異，同時守住這個家族重視的基本體驗，而不是把每一個功能都任意砍掉。</p>
+<a title="延伸閱讀：" href="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-26.jpg"><img src="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-26.jpg" alt="Intel 以核心配置與頻率分級改善晶粒利用率，同時維持低功耗與平台一致性。"></a>
+<p><a name="官方效能數字怎麼看？先確認它在和誰比較"></a></p><h2>官方效能數字怎麼看？先確認它在和誰比較</h2>
+<p>Intel 提供的主要比較對象之一是 <strong>Core 7 150U</strong>，並不是 Panther Lake 。簡報中 Core 7 360 的 Office 生產力約為 1.10 倍、 Lightroom Classic 約 1.20 倍、 WebXPRT 5 約 1.25 倍、 Photoshop 約 1.30 倍，而 Topaz Video 測試達約 2.11 倍。這些結果很適合用來提醒大家：不同軟體受益幅度不一樣，「最高 2.1 倍」不能當成每一種工作都快一倍以上。</p>
+<a title="延伸閱讀：" href="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-07.jpg"><img src="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-07.jpg" alt="Intel Core 7 360 對比 Core 7 150U 的官方應用效能測試。"></a><figcaption>兩者均為 Intel 參考平台、 PL1 15W，但記憶體及軟體配置不同</figcaption>
+<p>另一組是五年前電腦的換機情境：Core 7 360 參考平台（PL1 15W），對比搭載 Core i7-1185G7 的 ThinkPad X1 Gen 9（PL1 20W），Intel 列出 Cinebench 2024 單核心最高提升 47% 、多核心最高提升 41% 。</p>
+<p>對我來說，這些數據的價值是讓我們看到新架構在主流產品的進步方向。真正選購時，還要看同價位的整機：記憶體夠不夠、 SSD 是哪種、螢幕是否合用、散熱能否維持效能，往往比單獨一個最高倍數更重要。</p>
+<p><a name="省電與續航是亮點，但處理器省電不等於整機同比例省電"></a></p><h2>省電與續航是亮點，但處理器省電不等於整機同比例省電</h2>
+<p>Intel 宣稱 Core 7 360 相對 Core 7 150U，在 YouTube 4K 串流情境下，<strong>處理器功耗最高降低 64%</strong> 。這兩套參考平台的 PL1 都設為 15W；意思不是播放影片時都固定吃 15W，而是比較在相應功耗設定下的實際工作負載。</p>
+<p>筆電還有螢幕、記憶體、 SSD 、無線網路與其他元件要用電，所以不能直接說整台省電 64%，更不能把它換算成續航多 64% 。但如果處理器在影音、文書、視訊這些常用情境都能降低耗電，對主流筆電確實是有價值的方向。</p>
+<a title="延伸閱讀：" href="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-09.jpg"><img src="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-09.jpg" alt="Intel 官方比較不同日常情境下的處理器功耗。"></a><figcaption>圖中 64% 、 60% 、 52% 、 62% 是指定工作負載下的處理器功耗差異，非整機功耗或續航提升百分比。</figcaption>
+<p>官方也提供了續航數據參考， Netflix 串流最高 18.5 小時、 Office 生產力最高 12.5 小時、 Zoom 一對一搭配 AI 效果最高 9.6 小時。這組續航測試使用 <strong>Core 7 350 的預量產 OEM 裝置、 59Wh 電池、 1920 × 1200 螢幕，持續 PL1 設為 21W</strong>；Netflix 測試為 Edge 播放 1080p 串流。</p>
+<p><a name="最高 40 TOPS 平台 AI 能力"></a></p><h2>最高 40 TOPS 平台 AI 能力</h2>
+<p>Intel 用「Hybrid AI ready」形容 Core Series 3，並列出最高 40 TOPS 平台 AI 算力。這裡看的是 CPU 、 GPU 、 NPU 等不同運算資源的整體能力；<strong>不能把 40 TOPS 寫成 NPU 有 40 TOPS</strong>，也不能假設一個 AI 程式可以直接把這些峰值全部相加使用。</p>
+<p>CPU 適合一般控制與多樣工作、 GPU 適合較大量的平行運算，NPU 則面向專用 AI 推論。 Hybrid AI 的使用方式還可能結合本機與雲端，由軟體把工作交給合適的位置。哪些功能可以離線、需要多少記憶體、是否要訂閱，都要看應用本身。</p>
+<p>依 <a href="https://learn.microsoft.com/en-us/windows/ai/npu-devices/">Microsoft 的 Copilot+ PC 說明</a>，這個類別要求的是 40 TOPS 以上等級的專用 NPU 。 Wildcat Lake 最高 17 TOPS 的 NPU 並未達到這個算力門檻，所以不能用「平台總計 40 TOPS」把它當成 Copilot+ PC 。這也不妨礙它使用一般雲端 AI 服務或其他相容的本機 AI 軟體。</p>
+<p>所以我會把 Wildcat Lake 視為能參與現代 AI 應用的主流平台；如果你的目標是較重的本機生成式 AI 、需要較大的記憶體頻寬，或指定的 Copilot+ PC 功能，就應該查明對應硬體與軟體要求，不能只憑「AI ready」或總平台 TOPS 判定。 Panther Lake 較大的 NPU 與 GPU 配置，也正是在這些情境拉開定位。</p>
+<p><a name="Core 3、Core 5、Core 7 怎麼選？先看完整型號"></a></p><h2>Core 3 、 Core 5 、 Core 7 怎麼選？先看完整型號</h2>
+<p>依照目前 Intel 官方提供的資料，Core 7 360／350 都是 6 核心、最高 4.8GHz 、 2 Xe 核心、 17 TOPS NPU；Core 5 330／320 最高 4.6GHz 、 16 TOPS NPU，Core 5 315 則是最高 4.4GHz 、 15 TOPS NPU，這幾款仍保有 6 核心與 2 Xe 核心。</p>
+<p>Core 3 304 的差異更明顯：它是 1P＋4 LP E 的 5 核心設計，GPU 為 1 Xe 核心，NPU 15 TOPS 。表內 PC 型號的處理器基礎功耗為 15W 、最大睿頻功耗為 35W；實際筆電的長短期功耗與散熱策略仍可能由廠商調整。</p>
+<p>另外，360 與 350 、 330 與 320 在表列主要運算規格上很接近，差別之一是 SIPP 平台資格：360／330 列為支援。 SIPP 是面向企業部署的平台穩定性計畫。</p>
+<a title="延伸閱讀：" href="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-12.jpg"><img src="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-12.jpg" alt="Intel Core Series 3 PC 型號完整規格表。"></a>
+<p><a name="阿輝怎麼看：把先進技術做成更合理的日常電腦"></a></p><h2>阿輝怎麼看：把先進技術做成更合理的日常電腦</h2>
+<p>看完 Wildcat Lake，我最在意的不是規格表少了哪些最高數字，而是這些取捨最後能不能換到一台價格合理、日常好用的電腦。 Intel 這次從 18A 、新核心、低功耗核心一路做到 MCP 、 UCIe 與六層主機板，代表「親民」本身也是需要投入設計的目標。</p>
+<p>如果主要工作是上課、寫報告、網頁、 Office 、視訊會議與影音，偶爾做照片編輯，我會把 Wildcat Lake 列入比較；同時把預算放在足夠的記憶體、合適的螢幕、 SSD 與電池。若需要常態性大量剪輯、較重的內顯遊戲或本機 AI，Panther Lake 對應的高階配置仍然更值得研究。</p>
+<p>以阿輝自己目前就是 Panther Lake 用戶的角度，我不會把 Wildcat Lake 看成要取代現有機器的升級方向，而是 Intel 補上另一段使用需求：讓想要新平台的人，不必每個人都為用不到的最大規模付錢。</p>
+<p>至於便宜多少，最終仍要把實際售價和配備放在一起比較。 <strong>Wildcat Lake 最值得期待的，就是把新一代技術轉成日常用得到、預算也能接受的產品。</strong></p>
+<p>Intel 本次現場展示清單已涵蓋 Acer Swift 、 ASUS ExpertBook／Vivobook 、 Dell Pro 、 HP OmniBook 、 Lenovo IdeaPad 與 MSI Modern 等筆電，以及 NUC 、迷你電腦和 AIO 。不同外形都能使用同一平台，也說明它的目標不只是一種低價筆電，而是一整個重視效率與成本的日常運算市場。</p>
+<a title="延伸閱讀：" href="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-scene-cafe-laptop.png"><img src="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-scene-cafe-laptop.png" alt="使用者在咖啡廳以輕薄筆電處理簡報與視訊會議的 AI 情境示意。"></a>
+<p><a name=""></a></p><h2></h2>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<br><p>之前阿輝已經介紹過 Panther Lake 筆電，也拍過 MSI Prestige 14 Flip AI+ 的影片，自己現在也是 Panther Lake 筆電的用戶。從這個角度再看 Intel 即將推出的最新 <strong>Core Series 3 處理器，代號 <a title="延伸閱讀：Wildcat Lake，我最感興趣的反而不是「它能不能打贏高階處理器」，而是：同樣用上 Intel 18A" href="https://ahui3c.com/tag/wildcat-lake" target="_blank">Wildcat Lake</a></strong>，我最感興趣的反而不是「它能不能打贏高階處理器」，而是：同樣用上 <a title="延伸閱讀：Wildcat Lake，我最感興趣的反而不是「它能不能打贏高階處理器」，而是：同樣用上 Intel 18A" href="https://ahui3c.com/tag/intel-18a" target="_blank">Intel 18A</a>，怎麼把新架構做成更多人買得起的電腦？</p>
+<a title="延伸閱讀：" href="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-scene-home-laptop.png"><img fetchpriority="high" src="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-scene-home-laptop.png" alt="使用者在居家書桌以輕薄筆電處理文件與網頁的 AI 情境示意。"></a>
+<p>畢竟不是每個人買筆電都要剪大型影片、跑複雜 AI 模型，或用內顯挑戰 3A 遊戲。很多人的需求很實際：開網頁順、 Office 好用、視訊會議穩定、出門不用一直找插座，再加上一個合理的價格。 Wildcat Lake 的設計，就是圍繞這些日常需求重新分配成本。</p>
+<p>今天阿輝在參加 Intel 11 月 10 日架構發表活動後，就來聊聊新發表的 Wildcat Lake 和之前 Panther Lake 的定位差異、更評價的定位同時採用最頂尖 Intel 18A 工藝帶來的意義，以及這次很值得認識的 <strong><a title="延伸閱讀：UCIe" href="https://ahui3c.com/tag/ucie" target="_blank">UCIe</a> 晶粒互連技術</strong>。不過也是要說阿輝這次做的是架構分析，Wildcat Lake 實機表現仍要看後續實測啦～～～ </p>
+<a title="延伸閱讀：" href="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-04.jpg"><img src="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-04.jpg" alt="Intel 將 Cougar Cove、Darkmont、Xe3、NPU 5 與 Intel 18A 帶入 Core Series 3。"></a>
+<p><a name="先把名字看懂：Core Series 3 與 Core Ultra Series 3 是兩條產品線"></a></p><h2>先把名字看懂：Core Series 3 與 Core Ultra Series 3 是兩條產品線</h2>
+<p>Intel 的名字真的需要先拆開來看。「Series 3」代表系列世代；「Core 3 、 Core 5 、 Core 7」則是產品等級。所以 <strong>Core Series 3 不等於只有 Core 3</strong> 一顆處理器，這個家族裡也有 Core 5 320 、 Core 7 350 等型號。</p>
+<p>相較於這一次代號 Wildcat Lake 的 Core Series 3 處理器，之前 Panther Lake 的完整名稱或是說證是的型號是 <strong>Intel Core Ultra Series 3</strong>；Wildcat Lake 則是 <strong><a title="延伸閱讀：Intel Core Series 3" href="https://ahui3c.com/tag/intel-core-series-3" target="_blank">Intel Core Series 3</a></strong>，中間少了 Ultra 。兩者有技術上的延續關係，但設計目標不同：Panther Lake 面向更高效能與更完整的 AI PC 體驗；Wildcat Lake 把同世代技術帶到更重視售價的主流市場。它也不是用來全面取代 Panther Lake 的下一代旗艦，也許簡單一點說 Wildcat Lake 像是 Panther Lake 的青春版？但一樣有優異的性能與能耗表現</p>
+<p>以我之前介紹的 Core Ultra X7 358H／Arc B390 筆電來說，強項包含更大規模的 CPU 與內顯資源。 Wildcat Lake 的取捨則更明確：把日常反應、能效與常用連接能力保留下來，讓不需要旗艦規模的使用者有另一個選擇。想先回顧可以看 <a title="延伸閱讀：阿輝的 MSI Prestige 14 Flip AI+／Panther Lake 影片介紹" href="https://ahui3c.com/144714/msi-prestige-14-flip-ai">阿輝的 MSI Prestige 14 Flip AI+／Panther Lake 影片介紹</a>。</p>
+<p><a name="Wildcat Lake 對上 Panther Lake，差別一張表看懂"></a></p><h2>Wildcat Lake 對上 Panther Lake，差別一張表看懂</h2>
+<table><thead><tr><th>比較項目</th><th>Core Series 3／Wildcat Lake</th><th>Core Ultra Series 3／Panther Lake</th></tr></thead><tbody><tr><td>產品重心</td><td>價格敏感的主流筆電、商用與基礎邊緣運算</td><td>更高效能的輕薄筆電、創作、較強內顯與本機 AI</td></tr><tr><td>CPU 運算晶粒製程</td><td>Intel 18A</td><td>Intel 18A</td></tr><tr><td>CPU 規模</td><td>最高 2 個 P-core＋4 個 LP E-core，6 核心／6 執行緒</td><td>最高 16 核心，旗艦配置為 4P＋8E＋4 LP E</td></tr><tr><td>內建 GPU</td><td>最高 2 個 Xe3 核心，支援 XMX；品牌為 Intel Graphics</td><td>最高 12 個 Xe3 核心，部分型號搭載高階 Intel Arc 內顯</td></tr><tr><td>NPU</td><td>NPU 5，PC 型號最高 17 TOPS</td><td>NPU 5，最高 50 TOPS</td></tr><tr><td>記憶體設計</td><td>64-bit 總介面；最高 LPDDR5X-7467 或 DDR5-6400</td><td>較寬的記憶體介面，高階配置最高 LPDDR5X-9600；依型號而異</td></tr><tr><td>封裝方向</td><td>雙晶粒 Organic MCP，採 UCIe 互連</td><td>Foveros 多晶粒整合</td></tr><tr><td>阿輝的選購判斷</td><td>文書、上課、影音、視訊與輕度創作，優先看整機性價比</td><td>較重的多工、創作、內顯遊戲或本機 AI，優先看對應型號規格</td></tr></tbody></table>
+<p><a name="同樣 Intel 18A，為什麼價格還能更親民？"></a></p><h2>同樣 Intel 18A，為什麼價格還能更親民？</h2>
+<p>先進製程是製作晶片的工具，但處理器的成本不只由製程決定。晶粒面積、要裝多少運算單元、封裝有多複雜、測試與組裝損耗，甚至主機板要拉多少線，都會影響最後的成本。</p>
+<p>更進一步講，Intel 18A 的兩項關鍵技術是 <strong>RibbonFET 與 PowerVia</strong> 。 RibbonFET 是 Intel 的環繞式閘極電晶體設計，可以想成用更完整包覆的閘極來控制電流；PowerVia 則把供電導向晶片背面，讓供電與前方訊號布線減少互相搶空間。</p>
+<p>我認為 Wildcat Lake 有意思的地方，在於它沒有把平價產品直接等同於沿用老核心或是採用上一代製程的方式來降低成本。它保留新一代 CPU 、 GPU 與 NPU 的技術基礎，再透過<strong>縮小配置、改變封裝、簡化整個平台</strong>控制成本。就像同一代引擎技術可以裝進不同級距的車，馬力、底盤與配備仍然可以有不同組合。</p>
+<p><a name="2 個 P-core 加上 4 個低功耗核心"></a></p><h2>2 個 P-core 加上 4 個低功耗核心</h2>
+<p>Wildcat Lake 最高配置是 <strong>2 個 Cougar Cove P-core，搭配 4 個 Darkmont LP E-core</strong> 。 P-core 著重較高的單執行緒效能與短時間的反應需求；LP E-core 則是低功耗效率核心，負責適合它們的輕量工作。實際由作業系統與排程機制依負載分配，不是使用者要自己指定開網頁用哪顆核心。</p>
+<p>這也解釋了為什麼我不會只看到「6 核心」就立刻下結論。日常操作有很多時間是在等人輸入、等網路、處理背景服務，並不是每一秒都把所有核心跑滿。保留有力的 P-core，再讓低功耗核心接手合適的工作，是很符合這個價位使用情境的設計。</p>
+<p>當然，長時間大量轉檔、複雜剪輯或重度多工，還是會受限於核心規模、記憶體頻寬與散熱。新核心不能把兩個 P-core 變成高階處理器的全部運算資源；Wildcat Lake 的優勢要放在它所服務的工作類型裡看。</p>
+<a title="延伸閱讀：" href="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-05.jpg"><img src="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-05.jpg" alt="Intel Core Series 3 的運算晶粒、平台控制晶粒及連接規格。"></a>
+<p><a name="成本轉折，從 Foveros 改成雙晶粒 MCP"></a></p><h2>成本轉折，從 Foveros 改成雙晶粒 MCP</h2>
+<p>一顆處理器封裝裡，不一定只有一塊矽晶片。把不同功能拆成多顆晶粒，再放在同一個封裝中，是現在很重要的設計方式。 Wildcat Lake 把 CPU 、 GPU 、 NPU 等運算功能放在一側，I/O 平台控制功能放在另一側。</p>
+<p>Panther Lake 使用 Foveros 整合多顆晶粒；Wildcat Lake 改用 <strong>Organic MCP，也就是以有機封裝基板連接的多晶片封裝</strong>，省下這個設計所需的基底矽晶粒，並降低組裝成本與相關良率損耗。</p>
+<p>我會把它比喻成建築規劃：Foveros 可以提供非常密集的連接，但如果使用需求沒有那麼大，就要重新評估是否需要同樣複雜的結構。 Wildcat Lake 的答案是讓兩顆晶粒透過較符合成本目標的封裝相連，同時重新設計它們之間的通訊。</p>
+<a title="延伸閱讀：" href="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-15.jpg"><img src="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-15.jpg" alt="Intel 簡報說明由 Foveros 改用 MCP 與有機基板的成本取捨。"></a>
+<p>以官方的封裝尺寸來比較，由 Core Ultra Series 3 的 50 × 25 × 1.5 mm，縮到 Core Series 3 的 35 × 25 × 1.23 mm，平面占用面積減少約 30%，主機板也因此有更多配置空間可以選擇與利用。</p>
+<a title="延伸閱讀：" href="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-19.jpg"><img src="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-19.jpg" alt="Core Ultra Series 3 與 Core Series 3 封裝尺寸比較。"></a><figcaption>較小封裝能節省板上空間；整機尺寸、電池及擴充配置仍由筆電廠商決定。圖</figcaption>
+<a title="延伸閱讀：" href="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-scene-mini-pc.png"><img src="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-scene-mini-pc.png" alt="巴掌大小迷你電腦連接螢幕、鍵盤與滑鼠，在小型書桌使用的 AI 情境示意。"></a><figcaption>巴掌大小的迷你電腦搭配螢幕，也能構成日常文書與影音桌面；實際尺寸、散熱與擴充能力取決於整機設計。</figcaption>
+<p><a name="UCIe 是什麼？讓晶粒之間用共通規則溝通"></a></p><h2>UCIe 是什麼？讓晶粒之間用共通規則溝通</h2>
+<p><strong>UCIe 全名是 Universal Chiplet Interconnect Express</strong>，是一套封裝內的晶粒互連開放標準。一般人比較熟悉 PCIe：它讓處理器與顯示卡、 SSD 等裝置溝通；UCIe 的重點則是更靠近晶片內部，讓同一封裝中的不同晶粒交換資料。它不是筆電側面新增的一個插孔，也不是可以插拔更換 CPU 小晶片的消費者介面。</p>
+<p>用生活化的說法，晶粒就像不同部門，互連不只要有「道路」，還要約定資料怎麼送、如何辨識、如何配合工作。 UCIe 提供共通規範，長期目標包括讓不同供應商的 chiplet 更容易整合。這不代表任何兩顆標示 UCIe 的晶粒都能隨意拼裝成電腦；仍然需要完整的系統設計與驗證。標準定義可見 <a href="https://www.uciexpress.org/specifications">UCIe Consortium 官方說明</a>。</p>
+<p>特別值得一提的就是 <strong>Wildcat Lake 是 Intel 首款採用 UCIe 的已上市處理器</strong>，Intel 的 <a href="https://www.intel.com/content/www/us/en/newsroom/news/client-computing/intel-outlines-architectures-for-agentic-ai-at-hot-chips-2026.html">Hot Chips 2026 官方介紹</a>也明確指出這項首次應用。這個里程碑值得注意：新互連技術不只用來追求超高階產品的極限，這次也是為了讓主流產品能用更合適的成本完成多晶粒設計。</p>
+<p>這裡也要分清楚兩個層次：<strong>Foveros／MCP 談的是封裝整合方式，UCIe 談的是晶粒間互連規範</strong>。不是所有 Foveros 都與 UCIe 對立，也不是 UCIe 天生只適用便宜封裝。 Wildcat Lake 採用的是符合它成本與頻寬需求的組合。</p>
+<p>從細密的晶粒連接，改到有機基板上的互連，會遇到接點間距與訊號條件不同的問題。 Intel 資料中接點間距是 Foveros 的 36 μm，對比這次 UCIe 設計的 110 μm；這是兩種具體實作的比較，不是所有 UCIe 的固定規格。</p>
+<p>值得玩味的是，Intel 說這次 die-to-die 互連部分的面積反而增加約 70%，但從整體 MCP 成本來算，仍然值得。<strong>這個 70% 指互連部分，不是整顆處理器變大 70% 。</strong>省成本有時候就是局部多花一些面積，換取其他環節更大的節省。</p>
+<a title="延伸閱讀：" href="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-21.jpg"><img src="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-21.jpg" alt="Wildcat Lake 的 UCIe 晶粒互連區域與 Core Ultra Series 3 互連比較。"></a><figcaption>互連區域增加約 70%，換取整體 MCP 封裝的成本效益。示意圖不能當成整顆晶片面積比例</figcaption>
+<p>省電同樣是大事。資料封包化會增加處理負擔，而電腦看似閒置時，顯示內容仍可能需要跨晶粒傳送，尤其面板沒有自我更新功能（PSR）時更明顯。 Intel 的做法包含多種連線電源狀態，以及顯示流量的 QoS 排程，讓連線有機會進入較低功耗狀態。簡報提到最高 8 倍的閒置功耗節省，是<strong>這個互連最佳化的描述</strong>，並不是筆電續航變成 8 倍。</p>
+<a title="延伸閱讀：" href="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-24.jpg"><img src="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-24.jpg" alt="UCIe 封包化、顯示流量與連線省電最佳化。"></a><figcaption>讓資料正確送達只是第一步，還要讓連線在不需要全速運作時降低功耗。</figcaption>
+<p><a name="把資源放在常用功能：GPU、NPU、記憶體與 I/O 怎麼取捨？"></a></p><h2>把資源放在常用功能：GPU 、 NPU 、記憶體與 I/O 怎麼取捨？</h2>
+<p>Wildcat Lake 的 Xe3 內顯最高有 2 個 Xe 核心，並保留 XMX 矩陣運算加速能力。這讓它不只是負責把桌面畫出來，也能在支援的軟體中執行 AI 工作。但和我先前介紹的 Arc B390 相比，運算規模差距很明確，不能因為同樣叫 Xe3，就期待相同的遊戲表現。</p>
+<p>NPU 同樣沿用 NPU 5 技術，但規模縮為一個運算 tile，PC 型號最高 17 TOPS 。這裡的 tile 是 NPU 內部運算單元的規模描述。對持續運行、且有軟體支援的 AI 功能來說專用 NPU 仍有意義；至於大型模型能跑多快，還要看記憶體容量、頻寬、模型精度與軟體。</p>
+<p>記憶體則採用 64-bit 總介面，支援最高 LPDDR5X-7467 或 DDR5-6400，可以支援最高 48GB LPDDR5/X 與 64GB DDR5 。</p>
+<p>對文書與影音使用，我認為這樣的頻寬取捨可以理解；但 GPU 共用系統記憶體，遇到遊戲或較重的 AI 工作，就更容易受到頻寬限制。這也是 Wildcat Lake 與高階 Panther Lake 會拉開距離的地方之一。</p>
+<p>I/O 部分，平台提供最高兩個 Thunderbolt 4 、 6 條 PCIe 4.0，以及 Wi-Fi 7（R2）與 Bluetooth 6 支援，保留相當實用的現代連接能力。另一方面，它縮減視訊相機相關專用介面、音訊處理資源與部分影音規格。</p>
+<p><a name="成本不只省在 CPU：六層板、記憶體與供電一起調整"></a></p><h2>成本不只省在 CPU：六層板、記憶體與供電一起調整</h2>
+<p>如果只把 CPU 售價壓低，卻要求筆電廠商使用很昂貴的主機板與周邊元件，最後整機未必便宜。 Wildcat Lake 的另一個重點，就是把平台物料成本一起納入設計。</p>
+<p>Intel 官方資料有提到從 128-bit 縮到 64-bit 的記憶體配置，可以減少相關布線與板上占用；平台支援較低成本的 Type-3 六層主機板設計，也能搭配 PCIe Gen 4 SSD，或依產品需求採取 UFS 3.0 儲存方案。對廠商來說，這些都是組合產品價位的工具；對消費者來說，則要確認買到的是哪種儲存，容量與速度不能一概而論。</p>
+<p>其他方向包括 Wi-Fi 7 整合、 USB retimer 中的 PD 控制器整合，以及電源供應設計最佳化，可以減少部分平台成本與整合負擔。</p>
+<p>其中我特別喜歡的一個細節，是 Intel 並不是所有地方都一味刪減：為了電池續航，仍增加 LP E-core 的獨立供電軌。該省的地方省，能改善日常能效的地方則願意保留成本，這才是這顆處理器的設計邏輯。</p>
+<a title="延伸閱讀：" href="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-20.jpg"><img src="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-20.jpg" alt="Wildcat Lake 從記憶體、主機板、供電與整合功能降低平台成本。"></a>
+<p>晶片量產也有不同速度與功能配置。 Intel 透過 CPU 、 GPU 、 NPU 的分級與部分單元配置，增加可用晶粒的利用率；但選擇保留 LP E-core 、顯示與 I/O 的一致性。一般消費者可以把它理解成：用產品分級吸收製造差異，同時守住這個家族重視的基本體驗，而不是把每一個功能都任意砍掉。</p>
+<a title="延伸閱讀：" href="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-26.jpg"><img src="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-26.jpg" alt="Intel 以核心配置與頻率分級改善晶粒利用率，同時維持低功耗與平台一致性。"></a>
+<p><a name="官方效能數字怎麼看？先確認它在和誰比較"></a></p><h2>官方效能數字怎麼看？先確認它在和誰比較</h2>
+<p>Intel 提供的主要比較對象之一是 <strong>Core 7 150U</strong>，並不是 Panther Lake 。簡報中 Core 7 360 的 Office 生產力約為 1.10 倍、 Lightroom Classic 約 1.20 倍、 WebXPRT 5 約 1.25 倍、 Photoshop 約 1.30 倍，而 Topaz Video 測試達約 2.11 倍。這些結果很適合用來提醒大家：不同軟體受益幅度不一樣，「最高 2.1 倍」不能當成每一種工作都快一倍以上。</p>
+<a title="延伸閱讀：" href="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-07.jpg"><img src="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-07.jpg" alt="Intel Core 7 360 對比 Core 7 150U 的官方應用效能測試。"></a><figcaption>兩者均為 Intel 參考平台、 PL1 15W，但記憶體及軟體配置不同</figcaption>
+<p>另一組是五年前電腦的換機情境：Core 7 360 參考平台（PL1 15W），對比搭載 Core i7-1185G7 的 ThinkPad X1 Gen 9（PL1 20W），Intel 列出 Cinebench 2024 單核心最高提升 47% 、多核心最高提升 41% 。</p>
+<p>對我來說，這些數據的價值是讓我們看到新架構在主流產品的進步方向。真正選購時，還要看同價位的整機：記憶體夠不夠、 SSD 是哪種、螢幕是否合用、散熱能否維持效能，往往比單獨一個最高倍數更重要。</p>
+<p><a name="省電與續航是亮點，但處理器省電不等於整機同比例省電"></a></p><h2>省電與續航是亮點，但處理器省電不等於整機同比例省電</h2>
+<p>Intel 宣稱 Core 7 360 相對 Core 7 150U，在 YouTube 4K 串流情境下，<strong>處理器功耗最高降低 64%</strong> 。這兩套參考平台的 PL1 都設為 15W；意思不是播放影片時都固定吃 15W，而是比較在相應功耗設定下的實際工作負載。</p>
+<p>筆電還有螢幕、記憶體、 SSD 、無線網路與其他元件要用電，所以不能直接說整台省電 64%，更不能把它換算成續航多 64% 。但如果處理器在影音、文書、視訊這些常用情境都能降低耗電，對主流筆電確實是有價值的方向。</p>
+<a title="延伸閱讀：" href="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-09.jpg"><img src="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-09.jpg" alt="Intel 官方比較不同日常情境下的處理器功耗。"></a><figcaption>圖中 64% 、 60% 、 52% 、 62% 是指定工作負載下的處理器功耗差異，非整機功耗或續航提升百分比。</figcaption>
+<p>官方也提供了續航數據參考， Netflix 串流最高 18.5 小時、 Office 生產力最高 12.5 小時、 Zoom 一對一搭配 AI 效果最高 9.6 小時。這組續航測試使用 <strong>Core 7 350 的預量產 OEM 裝置、 59Wh 電池、 1920 × 1200 螢幕，持續 PL1 設為 21W</strong>；Netflix 測試為 Edge 播放 1080p 串流。</p>
+<p><a name="最高 40 TOPS 平台 AI 能力"></a></p><h2>最高 40 TOPS 平台 AI 能力</h2>
+<p>Intel 用「Hybrid AI ready」形容 Core Series 3，並列出最高 40 TOPS 平台 AI 算力。這裡看的是 CPU 、 GPU 、 NPU 等不同運算資源的整體能力；<strong>不能把 40 TOPS 寫成 NPU 有 40 TOPS</strong>，也不能假設一個 AI 程式可以直接把這些峰值全部相加使用。</p>
+<p>CPU 適合一般控制與多樣工作、 GPU 適合較大量的平行運算，NPU 則面向專用 AI 推論。 Hybrid AI 的使用方式還可能結合本機與雲端，由軟體把工作交給合適的位置。哪些功能可以離線、需要多少記憶體、是否要訂閱，都要看應用本身。</p>
+<p>依 <a href="https://learn.microsoft.com/en-us/windows/ai/npu-devices/">Microsoft 的 Copilot+ PC 說明</a>，這個類別要求的是 40 TOPS 以上等級的專用 NPU 。 Wildcat Lake 最高 17 TOPS 的 NPU 並未達到這個算力門檻，所以不能用「平台總計 40 TOPS」把它當成 Copilot+ PC 。這也不妨礙它使用一般雲端 AI 服務或其他相容的本機 AI 軟體。</p>
+<p>所以我會把 Wildcat Lake 視為能參與現代 AI 應用的主流平台；如果你的目標是較重的本機生成式 AI 、需要較大的記憶體頻寬，或指定的 Copilot+ PC 功能，就應該查明對應硬體與軟體要求，不能只憑「AI ready」或總平台 TOPS 判定。 Panther Lake 較大的 NPU 與 GPU 配置，也正是在這些情境拉開定位。</p>
+<p><a name="Core 3、Core 5、Core 7 怎麼選？先看完整型號"></a></p><h2>Core 3 、 Core 5 、 Core 7 怎麼選？先看完整型號</h2>
+<p>依照目前 Intel 官方提供的資料，Core 7 360／350 都是 6 核心、最高 4.8GHz 、 2 Xe 核心、 17 TOPS NPU；Core 5 330／320 最高 4.6GHz 、 16 TOPS NPU，Core 5 315 則是最高 4.4GHz 、 15 TOPS NPU，這幾款仍保有 6 核心與 2 Xe 核心。</p>
+<p>Core 3 304 的差異更明顯：它是 1P＋4 LP E 的 5 核心設計，GPU 為 1 Xe 核心，NPU 15 TOPS 。表內 PC 型號的處理器基礎功耗為 15W 、最大睿頻功耗為 35W；實際筆電的長短期功耗與散熱策略仍可能由廠商調整。</p>
+<p>另外，360 與 350 、 330 與 320 在表列主要運算規格上很接近，差別之一是 SIPP 平台資格：360／330 列為支援。 SIPP 是面向企業部署的平台穩定性計畫。</p>
+<a title="延伸閱讀：" href="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-12.jpg"><img src="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-12.jpg" alt="Intel Core Series 3 PC 型號完整規格表。"></a>
+<p><a name="阿輝怎麼看：把先進技術做成更合理的日常電腦"></a></p><h2>阿輝怎麼看：把先進技術做成更合理的日常電腦</h2>
+<p>看完 Wildcat Lake，我最在意的不是規格表少了哪些最高數字，而是這些取捨最後能不能換到一台價格合理、日常好用的電腦。 Intel 這次從 18A 、新核心、低功耗核心一路做到 MCP 、 UCIe 與六層主機板，代表「親民」本身也是需要投入設計的目標。</p>
+<p>如果主要工作是上課、寫報告、網頁、 Office 、視訊會議與影音，偶爾做照片編輯，我會把 Wildcat Lake 列入比較；同時把預算放在足夠的記憶體、合適的螢幕、 SSD 與電池。若需要常態性大量剪輯、較重的內顯遊戲或本機 AI，Panther Lake 對應的高階配置仍然更值得研究。</p>
+<p>以阿輝自己目前就是 Panther Lake 用戶的角度，我不會把 Wildcat Lake 看成要取代現有機器的升級方向，而是 Intel 補上另一段使用需求：讓想要新平台的人，不必每個人都為用不到的最大規模付錢。</p>
+<p>至於便宜多少，最終仍要把實際售價和配備放在一起比較。 <strong>Wildcat Lake 最值得期待的，就是把新一代技術轉成日常用得到、預算也能接受的產品。</strong></p>
+<p>Intel 本次現場展示清單已涵蓋 Acer Swift 、 ASUS ExpertBook／Vivobook 、 Dell Pro 、 HP OmniBook 、 Lenovo IdeaPad 與 MSI Modern 等筆電，以及 NUC 、迷你電腦和 AIO 。不同外形都能使用同一平台，也說明它的目標不只是一種低價筆電，而是一整個重視效率與成本的日常運算市場。</p>
+<a title="延伸閱讀：" href="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-scene-cafe-laptop.png"><img src="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-scene-cafe-laptop.png" alt="使用者在咖啡廳以輕薄筆電處理簡報與視訊會議的 AI 情境示意。"></a>
+<p><a name=""></a></p><h2></h2>]]>
+    </description>
+    <content:encoded><![CDATA[<br><p>之前阿輝已經介紹過 Panther Lake 筆電，也拍過 MSI Prestige 14 Flip AI+ 的影片，自己現在也是 Panther Lake 筆電的用戶。從這個角度再看 Intel 即將推出的最新 <strong>Core Series 3 處理器，代號 <a title="延伸閱讀：Wildcat Lake，我最感興趣的反而不是「它能不能打贏高階處理器」，而是：同樣用上 Intel 18A" href="https://ahui3c.com/tag/wildcat-lake" target="_blank">Wildcat Lake</a></strong>，我最感興趣的反而不是「它能不能打贏高階處理器」，而是：同樣用上 <a title="延伸閱讀：Wildcat Lake，我最感興趣的反而不是「它能不能打贏高階處理器」，而是：同樣用上 Intel 18A" href="https://ahui3c.com/tag/intel-18a" target="_blank">Intel 18A</a>，怎麼把新架構做成更多人買得起的電腦？</p>
+<a title="延伸閱讀：" href="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-scene-home-laptop.png"><img fetchpriority="high" src="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-scene-home-laptop.png" alt="使用者在居家書桌以輕薄筆電處理文件與網頁的 AI 情境示意。"></a>
+<p>畢竟不是每個人買筆電都要剪大型影片、跑複雜 AI 模型，或用內顯挑戰 3A 遊戲。很多人的需求很實際：開網頁順、 Office 好用、視訊會議穩定、出門不用一直找插座，再加上一個合理的價格。 Wildcat Lake 的設計，就是圍繞這些日常需求重新分配成本。</p>
+<p>今天阿輝在參加 Intel 11 月 10 日架構發表活動後，就來聊聊新發表的 Wildcat Lake 和之前 Panther Lake 的定位差異、更評價的定位同時採用最頂尖 Intel 18A 工藝帶來的意義，以及這次很值得認識的 <strong><a title="延伸閱讀：UCIe" href="https://ahui3c.com/tag/ucie" target="_blank">UCIe</a> 晶粒互連技術</strong>。不過也是要說阿輝這次做的是架構分析，Wildcat Lake 實機表現仍要看後續實測啦～～～ </p>
+<a title="延伸閱讀：" href="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-04.jpg"><img src="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-04.jpg" alt="Intel 將 Cougar Cove、Darkmont、Xe3、NPU 5 與 Intel 18A 帶入 Core Series 3。"></a>
+<p><a name="先把名字看懂：Core Series 3 與 Core Ultra Series 3 是兩條產品線"></a></p><h2>先把名字看懂：Core Series 3 與 Core Ultra Series 3 是兩條產品線</h2>
+<p>Intel 的名字真的需要先拆開來看。「Series 3」代表系列世代；「Core 3 、 Core 5 、 Core 7」則是產品等級。所以 <strong>Core Series 3 不等於只有 Core 3</strong> 一顆處理器，這個家族裡也有 Core 5 320 、 Core 7 350 等型號。</p>
+<p>相較於這一次代號 Wildcat Lake 的 Core Series 3 處理器，之前 Panther Lake 的完整名稱或是說證是的型號是 <strong>Intel Core Ultra Series 3</strong>；Wildcat Lake 則是 <strong><a title="延伸閱讀：Intel Core Series 3" href="https://ahui3c.com/tag/intel-core-series-3" target="_blank">Intel Core Series 3</a></strong>，中間少了 Ultra 。兩者有技術上的延續關係，但設計目標不同：Panther Lake 面向更高效能與更完整的 AI PC 體驗；Wildcat Lake 把同世代技術帶到更重視售價的主流市場。它也不是用來全面取代 Panther Lake 的下一代旗艦，也許簡單一點說 Wildcat Lake 像是 Panther Lake 的青春版？但一樣有優異的性能與能耗表現</p>
+<p>以我之前介紹的 Core Ultra X7 358H／Arc B390 筆電來說，強項包含更大規模的 CPU 與內顯資源。 Wildcat Lake 的取捨則更明確：把日常反應、能效與常用連接能力保留下來，讓不需要旗艦規模的使用者有另一個選擇。想先回顧可以看 <a title="延伸閱讀：阿輝的 MSI Prestige 14 Flip AI+／Panther Lake 影片介紹" href="https://ahui3c.com/144714/msi-prestige-14-flip-ai">阿輝的 MSI Prestige 14 Flip AI+／Panther Lake 影片介紹</a>。</p>
+<p><a name="Wildcat Lake 對上 Panther Lake，差別一張表看懂"></a></p><h2>Wildcat Lake 對上 Panther Lake，差別一張表看懂</h2>
+<table><thead><tr><th>比較項目</th><th>Core Series 3／Wildcat Lake</th><th>Core Ultra Series 3／Panther Lake</th></tr></thead><tbody><tr><td>產品重心</td><td>價格敏感的主流筆電、商用與基礎邊緣運算</td><td>更高效能的輕薄筆電、創作、較強內顯與本機 AI</td></tr><tr><td>CPU 運算晶粒製程</td><td>Intel 18A</td><td>Intel 18A</td></tr><tr><td>CPU 規模</td><td>最高 2 個 P-core＋4 個 LP E-core，6 核心／6 執行緒</td><td>最高 16 核心，旗艦配置為 4P＋8E＋4 LP E</td></tr><tr><td>內建 GPU</td><td>最高 2 個 Xe3 核心，支援 XMX；品牌為 Intel Graphics</td><td>最高 12 個 Xe3 核心，部分型號搭載高階 Intel Arc 內顯</td></tr><tr><td>NPU</td><td>NPU 5，PC 型號最高 17 TOPS</td><td>NPU 5，最高 50 TOPS</td></tr><tr><td>記憶體設計</td><td>64-bit 總介面；最高 LPDDR5X-7467 或 DDR5-6400</td><td>較寬的記憶體介面，高階配置最高 LPDDR5X-9600；依型號而異</td></tr><tr><td>封裝方向</td><td>雙晶粒 Organic MCP，採 UCIe 互連</td><td>Foveros 多晶粒整合</td></tr><tr><td>阿輝的選購判斷</td><td>文書、上課、影音、視訊與輕度創作，優先看整機性價比</td><td>較重的多工、創作、內顯遊戲或本機 AI，優先看對應型號規格</td></tr></tbody></table>
+<p><a name="同樣 Intel 18A，為什麼價格還能更親民？"></a></p><h2>同樣 Intel 18A，為什麼價格還能更親民？</h2>
+<p>先進製程是製作晶片的工具，但處理器的成本不只由製程決定。晶粒面積、要裝多少運算單元、封裝有多複雜、測試與組裝損耗，甚至主機板要拉多少線，都會影響最後的成本。</p>
+<p>更進一步講，Intel 18A 的兩項關鍵技術是 <strong>RibbonFET 與 PowerVia</strong> 。 RibbonFET 是 Intel 的環繞式閘極電晶體設計，可以想成用更完整包覆的閘極來控制電流；PowerVia 則把供電導向晶片背面，讓供電與前方訊號布線減少互相搶空間。</p>
+<p>我認為 Wildcat Lake 有意思的地方，在於它沒有把平價產品直接等同於沿用老核心或是採用上一代製程的方式來降低成本。它保留新一代 CPU 、 GPU 與 NPU 的技術基礎，再透過<strong>縮小配置、改變封裝、簡化整個平台</strong>控制成本。就像同一代引擎技術可以裝進不同級距的車，馬力、底盤與配備仍然可以有不同組合。</p>
+<p><a name="2 個 P-core 加上 4 個低功耗核心"></a></p><h2>2 個 P-core 加上 4 個低功耗核心</h2>
+<p>Wildcat Lake 最高配置是 <strong>2 個 Cougar Cove P-core，搭配 4 個 Darkmont LP E-core</strong> 。 P-core 著重較高的單執行緒效能與短時間的反應需求；LP E-core 則是低功耗效率核心，負責適合它們的輕量工作。實際由作業系統與排程機制依負載分配，不是使用者要自己指定開網頁用哪顆核心。</p>
+<p>這也解釋了為什麼我不會只看到「6 核心」就立刻下結論。日常操作有很多時間是在等人輸入、等網路、處理背景服務，並不是每一秒都把所有核心跑滿。保留有力的 P-core，再讓低功耗核心接手合適的工作，是很符合這個價位使用情境的設計。</p>
+<p>當然，長時間大量轉檔、複雜剪輯或重度多工，還是會受限於核心規模、記憶體頻寬與散熱。新核心不能把兩個 P-core 變成高階處理器的全部運算資源；Wildcat Lake 的優勢要放在它所服務的工作類型裡看。</p>
+<a title="延伸閱讀：" href="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-05.jpg"><img src="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-05.jpg" alt="Intel Core Series 3 的運算晶粒、平台控制晶粒及連接規格。"></a>
+<p><a name="成本轉折，從 Foveros 改成雙晶粒 MCP"></a></p><h2>成本轉折，從 Foveros 改成雙晶粒 MCP</h2>
+<p>一顆處理器封裝裡，不一定只有一塊矽晶片。把不同功能拆成多顆晶粒，再放在同一個封裝中，是現在很重要的設計方式。 Wildcat Lake 把 CPU 、 GPU 、 NPU 等運算功能放在一側，I/O 平台控制功能放在另一側。</p>
+<p>Panther Lake 使用 Foveros 整合多顆晶粒；Wildcat Lake 改用 <strong>Organic MCP，也就是以有機封裝基板連接的多晶片封裝</strong>，省下這個設計所需的基底矽晶粒，並降低組裝成本與相關良率損耗。</p>
+<p>我會把它比喻成建築規劃：Foveros 可以提供非常密集的連接，但如果使用需求沒有那麼大，就要重新評估是否需要同樣複雜的結構。 Wildcat Lake 的答案是讓兩顆晶粒透過較符合成本目標的封裝相連，同時重新設計它們之間的通訊。</p>
+<a title="延伸閱讀：" href="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-15.jpg"><img src="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-15.jpg" alt="Intel 簡報說明由 Foveros 改用 MCP 與有機基板的成本取捨。"></a>
+<p>以官方的封裝尺寸來比較，由 Core Ultra Series 3 的 50 × 25 × 1.5 mm，縮到 Core Series 3 的 35 × 25 × 1.23 mm，平面占用面積減少約 30%，主機板也因此有更多配置空間可以選擇與利用。</p>
+<a title="延伸閱讀：" href="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-19.jpg"><img src="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-19.jpg" alt="Core Ultra Series 3 與 Core Series 3 封裝尺寸比較。"></a><figcaption>較小封裝能節省板上空間；整機尺寸、電池及擴充配置仍由筆電廠商決定。圖</figcaption>
+<a title="延伸閱讀：" href="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-scene-mini-pc.png"><img src="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-scene-mini-pc.png" alt="巴掌大小迷你電腦連接螢幕、鍵盤與滑鼠，在小型書桌使用的 AI 情境示意。"></a><figcaption>巴掌大小的迷你電腦搭配螢幕，也能構成日常文書與影音桌面；實際尺寸、散熱與擴充能力取決於整機設計。</figcaption>
+<p><a name="UCIe 是什麼？讓晶粒之間用共通規則溝通"></a></p><h2>UCIe 是什麼？讓晶粒之間用共通規則溝通</h2>
+<p><strong>UCIe 全名是 Universal Chiplet Interconnect Express</strong>，是一套封裝內的晶粒互連開放標準。一般人比較熟悉 PCIe：它讓處理器與顯示卡、 SSD 等裝置溝通；UCIe 的重點則是更靠近晶片內部，讓同一封裝中的不同晶粒交換資料。它不是筆電側面新增的一個插孔，也不是可以插拔更換 CPU 小晶片的消費者介面。</p>
+<p>用生活化的說法，晶粒就像不同部門，互連不只要有「道路」，還要約定資料怎麼送、如何辨識、如何配合工作。 UCIe 提供共通規範，長期目標包括讓不同供應商的 chiplet 更容易整合。這不代表任何兩顆標示 UCIe 的晶粒都能隨意拼裝成電腦；仍然需要完整的系統設計與驗證。標準定義可見 <a href="https://www.uciexpress.org/specifications">UCIe Consortium 官方說明</a>。</p>
+<p>特別值得一提的就是 <strong>Wildcat Lake 是 Intel 首款採用 UCIe 的已上市處理器</strong>，Intel 的 <a href="https://www.intel.com/content/www/us/en/newsroom/news/client-computing/intel-outlines-architectures-for-agentic-ai-at-hot-chips-2026.html">Hot Chips 2026 官方介紹</a>也明確指出這項首次應用。這個里程碑值得注意：新互連技術不只用來追求超高階產品的極限，這次也是為了讓主流產品能用更合適的成本完成多晶粒設計。</p>
+<p>這裡也要分清楚兩個層次：<strong>Foveros／MCP 談的是封裝整合方式，UCIe 談的是晶粒間互連規範</strong>。不是所有 Foveros 都與 UCIe 對立，也不是 UCIe 天生只適用便宜封裝。 Wildcat Lake 採用的是符合它成本與頻寬需求的組合。</p>
+<p>從細密的晶粒連接，改到有機基板上的互連，會遇到接點間距與訊號條件不同的問題。 Intel 資料中接點間距是 Foveros 的 36 μm，對比這次 UCIe 設計的 110 μm；這是兩種具體實作的比較，不是所有 UCIe 的固定規格。</p>
+<p>值得玩味的是，Intel 說這次 die-to-die 互連部分的面積反而增加約 70%，但從整體 MCP 成本來算，仍然值得。<strong>這個 70% 指互連部分，不是整顆處理器變大 70% 。</strong>省成本有時候就是局部多花一些面積，換取其他環節更大的節省。</p>
+<a title="延伸閱讀：" href="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-21.jpg"><img src="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-21.jpg" alt="Wildcat Lake 的 UCIe 晶粒互連區域與 Core Ultra Series 3 互連比較。"></a><figcaption>互連區域增加約 70%，換取整體 MCP 封裝的成本效益。示意圖不能當成整顆晶片面積比例</figcaption>
+<p>省電同樣是大事。資料封包化會增加處理負擔，而電腦看似閒置時，顯示內容仍可能需要跨晶粒傳送，尤其面板沒有自我更新功能（PSR）時更明顯。 Intel 的做法包含多種連線電源狀態，以及顯示流量的 QoS 排程，讓連線有機會進入較低功耗狀態。簡報提到最高 8 倍的閒置功耗節省，是<strong>這個互連最佳化的描述</strong>，並不是筆電續航變成 8 倍。</p>
+<a title="延伸閱讀：" href="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-24.jpg"><img src="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-24.jpg" alt="UCIe 封包化、顯示流量與連線省電最佳化。"></a><figcaption>讓資料正確送達只是第一步，還要讓連線在不需要全速運作時降低功耗。</figcaption>
+<p><a name="把資源放在常用功能：GPU、NPU、記憶體與 I/O 怎麼取捨？"></a></p><h2>把資源放在常用功能：GPU 、 NPU 、記憶體與 I/O 怎麼取捨？</h2>
+<p>Wildcat Lake 的 Xe3 內顯最高有 2 個 Xe 核心，並保留 XMX 矩陣運算加速能力。這讓它不只是負責把桌面畫出來，也能在支援的軟體中執行 AI 工作。但和我先前介紹的 Arc B390 相比，運算規模差距很明確，不能因為同樣叫 Xe3，就期待相同的遊戲表現。</p>
+<p>NPU 同樣沿用 NPU 5 技術，但規模縮為一個運算 tile，PC 型號最高 17 TOPS 。這裡的 tile 是 NPU 內部運算單元的規模描述。對持續運行、且有軟體支援的 AI 功能來說專用 NPU 仍有意義；至於大型模型能跑多快，還要看記憶體容量、頻寬、模型精度與軟體。</p>
+<p>記憶體則採用 64-bit 總介面，支援最高 LPDDR5X-7467 或 DDR5-6400，可以支援最高 48GB LPDDR5/X 與 64GB DDR5 。</p>
+<p>對文書與影音使用，我認為這樣的頻寬取捨可以理解；但 GPU 共用系統記憶體，遇到遊戲或較重的 AI 工作，就更容易受到頻寬限制。這也是 Wildcat Lake 與高階 Panther Lake 會拉開距離的地方之一。</p>
+<p>I/O 部分，平台提供最高兩個 Thunderbolt 4 、 6 條 PCIe 4.0，以及 Wi-Fi 7（R2）與 Bluetooth 6 支援，保留相當實用的現代連接能力。另一方面，它縮減視訊相機相關專用介面、音訊處理資源與部分影音規格。</p>
+<p><a name="成本不只省在 CPU：六層板、記憶體與供電一起調整"></a></p><h2>成本不只省在 CPU：六層板、記憶體與供電一起調整</h2>
+<p>如果只把 CPU 售價壓低，卻要求筆電廠商使用很昂貴的主機板與周邊元件，最後整機未必便宜。 Wildcat Lake 的另一個重點，就是把平台物料成本一起納入設計。</p>
+<p>Intel 官方資料有提到從 128-bit 縮到 64-bit 的記憶體配置，可以減少相關布線與板上占用；平台支援較低成本的 Type-3 六層主機板設計，也能搭配 PCIe Gen 4 SSD，或依產品需求採取 UFS 3.0 儲存方案。對廠商來說，這些都是組合產品價位的工具；對消費者來說，則要確認買到的是哪種儲存，容量與速度不能一概而論。</p>
+<p>其他方向包括 Wi-Fi 7 整合、 USB retimer 中的 PD 控制器整合，以及電源供應設計最佳化，可以減少部分平台成本與整合負擔。</p>
+<p>其中我特別喜歡的一個細節，是 Intel 並不是所有地方都一味刪減：為了電池續航，仍增加 LP E-core 的獨立供電軌。該省的地方省，能改善日常能效的地方則願意保留成本，這才是這顆處理器的設計邏輯。</p>
+<a title="延伸閱讀：" href="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-20.jpg"><img src="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-20.jpg" alt="Wildcat Lake 從記憶體、主機板、供電與整合功能降低平台成本。"></a>
+<p>晶片量產也有不同速度與功能配置。 Intel 透過 CPU 、 GPU 、 NPU 的分級與部分單元配置，增加可用晶粒的利用率；但選擇保留 LP E-core 、顯示與 I/O 的一致性。一般消費者可以把它理解成：用產品分級吸收製造差異，同時守住這個家族重視的基本體驗，而不是把每一個功能都任意砍掉。</p>
+<a title="延伸閱讀：" href="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-26.jpg"><img src="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-26.jpg" alt="Intel 以核心配置與頻率分級改善晶粒利用率，同時維持低功耗與平台一致性。"></a>
+<p><a name="官方效能數字怎麼看？先確認它在和誰比較"></a></p><h2>官方效能數字怎麼看？先確認它在和誰比較</h2>
+<p>Intel 提供的主要比較對象之一是 <strong>Core 7 150U</strong>，並不是 Panther Lake 。簡報中 Core 7 360 的 Office 生產力約為 1.10 倍、 Lightroom Classic 約 1.20 倍、 WebXPRT 5 約 1.25 倍、 Photoshop 約 1.30 倍，而 Topaz Video 測試達約 2.11 倍。這些結果很適合用來提醒大家：不同軟體受益幅度不一樣，「最高 2.1 倍」不能當成每一種工作都快一倍以上。</p>
+<a title="延伸閱讀：" href="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-07.jpg"><img src="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-07.jpg" alt="Intel Core 7 360 對比 Core 7 150U 的官方應用效能測試。"></a><figcaption>兩者均為 Intel 參考平台、 PL1 15W，但記憶體及軟體配置不同</figcaption>
+<p>另一組是五年前電腦的換機情境：Core 7 360 參考平台（PL1 15W），對比搭載 Core i7-1185G7 的 ThinkPad X1 Gen 9（PL1 20W），Intel 列出 Cinebench 2024 單核心最高提升 47% 、多核心最高提升 41% 。</p>
+<p>對我來說，這些數據的價值是讓我們看到新架構在主流產品的進步方向。真正選購時，還要看同價位的整機：記憶體夠不夠、 SSD 是哪種、螢幕是否合用、散熱能否維持效能，往往比單獨一個最高倍數更重要。</p>
+<p><a name="省電與續航是亮點，但處理器省電不等於整機同比例省電"></a></p><h2>省電與續航是亮點，但處理器省電不等於整機同比例省電</h2>
+<p>Intel 宣稱 Core 7 360 相對 Core 7 150U，在 YouTube 4K 串流情境下，<strong>處理器功耗最高降低 64%</strong> 。這兩套參考平台的 PL1 都設為 15W；意思不是播放影片時都固定吃 15W，而是比較在相應功耗設定下的實際工作負載。</p>
+<p>筆電還有螢幕、記憶體、 SSD 、無線網路與其他元件要用電，所以不能直接說整台省電 64%，更不能把它換算成續航多 64% 。但如果處理器在影音、文書、視訊這些常用情境都能降低耗電，對主流筆電確實是有價值的方向。</p>
+<a title="延伸閱讀：" href="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-09.jpg"><img src="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-09.jpg" alt="Intel 官方比較不同日常情境下的處理器功耗。"></a><figcaption>圖中 64% 、 60% 、 52% 、 62% 是指定工作負載下的處理器功耗差異，非整機功耗或續航提升百分比。</figcaption>
+<p>官方也提供了續航數據參考， Netflix 串流最高 18.5 小時、 Office 生產力最高 12.5 小時、 Zoom 一對一搭配 AI 效果最高 9.6 小時。這組續航測試使用 <strong>Core 7 350 的預量產 OEM 裝置、 59Wh 電池、 1920 × 1200 螢幕，持續 PL1 設為 21W</strong>；Netflix 測試為 Edge 播放 1080p 串流。</p>
+<p><a name="最高 40 TOPS 平台 AI 能力"></a></p><h2>最高 40 TOPS 平台 AI 能力</h2>
+<p>Intel 用「Hybrid AI ready」形容 Core Series 3，並列出最高 40 TOPS 平台 AI 算力。這裡看的是 CPU 、 GPU 、 NPU 等不同運算資源的整體能力；<strong>不能把 40 TOPS 寫成 NPU 有 40 TOPS</strong>，也不能假設一個 AI 程式可以直接把這些峰值全部相加使用。</p>
+<p>CPU 適合一般控制與多樣工作、 GPU 適合較大量的平行運算，NPU 則面向專用 AI 推論。 Hybrid AI 的使用方式還可能結合本機與雲端，由軟體把工作交給合適的位置。哪些功能可以離線、需要多少記憶體、是否要訂閱，都要看應用本身。</p>
+<p>依 <a href="https://learn.microsoft.com/en-us/windows/ai/npu-devices/">Microsoft 的 Copilot+ PC 說明</a>，這個類別要求的是 40 TOPS 以上等級的專用 NPU 。 Wildcat Lake 最高 17 TOPS 的 NPU 並未達到這個算力門檻，所以不能用「平台總計 40 TOPS」把它當成 Copilot+ PC 。這也不妨礙它使用一般雲端 AI 服務或其他相容的本機 AI 軟體。</p>
+<p>所以我會把 Wildcat Lake 視為能參與現代 AI 應用的主流平台；如果你的目標是較重的本機生成式 AI 、需要較大的記憶體頻寬，或指定的 Copilot+ PC 功能，就應該查明對應硬體與軟體要求，不能只憑「AI ready」或總平台 TOPS 判定。 Panther Lake 較大的 NPU 與 GPU 配置，也正是在這些情境拉開定位。</p>
+<p><a name="Core 3、Core 5、Core 7 怎麼選？先看完整型號"></a></p><h2>Core 3 、 Core 5 、 Core 7 怎麼選？先看完整型號</h2>
+<p>依照目前 Intel 官方提供的資料，Core 7 360／350 都是 6 核心、最高 4.8GHz 、 2 Xe 核心、 17 TOPS NPU；Core 5 330／320 最高 4.6GHz 、 16 TOPS NPU，Core 5 315 則是最高 4.4GHz 、 15 TOPS NPU，這幾款仍保有 6 核心與 2 Xe 核心。</p>
+<p>Core 3 304 的差異更明顯：它是 1P＋4 LP E 的 5 核心設計，GPU 為 1 Xe 核心，NPU 15 TOPS 。表內 PC 型號的處理器基礎功耗為 15W 、最大睿頻功耗為 35W；實際筆電的長短期功耗與散熱策略仍可能由廠商調整。</p>
+<p>另外，360 與 350 、 330 與 320 在表列主要運算規格上很接近，差別之一是 SIPP 平台資格：360／330 列為支援。 SIPP 是面向企業部署的平台穩定性計畫。</p>
+<a title="延伸閱讀：" href="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-12.jpg"><img src="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-slide-12.jpg" alt="Intel Core Series 3 PC 型號完整規格表。"></a>
+<p><a name="阿輝怎麼看：把先進技術做成更合理的日常電腦"></a></p><h2>阿輝怎麼看：把先進技術做成更合理的日常電腦</h2>
+<p>看完 Wildcat Lake，我最在意的不是規格表少了哪些最高數字，而是這些取捨最後能不能換到一台價格合理、日常好用的電腦。 Intel 這次從 18A 、新核心、低功耗核心一路做到 MCP 、 UCIe 與六層主機板，代表「親民」本身也是需要投入設計的目標。</p>
+<p>如果主要工作是上課、寫報告、網頁、 Office 、視訊會議與影音，偶爾做照片編輯，我會把 Wildcat Lake 列入比較；同時把預算放在足夠的記憶體、合適的螢幕、 SSD 與電池。若需要常態性大量剪輯、較重的內顯遊戲或本機 AI，Panther Lake 對應的高階配置仍然更值得研究。</p>
+<p>以阿輝自己目前就是 Panther Lake 用戶的角度，我不會把 Wildcat Lake 看成要取代現有機器的升級方向，而是 Intel 補上另一段使用需求：讓想要新平台的人，不必每個人都為用不到的最大規模付錢。</p>
+<p>至於便宜多少，最終仍要把實際售價和配備放在一起比較。 <strong>Wildcat Lake 最值得期待的，就是把新一代技術轉成日常用得到、預算也能接受的產品。</strong></p>
+<p>Intel 本次現場展示清單已涵蓋 Acer Swift 、 ASUS ExpertBook／Vivobook 、 Dell Pro 、 HP OmniBook 、 Lenovo IdeaPad 與 MSI Modern 等筆電，以及 NUC 、迷你電腦和 AIO 。不同外形都能使用同一平台，也說明它的目標不只是一種低價筆電，而是一整個重視效率與成本的日常運算市場。</p>
+<a title="延伸閱讀：" href="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-scene-cafe-laptop.png"><img src="https://www.ahui3c.com/wp-content/uploads/2026/11/wildcat-scene-cafe-laptop.png" alt="使用者在咖啡廳以輕薄筆電處理簡報與視訊會議的 AI 情境示意。"></a>
+<p><a name=""></a></p><h2></h2>]]></content:encoded>
+    
+    <pubDate>Wed, 11 Nov 2026 21:10:19 +0000</pubDate>
+  </item><item>
     <title><![CDATA[HTC《海之召喚》沉浸式 VR 體驗 11 月 21 日進駐南科！帶領親子探索台灣海洋生態與歷史文化]]></title>
     <link>https://ahui3c.com/148535/htcvr-theblu</link>
     <itunes:title><![CDATA[HTC《海之召喚》沉浸式 VR 體驗 11 月 21 日進駐南科！帶領親子探索台灣海洋生態與歷史文化]]></itunes:title>
@@ -2350,109 +2601,5 @@
 <p>如果你也想找一副能陪自己工作、聽音樂和散步的開放式耳機，OC Pulse 值得列入清單。黑色和白色你比較喜歡哪一款呢？阿輝自己覺得，這次兩個顏色都蠻耐看的啊！</p>]]></content:encoded>
     
     <pubDate>Fri, 30 Oct 2026 03:02:28 +0000</pubDate>
-  </item><item>
-    <title><![CDATA[Anker 全台首間體驗店進駐信義威秀　8 大生活情境打造沉浸式科技體驗　開幕六重優惠登場！A121D 45W 螢幕充電器限量 1 折搶購、明星商品最低 56 折　人氣啦啦隊卉妮 10 月 31 日擔任一日店長]]></title>
-    <link>https://ahui3c.com/148254/anker-viewshow</link>
-    <itunes:title><![CDATA[Anker 全台首間體驗店進駐信義威秀　8 大生活情境打造沉浸式科技體驗　開幕六重優惠登場！A121D 45W 螢幕充電器限量 1 折搶購、明星商品最低 56 折　人氣啦啦隊卉妮 10 月 31 日擔任一日店長]]></itunes:title>
-    <itunes:author><![CDATA[3C 達人廖阿輝[RSS+]]]></itunes:author>
-    <itunes:summary>
-      <![CDATA[<br><p>Anker Innovations 今年 9 月宣布旗下 Anker 、 soundcore 、 eufy 、 eufymake 與 SOLIX 五大品牌整合為統一的「Anker」品牌，持續以創新科技拓展智慧生活應用。如今，Anker 進一步深耕台灣實體零售市場，於台北信義威秀開設全台首間體驗店，以「個人日常（Personal）」與「居家生活（Home）」為兩大主軸，規劃涵蓋創作、工作效率、娛樂、健康、能源、安全、清潔及影音娛樂的 8 大生活情境，讓消費者透過實際體驗，探索科技如何融入日常生活。</p>
-<div> <img fetchpriority="high" src="https://www.ahui3c.com/wp-content/uploads/2026/10/anker-1-scaled.jpg" alt="Anker 全台首間體驗店進駐信義威秀　8 大生活情境打造沉浸式科技體驗　開幕六重優惠登場！A121D 45W 螢幕充電器限量 1 折搶購、明星商品最低 56 折　人氣啦啦隊卉妮 10 月 31 日擔任一日店長" title="Anker 全台首間體驗店進駐信義威秀　8 大生活情境打造沉浸式科技體驗　開幕六重優惠登場！A121D 45W 螢幕充電器限量 1 折搶購、明星商品最低 56 折　人氣啦啦隊卉妮 10 月 31 日擔任一日店長"></div><p>為歡慶體驗店開幕，Anker 自 10 月 29 日起推出開幕六重優惠，包含超人氣 Anker Nano A121D 45W 螢幕充電器限時限量 1 折排隊搶購、精選明星商品最低 56 折起、全館指定商品優惠、消費滿額贈及加價購等活動，並推出憑威秀影城電影票根折抵 50 元的專屬優惠。此外，10 月 31 日更邀請人氣啦啦隊成員卉妮擔任一日店長，透過現場互動、產品體驗及限量合照活動，與粉絲近距離交流。</p>
-<p><a name="Anker首間體驗店登陸信義威秀　8大生活情境一次探索"></a></p><h2>Anker 首間體驗店登陸信義威秀　8 大生活情境一次探索</h2>
-<p>Anker 以充電、音訊、智慧家庭及創新科技產品聞名，透過此次體驗店的設立，進一步拓展台灣實體通路布局。店內採用沉浸式空間規劃，將旗下產品依照不同生活需求分類，讓消費者不只能近距離認識產品特色，也能實際感受科技如何為個人生活與家庭日常帶來便利。</p>
-<div> <img src="https://www.ahui3c.com/wp-content/uploads/2026/10/anker-4-scaled.jpg" alt="Anker 全台首間體驗店進駐信義威秀　8 大生活情境打造沉浸式科技體驗　開幕六重優惠登場！A121D 45W 螢幕充電器限量 1 折搶購、明星商品最低 56 折　人氣啦啦隊卉妮 10 月 31 日擔任一日店長" title="Anker 全台首間體驗店進駐信義威秀　8 大生活情境打造沉浸式科技體驗　開幕六重優惠登場！A121D 45W 螢幕充電器限量 1 折搶購、明星商品最低 56 折　人氣啦啦隊卉妮 10 月 31 日擔任一日店長"></div><p>體驗店以「個人日常」及「居家生活」為兩大核心，分別規劃四大應用情境，從個人創作、工作效率到家庭能源管理、居家安全與清潔，呈現科技產品在不同生活場景中的應用。</p>
-<p><a name="個人日常：從創作、工作到健康照護"></a></p><h3>個人日常：從創作、工作到健康照護</h3>
-<p>「個人日常」區域聚焦個人生活與工作需求，涵蓋「創造」、「效能」、「盡興」及「身心」四大情境。</p>
-<p>在「創造」情境中，消費者可體驗個人 3D 紋理 UV 印表機，將創意構想與設計靈感轉化為實際作品，探索個人化創作的更多可能。「效能」則整合高效充電設備與智慧耳機等產品，滿足日常辦公、遠端會議及通勤需求，協助使用者維持工作效率，隨時掌握充足電力。</p>
-<p>針對旅行、戶外活動與休閒娛樂，「盡興」情境展示行動電源及藍牙音響等產品，讓使用者在外出期間也能輕鬆補充電力、享受音樂與娛樂體驗。「身心」則著重睡眠品質、身心健康與日常照護，透過睡眠耳機、吸乳器等科技產品，呈現創新科技在個人健康與生活品質上的應用。</p>
-<p><a name="居家生活：智慧能源、安全、清潔與娛樂全面升級"></a></p><h3>居家生活：智慧能源、安全、清潔與娛樂全面升級</h3>
-<p>「居家生活」區域則以家庭需求為出發點，規劃「能源」、「安全」、「清潔」及「娛樂」四大情境，讓智慧科技延伸至居家環境的各個角落。</p>
-<p>「能源」情境透過智慧電力管理設備，協助使用者掌握日常用電與能源管理需求；「安全」則整合智慧攝影機、智慧門鎖等設備，讓使用者即使外出，也能隨時掌握居家狀況，提升家庭生活的安心感。</p>
-<p>在家務處理方面，「清潔」情境展示智慧掃拖機器人，透過自動化清潔功能減輕日常打掃負擔；「娛樂」則結合音響與投影設備，打造更具沉浸感的家庭影音空間，無論是週末電影夜、親友聚會或日常休閒，都能享受豐富的影音娛樂體驗。</p>
-<p>透過 8 大生活情境的整合，Anker 希望讓消費者從實際需求出發，找到適合自己的科技產品，進一步體驗創新科技為個人與家庭生活帶來的改變。</p>
-<p><a name="開幕六重優惠開跑　A121D充電器限量1折、明星商品最低56折"></a></p><h2>開幕六重優惠開跑　A121D 充電器限量 1 折、明星商品最低 56 折</h2>
-<p>配合信義威秀體驗店開幕，Anker 自 10 月 29 日起推出一系列限時優惠。其中，Anker Nano A121D 45W 螢幕充電器祭出限量 1 折排隊搶購活動，開幕首日便吸引大批消費者提前到場排隊，現場人氣熱絡。</p>
-<p>此外，10 月 29 日至 11 月 1 日開幕首週期間，多款人氣商品同步推出限時優惠，最低 56 折起，涵蓋行動充電、智慧家庭、個人創作及音訊等不同產品類別，包括：</p>
-<ul>
-<li>Anker MagGo A1664 超薄磁吸行動電源，10000mAh 、 Qi2 30W</li>
-<li>Anker eufy Omni S2 12 合 1 自清潔 AI 滾筒掃拖機器人</li>
-<li>Anker eufyMake E1 3D 紋理 UV 印刷機套組</li>
-<li>Anker soundcore Liberty 5 Pro Max AI 降噪真無線藍牙耳機</li>
-</ul>
-<p>消費者可趁開幕期間入手多款熱門科技產品，以優惠價格升級日常充電配備、影音體驗及智慧居家生活。</p>
-<p>除了開幕首週的限時優惠外，Anker 也同步推出延續至 11 月 30 日的多項活動，包括全館指定商品 9 折起、消費滿額贈、指定商品加價購，以及憑威秀影城電影票根折抵 50 元等優惠。無論是前往影城觀影，或是想親自體驗最新科技產品，都能順道造訪 Anker 體驗店，享受購物與體驗兼具的行程。</p>
-<p><a name="卉妮10月31日化身一日店長　趣味互動與粉絲近距離交流"></a></p><h2>卉妮 10 月 31 日化身一日店長　趣味互動與粉絲近距離交流</h2>
-<p>除了開幕優惠，Anker 也安排人氣啦啦隊成員卉妮於 10 月 31 日擔任一日店長，為開幕活動增添話題與亮點。</p>
-<p>活動當天，卉妮將透過趣味問答、產品體驗及限量粉絲合照等方式與現場民眾互動，邀請粉絲近距離感受 Anker 產品的特色與魅力。</p>
-<p>隨著全台首間體驗店正式開幕，Anker 將持續透過實體空間串聯旗下不同產品與應用場景，讓消費者從個人日常到家庭生活，都能親自探索創新科技帶來的便利，進一步實踐品牌以創新提升生活體驗的理念。</p>
-<p><a name="六大優惠活動一覽"></a></p><h2><strong>六大優惠活動一覽</strong></h2>
-<table><tbody><tr><td><strong>活動名稱</strong></td><td><strong>活動時間</strong></td><td colspan="2"><strong>優惠內容</strong></td></tr><tr><td><strong>【優惠 1】</strong> <strong>Anker Nano A121D 45W</strong> <strong>螢幕充電器</strong> <strong>1</strong><strong>折排隊活動</strong></td><td>活動日期： 10/29（四）10/31（六）</td><td colspan="2">Anker Nano A121D 45W 螢幕充電器（1 折）原價 <s>NT$990</s> 優惠價 NT$99，每日限量 50 顆，每人限購 1 顆。 <strong>＊本排隊搶購活動為獨立優惠</strong> <strong>不適用店內其他優惠、滿額贈及相關促銷活動。</strong><strong></strong></td></tr><tr><td rowspan="4"><strong>【優惠 2】</strong> <strong>精選明星商品</strong> <strong>限時優惠 75 折</strong></td><td rowspan="4">活動期間： 10/29（四）至 11/1（日）</td><td colspan="2"><strong>Anker MagGo A1664</strong> <strong>超薄磁吸行動電源 10000mAh Qi2 30W</strong>（約 75 折）原價 <s>NT$1,990</s> 優惠價 NT$1,490&nbsp; 每日限量 20 組</td></tr><tr><td colspan="2"><strong>Anker eufy Omni S2 12</strong><strong>合 1 自清潔 AI 滾筒掃拖機器人</strong>（約 56 折）<s>原價 NT$49,990</s> 優惠價 NT$27,990，每日限量 10 組</td></tr><tr><td colspan="2"><strong>Anker eufyMake E1 3D</strong> <strong>紋理 UV 印刷機套組</strong>（約 81 折）<s></s> <s>原價 NT$119,997</s> 優惠價 NT$96,998，每日限量 3 組</td></tr><tr><td colspan="2"><strong>Anker soundcore Liberty 5 Pro Max AI</strong><strong>降噪真無線藍牙耳機深空黑</strong>（約 75 折）<br><s>原價 NT$7,490</s> 優惠價 NT$5,617，每日限量 5 台</td></tr><tr><td rowspan="4"><strong>【優惠 3】</strong> <strong>店內消費</strong> <strong>滿額贈好禮</strong></td><td rowspan="4">活動期間： 10/29（四）至 11/30（一）</td><td colspan="2"><strong>單筆滿 NT$2,000</strong> 贈 Anker 磁吸小燈乙個（價值 NT$390）。</td></tr><tr><td colspan="2"><strong>單筆滿 NT$3,000</strong> 贈 Anker A82E2 240W 1.8M 極耐用 USB-C 充電線乙條（價值 NT$419）</td></tr><tr><td colspan="2"><strong>單筆滿 NT$6,000</strong> 贈 Anker Nano A1653 5000mAh 22.5W 直插式行動電源乙個（價值 NT$690）。</td></tr><tr><td colspan="2"><strong>單筆滿 NT$9,000</strong> 贈 Anker soundcore Select 4 Go 防水可攜式藍牙喇叭乙個（價值 NT$990）。</td></tr><tr><td><strong>【優惠 4】</strong> <strong>全館</strong> <strong>指定商品</strong> <strong>9</strong><strong>折起</strong></td><td>活動期間： 10/29（四）至 11/30（一）</td><td>活動期間：10/29（四）～11/30（一）活動期間於 Anker 台北信義威秀體驗店購買指定商品，即享 9 折起優惠。 ＊優惠適用商品及實際折扣依門市現場公告為準。</td><td>&nbsp;</td></tr><tr><td rowspan="7"><strong>【優惠 5】</strong> <strong>指定商品</strong> <strong>超值加價購</strong></td><td rowspan="7">活動期間： 10/29（四）至 11/30（一）</td><td colspan="2">購買 <strong>Anker eufy Omni S2 12 合 1 自清潔 AI 滾筒掃拖機器人</strong> S2 配件包 原價 <s>NT$4,457</s> 加購價 NT$1</td></tr><tr><td colspan="2"><strong>購買 Anker eufy Omni E25 自清潔掃拖一體全能機器人</strong> E25 配件包 原價 <s>$3,440</s>&nbsp; 加購價 NT$1&nbsp;</td></tr><tr><td colspan="2"><strong>購買 Anker eufy Omni C28 自清潔掃拖一體全能機器人</strong> C28 配件包 原價 <s>$4,130</s> 加購價 NT$1</td></tr><tr><td colspan="2"><strong>Anker A82E2 240W</strong> <strong>極耐用 USB-C 充電線 0.9M</strong><br>原價 <s>NT$369</s> 加購價 NT$199</td></tr><tr><td colspan="2"><strong>Anker Nano A1653 5000mAh 22.5W</strong> <strong>直插式行動電源</strong><br>原價 <s>NT$690</s> 加購價 NT$399</td></tr><tr><td colspan="2"><strong>Anker soundcore 2</strong> <strong>防水可攜式藍牙喇叭</strong><br>原價 <s>NT$1,290</s> 加購價 NT$999</td></tr><tr><td colspan="2"><strong>Anker soundcore K20i</strong> <strong>半入耳式藍牙耳機</strong><br>原價 <s>NT$990</s> 加購價 NT$699</td></tr><tr><td><strong>【優惠 6】</strong> <strong>憑威秀影城</strong> <strong>電影票根</strong> <strong>享 NT$50</strong> <strong>折抵優惠</strong></td><td>活動期間： 10/29（四）至 11/30（一）</td><td>活動期間憑當日威秀影城電影票根，至 Anker 信義威秀體驗店消費 單筆消費滿 NT$500 現折 NT$50！ ＊每張票根限使用乙次，每筆消費僅能使用乙次。</td><td>&nbsp;</td></tr></tbody></table>]]>
-    </itunes:summary>
-    <description>
-      <![CDATA[<br><p>Anker Innovations 今年 9 月宣布旗下 Anker 、 soundcore 、 eufy 、 eufymake 與 SOLIX 五大品牌整合為統一的「Anker」品牌，持續以創新科技拓展智慧生活應用。如今，Anker 進一步深耕台灣實體零售市場，於台北信義威秀開設全台首間體驗店，以「個人日常（Personal）」與「居家生活（Home）」為兩大主軸，規劃涵蓋創作、工作效率、娛樂、健康、能源、安全、清潔及影音娛樂的 8 大生活情境，讓消費者透過實際體驗，探索科技如何融入日常生活。</p>
-<div> <img fetchpriority="high" src="https://www.ahui3c.com/wp-content/uploads/2026/10/anker-1-scaled.jpg" alt="Anker 全台首間體驗店進駐信義威秀　8 大生活情境打造沉浸式科技體驗　開幕六重優惠登場！A121D 45W 螢幕充電器限量 1 折搶購、明星商品最低 56 折　人氣啦啦隊卉妮 10 月 31 日擔任一日店長" title="Anker 全台首間體驗店進駐信義威秀　8 大生活情境打造沉浸式科技體驗　開幕六重優惠登場！A121D 45W 螢幕充電器限量 1 折搶購、明星商品最低 56 折　人氣啦啦隊卉妮 10 月 31 日擔任一日店長"></div><p>為歡慶體驗店開幕，Anker 自 10 月 29 日起推出開幕六重優惠，包含超人氣 Anker Nano A121D 45W 螢幕充電器限時限量 1 折排隊搶購、精選明星商品最低 56 折起、全館指定商品優惠、消費滿額贈及加價購等活動，並推出憑威秀影城電影票根折抵 50 元的專屬優惠。此外，10 月 31 日更邀請人氣啦啦隊成員卉妮擔任一日店長，透過現場互動、產品體驗及限量合照活動，與粉絲近距離交流。</p>
-<p><a name="Anker首間體驗店登陸信義威秀　8大生活情境一次探索"></a></p><h2>Anker 首間體驗店登陸信義威秀　8 大生活情境一次探索</h2>
-<p>Anker 以充電、音訊、智慧家庭及創新科技產品聞名，透過此次體驗店的設立，進一步拓展台灣實體通路布局。店內採用沉浸式空間規劃，將旗下產品依照不同生活需求分類，讓消費者不只能近距離認識產品特色，也能實際感受科技如何為個人生活與家庭日常帶來便利。</p>
-<div> <img src="https://www.ahui3c.com/wp-content/uploads/2026/10/anker-4-scaled.jpg" alt="Anker 全台首間體驗店進駐信義威秀　8 大生活情境打造沉浸式科技體驗　開幕六重優惠登場！A121D 45W 螢幕充電器限量 1 折搶購、明星商品最低 56 折　人氣啦啦隊卉妮 10 月 31 日擔任一日店長" title="Anker 全台首間體驗店進駐信義威秀　8 大生活情境打造沉浸式科技體驗　開幕六重優惠登場！A121D 45W 螢幕充電器限量 1 折搶購、明星商品最低 56 折　人氣啦啦隊卉妮 10 月 31 日擔任一日店長"></div><p>體驗店以「個人日常」及「居家生活」為兩大核心，分別規劃四大應用情境，從個人創作、工作效率到家庭能源管理、居家安全與清潔，呈現科技產品在不同生活場景中的應用。</p>
-<p><a name="個人日常：從創作、工作到健康照護"></a></p><h3>個人日常：從創作、工作到健康照護</h3>
-<p>「個人日常」區域聚焦個人生活與工作需求，涵蓋「創造」、「效能」、「盡興」及「身心」四大情境。</p>
-<p>在「創造」情境中，消費者可體驗個人 3D 紋理 UV 印表機，將創意構想與設計靈感轉化為實際作品，探索個人化創作的更多可能。「效能」則整合高效充電設備與智慧耳機等產品，滿足日常辦公、遠端會議及通勤需求，協助使用者維持工作效率，隨時掌握充足電力。</p>
-<p>針對旅行、戶外活動與休閒娛樂，「盡興」情境展示行動電源及藍牙音響等產品，讓使用者在外出期間也能輕鬆補充電力、享受音樂與娛樂體驗。「身心」則著重睡眠品質、身心健康與日常照護，透過睡眠耳機、吸乳器等科技產品，呈現創新科技在個人健康與生活品質上的應用。</p>
-<p><a name="居家生活：智慧能源、安全、清潔與娛樂全面升級"></a></p><h3>居家生活：智慧能源、安全、清潔與娛樂全面升級</h3>
-<p>「居家生活」區域則以家庭需求為出發點，規劃「能源」、「安全」、「清潔」及「娛樂」四大情境，讓智慧科技延伸至居家環境的各個角落。</p>
-<p>「能源」情境透過智慧電力管理設備，協助使用者掌握日常用電與能源管理需求；「安全」則整合智慧攝影機、智慧門鎖等設備，讓使用者即使外出，也能隨時掌握居家狀況，提升家庭生活的安心感。</p>
-<p>在家務處理方面，「清潔」情境展示智慧掃拖機器人，透過自動化清潔功能減輕日常打掃負擔；「娛樂」則結合音響與投影設備，打造更具沉浸感的家庭影音空間，無論是週末電影夜、親友聚會或日常休閒，都能享受豐富的影音娛樂體驗。</p>
-<p>透過 8 大生活情境的整合，Anker 希望讓消費者從實際需求出發，找到適合自己的科技產品，進一步體驗創新科技為個人與家庭生活帶來的改變。</p>
-<p><a name="開幕六重優惠開跑　A121D充電器限量1折、明星商品最低56折"></a></p><h2>開幕六重優惠開跑　A121D 充電器限量 1 折、明星商品最低 56 折</h2>
-<p>配合信義威秀體驗店開幕，Anker 自 10 月 29 日起推出一系列限時優惠。其中，Anker Nano A121D 45W 螢幕充電器祭出限量 1 折排隊搶購活動，開幕首日便吸引大批消費者提前到場排隊，現場人氣熱絡。</p>
-<p>此外，10 月 29 日至 11 月 1 日開幕首週期間，多款人氣商品同步推出限時優惠，最低 56 折起，涵蓋行動充電、智慧家庭、個人創作及音訊等不同產品類別，包括：</p>
-<ul>
-<li>Anker MagGo A1664 超薄磁吸行動電源，10000mAh 、 Qi2 30W</li>
-<li>Anker eufy Omni S2 12 合 1 自清潔 AI 滾筒掃拖機器人</li>
-<li>Anker eufyMake E1 3D 紋理 UV 印刷機套組</li>
-<li>Anker soundcore Liberty 5 Pro Max AI 降噪真無線藍牙耳機</li>
-</ul>
-<p>消費者可趁開幕期間入手多款熱門科技產品，以優惠價格升級日常充電配備、影音體驗及智慧居家生活。</p>
-<p>除了開幕首週的限時優惠外，Anker 也同步推出延續至 11 月 30 日的多項活動，包括全館指定商品 9 折起、消費滿額贈、指定商品加價購，以及憑威秀影城電影票根折抵 50 元等優惠。無論是前往影城觀影，或是想親自體驗最新科技產品，都能順道造訪 Anker 體驗店，享受購物與體驗兼具的行程。</p>
-<p><a name="卉妮10月31日化身一日店長　趣味互動與粉絲近距離交流"></a></p><h2>卉妮 10 月 31 日化身一日店長　趣味互動與粉絲近距離交流</h2>
-<p>除了開幕優惠，Anker 也安排人氣啦啦隊成員卉妮於 10 月 31 日擔任一日店長，為開幕活動增添話題與亮點。</p>
-<p>活動當天，卉妮將透過趣味問答、產品體驗及限量粉絲合照等方式與現場民眾互動，邀請粉絲近距離感受 Anker 產品的特色與魅力。</p>
-<p>隨著全台首間體驗店正式開幕，Anker 將持續透過實體空間串聯旗下不同產品與應用場景，讓消費者從個人日常到家庭生活，都能親自探索創新科技帶來的便利，進一步實踐品牌以創新提升生活體驗的理念。</p>
-<p><a name="六大優惠活動一覽"></a></p><h2><strong>六大優惠活動一覽</strong></h2>
-<table><tbody><tr><td><strong>活動名稱</strong></td><td><strong>活動時間</strong></td><td colspan="2"><strong>優惠內容</strong></td></tr><tr><td><strong>【優惠 1】</strong> <strong>Anker Nano A121D 45W</strong> <strong>螢幕充電器</strong> <strong>1</strong><strong>折排隊活動</strong></td><td>活動日期： 10/29（四）10/31（六）</td><td colspan="2">Anker Nano A121D 45W 螢幕充電器（1 折）原價 <s>NT$990</s> 優惠價 NT$99，每日限量 50 顆，每人限購 1 顆。 <strong>＊本排隊搶購活動為獨立優惠</strong> <strong>不適用店內其他優惠、滿額贈及相關促銷活動。</strong><strong></strong></td></tr><tr><td rowspan="4"><strong>【優惠 2】</strong> <strong>精選明星商品</strong> <strong>限時優惠 75 折</strong></td><td rowspan="4">活動期間： 10/29（四）至 11/1（日）</td><td colspan="2"><strong>Anker MagGo A1664</strong> <strong>超薄磁吸行動電源 10000mAh Qi2 30W</strong>（約 75 折）原價 <s>NT$1,990</s> 優惠價 NT$1,490&nbsp; 每日限量 20 組</td></tr><tr><td colspan="2"><strong>Anker eufy Omni S2 12</strong><strong>合 1 自清潔 AI 滾筒掃拖機器人</strong>（約 56 折）<s>原價 NT$49,990</s> 優惠價 NT$27,990，每日限量 10 組</td></tr><tr><td colspan="2"><strong>Anker eufyMake E1 3D</strong> <strong>紋理 UV 印刷機套組</strong>（約 81 折）<s></s> <s>原價 NT$119,997</s> 優惠價 NT$96,998，每日限量 3 組</td></tr><tr><td colspan="2"><strong>Anker soundcore Liberty 5 Pro Max AI</strong><strong>降噪真無線藍牙耳機深空黑</strong>（約 75 折）<br><s>原價 NT$7,490</s> 優惠價 NT$5,617，每日限量 5 台</td></tr><tr><td rowspan="4"><strong>【優惠 3】</strong> <strong>店內消費</strong> <strong>滿額贈好禮</strong></td><td rowspan="4">活動期間： 10/29（四）至 11/30（一）</td><td colspan="2"><strong>單筆滿 NT$2,000</strong> 贈 Anker 磁吸小燈乙個（價值 NT$390）。</td></tr><tr><td colspan="2"><strong>單筆滿 NT$3,000</strong> 贈 Anker A82E2 240W 1.8M 極耐用 USB-C 充電線乙條（價值 NT$419）</td></tr><tr><td colspan="2"><strong>單筆滿 NT$6,000</strong> 贈 Anker Nano A1653 5000mAh 22.5W 直插式行動電源乙個（價值 NT$690）。</td></tr><tr><td colspan="2"><strong>單筆滿 NT$9,000</strong> 贈 Anker soundcore Select 4 Go 防水可攜式藍牙喇叭乙個（價值 NT$990）。</td></tr><tr><td><strong>【優惠 4】</strong> <strong>全館</strong> <strong>指定商品</strong> <strong>9</strong><strong>折起</strong></td><td>活動期間： 10/29（四）至 11/30（一）</td><td>活動期間：10/29（四）～11/30（一）活動期間於 Anker 台北信義威秀體驗店購買指定商品，即享 9 折起優惠。 ＊優惠適用商品及實際折扣依門市現場公告為準。</td><td>&nbsp;</td></tr><tr><td rowspan="7"><strong>【優惠 5】</strong> <strong>指定商品</strong> <strong>超值加價購</strong></td><td rowspan="7">活動期間： 10/29（四）至 11/30（一）</td><td colspan="2">購買 <strong>Anker eufy Omni S2 12 合 1 自清潔 AI 滾筒掃拖機器人</strong> S2 配件包 原價 <s>NT$4,457</s> 加購價 NT$1</td></tr><tr><td colspan="2"><strong>購買 Anker eufy Omni E25 自清潔掃拖一體全能機器人</strong> E25 配件包 原價 <s>$3,440</s>&nbsp; 加購價 NT$1&nbsp;</td></tr><tr><td colspan="2"><strong>購買 Anker eufy Omni C28 自清潔掃拖一體全能機器人</strong> C28 配件包 原價 <s>$4,130</s> 加購價 NT$1</td></tr><tr><td colspan="2"><strong>Anker A82E2 240W</strong> <strong>極耐用 USB-C 充電線 0.9M</strong><br>原價 <s>NT$369</s> 加購價 NT$199</td></tr><tr><td colspan="2"><strong>Anker Nano A1653 5000mAh 22.5W</strong> <strong>直插式行動電源</strong><br>原價 <s>NT$690</s> 加購價 NT$399</td></tr><tr><td colspan="2"><strong>Anker soundcore 2</strong> <strong>防水可攜式藍牙喇叭</strong><br>原價 <s>NT$1,290</s> 加購價 NT$999</td></tr><tr><td colspan="2"><strong>Anker soundcore K20i</strong> <strong>半入耳式藍牙耳機</strong><br>原價 <s>NT$990</s> 加購價 NT$699</td></tr><tr><td><strong>【優惠 6】</strong> <strong>憑威秀影城</strong> <strong>電影票根</strong> <strong>享 NT$50</strong> <strong>折抵優惠</strong></td><td>活動期間： 10/29（四）至 11/30（一）</td><td>活動期間憑當日威秀影城電影票根，至 Anker 信義威秀體驗店消費 單筆消費滿 NT$500 現折 NT$50！ ＊每張票根限使用乙次，每筆消費僅能使用乙次。</td><td>&nbsp;</td></tr></tbody></table>]]>
-    </description>
-    <content:encoded><![CDATA[<br><p>Anker Innovations 今年 9 月宣布旗下 Anker 、 soundcore 、 eufy 、 eufymake 與 SOLIX 五大品牌整合為統一的「Anker」品牌，持續以創新科技拓展智慧生活應用。如今，Anker 進一步深耕台灣實體零售市場，於台北信義威秀開設全台首間體驗店，以「個人日常（Personal）」與「居家生活（Home）」為兩大主軸，規劃涵蓋創作、工作效率、娛樂、健康、能源、安全、清潔及影音娛樂的 8 大生活情境，讓消費者透過實際體驗，探索科技如何融入日常生活。</p>
-<div> <img fetchpriority="high" src="https://www.ahui3c.com/wp-content/uploads/2026/10/anker-1-scaled.jpg" alt="Anker 全台首間體驗店進駐信義威秀　8 大生活情境打造沉浸式科技體驗　開幕六重優惠登場！A121D 45W 螢幕充電器限量 1 折搶購、明星商品最低 56 折　人氣啦啦隊卉妮 10 月 31 日擔任一日店長" title="Anker 全台首間體驗店進駐信義威秀　8 大生活情境打造沉浸式科技體驗　開幕六重優惠登場！A121D 45W 螢幕充電器限量 1 折搶購、明星商品最低 56 折　人氣啦啦隊卉妮 10 月 31 日擔任一日店長"></div><p>為歡慶體驗店開幕，Anker 自 10 月 29 日起推出開幕六重優惠，包含超人氣 Anker Nano A121D 45W 螢幕充電器限時限量 1 折排隊搶購、精選明星商品最低 56 折起、全館指定商品優惠、消費滿額贈及加價購等活動，並推出憑威秀影城電影票根折抵 50 元的專屬優惠。此外，10 月 31 日更邀請人氣啦啦隊成員卉妮擔任一日店長，透過現場互動、產品體驗及限量合照活動，與粉絲近距離交流。</p>
-<p><a name="Anker首間體驗店登陸信義威秀　8大生活情境一次探索"></a></p><h2>Anker 首間體驗店登陸信義威秀　8 大生活情境一次探索</h2>
-<p>Anker 以充電、音訊、智慧家庭及創新科技產品聞名，透過此次體驗店的設立，進一步拓展台灣實體通路布局。店內採用沉浸式空間規劃，將旗下產品依照不同生活需求分類，讓消費者不只能近距離認識產品特色，也能實際感受科技如何為個人生活與家庭日常帶來便利。</p>
-<div> <img src="https://www.ahui3c.com/wp-content/uploads/2026/10/anker-4-scaled.jpg" alt="Anker 全台首間體驗店進駐信義威秀　8 大生活情境打造沉浸式科技體驗　開幕六重優惠登場！A121D 45W 螢幕充電器限量 1 折搶購、明星商品最低 56 折　人氣啦啦隊卉妮 10 月 31 日擔任一日店長" title="Anker 全台首間體驗店進駐信義威秀　8 大生活情境打造沉浸式科技體驗　開幕六重優惠登場！A121D 45W 螢幕充電器限量 1 折搶購、明星商品最低 56 折　人氣啦啦隊卉妮 10 月 31 日擔任一日店長"></div><p>體驗店以「個人日常」及「居家生活」為兩大核心，分別規劃四大應用情境，從個人創作、工作效率到家庭能源管理、居家安全與清潔，呈現科技產品在不同生活場景中的應用。</p>
-<p><a name="個人日常：從創作、工作到健康照護"></a></p><h3>個人日常：從創作、工作到健康照護</h3>
-<p>「個人日常」區域聚焦個人生活與工作需求，涵蓋「創造」、「效能」、「盡興」及「身心」四大情境。</p>
-<p>在「創造」情境中，消費者可體驗個人 3D 紋理 UV 印表機，將創意構想與設計靈感轉化為實際作品，探索個人化創作的更多可能。「效能」則整合高效充電設備與智慧耳機等產品，滿足日常辦公、遠端會議及通勤需求，協助使用者維持工作效率，隨時掌握充足電力。</p>
-<p>針對旅行、戶外活動與休閒娛樂，「盡興」情境展示行動電源及藍牙音響等產品，讓使用者在外出期間也能輕鬆補充電力、享受音樂與娛樂體驗。「身心」則著重睡眠品質、身心健康與日常照護，透過睡眠耳機、吸乳器等科技產品，呈現創新科技在個人健康與生活品質上的應用。</p>
-<p><a name="居家生活：智慧能源、安全、清潔與娛樂全面升級"></a></p><h3>居家生活：智慧能源、安全、清潔與娛樂全面升級</h3>
-<p>「居家生活」區域則以家庭需求為出發點，規劃「能源」、「安全」、「清潔」及「娛樂」四大情境，讓智慧科技延伸至居家環境的各個角落。</p>
-<p>「能源」情境透過智慧電力管理設備，協助使用者掌握日常用電與能源管理需求；「安全」則整合智慧攝影機、智慧門鎖等設備，讓使用者即使外出，也能隨時掌握居家狀況，提升家庭生活的安心感。</p>
-<p>在家務處理方面，「清潔」情境展示智慧掃拖機器人，透過自動化清潔功能減輕日常打掃負擔；「娛樂」則結合音響與投影設備，打造更具沉浸感的家庭影音空間，無論是週末電影夜、親友聚會或日常休閒，都能享受豐富的影音娛樂體驗。</p>
-<p>透過 8 大生活情境的整合，Anker 希望讓消費者從實際需求出發，找到適合自己的科技產品，進一步體驗創新科技為個人與家庭生活帶來的改變。</p>
-<p><a name="開幕六重優惠開跑　A121D充電器限量1折、明星商品最低56折"></a></p><h2>開幕六重優惠開跑　A121D 充電器限量 1 折、明星商品最低 56 折</h2>
-<p>配合信義威秀體驗店開幕，Anker 自 10 月 29 日起推出一系列限時優惠。其中，Anker Nano A121D 45W 螢幕充電器祭出限量 1 折排隊搶購活動，開幕首日便吸引大批消費者提前到場排隊，現場人氣熱絡。</p>
-<p>此外，10 月 29 日至 11 月 1 日開幕首週期間，多款人氣商品同步推出限時優惠，最低 56 折起，涵蓋行動充電、智慧家庭、個人創作及音訊等不同產品類別，包括：</p>
-<ul>
-<li>Anker MagGo A1664 超薄磁吸行動電源，10000mAh 、 Qi2 30W</li>
-<li>Anker eufy Omni S2 12 合 1 自清潔 AI 滾筒掃拖機器人</li>
-<li>Anker eufyMake E1 3D 紋理 UV 印刷機套組</li>
-<li>Anker soundcore Liberty 5 Pro Max AI 降噪真無線藍牙耳機</li>
-</ul>
-<p>消費者可趁開幕期間入手多款熱門科技產品，以優惠價格升級日常充電配備、影音體驗及智慧居家生活。</p>
-<p>除了開幕首週的限時優惠外，Anker 也同步推出延續至 11 月 30 日的多項活動，包括全館指定商品 9 折起、消費滿額贈、指定商品加價購，以及憑威秀影城電影票根折抵 50 元等優惠。無論是前往影城觀影，或是想親自體驗最新科技產品，都能順道造訪 Anker 體驗店，享受購物與體驗兼具的行程。</p>
-<p><a name="卉妮10月31日化身一日店長　趣味互動與粉絲近距離交流"></a></p><h2>卉妮 10 月 31 日化身一日店長　趣味互動與粉絲近距離交流</h2>
-<p>除了開幕優惠，Anker 也安排人氣啦啦隊成員卉妮於 10 月 31 日擔任一日店長，為開幕活動增添話題與亮點。</p>
-<p>活動當天，卉妮將透過趣味問答、產品體驗及限量粉絲合照等方式與現場民眾互動，邀請粉絲近距離感受 Anker 產品的特色與魅力。</p>
-<p>隨著全台首間體驗店正式開幕，Anker 將持續透過實體空間串聯旗下不同產品與應用場景，讓消費者從個人日常到家庭生活，都能親自探索創新科技帶來的便利，進一步實踐品牌以創新提升生活體驗的理念。</p>
-<p><a name="六大優惠活動一覽"></a></p><h2><strong>六大優惠活動一覽</strong></h2>
-<table><tbody><tr><td><strong>活動名稱</strong></td><td><strong>活動時間</strong></td><td colspan="2"><strong>優惠內容</strong></td></tr><tr><td><strong>【優惠 1】</strong> <strong>Anker Nano A121D 45W</strong> <strong>螢幕充電器</strong> <strong>1</strong><strong>折排隊活動</strong></td><td>活動日期： 10/29（四）10/31（六）</td><td colspan="2">Anker Nano A121D 45W 螢幕充電器（1 折）原價 <s>NT$990</s> 優惠價 NT$99，每日限量 50 顆，每人限購 1 顆。 <strong>＊本排隊搶購活動為獨立優惠</strong> <strong>不適用店內其他優惠、滿額贈及相關促銷活動。</strong><strong></strong></td></tr><tr><td rowspan="4"><strong>【優惠 2】</strong> <strong>精選明星商品</strong> <strong>限時優惠 75 折</strong></td><td rowspan="4">活動期間： 10/29（四）至 11/1（日）</td><td colspan="2"><strong>Anker MagGo A1664</strong> <strong>超薄磁吸行動電源 10000mAh Qi2 30W</strong>（約 75 折）原價 <s>NT$1,990</s> 優惠價 NT$1,490&nbsp; 每日限量 20 組</td></tr><tr><td colspan="2"><strong>Anker eufy Omni S2 12</strong><strong>合 1 自清潔 AI 滾筒掃拖機器人</strong>（約 56 折）<s>原價 NT$49,990</s> 優惠價 NT$27,990，每日限量 10 組</td></tr><tr><td colspan="2"><strong>Anker eufyMake E1 3D</strong> <strong>紋理 UV 印刷機套組</strong>（約 81 折）<s></s> <s>原價 NT$119,997</s> 優惠價 NT$96,998，每日限量 3 組</td></tr><tr><td colspan="2"><strong>Anker soundcore Liberty 5 Pro Max AI</strong><strong>降噪真無線藍牙耳機深空黑</strong>（約 75 折）<br><s>原價 NT$7,490</s> 優惠價 NT$5,617，每日限量 5 台</td></tr><tr><td rowspan="4"><strong>【優惠 3】</strong> <strong>店內消費</strong> <strong>滿額贈好禮</strong></td><td rowspan="4">活動期間： 10/29（四）至 11/30（一）</td><td colspan="2"><strong>單筆滿 NT$2,000</strong> 贈 Anker 磁吸小燈乙個（價值 NT$390）。</td></tr><tr><td colspan="2"><strong>單筆滿 NT$3,000</strong> 贈 Anker A82E2 240W 1.8M 極耐用 USB-C 充電線乙條（價值 NT$419）</td></tr><tr><td colspan="2"><strong>單筆滿 NT$6,000</strong> 贈 Anker Nano A1653 5000mAh 22.5W 直插式行動電源乙個（價值 NT$690）。</td></tr><tr><td colspan="2"><strong>單筆滿 NT$9,000</strong> 贈 Anker soundcore Select 4 Go 防水可攜式藍牙喇叭乙個（價值 NT$990）。</td></tr><tr><td><strong>【優惠 4】</strong> <strong>全館</strong> <strong>指定商品</strong> <strong>9</strong><strong>折起</strong></td><td>活動期間： 10/29（四）至 11/30（一）</td><td>活動期間：10/29（四）～11/30（一）活動期間於 Anker 台北信義威秀體驗店購買指定商品，即享 9 折起優惠。 ＊優惠適用商品及實際折扣依門市現場公告為準。</td><td>&nbsp;</td></tr><tr><td rowspan="7"><strong>【優惠 5】</strong> <strong>指定商品</strong> <strong>超值加價購</strong></td><td rowspan="7">活動期間： 10/29（四）至 11/30（一）</td><td colspan="2">購買 <strong>Anker eufy Omni S2 12 合 1 自清潔 AI 滾筒掃拖機器人</strong> S2 配件包 原價 <s>NT$4,457</s> 加購價 NT$1</td></tr><tr><td colspan="2"><strong>購買 Anker eufy Omni E25 自清潔掃拖一體全能機器人</strong> E25 配件包 原價 <s>$3,440</s>&nbsp; 加購價 NT$1&nbsp;</td></tr><tr><td colspan="2"><strong>購買 Anker eufy Omni C28 自清潔掃拖一體全能機器人</strong> C28 配件包 原價 <s>$4,130</s> 加購價 NT$1</td></tr><tr><td colspan="2"><strong>Anker A82E2 240W</strong> <strong>極耐用 USB-C 充電線 0.9M</strong><br>原價 <s>NT$369</s> 加購價 NT$199</td></tr><tr><td colspan="2"><strong>Anker Nano A1653 5000mAh 22.5W</strong> <strong>直插式行動電源</strong><br>原價 <s>NT$690</s> 加購價 NT$399</td></tr><tr><td colspan="2"><strong>Anker soundcore 2</strong> <strong>防水可攜式藍牙喇叭</strong><br>原價 <s>NT$1,290</s> 加購價 NT$999</td></tr><tr><td colspan="2"><strong>Anker soundcore K20i</strong> <strong>半入耳式藍牙耳機</strong><br>原價 <s>NT$990</s> 加購價 NT$699</td></tr><tr><td><strong>【優惠 6】</strong> <strong>憑威秀影城</strong> <strong>電影票根</strong> <strong>享 NT$50</strong> <strong>折抵優惠</strong></td><td>活動期間： 10/29（四）至 11/30（一）</td><td>活動期間憑當日威秀影城電影票根，至 Anker 信義威秀體驗店消費 單筆消費滿 NT$500 現折 NT$50！ ＊每張票根限使用乙次，每筆消費僅能使用乙次。</td><td>&nbsp;</td></tr></tbody></table>]]></content:encoded>
-    
-    <pubDate>Fri, 30 Oct 2026 02:16:06 +0000</pubDate>
   </item></channel>
 </rss>
