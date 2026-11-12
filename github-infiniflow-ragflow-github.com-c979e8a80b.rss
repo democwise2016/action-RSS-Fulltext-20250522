@@ -3,7 +3,7 @@
     <title><![CDATA[RagFlow Release [GH][RSS+]]]></title>
     <link>https://github.com/infiniflow/ragflow/releases.atom</link>
     <image>
-      <url>https://fastly.picsum.photos/id/867/800/800.jpg?hmac=D9jzjAep8_znPPeF-n0XXnzhVkM55GNOAUlGJDYoA5Q</url>
+      <url>https://picsum.photos/800/800?random</url>
       <title>RagFlow Release [GH][RSS+]</title>
       <link>https://github.com/infiniflow/ragflow/releases.atom</link>
     </image>
@@ -28,22 +28,8 @@
     <itunes:owner>
       <itunes:name><![CDATA[RagFlow Release [GH][RSS+]]]></itunes:name>
     </itunes:owner>
-    <itunes:image href="https://fastly.picsum.photos/id/867/800/800.jpg?hmac=D9jzjAep8_znPPeF-n0XXnzhVkM55GNOAUlGJDYoA5Q"/>
+    <itunes:image href="https://picsum.photos/800/800?random"/>
 <item>
-    <title><![CDATA[Nightly 版本於 2026 年 11 月 11 日由 d58a5b5 建立]]></title>
-    <link>https://github.com/infiniflow/ragflow/releases/tag/nightly</link>
-    <itunes:title><![CDATA[Nightly 版本於 2026 年 11 月 11 日由 d58a5b5 建立]]></itunes:title>
-    <itunes:author><![CDATA[yuzhichang]]></itunes:author>
-    <itunes:summary>
-      <![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/d58a5b52910df7fb95d7b624859dfb546bfe2ae8/hovercard" href="https://github.com/infiniflow/ragflow/commit/d58a5b52910df7fb95d7b624859dfb546bfe2ae8"><tt>d58a5b5</tt></a> at 2026-11-11 13:13:29+00:00</p>]]>
-    </itunes:summary>
-    <description>
-      <![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/d58a5b52910df7fb95d7b624859dfb546bfe2ae8/hovercard" href="https://github.com/infiniflow/ragflow/commit/d58a5b52910df7fb95d7b624859dfb546bfe2ae8"><tt>d58a5b5</tt></a> at 2026-11-11 13:13:29+00:00</p>]]>
-    </description>
-    <content:encoded><![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/d58a5b52910df7fb95d7b624859dfb546bfe2ae8/hovercard" href="https://github.com/infiniflow/ragflow/commit/d58a5b52910df7fb95d7b624859dfb546bfe2ae8"><tt>d58a5b5</tt></a> at 2026-11-11 13:13:29+00:00</p>]]></content:encoded>
-    
-    <pubDate>2026-11-11T13:13:34.000Z</pubDate>
-  </item><item>
     <title><![CDATA[管理後台重構：為租戶指派角色]]></title>
     <link>https://github.com/infiniflow/ragflow/releases/tag/dev-20261111-1</link>
     <itunes:title><![CDATA[管理後台重構：為租戶指派角色]]></itunes:title>
@@ -113,19 +99,5 @@
     <content:encoded><![CDATA[<p>Feature: observability OSS stub (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6282617029" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/22168" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/22168/hovercard" href="https://github.com/infiniflow/ragflow/pull/22168">#22168</a>)</p>]]></content:encoded>
     
     <pubDate>2026-11-09T08:36:55.000Z</pubDate>
-  </item><item>
-    <title><![CDATA[修正模型設定：移除 Claude 不支援的取樣參數]]></title>
-    <link>https://github.com/infiniflow/ragflow/releases/tag/dev-20261109-1</link>
-    <itunes:title><![CDATA[修正模型設定：移除 Claude 不支援的取樣參數]]></itunes:title>
-    <itunes:author><![CDATA[pcbeingused333]]></itunes:author>
-    <itunes:summary>
-      <![CDATA[<p>fix(models): drop Claude sampling parameters the model rejects in the…</p>]]>
-    </itunes:summary>
-    <description>
-      <![CDATA[<p>fix(models): drop Claude sampling parameters the model rejects in the…</p>]]>
-    </description>
-    <content:encoded><![CDATA[<p>fix(models): drop Claude sampling parameters the model rejects in the…</p>]]></content:encoded>
-    
-    <pubDate>2026-11-09T03:23:01.000Z</pubDate>
   </item></channel>
 </rss>
