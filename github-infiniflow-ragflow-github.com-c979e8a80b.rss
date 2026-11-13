@@ -30,6 +30,62 @@
     </itunes:owner>
     <itunes:image href="https://picsum.photos/800/800?random"/>
 <item>
+    <title><![CDATA[Nightly 每夜版本發布：基於 f9a53a3 於 2026-11-13 釋出]]></title>
+    <link>https://github.com/infiniflow/ragflow/releases/tag/nightly</link>
+    <itunes:title><![CDATA[Nightly 每夜版本發布：基於 f9a53a3 於 2026-11-13 釋出]]></itunes:title>
+    <itunes:author><![CDATA[yuzhichang]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/f9a53a3779a12b5abb8a254ec9384c2af7fae4b4/hovercard" href="https://github.com/infiniflow/ragflow/commit/f9a53a3779a12b5abb8a254ec9384c2af7fae4b4"><tt>f9a53a3</tt></a> at 2026-11-13 13:14:07+00:00</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/f9a53a3779a12b5abb8a254ec9384c2af7fae4b4/hovercard" href="https://github.com/infiniflow/ragflow/commit/f9a53a3779a12b5abb8a254ec9384c2af7fae4b4"><tt>f9a53a3</tt></a> at 2026-11-13 13:14:07+00:00</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/f9a53a3779a12b5abb8a254ec9384c2af7fae4b4/hovercard" href="https://github.com/infiniflow/ragflow/commit/f9a53a3779a12b5abb8a254ec9384c2af7fae4b4"><tt>f9a53a3</tt></a> at 2026-11-13 13:14:07+00:00</p>]]></content:encoded>
+    
+    <pubDate>2026-11-13T13:14:12.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[NATS 拉取容量測試改為鎖定第一優先級通道]]></title>
+    <link>https://github.com/infiniflow/ragflow/releases/tag/dev-20261113</link>
+    <itunes:title><![CDATA[NATS 拉取容量測試改為鎖定第一優先級通道]]></itunes:title>
+    <itunes:author><![CDATA[xugangqiang]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>test(nats): target the first priority lane in pull capacity tests (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2039203660" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/2" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/2/hovercard" href="https://github.com/infiniflow/ragflow/pull/2">#2</a>…</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>test(nats): target the first priority lane in pull capacity tests (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2039203660" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/2" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/2/hovercard" href="https://github.com/infiniflow/ragflow/pull/2">#2</a>…</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>test(nats): target the first priority lane in pull capacity tests (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2039203660" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/2" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/2/hovercard" href="https://github.com/infiniflow/ragflow/pull/2">#2</a>…</p>]]></content:encoded>
+    
+    <pubDate>2026-11-13T03:25:32.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[Web專案依賴項更新：升級 minimatch 套件版本 (#22334)]]></title>
+    <link>https://github.com/infiniflow/ragflow/releases/tag/dev-20261113-3</link>
+    <itunes:title><![CDATA[Web專案依賴項更新：升級 minimatch 套件版本 (#22334)]]></itunes:title>
+    <itunes:author><![CDATA[dependabot[bot]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>build(deps): bump minimatch in /web (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6367514983" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/22334" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/22334/hovercard" href="https://github.com/infiniflow/ragflow/pull/22334">#22334</a>)</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>build(deps): bump minimatch in /web (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6367514983" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/22334" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/22334/hovercard" href="https://github.com/infiniflow/ragflow/pull/22334">#22334</a>)</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>build(deps): bump minimatch in /web (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6367514983" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/22334" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/22334/hovercard" href="https://github.com/infiniflow/ragflow/pull/22334">#22334</a>)</p>]]></content:encoded>
+    
+    <pubDate>2026-11-13T08:53:16.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[重構：將 OSS 無操作覆蓋層移至 ee-stub]]></title>
+    <link>https://github.com/infiniflow/ragflow/releases/tag/dev-20261113-2</link>
+    <itunes:title><![CDATA[重構：將 OSS 無操作覆蓋層移至 ee-stub]]></itunes:title>
+    <itunes:author><![CDATA[dcc123456]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>refactor(web): move OSS no-op overlays to ee-stub (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6365427897" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/22321" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/22321/hovercard" href="https://github.com/infiniflow/ragflow/pull/22321">#22321</a>)</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>refactor(web): move OSS no-op overlays to ee-stub (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6365427897" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/22321" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/22321/hovercard" href="https://github.com/infiniflow/ragflow/pull/22321">#22321</a>)</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>refactor(web): move OSS no-op overlays to ee-stub (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6365427897" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/22321" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/22321/hovercard" href="https://github.com/infiniflow/ragflow/pull/22321">#22321</a>)</p>]]></content:encoded>
+    
+    <pubDate>2026-11-13T05:45:25.000Z</pubDate>
+  </item><item>
     <title><![CDATA[管理後台重構：為租戶指派角色]]></title>
     <link>https://github.com/infiniflow/ragflow/releases/tag/dev-20261111-1</link>
     <itunes:title><![CDATA[管理後台重構：為租戶指派角色]]></itunes:title>
@@ -57,47 +113,5 @@
     <content:encoded><![CDATA[<p>fix(web): normalize system version and add header tenant slot (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6303725236" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/22207" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/22207/hovercard" href="https://github.com/infiniflow/ragflow/pull/22207">#22207</a>)</p>]]></content:encoded>
     
     <pubDate>2026-11-10T09:37:42.000Z</pubDate>
-  </item><item>
-    <title><![CDATA[修復模型更新：捨棄 Claude 模型拒絕的取樣參數]]></title>
-    <link>https://github.com/infiniflow/ragflow/releases/tag/dev-20261109</link>
-    <itunes:title><![CDATA[修復模型更新：捨棄 Claude 模型拒絕的取樣參數]]></itunes:title>
-    <itunes:author><![CDATA[pcbeingused333]]></itunes:author>
-    <itunes:summary>
-      <![CDATA[<p>fix(models): drop Claude sampling parameters the model rejects in the…</p>]]>
-    </itunes:summary>
-    <description>
-      <![CDATA[<p>fix(models): drop Claude sampling parameters the model rejects in the…</p>]]>
-    </description>
-    <content:encoded><![CDATA[<p>fix(models): drop Claude sampling parameters the model rejects in the…</p>]]></content:encoded>
-    
-    <pubDate>2026-11-09T03:23:01.000Z</pubDate>
-  </item><item>
-    <title><![CDATA[修復聊天頻道：移除釘釘 sessionWebhook 查詢憑證]]></title>
-    <link>https://github.com/infiniflow/ragflow/releases/tag/dev-20261109-3</link>
-    <itunes:title><![CDATA[修復聊天頻道：移除釘釘 sessionWebhook 查詢憑證]]></itunes:title>
-    <itunes:author><![CDATA[flyingwhit]]></itunes:author>
-    <itunes:summary>
-      <![CDATA[<p>Fix(chatchannel):Strip the DingTalk sessionWebhook query credential f…</p>]]>
-    </itunes:summary>
-    <description>
-      <![CDATA[<p>Fix(chatchannel):Strip the DingTalk sessionWebhook query credential f…</p>]]>
-    </description>
-    <content:encoded><![CDATA[<p>Fix(chatchannel):Strip the DingTalk sessionWebhook query credential f…</p>]]></content:encoded>
-    
-    <pubDate>2026-11-09T11:35:08.000Z</pubDate>
-  </item><item>
-    <title><![CDATA[dev-20261109-2 更新：新增可觀測性開源存根功能 (#22168)]]></title>
-    <link>https://github.com/infiniflow/ragflow/releases/tag/dev-20261109-2</link>
-    <itunes:title><![CDATA[dev-20261109-2 更新：新增可觀測性開源存根功能 (#22168)]]></itunes:title>
-    <itunes:author><![CDATA[wangq8]]></itunes:author>
-    <itunes:summary>
-      <![CDATA[<p>Feature: observability OSS stub (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6282617029" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/22168" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/22168/hovercard" href="https://github.com/infiniflow/ragflow/pull/22168">#22168</a>)</p>]]>
-    </itunes:summary>
-    <description>
-      <![CDATA[<p>Feature: observability OSS stub (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6282617029" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/22168" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/22168/hovercard" href="https://github.com/infiniflow/ragflow/pull/22168">#22168</a>)</p>]]>
-    </description>
-    <content:encoded><![CDATA[<p>Feature: observability OSS stub (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6282617029" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/22168" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/22168/hovercard" href="https://github.com/infiniflow/ragflow/pull/22168">#22168</a>)</p>]]></content:encoded>
-    
-    <pubDate>2026-11-09T08:36:55.000Z</pubDate>
   </item></channel>
 </rss>
