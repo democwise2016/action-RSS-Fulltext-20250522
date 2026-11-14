@@ -30,19 +30,19 @@
     </itunes:owner>
     <itunes:image href="https://picsum.photos/800/800?random"/>
 <item>
-    <title><![CDATA[Nightly 每夜版本發布：基於 f9a53a3 於 2026-11-13 釋出]]></title>
+    <title><![CDATA[Nightly 版本於2026年11月14日由 f9a53a3 建立]]></title>
     <link>https://github.com/infiniflow/ragflow/releases/tag/nightly</link>
-    <itunes:title><![CDATA[Nightly 每夜版本發布：基於 f9a53a3 於 2026-11-13 釋出]]></itunes:title>
+    <itunes:title><![CDATA[Nightly 版本於2026年11月14日由 f9a53a3 建立]]></itunes:title>
     <itunes:author><![CDATA[yuzhichang]]></itunes:author>
     <itunes:summary>
-      <![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/f9a53a3779a12b5abb8a254ec9384c2af7fae4b4/hovercard" href="https://github.com/infiniflow/ragflow/commit/f9a53a3779a12b5abb8a254ec9384c2af7fae4b4"><tt>f9a53a3</tt></a> at 2026-11-13 13:14:07+00:00</p>]]>
+      <![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/f9a53a3779a12b5abb8a254ec9384c2af7fae4b4/hovercard" href="https://github.com/infiniflow/ragflow/commit/f9a53a3779a12b5abb8a254ec9384c2af7fae4b4"><tt>f9a53a3</tt></a> at 2026-11-14 13:10:26+00:00</p>]]>
     </itunes:summary>
     <description>
-      <![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/f9a53a3779a12b5abb8a254ec9384c2af7fae4b4/hovercard" href="https://github.com/infiniflow/ragflow/commit/f9a53a3779a12b5abb8a254ec9384c2af7fae4b4"><tt>f9a53a3</tt></a> at 2026-11-13 13:14:07+00:00</p>]]>
+      <![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/f9a53a3779a12b5abb8a254ec9384c2af7fae4b4/hovercard" href="https://github.com/infiniflow/ragflow/commit/f9a53a3779a12b5abb8a254ec9384c2af7fae4b4"><tt>f9a53a3</tt></a> at 2026-11-14 13:10:26+00:00</p>]]>
     </description>
-    <content:encoded><![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/f9a53a3779a12b5abb8a254ec9384c2af7fae4b4/hovercard" href="https://github.com/infiniflow/ragflow/commit/f9a53a3779a12b5abb8a254ec9384c2af7fae4b4"><tt>f9a53a3</tt></a> at 2026-11-13 13:14:07+00:00</p>]]></content:encoded>
+    <content:encoded><![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/f9a53a3779a12b5abb8a254ec9384c2af7fae4b4/hovercard" href="https://github.com/infiniflow/ragflow/commit/f9a53a3779a12b5abb8a254ec9384c2af7fae4b4"><tt>f9a53a3</tt></a> at 2026-11-14 13:10:26+00:00</p>]]></content:encoded>
     
-    <pubDate>2026-11-13T13:14:12.000Z</pubDate>
+    <pubDate>2026-11-14T13:10:30.000Z</pubDate>
   </item><item>
     <title><![CDATA[NATS 拉取容量測試改為鎖定第一優先級通道]]></title>
     <link>https://github.com/infiniflow/ragflow/releases/tag/dev-20261113</link>
