@@ -3,7 +3,7 @@
     <title><![CDATA[RagFlow Release [GH][RSS+]]]></title>
     <link>https://github.com/infiniflow/ragflow/releases.atom</link>
     <image>
-      <url>https://fastly.picsum.photos/id/482/800/800.jpg?hmac=EywA3rn1A6RTsI-4kz4OW1Q9g038RYeDvvsZ5LICSrg</url>
+      <url>https://fastly.picsum.photos/id/584/800/800.jpg?hmac=Fa_n9rvbJZN0IJrpWzCPxDNpolldLcKraoNgtrpjMeY</url>
       <title>RagFlow Release [GH][RSS+]</title>
       <link>https://github.com/infiniflow/ragflow/releases.atom</link>
     </image>
@@ -28,8 +28,22 @@
     <itunes:owner>
       <itunes:name><![CDATA[RagFlow Release [GH][RSS+]]]></itunes:name>
     </itunes:owner>
-    <itunes:image href="https://fastly.picsum.photos/id/482/800/800.jpg?hmac=EywA3rn1A6RTsI-4kz4OW1Q9g038RYeDvvsZ5LICSrg"/>
+    <itunes:image href="https://fastly.picsum.photos/id/584/800/800.jpg?hmac=Fa_n9rvbJZN0IJrpWzCPxDNpolldLcKraoNgtrpjMeY"/>
 <item>
+    <title><![CDATA[{"error":"Content not found or expired."}]]></title>
+    <link>https://github.com/infiniflow/ragflow/releases/tag/nightly</link>
+    <itunes:title><![CDATA[{"error":"Content not found or expired."}]]></itunes:title>
+    <itunes:author><![CDATA[yuzhichang]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/cbffd01860ba441acb2c2d5c472c64f4a8a118d4/hovercard" href="https://github.com/infiniflow/ragflow/commit/cbffd01860ba441acb2c2d5c472c64f4a8a118d4"><tt>cbffd01</tt></a> at 2026-11-17 13:14:59+00:00</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/cbffd01860ba441acb2c2d5c472c64f4a8a118d4/hovercard" href="https://github.com/infiniflow/ragflow/commit/cbffd01860ba441acb2c2d5c472c64f4a8a118d4"><tt>cbffd01</tt></a> at 2026-11-17 13:14:59+00:00</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/cbffd01860ba441acb2c2d5c472c64f4a8a118d4/hovercard" href="https://github.com/infiniflow/ragflow/commit/cbffd01860ba441acb2c2d5c472c64f4a8a118d4"><tt>cbffd01</tt></a> at 2026-11-17 13:14:59+00:00</p>]]></content:encoded>
+    
+    <pubDate>2026-11-17T13:15:06.000Z</pubDate>
+  </item><item>
     <title><![CDATA[修復變更檔案分片啟用與停用狀態後的相關問題]]></title>
     <link>https://github.com/infiniflow/ragflow/releases/tag/dev-20261117</link>
     <itunes:title><![CDATA[修復變更檔案分片啟用與停用狀態後的相關問題]]></itunes:title>
@@ -44,6 +58,20 @@
     
     <pubDate>2026-11-17T02:15:35.000Z</pubDate>
   </item><item>
+    <title><![CDATA[Agent 新增 Ollama 供應商的「Decide」決策模型]]></title>
+    <link>https://github.com/infiniflow/ragflow/releases/tag/dev-20261117-3</link>
+    <itunes:title><![CDATA[Agent 新增 Ollama 供應商的「Decide」決策模型]]></itunes:title>
+    <itunes:author><![CDATA[acalderon-phifer]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>feat(agent): Implement decision model "Decide" on Ollama provider (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2039203660" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/2" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/2/hovercard" href="https://github.com/infiniflow/ragflow/pull/2">#2</a>…</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>feat(agent): Implement decision model "Decide" on Ollama provider (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2039203660" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/2" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/2/hovercard" href="https://github.com/infiniflow/ragflow/pull/2">#2</a>…</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>feat(agent): Implement decision model "Decide" on Ollama provider (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2039203660" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/2" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/2/hovercard" href="https://github.com/infiniflow/ragflow/pull/2">#2</a>…</p>]]></content:encoded>
+    
+    <pubDate>2026-11-17T09:24:37.000Z</pubDate>
+  </item><item>
     <title><![CDATA[重構使用者模組：共用級聯帳戶清理機制]]></title>
     <link>https://github.com/infiniflow/ragflow/releases/tag/dev-20261117-1</link>
     <itunes:title><![CDATA[重構使用者模組：共用級聯帳戶清理機制]]></itunes:title>
@@ -57,20 +85,6 @@
     <content:encoded><![CDATA[<p>refactor(user): share cascading account cleanup (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6436474345" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/22434" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/22434/hovercard" href="https://github.com/infiniflow/ragflow/pull/22434">#22434</a>)</p>]]></content:encoded>
     
     <pubDate>2026-11-17T03:38:22.000Z</pubDate>
-  </item><item>
-    <title><![CDATA[Nightly 版本發布：基於 Commit 5f6d04c 於 2026-11-16 釋出]]></title>
-    <link>https://github.com/infiniflow/ragflow/releases/tag/nightly</link>
-    <itunes:title><![CDATA[Nightly 版本發布：基於 Commit 5f6d04c 於 2026-11-16 釋出]]></itunes:title>
-    <itunes:author><![CDATA[yuzhichang]]></itunes:author>
-    <itunes:summary>
-      <![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/5f6d04c8decdffbec0d935a1c51568a35c27daef/hovercard" href="https://github.com/infiniflow/ragflow/commit/5f6d04c8decdffbec0d935a1c51568a35c27daef"><tt>5f6d04c</tt></a> at 2026-11-16 13:29:25+00:00</p>]]>
-    </itunes:summary>
-    <description>
-      <![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/5f6d04c8decdffbec0d935a1c51568a35c27daef/hovercard" href="https://github.com/infiniflow/ragflow/commit/5f6d04c8decdffbec0d935a1c51568a35c27daef"><tt>5f6d04c</tt></a> at 2026-11-16 13:29:25+00:00</p>]]>
-    </description>
-    <content:encoded><![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/5f6d04c8decdffbec0d935a1c51568a35c27daef/hovercard" href="https://github.com/infiniflow/ragflow/commit/5f6d04c8decdffbec0d935a1c51568a35c27daef"><tt>5f6d04c</tt></a> at 2026-11-16 13:29:25+00:00</p>]]></content:encoded>
-    
-    <pubDate>2026-11-16T13:29:30.000Z</pubDate>
   </item><item>
     <title><![CDATA[{"error":"Content not found or expired."}]]></title>
     <link>https://github.com/infiniflow/ragflow/releases/tag/dev-20261116</link>
