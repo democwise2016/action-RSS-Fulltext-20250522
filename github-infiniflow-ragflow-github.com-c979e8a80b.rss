@@ -3,7 +3,7 @@
     <title><![CDATA[RagFlow Release [GH][RSS+]]]></title>
     <link>https://github.com/infiniflow/ragflow/releases.atom</link>
     <image>
-      <url>https://fastly.picsum.photos/id/584/800/800.jpg?hmac=Fa_n9rvbJZN0IJrpWzCPxDNpolldLcKraoNgtrpjMeY</url>
+      <url>https://fastly.picsum.photos/id/563/800/800.jpg?hmac=8GDkmyG3ULJRkUqAaLB_p04jhIbTF_e1jAMpqLAM9gs</url>
       <title>RagFlow Release [GH][RSS+]</title>
       <link>https://github.com/infiniflow/ragflow/releases.atom</link>
     </image>
@@ -28,8 +28,22 @@
     <itunes:owner>
       <itunes:name><![CDATA[RagFlow Release [GH][RSS+]]]></itunes:name>
     </itunes:owner>
-    <itunes:image href="https://fastly.picsum.photos/id/584/800/800.jpg?hmac=Fa_n9rvbJZN0IJrpWzCPxDNpolldLcKraoNgtrpjMeY"/>
+    <itunes:image href="https://fastly.picsum.photos/id/563/800/800.jpg?hmac=8GDkmyG3ULJRkUqAaLB_p04jhIbTF_e1jAMpqLAM9gs"/>
 <item>
+    <title><![CDATA[{"error":"Content not found or expired."}]]></title>
+    <link>https://github.com/infiniflow/ragflow/releases/tag/dev-20261118</link>
+    <itunes:title><![CDATA[{"error":"Content not found or expired."}]]></itunes:title>
+    <itunes:author><![CDATA[6ba3i]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>feat(channels): support an optional standalone chatter process (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6420595479" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/22417" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/22417/hovercard" href="https://github.com/infiniflow/ragflow/pull/22417">#22417</a>)</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>feat(channels): support an optional standalone chatter process (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6420595479" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/22417" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/22417/hovercard" href="https://github.com/infiniflow/ragflow/pull/22417">#22417</a>)</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>feat(channels): support an optional standalone chatter process (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6420595479" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/22417" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/22417/hovercard" href="https://github.com/infiniflow/ragflow/pull/22417">#22417</a>)</p>]]></content:encoded>
+    
+    <pubDate>2026-11-18T03:03:25.000Z</pubDate>
+  </item><item>
     <title><![CDATA[{"error":"Content not found or expired."}]]></title>
     <link>https://github.com/infiniflow/ragflow/releases/tag/nightly</link>
     <itunes:title><![CDATA[{"error":"Content not found or expired."}]]></itunes:title>
@@ -155,19 +169,5 @@
     <content:encoded><![CDATA[<p>build(deps): bump minimatch in /web (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6367514983" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/22334" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/22334/hovercard" href="https://github.com/infiniflow/ragflow/pull/22334">#22334</a>)</p>]]></content:encoded>
     
     <pubDate>2026-11-13T08:53:16.000Z</pubDate>
-  </item><item>
-    <title><![CDATA[重構：將 OSS 無操作覆蓋層移至 ee-stub]]></title>
-    <link>https://github.com/infiniflow/ragflow/releases/tag/dev-20261113-2</link>
-    <itunes:title><![CDATA[重構：將 OSS 無操作覆蓋層移至 ee-stub]]></itunes:title>
-    <itunes:author><![CDATA[dcc123456]]></itunes:author>
-    <itunes:summary>
-      <![CDATA[<p>refactor(web): move OSS no-op overlays to ee-stub (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6365427897" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/22321" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/22321/hovercard" href="https://github.com/infiniflow/ragflow/pull/22321">#22321</a>)</p>]]>
-    </itunes:summary>
-    <description>
-      <![CDATA[<p>refactor(web): move OSS no-op overlays to ee-stub (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6365427897" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/22321" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/22321/hovercard" href="https://github.com/infiniflow/ragflow/pull/22321">#22321</a>)</p>]]>
-    </description>
-    <content:encoded><![CDATA[<p>refactor(web): move OSS no-op overlays to ee-stub (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6365427897" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/22321" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/22321/hovercard" href="https://github.com/infiniflow/ragflow/pull/22321">#22321</a>)</p>]]></content:encoded>
-    
-    <pubDate>2026-11-13T05:45:25.000Z</pubDate>
   </item></channel>
 </rss>
