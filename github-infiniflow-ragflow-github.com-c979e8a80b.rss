@@ -1,0 +1,176 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
+  <channel>
+    <title><![CDATA[RagFlow Release [GH][RSS+]]]></title>
+    <link>https://github.com/infiniflow/ragflow/releases.atom</link>
+    <image>
+      <url>https://fastly.picsum.photos/id/1027/800/800.jpg?hmac=V7t4KUOpbUk_jnNrIBIbFpF4w7IRk0FA50vU9mFvcfQ</url>
+      <title>RagFlow Release [GH][RSS+]</title>
+      <link>https://github.com/infiniflow/ragflow/releases.atom</link>
+    </image>
+    <language>en-us</language>
+    <atom:link href="https://github.com/infiniflow/ragflow/releases.atom" rel="self" type="application/rss+xml"/>
+    <copyright><![CDATA[RagFlow Release [GH][RSS+]]]></copyright>
+    <itunes:author><![CDATA[RagFlow Release [GH][RSS+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[
+      <a href="https://github.com/infiniflow/ragflow/releases" target="_blank">https://github.com/infiniflow/ragflow/releases</a><br />
+<br />
+<a href="https://github.com/infiniflow/ragflow/releases.atom" target="_blank">https://github.com/infiniflow/ragflow/releases.atom</a>
+      ]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[
+      <a href="https://github.com/infiniflow/ragflow/releases" target="_blank">https://github.com/infiniflow/ragflow/releases</a><br />
+<br />
+<a href="https://github.com/infiniflow/ragflow/releases.atom" target="_blank">https://github.com/infiniflow/ragflow/releases.atom</a>
+      ]]>
+    </description>
+    <itunes:owner>
+      <itunes:name><![CDATA[RagFlow Release [GH][RSS+]]]></itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://fastly.picsum.photos/id/1027/800/800.jpg?hmac=V7t4KUOpbUk_jnNrIBIbFpF4w7IRk0FA50vU9mFvcfQ"/>
+<item>
+    <title><![CDATA[dev-20261124新功能：強制執行角色整合存取權限 (#22682)]]></title>
+    <link>https://github.com/infiniflow/ragflow/releases/tag/dev-20261124</link>
+    <itunes:title><![CDATA[dev-20261124新功能：強制執行角色整合存取權限 (#22682)]]></itunes:title>
+    <itunes:author><![CDATA[buua436]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>feat: enforce role integration access (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6555871835" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/22682" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/22682/hovercard" href="https://github.com/infiniflow/ragflow/pull/22682">#22682</a>)</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>feat: enforce role integration access (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6555871835" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/22682" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/22682/hovercard" href="https://github.com/infiniflow/ragflow/pull/22682">#22682</a>)</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>feat: enforce role integration access (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6555871835" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/22682" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/22682/hovercard" href="https://github.com/infiniflow/ragflow/pull/22682">#22682</a>)</p>]]></content:encoded>
+    
+    <pubDate>2026-11-24T02:44:49.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[改用 deployment-type（#22719）]]></title>
+    <link>https://github.com/infiniflow/ragflow/releases/tag/dev-20261124-2</link>
+    <itunes:title><![CDATA[改用 deployment-type（#22719）]]></itunes:title>
+    <itunes:author><![CDATA[wangq8]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>Use deployment-type (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6575623464" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/22719" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/22719/hovercard" href="https://github.com/infiniflow/ragflow/pull/22719">#22719</a>)</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>Use deployment-type (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6575623464" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/22719" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/22719/hovercard" href="https://github.com/infiniflow/ragflow/pull/22719">#22719</a>)</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>Use deployment-type (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6575623464" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/22719" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/22719/hovercard" href="https://github.com/infiniflow/ragflow/pull/22719">#22719</a>)</p>]]></content:encoded>
+    
+    <pubDate>2026-11-24T06:05:36.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[Nightly 版本發布：基於 da4a155 於 2026-11-23 正式建立]]></title>
+    <link>https://github.com/infiniflow/ragflow/releases/tag/nightly</link>
+    <itunes:title><![CDATA[Nightly 版本發布：基於 da4a155 於 2026-11-23 正式建立]]></itunes:title>
+    <itunes:author><![CDATA[yuzhichang]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/da4a1556a33b345d0233c2fd4888424cebf9ccfd/hovercard" href="https://github.com/infiniflow/ragflow/commit/da4a1556a33b345d0233c2fd4888424cebf9ccfd"><tt>da4a155</tt></a> at 2026-11-23 13:15:13+00:00</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/da4a1556a33b345d0233c2fd4888424cebf9ccfd/hovercard" href="https://github.com/infiniflow/ragflow/commit/da4a1556a33b345d0233c2fd4888424cebf9ccfd"><tt>da4a155</tt></a> at 2026-11-23 13:15:13+00:00</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>Release nightly created from <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/da4a1556a33b345d0233c2fd4888424cebf9ccfd/hovercard" href="https://github.com/infiniflow/ragflow/commit/da4a1556a33b345d0233c2fd4888424cebf9ccfd"><tt>da4a155</tt></a> at 2026-11-23 13:15:13+00:00</p>]]></content:encoded>
+    
+    <pubDate>2026-11-23T13:15:17.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[服務修復：將引擎安裝測試範圍限定於每次建置]]></title>
+    <link>https://github.com/infiniflow/ragflow/releases/tag/dev-20261123-5</link>
+    <itunes:title><![CDATA[服務修復：將引擎安裝測試範圍限定於每次建置]]></itunes:title>
+    <itunes:author><![CDATA[yuzhichang]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>fix(service): scope the engine-installed test per build, drop the ite…</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>fix(service): scope the engine-installed test per build, drop the ite…</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>fix(service): scope the engine-installed test per build, drop the ite…</p>]]></content:encoded>
+    
+    <pubDate>2026-11-23T12:48:51.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[Chat 功能新增分級多步驟推理機制 (#22657)]]></title>
+    <link>https://github.com/infiniflow/ragflow/releases/tag/dev-20261123-4</link>
+    <itunes:title><![CDATA[Chat 功能新增分級多步驟推理機制 (#22657)]]></itunes:title>
+    <itunes:author><![CDATA[yuzhichang]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>feat: graded multi-step reasoning for chat (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6552009090" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/22657" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/22657/hovercard" href="https://github.com/infiniflow/ragflow/pull/22657">#22657</a>)</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>feat: graded multi-step reasoning for chat (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6552009090" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/22657" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/22657/hovercard" href="https://github.com/infiniflow/ragflow/pull/22657">#22657</a>)</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>feat: graded multi-step reasoning for chat (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6552009090" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/22657" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/22657/hovercard" href="https://github.com/infiniflow/ragflow/pull/22657">#22657</a>)</p>]]></content:encoded>
+    
+    <pubDate>2026-11-23T11:24:10.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[ee_sync 修復：移除重新解析後不再產生的區塊]]></title>
+    <link>https://github.com/infiniflow/ragflow/releases/tag/dev-20261123-3</link>
+    <itunes:title><![CDATA[ee_sync 修復：移除重新解析後不再產生的區塊]]></itunes:title>
+    <itunes:author><![CDATA[qinling0210]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<h3>Summary</h3>
+<p>ee_sync</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<h3>Summary</h3>
+<p>ee_sync</p>]]>
+    </description>
+    <content:encoded><![CDATA[<h3>Summary</h3>
+<p>ee_sync</p>]]></content:encoded>
+    
+    <pubDate>2026-11-23T10:27:24.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[Channels 新增透過 REST 執行聊天與代理功能]]></title>
+    <link>https://github.com/infiniflow/ragflow/releases/tag/dev-20261123-2</link>
+    <itunes:title><![CDATA[Channels 新增透過 REST 執行聊天與代理功能]]></itunes:title>
+    <itunes:author><![CDATA[6ba3i]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>feat(channels): execute chats and agents through REST (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6505554995" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/22573" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/22573/hovercard" href="https://github.com/infiniflow/ragflow/pull/22573">#22573</a>)</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>feat(channels): execute chats and agents through REST (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6505554995" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/22573" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/22573/hovercard" href="https://github.com/infiniflow/ragflow/pull/22573">#22573</a>)</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>feat(channels): execute chats and agents through REST (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6505554995" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/22573" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/22573/hovercard" href="https://github.com/infiniflow/ragflow/pull/22573">#22573</a>)</p>]]></content:encoded>
+    
+    <pubDate>2026-11-23T08:38:16.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[entrypoint.sh 改進為可接受參數]]></title>
+    <link>https://github.com/infiniflow/ragflow/releases/tag/dev-20261123-1</link>
+    <itunes:title><![CDATA[entrypoint.sh 改進為可接受參數]]></itunes:title>
+    <itunes:author><![CDATA[wangq8]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>Refine entrypoint.sh to accept parameters (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6551107998" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/22653" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/22653/hovercard" href="https://github.com/infiniflow/ragflow/pull/22653">#22653</a>)</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>Refine entrypoint.sh to accept parameters (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6551107998" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/22653" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/22653/hovercard" href="https://github.com/infiniflow/ragflow/pull/22653">#22653</a>)</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>Refine entrypoint.sh to accept parameters (<a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6551107998" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/22653" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/22653/hovercard" href="https://github.com/infiniflow/ragflow/pull/22653">#22653</a>)</p>]]></content:encoded>
+    
+    <pubDate>2026-11-23T02:44:45.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[dev-20261123 重構 CLI：改採單一指令模式 (#22633)]]></title>
+    <link>https://github.com/infiniflow/ragflow/releases/tag/dev-20261123</link>
+    <itunes:title><![CDATA[dev-20261123 重構 CLI：改採單一指令模式 (#22633)]]></itunes:title>
+    <itunes:author><![CDATA[JinHai-CN]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>Signed-off-by: Jin Hai <a href="mailto:haijin.chn@gmail.com">haijin.chn@gmail.com</a></p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>Signed-off-by: Jin Hai <a href="mailto:haijin.chn@gmail.com">haijin.chn@gmail.com</a></p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>Signed-off-by: Jin Hai <a href="mailto:haijin.chn@gmail.com">haijin.chn@gmail.com</a></p>]]></content:encoded>
+    
+    <pubDate>2026-11-22T15:25:28.000Z</pubDate>
+  </item><item>
+    <title><![CDATA[Web端修復：轉發POST請求responseType以支援Blob回應]]></title>
+    <link>https://github.com/infiniflow/ragflow/releases/tag/dev-20261120</link>
+    <itunes:title><![CDATA[Web端修復：轉發POST請求responseType以支援Blob回應]]></itunes:title>
+    <itunes:author><![CDATA[QAQadws]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[<p>fix(web): forward responseType for POST requests so blob responses wo…</p>]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[<p>fix(web): forward responseType for POST requests so blob responses wo…</p>]]>
+    </description>
+    <content:encoded><![CDATA[<p>fix(web): forward responseType for POST requests so blob responses wo…</p>]]></content:encoded>
+    
+    <pubDate>2026-11-20T01:45:29.000Z</pubDate>
+  </item></channel>
+</rss>
