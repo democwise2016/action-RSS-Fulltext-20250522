@@ -3,7 +3,7 @@
     <title><![CDATA[cline Release [GH][RSS+]]]></title>
     <link>https://github.com/cline/cline/releases.atom</link>
     <image>
-      <url>https://fastly.picsum.photos/id/901/800/800.jpg?hmac=PtFy0YtCORVlHsAff3t_lTqvgW8QnJhsurqKZqt8PG0</url>
+      <url>https://fastly.picsum.photos/id/294/800/800.jpg?hmac=Geab2r0P7LFHaiardyBLu2dFv0NOUuGDno1jQKBw9Xc</url>
       <title>cline Release [GH][RSS+]</title>
       <link>https://github.com/cline/cline/releases.atom</link>
     </image>
@@ -28,7 +28,7 @@
     <itunes:owner>
       <itunes:name><![CDATA[cline Release [GH][RSS+]]]></itunes:name>
     </itunes:owner>
-    <itunes:image href="https://fastly.picsum.photos/id/901/800/800.jpg?hmac=PtFy0YtCORVlHsAff3t_lTqvgW8QnJhsurqKZqt8PG0"/>
+    <itunes:image href="https://fastly.picsum.photos/id/294/800/800.jpg?hmac=Geab2r0P7LFHaiardyBLu2dFv0NOUuGDno1jQKBw9Xc"/>
 <item>
     <title><![CDATA[Cline v4.1.27 更新：新增模型與隱私功能，改善推理設定、工具呼叫及安全性]]></title>
     <link>https://github.com/cline/cline/releases/tag/v4.1.27</link>
